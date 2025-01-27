@@ -11,7 +11,7 @@ const IndexPage: React.FC<RecipeQueryProps> = ({
 }) => {
   const [search, setSearch] = React.useState('');
 
-  const recipes = edges.map(edge => edge.node);
+  const recipes = edges.map(edge => edge.node).sort((a, b) => ((a.slug > b.slug) ? 1 : -1));
 
   const recipesFiltered = React.useMemo(
     () => {
