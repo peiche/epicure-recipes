@@ -32,7 +32,7 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
     return (
         <Layout>
 
-            <Breadcrumbs>
+            <Breadcrumbs className="hide-print">
                 <Link underline='hover' color='inherit' component={GatsbyLink} to='/'>Recipes</Link>
                 <Typography sx={{ color: 'text.primary' }}>{name}</Typography>
             </Breadcrumbs>
@@ -40,7 +40,7 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
             <Typography component='h1' variant='h4' sx={{ my: 1 }}>{name}</Typography>
 
             {tags?.length > 0 && (
-                <Box my={1}>
+                <Box my={1} className='hide-print'>
                     {tags.map((tag, index) => (
                         <Chip
                             key={index}
@@ -90,7 +90,7 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                         xs: 12,
                         md: 6,
                     }}>
-                        <Typography component='h2' variant='h5' mt={3} mb={1}>Ingredients</Typography>
+                        <Typography component='h2' variant='h5' mb={1}>Ingredients</Typography>
                         <List disablePadding>
                             {ingredients.map((ingredient, index) => (
                                 <ListItem key={index} disablePadding sx={{ display: 'list-item' }}>
@@ -109,7 +109,7 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                         xs: 12,
                         md: 6,
                     }}>
-                        <Typography component='h2' variant="h5" mt={3} mb={1}>Preparation</Typography>
+                        <Typography component='h2' variant="h5" mb={1}>Preparation</Typography>
                         <List disablePadding component='ol' sx={{
                             listStyle: 'auto',
                             marginLeft: 3,
