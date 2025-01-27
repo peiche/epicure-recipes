@@ -1,7 +1,7 @@
 import React from "react"
 import { Container, CssBaseline, ThemeProvider } from "@mui/material";
-import theme from "../themes/Theme";
 import Footer from "./footer";
+import theme from "../themes/theme";
 
 interface LayoutProps {
     children: React.ReactNode;
