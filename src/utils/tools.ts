@@ -1,5 +1,5 @@
 export function stripHtmlTags(str: string) {
-    return str.replace(/<[^>]*>/g, '').replaceAll('&nbsp;', '').trim();
+    return str.replace(/<[^>]*>/g, '').replaceAll('&nbsp;', '').replaceAll('&amp;', '&').trim();
 }
 
 export function splitParagraphs(str: string) {

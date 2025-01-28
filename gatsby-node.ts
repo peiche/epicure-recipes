@@ -1,5 +1,6 @@
 import { GatsbyNode, graphql } from "gatsby";
 import path from "path";
+import { RecipeNodeProps } from "./src/interfaces/RecipeNodeProps";
 
 export const createPages: GatsbyNode['createPages'] = async ({
     graphql,

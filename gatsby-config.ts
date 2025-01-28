@@ -13,7 +13,15 @@ const config: GatsbyConfig = {
         path: `./src/data/`,
       },
     },
-    `gatsby-plugin-sass`,
+    {
+      resolve: `gatsby-plugin-sass`,
+      options: {
+        sassOptions: {
+          api: 'modern',
+          silenceDeprecations: ['legacy-js-api'],
+        },
+      },
+    },
   ],
 }
 

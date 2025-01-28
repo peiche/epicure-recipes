@@ -1,7 +1,9 @@
-interface RecipeQueryProps {
+import { RecipeJson } from "./RecipeJson";
+
+export interface RecipeQueryProps {
     data: {
         allDataJson: {
-            edges: Array<{ node: RecipeJson }>;
+            nodes: Array<RecipeJson>;
         };
     };
 }

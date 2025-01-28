@@ -1,4 +1,4 @@
-interface RecipeJson {
+export interface RecipeJson {
     id: string;
     name: string;
     slug: string;
@@ -9,6 +9,7 @@ interface RecipeJson {
     preparation: string;
     tags: Tag[];
     tips: string;
+    perfectlyBalanceYourPlate: string,
     nutritionalInformation: NutritionalInformation,
 }
 

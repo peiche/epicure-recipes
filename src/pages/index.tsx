@@ -1,75 +1,50 @@
 import * as React from "react"
-import { graphql, HeadFC, Link } from "gatsby";
+import { graphql, HeadFC, Link as GatsbyLink, navigate } from "gatsby";
 import Layout from "../components/layout";
-import { Autocomplete, IconButton, InputAdornment, List, ListItem, ListItemText, TextField, Typography } from "@mui/material";
-import { Close } from "@mui/icons-material";
+import { Autocomplete, Link, List, ListItem, ListItemText, TextField, Typography } from "@mui/material";
+import { RecipeQueryProps } from "../interfaces/RecipeQueryProps";
+import { AutocompleteOption } from "../interfaces/AutocompleteOption";
 
 const IndexPage: React.FC<RecipeQueryProps> = ({
   data: {
-    allDataJson: { edges },
+    allDataJson: { nodes },
   },
 }) => {
-  const [search, setSearch] = React.useState('');
+  const recipes = nodes.sort((a, b) => ((a.slug > b.slug) ? 1 : -1));
 
-  const recipes = edges.map(edge => edge.node).sort((a, b) => ((a.slug > b.slug) ? 1 : -1));
+  const searchOptions: Array<AutocompleteOption> = recipes.map(recipe => {
+    return {
+      label: recipe.name,
+      path: `/recipe/${recipe.slug}`,
+    };
+  });
 
-  const recipesFiltered = React.useMemo(
-    () => {
-      if (search.length > 0) {
-        const keyword = search.toLocaleLowerCase();
-        return recipes.filter(recipe => {
-          return recipe.name.toLocaleLowerCase().includes(keyword);
-        });
-      } else {
-        return recipes;
-      }
-    },
-    [search]
-  );
-
-  const handleSearchChange = (event: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
-    setSearch(event.target.value);
-  };
-
-  const clearSearch = () => {
-    setSearch('');
+  const handleAutocompleteChange = (event: React.SyntheticEvent<Element, Event>, value: string | AutocompleteOption | null) => {
+    if (value && typeof value === 'object') {
+      navigate(value?.path);
+    }
   };
 
   return (
     <Layout>
       <Typography component='h1' variant='h4'>Recipes</Typography>
 
-      <TextField
-        value={search}
-        onChange={handleSearchChange}
-        size='small'
-        label='Search'
-        fullWidth
+      <Autocomplete
+        options={searchOptions}
+        renderInput={(params) => <TextField {...params} label='Search recipes' size='small' />}
+        freeSolo
+        openOnFocus={false}
+        selectOnFocus={false}
+        onChange={handleAutocompleteChange}
         sx={{ my: 2 }}
-        autoComplete="off"
-        slotProps={{
-          input: {
-            endAdornment: (
-              <InputAdornment position="end">
-                {search.length > 0 && (
-                  <IconButton
-                    aria-label='clear search'
-                    onClick={clearSearch}
-                    edge='end'
-                  >
-                    <Close />
-                  </IconButton>
-                )}
-              </InputAdornment>
-            )
-          }
-        }}
       />
 
       <List disablePadding>
-        {recipesFiltered.map((recipe, index) => (
-          <ListItem key={index} component={Link} to={`/recipe/${recipe.slug}`} disablePadding>
-            <ListItemText>{recipe.name}</ListItemText>
+        {recipes.map((recipe, index) => (
+          <ListItem key={index} disablePadding>
+            <ListItemText>
+              <Link component={GatsbyLink} to={`/recipe/${recipe.slug}`}>{recipe.name}</Link>
+            </ListItemText>
           </ListItem>
         ))}
       </List>
@@ -84,12 +59,10 @@ export const Head: HeadFC = () => <title>Epicure Recipes</title>
 export const query = graphql`
   query {
     allDataJson {
-      edges {
-        node {
-          id
-          name
-          slug
-        }
+      nodes {
+        id
+        name
+        slug
       }
     }
   }

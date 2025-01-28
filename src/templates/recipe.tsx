@@ -3,7 +3,8 @@ import * as React from "react"
 import Layout from "../components/layout";
 import { extractListItems, splitParagraphs, stripHtmlTags } from "../utils/tools";
 import { Alert, Box, Breadcrumbs, Button, Checkbox, Chip, FormControl, FormControlLabel, Grid2 as Grid, Link, List, ListItem, ListItemText, Stack, Typography } from "@mui/material";
-import { AccessTime, Restaurant } from "@mui/icons-material";
+import { AccessTime, AccessTimeOutlined, Print, PrintOutlined, Restaurant, RestaurantOutlined } from "@mui/icons-material";
+import { RecipeJson } from "../interfaces/RecipeJson";
 
 interface RecipeTemplateProps {
     data: {
@@ -23,11 +24,16 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
         preparation,
         tags,
         tips,
+        perfectlyBalanceYourPlate,
         nutritionalInformation,
     } = data.allDataJson.nodes[0];
 
     const preparationArr: string[] = extractListItems(preparation);
     const tipsArr: string[] = splitParagraphs(tips);
+
+    const handlePrintClick = () => {
+        window.print();
+    };
 
     return (
         <Layout>
@@ -58,39 +64,54 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                 </Box>
             )}
 
-            {(totalTime || servings) && (
+            <Box sx={{
+                display: 'flex',
+                justifyContent: 'space-between',
+                alignItems: 'center',
+                marginBottom: 3,
+            }}>
                 <Box sx={{
-                    marginBottom: 3,
                     display: 'flex',
                     gap: 3,
                 }}>
                     {totalTime && (
                         <Typography sx={{ display: 'inline-flex', alignItems: 'center', gap: 1 }}>
-                            <AccessTime />
+                            <AccessTimeOutlined />
                             {totalTime}
                         </Typography>
                     )}
 
                     {servings && (
                         <Typography sx={{ display: 'inline-flex', alignItems: 'center', gap: 1 }}>
-                            <Restaurant />
+                            <RestaurantOutlined />
                             {servings}
                         </Typography>
                     )}
                 </Box>
-            )}
+
+                <Button
+                    variant='contained'
+                    disableElevation
+                    startIcon={<PrintOutlined />}
+                    onClick={handlePrintClick}
+                    className="hide-print"
+                >Print</Button>
+            </Box>
 
             {description && (
-                <Typography mb={1} variant="h6">{stripHtmlTags(description)}</Typography>
+                <Typography mb={1}>{stripHtmlTags(description)}</Typography>
             )}
 
-            <Grid container spacing={3}>
+            <Grid container spacing={{
+                xs: 0,
+                md: 3,
+            }}>
                 {ingredients && ingredients.length > 0 && (
                     <Grid size={{
                         xs: 12,
                         md: 6,
                     }}>
-                        <Typography component='h2' variant='h5' mb={1}>Ingredients</Typography>
+                        <Typography component='h2' variant='h5' mt={3} mb={1}>Ingredients</Typography>
                         <List disablePadding>
                             {ingredients.map((ingredient, index) => (
                                 <ListItem key={index} disablePadding sx={{ display: 'list-item' }}>
@@ -109,7 +130,7 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                         xs: 12,
                         md: 6,
                     }}>
-                        <Typography component='h2' variant="h5" mb={1}>Preparation</Typography>
+                        <Typography component='h2' variant="h5" mt={3} mb={1}>Preparation</Typography>
                         <List disablePadding component='ol' sx={{
                             listStyle: 'auto',
                             marginLeft: 3,
@@ -123,8 +144,6 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                     </Grid>
                 )}
             </Grid>
-
-
 
             {nutritionalInformation && (
                 <>
@@ -149,6 +168,13 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                     {tipsArr.map((tip, index) => (
                         <Typography key={index}>{stripHtmlTags(tip)}</Typography>
                     ))}
+                </>
+            )}
+
+            {perfectlyBalanceYourPlate && (
+                <>
+                    <Typography component='h2' variant="h5" mt={3} mb={1}>Perfectly Balance Your Plate</Typography>
+                    <Typography>{stripHtmlTags(perfectlyBalanceYourPlate)}</Typography>
                 </>
             )}
         </Layout>
@@ -178,6 +204,7 @@ export const query = graphql`
           name
         }
         tips
+        perfectlyBalanceYourPlate
         nutritionalInformation {
         calories
           carbohydrate
