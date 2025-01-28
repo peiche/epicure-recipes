@@ -2,8 +2,8 @@ import { graphql, HeadFC, Link as GatsbyLink } from "gatsby";
 import * as React from "react"
 import Layout from "../components/layout";
 import { extractListItems, splitParagraphs, stripHtmlTags } from "../utils/tools";
-import { Alert, Box, Breadcrumbs, Button, Checkbox, Chip, FormControl, FormControlLabel, Grid2 as Grid, Link, List, ListItem, ListItemText, Stack, Typography } from "@mui/material";
-import { AccessTime, AccessTimeOutlined, Print, PrintOutlined, Restaurant, RestaurantOutlined } from "@mui/icons-material";
+import { Box, Breadcrumbs, Button, Chip, Grid2 as Grid, Link, List, ListItem, ListItemText, Typography } from "@mui/material";
+import { AccessTimeOutlined, PrintOutlined, RestaurantOutlined } from "@mui/icons-material";
 import { RecipeJson } from "../interfaces/RecipeJson";
 
 interface RecipeTemplateProps {

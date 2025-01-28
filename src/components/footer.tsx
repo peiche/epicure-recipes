@@ -1,7 +1,5 @@
 import React from "react"
-import { Box, Container, Divider, IconButton, Link, Typography } from "@mui/material";
-import { Code, Favorite, GitHub } from "@mui/icons-material";
-import { Link as GatsbyLink } from "gatsby";
+import { Box, Container, Divider, Link, Typography } from "@mui/material";
 
 export default function Footer() {
     return (
@@ -12,7 +10,7 @@ export default function Footer() {
                     Written with love by{` `}
                     <Link component='a' href='https://eichefam.net' target="_blank">Paul Eiche</Link>.
                 </Typography>
-                <Typography textAlign='center' sx={{ mb: 1 }}>Recipies from Epicure. Pour one out for them.</Typography>
+                <Typography textAlign='center' sx={{ mb: 1 }}>Recipes from Epicure. Pour one out for them.</Typography>
                 <Typography textAlign='center' sx={{ mb: 1 }}>
                     Built with{` `}
                     <Link component='a' href='https://www.gatsbyjs.com/' target="_blank">Gatsby</Link>{` `}

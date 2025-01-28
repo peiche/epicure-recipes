@@ -1,7 +1,7 @@
-import React, { useState } from "react"
-import { AppBar, Autocomplete, Box, Container, Dialog, DialogContent, DialogTitle, IconButton, TextField, Toolbar, Typography } from "@mui/material";
+import React from "react"
+import { AppBar, Box, Container, IconButton, Toolbar, Typography } from "@mui/material";
 import { Link as GatsbyLink } from "gatsby";
-import { GitHub, Info, InfoOutlined, Search } from "@mui/icons-material";
+import { GitHub } from "@mui/icons-material";
 
 export default function Header() {
     return (
