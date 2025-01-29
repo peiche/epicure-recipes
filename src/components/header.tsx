@@ -5,7 +5,7 @@ import { GitHub } from "@mui/icons-material";
 
 export default function Header() {
     return (
-        <AppBar position="static" variant='outlined' color="default" className="hide-print" sx={{
+        <AppBar position="static" variant='outlined' elevation={0} color="default" sx={{
             borderTop: 0,
             borderLeft: 0,
             borderRight: 0,

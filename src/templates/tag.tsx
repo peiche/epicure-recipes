@@ -2,35 +2,32 @@ import * as React from "react"
 import Layout from "../components/layout";
 import { graphql, HeadFC, Link as GatsbyLink, navigate } from "gatsby";
 import { Autocomplete, Breadcrumbs, Link, List, ListItem, ListItemText, TextField, Typography } from "@mui/material";
-import { TagTemplateProps } from "../interfaces/TagTemplateProps";
 import { AutocompleteOption } from "../interfaces/AutocompleteOption";
+import Wrapper from "../components/wrapper";
+import { Tag } from "../interfaces/Tag";
+import { Recipe } from "../interfaces/Recipe";
+
+interface TagTemplateProps {
+    data: {
+        tagsJson: Tag;
+        allRecipesJson: {
+            nodes: Array<Recipe>;
+        };
+    };
+}
 
 const TagTemplate: React.FC<TagTemplateProps> = ({
     data: {
-        allDataJson: { nodes },
+        tagsJson: { name },
+        allRecipesJson: { nodes: recipes },
     },
-    pageContext,
 }) => {
-    const [tagName, setTagName] = React.useState('');
-    const recipes = nodes.sort((a, b) => ((a.slug > b.slug) ? 1 : -1));
-
     const searchOptions: Array<AutocompleteOption> = recipes.map(recipe => {
         return {
             label: recipe.name,
             path: `/recipe/${recipe.slug}`,
         };
     });
-
-    // until I can find a better way to do this lol
-    React.useEffect(() => {
-        recipes.forEach(recipe => {
-            recipe.tags.forEach(tag => {
-                if (tag.slug === pageContext.tag) {
-                    setTagName(tag.name);
-                }
-            })
-        })
-    }, []);
 
     const handleAutocompleteChange = (event: React.SyntheticEvent<Element, Event>, value: string | AutocompleteOption | null) => {
         if (value && typeof value === 'object') {
@@ -40,37 +37,39 @@ const TagTemplate: React.FC<TagTemplateProps> = ({
 
     return (
         <Layout>
+            <Wrapper>
 
-            <Breadcrumbs>
-                <Link underline='hover' color='inherit' component={GatsbyLink} to='/'>Recipes</Link>
-                <Typography sx={{ color: 'text.primary' }}>Tags</Typography>
-                <Typography sx={{ color: 'text.primary' }}>{tagName}</Typography>
-            </Breadcrumbs>
+                <Breadcrumbs>
+                    <Link underline='hover' color='inherit' component={GatsbyLink} to='/'>Recipes</Link>
+                    <Typography sx={{ color: 'text.primary' }}>Tags</Typography>
+                    <Typography sx={{ color: 'text.primary' }}>{name}</Typography>
+                </Breadcrumbs>
 
-            <Typography component='h1' variant='h4'>
-                Recipes tagged with {tagName}
-            </Typography>
+                <Typography component='h1' variant='h4' mt={1}>
+                    Recipes tagged with {name}
+                </Typography>
 
-            <Autocomplete
-                options={searchOptions}
-                renderInput={(params) => <TextField {...params} label={`Search ${tagName} recipes`} size='small' />}
-                freeSolo
-                openOnFocus={false}
-                selectOnFocus={false}
-                onChange={handleAutocompleteChange}
-                sx={{ my: 2 }}
-            />
+                <Autocomplete
+                    options={searchOptions}
+                    renderInput={(params) => <TextField {...params} label={`Search ${name} recipes`} size='small' />}
+                    freeSolo
+                    openOnFocus={false}
+                    selectOnFocus={false}
+                    onChange={handleAutocompleteChange}
+                    sx={{ my: 2 }}
+                />
 
-            <List disablePadding>
-                {recipes.map((recipe, index) => (
-                    <ListItem key={index} disablePadding>
-                        <ListItemText>
-                            <Link component={GatsbyLink} to={`/recipe/${recipe.slug}`}>{recipe.name}</Link>
-                        </ListItemText>
-                    </ListItem>
-                ))}
-            </List>
+                <List disablePadding>
+                    {recipes.map((recipe, index) => (
+                        <ListItem key={index} disablePadding>
+                            <ListItemText>
+                                <Link component={GatsbyLink} to={`/recipe/${recipe.slug}`}>{recipe.name}</Link>
+                            </ListItemText>
+                        </ListItem>
+                    ))}
+                </List>
 
+            </Wrapper>
         </Layout>
     )
 }
@@ -80,15 +79,17 @@ export default TagTemplate
 export const Head: HeadFC = () => <title>Epicure Recipes</title>
 
 export const query = graphql`
-  query ($tag: String) {
-    allDataJson(filter: {tags: {elemMatch: {slug: {eq: $tag}}}}) {
+  query ($slug: String) {
+    tagsJson(slug: {eq: $slug}) {
+      name
+    }
+    allRecipesJson(
+      filter: {tags: {elemMatch: {slug: {eq: $slug}}}}
+      sort: {slug: ASC}
+    ) {
       nodes {
         name
         slug
-        tags {
-          slug
-          name
-        }
       }
     }
   }

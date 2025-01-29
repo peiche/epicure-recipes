@@ -1,11 +1,14 @@
-import { RecipeJson } from "./RecipeJson";
+import { Recipe } from "./Recipe";
+import { Tag } from "./Tag";
 
 export interface RecipeNodeProps {
     errors?: any;
     data?: {
-        allDataJson: {
-            edges: Array<{ node: RecipeJson }>;
-            distinct: Array<string>;
+        allRecipesJson: {
+            edges: Array<{ node: Recipe }>;
         };
+        allTagsJson: {
+            edges: Array<{ node: Tag }>;
+        }
     };
 }

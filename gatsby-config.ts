@@ -1,4 +1,5 @@
 import type { GatsbyConfig } from "gatsby"
+import path from "path"
 
 const config: GatsbyConfig = {
   siteMetadata: {
@@ -6,20 +7,35 @@ const config: GatsbyConfig = {
   },
   graphqlTypegen: true,
   plugins: [
+    // {
+    //   resolve: `gatsby-source-filesystem`,
+    //   options: {
+    //     path: `./src/data/`,
+    //   },
+    // },
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `images`,
+        path: path.join(__dirname, `src/data`, `images`),
+      },
+    },
     `gatsby-transformer-json`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `./src/data/`,
+        name: `recipes`,
+        path: path.join(__dirname, `src/data`, `recipes`),
       },
     },
     {
-      resolve: `gatsby-plugin-sass`,
+      resolve: `gatsby-source-filesystem`,
       options: {
-        sassOptions: {
-          api: 'modern',
-          silenceDeprecations: ['legacy-js-api'],
-        },
+        name: `tags`,
+        path: path.join(__dirname, `src/data`, `tags`),
       },
     },
   ],

@@ -3,7 +3,7 @@ import { Box, Container, Divider, Link, Typography } from "@mui/material";
 
 export default function Footer() {
     return (
-        <Box component='footer' className="hide-print" sx={{ py: 5}}>
+        <Box component='footer' sx={{ py: 5}}>
             <Container maxWidth='md'>
                 <Divider sx={{ mb: 5 }} />
                 <Typography textAlign='center' sx={{ mb: 1 }}>

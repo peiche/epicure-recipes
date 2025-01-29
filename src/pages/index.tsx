@@ -2,16 +2,23 @@ import * as React from "react"
 import { graphql, HeadFC, Link as GatsbyLink, navigate } from "gatsby";
 import Layout from "../components/layout";
 import { Autocomplete, Link, List, ListItem, ListItemText, TextField, Typography } from "@mui/material";
-import { RecipeQueryProps } from "../interfaces/RecipeQueryProps";
 import { AutocompleteOption } from "../interfaces/AutocompleteOption";
+import Wrapper from "../components/wrapper";
+import { Recipe } from "../interfaces/Recipe";
 
-const IndexPage: React.FC<RecipeQueryProps> = ({
+interface IndexPageProps {
   data: {
-    allDataJson: { nodes },
+    allRecipesJson: {
+      nodes: Array<Recipe>;
+    };
+  };
+}
+
+const IndexPage: React.FC<IndexPageProps> = ({
+  data: {
+    allRecipesJson: { nodes: recipes },
   },
 }) => {
-  const recipes = nodes.sort((a, b) => ((a.slug > b.slug) ? 1 : -1));
-
   const searchOptions: Array<AutocompleteOption> = recipes.map(recipe => {
     return {
       label: recipe.name,
@@ -27,27 +34,29 @@ const IndexPage: React.FC<RecipeQueryProps> = ({
 
   return (
     <Layout>
-      <Typography component='h1' variant='h4'>Recipes</Typography>
+      <Wrapper>
+        <Typography component='h1' variant='h4'>Recipes</Typography>
 
-      <Autocomplete
-        options={searchOptions}
-        renderInput={(params) => <TextField {...params} label='Search recipes' size='small' />}
-        freeSolo
-        openOnFocus={false}
-        selectOnFocus={false}
-        onChange={handleAutocompleteChange}
-        sx={{ my: 2 }}
-      />
+        <Autocomplete
+          options={searchOptions}
+          renderInput={(params) => <TextField {...params} label='Search recipes' size='small' />}
+          freeSolo
+          openOnFocus={false}
+          selectOnFocus={false}
+          onChange={handleAutocompleteChange}
+          sx={{ my: 2 }}
+        />
 
-      <List disablePadding>
-        {recipes.map((recipe, index) => (
-          <ListItem key={index} disablePadding>
-            <ListItemText>
-              <Link component={GatsbyLink} to={`/recipe/${recipe.slug}`}>{recipe.name}</Link>
-            </ListItemText>
-          </ListItem>
-        ))}
-      </List>
+        <List disablePadding>
+          {recipes.map((recipe, index) => (
+            <ListItem key={index} disablePadding>
+              <ListItemText>
+                <Link component={GatsbyLink} to={`/recipe/${recipe.slug}`}>{recipe.name}</Link>
+              </ListItemText>
+            </ListItem>
+          ))}
+        </List>
+      </Wrapper>
     </Layout>
   )
 }
@@ -58,9 +67,10 @@ export const Head: HeadFC = () => <title>Epicure Recipes</title>
 
 export const query = graphql`
   query {
-    allDataJson {
+    allRecipesJson(
+      sort: {slug: ASC}
+    ) {
       nodes {
-        id
         name
         slug
       }

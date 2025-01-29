@@ -12,13 +12,19 @@ export const createPages: GatsbyNode['createPages'] = async ({
     const result: RecipeNodeProps = await graphql(
         `
             query {
-                allDataJson {
+                allRecipesJson {
                     edges {
                         node {
                             slug
                         }
                     }
-                    distinct(field: {tags: {slug: SELECT}})
+                }
+                allTagsJson {
+                    edges {
+                        node {
+                            slug
+                        }
+                    }
                 }
             }
         `
@@ -28,8 +34,7 @@ export const createPages: GatsbyNode['createPages'] = async ({
         reporter.panicOnBuild(`Error while running GraphQL query.`);
     }
 
-    const recipeTemplate = path.resolve(`src/templates/recipe.tsx`);
-    result.data?.allDataJson.edges.forEach(({ node }) => {
+    result.data?.allRecipesJson.edges.forEach(({ node }) => {
         const { slug } = node;
         if (!slug) {
             return;
@@ -37,21 +42,66 @@ export const createPages: GatsbyNode['createPages'] = async ({
 
         createPage({
             path: `recipe/${slug}`,
-            component: recipeTemplate,
+            component: path.resolve(`src/templates/recipe.tsx`),
+            context: {
+                slug,
+            },
+        });
+
+        createPage({
+            path: `recipe/${slug}/print`,
+            component: path.resolve(`src/templates/recipe-print.tsx`),
             context: {
                 slug,
             },
         });
     });
 
-    const tagTemplate = path.resolve(`src/templates/tag.tsx`);
-    result.data?.allDataJson.distinct.forEach((tag) => {
+    result.data?.allTagsJson.edges.forEach(({ node }) => {
+        const { slug } = node;
+        if (!slug) {
+            return;
+        }
+
         createPage({
-            path: `tag/${tag}`,
-            component: tagTemplate,
+            path: `tag/${slug}`,
+            component: path.resolve(`src/templates/tag.tsx`),
             context: {
-                tag,
+                slug,
             },
         });
     });
+
+    // result.data?.allDataJson.edges.forEach(({ node }) => {
+    //     const { slug } = node;
+    //     if (!slug) {
+    //         return;
+    //     }
+
+    //     // createPage({
+    //     //     path: `recipe/${slug}`,
+    //     //     component: path.resolve(`src/templates/recipe.tsx`),
+    //     //     context: {
+    //     //         slug,
+    //     //     },
+    //     // });
+
+    //     // createPage({
+    //     //     path: `recipe/${slug}/print`,
+    //     //     component: path.resolve(`src/templates/recipe-print.tsx`),
+    //     //     context: {
+    //     //         slug,
+    //     //     },
+    //     // });
+    // });
+
+    // result.data?.allDataJson.distinct.forEach((tag) => {
+    //     createPage({
+    //         path: `tag/${tag}`,
+    //         component: path.resolve(`src/templates/tag.tsx`),
+    //         context: {
+    //             tag,
+    //         },
+    //     });
+    // });
 }
