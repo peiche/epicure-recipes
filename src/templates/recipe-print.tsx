@@ -59,7 +59,7 @@ const RecipePrintTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                 )}
 
                 <Grid container spacing={2} my={2}>
-                    {ingredients && ingredients.length > 0 && (
+                    {ingredients?.length > 0 && (
                         <Grid size={{
                             xs: 12,
                             md: 6,
@@ -78,7 +78,7 @@ const RecipePrintTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                         </Grid>
                     )}
 
-                    {preparation && (
+                    {preparation?.length > 0 && (
                         <Grid size={{
                             xs: 12,
                             md: 6,
@@ -115,7 +115,7 @@ const RecipePrintTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                     </>
                 )}
 
-                {tips && (
+                {tips?.length > 0 && (
                     <>
                         <Typography component='h2' variant="h5" mt={2} mb={1}>Tips</Typography>
                         {tips.map((tip, index) => (

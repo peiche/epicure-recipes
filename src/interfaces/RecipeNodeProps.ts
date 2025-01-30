@@ -1,3 +1,4 @@
+import { Product } from "./Product";
 import { Recipe } from "./Recipe";
 import { Tag } from "./Tag";
 
@@ -9,6 +10,9 @@ export interface RecipeNodeProps {
         };
         allTagsJson: {
             edges: Array<{ node: Tag }>;
-        }
+        };
+        allProductsJson: {
+            edges: Array<{ node: Product }>;
+        };
     };
 }

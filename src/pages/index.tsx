@@ -35,7 +35,7 @@ const IndexPage: React.FC<IndexPageProps> = ({
   return (
     <Layout>
       <Wrapper>
-        <Typography component='h1' variant='h4'>Recipes</Typography>
+        <Typography component='h1' variant='h4'>Epicure Recipes</Typography>
 
         <Autocomplete
           options={searchOptions}

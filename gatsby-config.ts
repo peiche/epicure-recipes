@@ -7,12 +7,6 @@ const config: GatsbyConfig = {
   },
   graphqlTypegen: true,
   plugins: [
-    // {
-    //   resolve: `gatsby-source-filesystem`,
-    //   options: {
-    //     path: `./src/data/`,
-    //   },
-    // },
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
@@ -36,6 +30,13 @@ const config: GatsbyConfig = {
       options: {
         name: `tags`,
         path: path.join(__dirname, `src/data`, `tags`),
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `products`,
+        path: path.join(__dirname, `src/data`, `products`),
       },
     },
   ],

@@ -11,7 +11,7 @@ export default function Header() {
             borderRight: 0,
         }}>
             <Container maxWidth='md'>
-                <Toolbar disableGutters sx={{ justifyContent: 'space-between' }}>
+                <Toolbar disableGutters>
                     <Typography
                         component={GatsbyLink}
                         to='/'
@@ -19,12 +19,6 @@ export default function Header() {
                         fontWeight='bold'
                         sx={{ textDecoration: 'none' }}
                     >Epicure Recipes</Typography>
-
-                    <Box>
-                        <IconButton color='inherit' component='a' href='https://github.com/peiche/epicure-recipes' target="_blank">
-                            <GitHub />
-                        </IconButton>
-                    </Box>
                 </Toolbar>
             </Container>
         </AppBar>

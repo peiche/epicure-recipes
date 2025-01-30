@@ -23,6 +23,7 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
         ingredients,
         preparation,
         tags,
+        products,
         tips,
         perfectlyBalanceYourPlate,
         nutritionalInformation,
@@ -111,7 +112,7 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                 )}
 
                 <Grid container spacing={2} my={2}>
-                    {ingredients && ingredients.length > 0 && (
+                    {ingredients?.length > 0 && (
                         <Grid size={{
                             xs: 12,
                             md: 6,
@@ -130,7 +131,7 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                         </Grid>
                     )}
 
-                    {preparation && (
+                    {preparation?.length > 0 && (
                         <Grid size={{
                             xs: 12,
                             md: 6,
@@ -150,6 +151,21 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                     )}
                 </Grid>
 
+                {products?.length > 0 && (
+                    <>
+                        <Typography component='h2' variant="h5" mt={2} mb={1}>Epicure Products Used</Typography>
+                        <List>
+                            {products.map((product, index) => (
+                                <ListItem key={index} disablePadding>
+                                    <ListItemText>
+                                        <Link component={GatsbyLink} to={`/product/${product.slug}`}>{product.name}</Link>
+                                    </ListItemText>
+                                </ListItem>
+                            ))}
+                        </List>
+                    </>
+                )}
+
                 {nutritionalInformation && (
                     <>
                         <Typography component='h2' variant="h5" mt={2} mb={1}>Nutritional Information</Typography>
@@ -167,7 +183,7 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                     </>
                 )}
 
-                {tips && (
+                {tips?.length > 0 && (
                     <>
                         <Typography component='h2' variant="h5" mt={2} mb={1}>Tips</Typography>
                         {tips.map((tip, index) => (
@@ -206,6 +222,10 @@ export const query = graphql`
       }
       preparation
       tags {
+        slug
+        name
+      }
+      products {
         slug
         name
       }

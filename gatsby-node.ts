@@ -1,6 +1,7 @@
 import { GatsbyNode, graphql } from "gatsby";
 import path from "path";
 import { RecipeNodeProps } from "./src/interfaces/RecipeNodeProps";
+import axios from "axios";
 
 export const createPages: GatsbyNode['createPages'] = async ({
     graphql,
@@ -20,6 +21,13 @@ export const createPages: GatsbyNode['createPages'] = async ({
                     }
                 }
                 allTagsJson {
+                    edges {
+                        node {
+                            slug
+                        }
+                    }
+                }
+                allProductsJson {
                     edges {
                         node {
                             slug
@@ -72,36 +80,18 @@ export const createPages: GatsbyNode['createPages'] = async ({
         });
     });
 
-    // result.data?.allDataJson.edges.forEach(({ node }) => {
-    //     const { slug } = node;
-    //     if (!slug) {
-    //         return;
-    //     }
+    result.data?.allProductsJson.edges.forEach(({ node }) => {
+        const { slug } = node;
+        if (!slug) {
+            return;
+        }
 
-    //     // createPage({
-    //     //     path: `recipe/${slug}`,
-    //     //     component: path.resolve(`src/templates/recipe.tsx`),
-    //     //     context: {
-    //     //         slug,
-    //     //     },
-    //     // });
-
-    //     // createPage({
-    //     //     path: `recipe/${slug}/print`,
-    //     //     component: path.resolve(`src/templates/recipe-print.tsx`),
-    //     //     context: {
-    //     //         slug,
-    //     //     },
-    //     // });
-    // });
-
-    // result.data?.allDataJson.distinct.forEach((tag) => {
-    //     createPage({
-    //         path: `tag/${tag}`,
-    //         component: path.resolve(`src/templates/tag.tsx`),
-    //         context: {
-    //             tag,
-    //         },
-    //     });
-    // });
+        createPage({
+            path: `product/${slug}`,
+            component: path.resolve(`src/templates/product.tsx`),
+            context: {
+                slug,
+            },
+        });
+    });
 }

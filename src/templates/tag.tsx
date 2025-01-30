@@ -22,19 +22,6 @@ const TagTemplate: React.FC<TagTemplateProps> = ({
         allRecipesJson: { nodes: recipes },
     },
 }) => {
-    const searchOptions: Array<AutocompleteOption> = recipes.map(recipe => {
-        return {
-            label: recipe.name,
-            path: `/recipe/${recipe.slug}`,
-        };
-    });
-
-    const handleAutocompleteChange = (event: React.SyntheticEvent<Element, Event>, value: string | AutocompleteOption | null) => {
-        if (value && typeof value === 'object') {
-            navigate(value?.path);
-        }
-    };
-
     return (
         <Layout>
             <Wrapper>
@@ -45,19 +32,9 @@ const TagTemplate: React.FC<TagTemplateProps> = ({
                     <Typography sx={{ color: 'text.primary' }}>{name}</Typography>
                 </Breadcrumbs>
 
-                <Typography component='h1' variant='h4' mt={1}>
+                <Typography component='h1' variant='h4' mt={1} mb={2}>
                     Recipes tagged with {name}
                 </Typography>
-
-                <Autocomplete
-                    options={searchOptions}
-                    renderInput={(params) => <TextField {...params} label={`Search ${name} recipes`} size='small' />}
-                    freeSolo
-                    openOnFocus={false}
-                    selectOnFocus={false}
-                    onChange={handleAutocompleteChange}
-                    sx={{ my: 2 }}
-                />
 
                 <List disablePadding>
                     {recipes.map((recipe, index) => (
