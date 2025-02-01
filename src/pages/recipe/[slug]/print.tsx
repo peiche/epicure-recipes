@@ -6,6 +6,7 @@ import Layout from '../../../components/layout';
 import { useEffect } from 'react';
 import { Recipe } from '../../../interfaces/Recipe';
 import { GetStaticProps, InferGetStaticPropsType } from 'next';
+import SEO from '../../../components/seo';
 
 interface RecipePrintPageProps {
     recipe: Recipe;
@@ -30,6 +31,7 @@ export default function RecipePrintPage({ recipe }: RecipePrintPageProps & Infer
 
     return (
         <Layout>
+            <SEO title={name} />
             <Container maxWidth='md' sx={{ my: 3 }}>
                 <Typography component='h1' variant='h4' sx={{ my: 2 }}>{name}</Typography>
 

@@ -6,6 +6,7 @@ import { Link, List, ListItem, ListItemText, Typography } from '@mui/material';
 import NextLink from 'next/link';
 import { Recipe } from '../interfaces/Recipe';
 import { InferGetStaticPropsType } from 'next';
+import SEO from '../components/seo';
 
 interface HomePageProps {
     recipes: Recipe[];
@@ -14,6 +15,7 @@ interface HomePageProps {
 export default function HomePage({ recipes }: HomePageProps & InferGetStaticPropsType<typeof getStaticProps>) {
     return (
         <Layout>
+            <SEO title='Home' />
             <Wrapper>
                 <Typography component='h1' variant='h4' mt={1} mb={2}>Epicure Recipes</Typography>
 

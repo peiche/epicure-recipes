@@ -8,6 +8,7 @@ import Wrapper from '../../../components/wrapper';
 import Image from 'next/image';
 import { GetStaticProps, InferGetStaticPropsType } from 'next';
 import { Recipe } from '../../../interfaces/Recipe';
+import SEO from '../../../components/seo';
 
 interface ImageProps {
     src?: string;
@@ -36,6 +37,7 @@ export default function RecipePage({ recipe, image }: RecipePageProps & InferGet
 
     return (
         <Layout>
+            <SEO title={name} />
             <Wrapper>
 
                 <Breadcrumbs>

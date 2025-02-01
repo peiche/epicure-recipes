@@ -7,6 +7,7 @@ import NextLink from 'next/link';
 import { GetStaticProps, InferGetStaticPropsType } from 'next';
 import { Product } from '../../interfaces/Product';
 import { Recipe } from '../../interfaces/Recipe';
+import SEO from '../../components/seo';
 
 interface ProductPageProps {
     product: Product;
@@ -20,6 +21,7 @@ export default function ProductPage({ product, recipes }: ProductPageProps & Inf
 
     return (
         <Layout>
+            <SEO title={`Product: ${name}`} />
             <Wrapper>
 
                 <Breadcrumbs>

@@ -7,6 +7,7 @@ import NextLink from 'next/link';
 import { GetStaticProps, InferGetStaticPropsType } from 'next';
 import { Tag } from '../../interfaces/Tag';
 import { Recipe } from '../../interfaces/Recipe';
+import SEO from '../../components/seo';
 
 interface TagPageProps {
     tag: Tag;
@@ -20,6 +21,7 @@ export default function TagPage({ tag, recipes }: TagPageProps & InferGetStaticP
 
     return (
         <Layout>
+            <SEO title={`Tag: ${name}`} />
             <Wrapper>
 
                 <Breadcrumbs>

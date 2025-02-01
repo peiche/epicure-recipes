@@ -13,6 +13,7 @@ import { Tag } from '../interfaces/Tag';
 import { Product } from '../interfaces/Product';
 import { SearchResult } from '../interfaces/SearchResult';
 import TabPanel from '../components/tabPanel';
+import SEO from '../components/seo';
 
 interface SearchPageProps {
     searchIndex: object;
@@ -66,6 +67,7 @@ export default function SearchPage({ searchIndex, allDocuments }: SearchPageProp
 
     return (
         <Layout>
+            <SEO title={`Search: ${query}`} />
             <Wrapper>
 
                 <TextField

@@ -3,10 +3,12 @@ import NextLink from 'next/link'
 import Layout from "../components/layout"
 import { Link, Typography } from "@mui/material"
 import Wrapper from "../components/wrapper"
+import SEO from "../components/seo"
 
 const NotFoundPage: React.FC = () => {
   return (
     <Layout>
+      <SEO title='Not Found' />
       <Wrapper>
         <Typography component='h1' variant='h4' mb={3}>Page Not Found</Typography>
         <Typography mb={3}>
