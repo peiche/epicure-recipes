@@ -5,7 +5,8 @@
   "description": "epicure-recipes",
   "author": "Paul",
   "keywords": [
-    "gatsby"
+    "Epicure",
+    "recipes"
   ],
   "scripts": {
     "dev": "next dev",
