@@ -1,79 +1,53 @@
-import * as React from "react"
-import { graphql, HeadFC, Link as GatsbyLink, navigate } from "gatsby";
-import Layout from "../components/layout";
-import { Autocomplete, Link, List, ListItem, ListItemText, TextField, Typography } from "@mui/material";
-import { AutocompleteOption } from "../interfaces/AutocompleteOption";
-import Wrapper from "../components/wrapper";
-import { Recipe } from "../interfaces/Recipe";
+import fs from 'fs';
+import path from 'path';
+import Layout from '../components/layout';
+import Wrapper from '../components/wrapper';
+import { Link, List, ListItem, ListItemText, Typography } from '@mui/material';
+import NextLink from 'next/link';
+import { Recipe } from '../interfaces/Recipe';
+import { InferGetStaticPropsType } from 'next';
 
-interface IndexPageProps {
-  data: {
-    allRecipesJson: {
-      nodes: Array<Recipe>;
-    };
-  };
+interface HomePageProps {
+    recipes: Recipe[];
 }
 
-const IndexPage: React.FC<IndexPageProps> = ({
-  data: {
-    allRecipesJson: { nodes: recipes },
-  },
-}) => {
-  const searchOptions: Array<AutocompleteOption> = recipes.map(recipe => {
+export default function HomePage({ recipes }: HomePageProps & InferGetStaticPropsType<typeof getStaticProps>) {
+    return (
+        <Layout>
+            <Wrapper>
+                <Typography component='h1' variant='h4' mt={1} mb={2}>Epicure Recipes</Typography>
+
+                <List disablePadding>
+                    {recipes.map((recipe, index) => (
+                        <ListItem key={index} disablePadding>
+                            <ListItemText>
+                                <Link component={NextLink} href={`/recipe/${recipe.slug}`}>{recipe.name}</Link>
+                            </ListItemText>
+                        </ListItem>
+                    ))}
+                </List>
+
+            </Wrapper>
+        </Layout>
+    );
+}
+
+export const getStaticProps = () => {
+    const recipesDirectory = path.join(process.cwd(), 'src', 'data', 'recipes');
+    let filenames = fs.readdirSync(recipesDirectory);
+    filenames = filenames.map(filename => path.join(process.cwd(), 'src', 'data', 'recipes', filename));
+
+    const recipes: Recipe[] = [];
+    filenames.forEach((filename) => {
+        const content = fs.readFileSync(filename, 'utf8');
+        const recipe: Recipe = JSON.parse(content);
+
+        recipes.push(recipe);
+    });
+
     return {
-      label: recipe.name,
-      path: `/recipe/${recipe.slug}`,
+        props: {
+            recipes,
+        },
     };
-  });
-
-  const handleAutocompleteChange = (event: React.SyntheticEvent<Element, Event>, value: string | AutocompleteOption | null) => {
-    if (value && typeof value === 'object') {
-      navigate(value?.path);
-    }
-  };
-
-  return (
-    <Layout>
-      <Wrapper>
-        <Typography component='h1' variant='h4'>Epicure Recipes</Typography>
-
-        <Autocomplete
-          options={searchOptions}
-          renderInput={(params) => <TextField {...params} label='Search recipes' size='small' />}
-          freeSolo
-          openOnFocus={false}
-          selectOnFocus={false}
-          onChange={handleAutocompleteChange}
-          sx={{ my: 2 }}
-        />
-
-        <List disablePadding>
-          {recipes.map((recipe, index) => (
-            <ListItem key={index} disablePadding>
-              <ListItemText>
-                <Link component={GatsbyLink} to={`/recipe/${recipe.slug}`}>{recipe.name}</Link>
-              </ListItemText>
-            </ListItem>
-          ))}
-        </List>
-      </Wrapper>
-    </Layout>
-  )
 }
-
-export default IndexPage
-
-export const Head: HeadFC = () => <title>Epicure Recipes</title>
-
-export const query = graphql`
-  query {
-    allRecipesJson(
-      sort: {slug: ASC}
-    ) {
-      nodes {
-        name
-        slug
-      }
-    }
-  }
-`

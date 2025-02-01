@@ -8,11 +8,9 @@
     "gatsby"
   ],
   "scripts": {
-    "develop": "gatsby develop",
-    "start": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean",
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
@@ -21,15 +19,12 @@
     "@fontsource/roboto": "^5.1.1",
     "@mui/icons-material": "^6.4.1",
     "@mui/material": "^6.4.1",
-    "gatsby": "^5.14.1",
-    "gatsby-plugin-image": "^3.14.0",
-    "gatsby-plugin-sharp": "^5.14.0",
-    "gatsby-source-filesystem": "^5.14.0",
-    "gatsby-transformer-json": "^5.14.0",
-    "gatsby-transformer-sharp": "^5.14.0",
+    "@types/lunr": "^2.3.7",
+    "fs": "^0.0.1-security",
+    "lunr": "^2.3.9",
+    "next": "^15.1.6",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-use-flexsearch": "^0.1.1"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.19",

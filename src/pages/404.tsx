@@ -1,10 +1,10 @@
 import * as React from "react"
-import { Link as GatsbyLink, HeadFC, PageProps } from "gatsby"
+import NextLink from 'next/link'
 import Layout from "../components/layout"
 import { Link, Typography } from "@mui/material"
 import Wrapper from "../components/wrapper"
 
-const NotFoundPage: React.FC<PageProps> = () => {
+const NotFoundPage: React.FC = () => {
   return (
     <Layout>
       <Wrapper>
@@ -13,7 +13,7 @@ const NotFoundPage: React.FC<PageProps> = () => {
           Not all who wander are lost, but you definitely are.
         </Typography>
         <Typography>
-          <Link component={GatsbyLink} to='/'>Go Home</Link>
+          <Link component={NextLink} href='/'>Go Home</Link>
         </Typography>
       </Wrapper>
     </Layout>
@@ -21,5 +21,3 @@ const NotFoundPage: React.FC<PageProps> = () => {
 }
 
 export default NotFoundPage
-
-export const Head: HeadFC = () => <title>Not found</title>

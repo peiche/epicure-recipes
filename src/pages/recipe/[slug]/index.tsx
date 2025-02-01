@@ -1,50 +1,65 @@
-import { graphql, HeadFC, Link as GatsbyLink } from "gatsby";
-import * as React from "react"
-import Layout from "../components/layout";
-import { Box, Breadcrumbs, Button, Chip, Grid2 as Grid, Link, List, ListItem, ListItemText, Typography } from "@mui/material";
-import { AccessTimeOutlined, PrintOutlined, RestaurantOutlined } from "@mui/icons-material";
-import { Recipe } from "../interfaces/Recipe";
-import Wrapper from "../components/wrapper";
-import { GatsbyImage, getImage } from "gatsby-plugin-image";
+import fs from 'fs';
+import path from 'path';
+import { Box, Breadcrumbs, Button, Chip, Grid2 as Grid, Link, List, ListItem, ListItemText, Typography } from '@mui/material';
+import { AccessTimeOutlined, PrintOutlined, RestaurantOutlined } from '@mui/icons-material';
+import NextLink from 'next/link';
+import Layout from '../../../components/layout';
+import Wrapper from '../../../components/wrapper';
+import Image from 'next/image';
+import { GetStaticProps, InferGetStaticPropsType } from 'next';
+import { Recipe } from '../../../interfaces/Recipe';
 
-interface RecipeTemplateProps {
-    data: {
-        recipesJson: Recipe;
-    };
+interface ImageProps {
+    src?: string;
 }
 
-const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
+interface RecipePageProps {
+    recipe: Recipe;
+    image: ImageProps;
+}
+
+export default function RecipePage({ recipe, image }: RecipePageProps & InferGetStaticPropsType<typeof getStaticProps>) {
     const {
         name,
         slug,
+        tags,
         totalTime,
         servings,
         description,
         ingredients,
         preparation,
-        tags,
         products,
+        nutritionalInformation,
         tips,
         perfectlyBalanceYourPlate,
-        nutritionalInformation,
-        imagePath,
-    } = data.recipesJson;
-
-    const image = imagePath && getImage(imagePath);
+    } = recipe;
 
     return (
         <Layout>
             <Wrapper>
 
                 <Breadcrumbs>
-                    <Link underline='hover' color='inherit' component={GatsbyLink} to='/'>Recipes</Link>
+                    <Link underline='hover' color='inherit' component={NextLink} href='/'>Recipes</Link>
                     <Typography sx={{ color: 'text.primary' }}>{name}</Typography>
                 </Breadcrumbs>
 
                 <Box sx={{ my: 2 }}>
-                    {image !== undefined && (
-                        <GatsbyImage image={image} alt='' />
+                    {image?.src && (
+                        <Box position='relative'>
+                            <Image
+                                src={image.src}
+                                alt=''
+                                width={1036}
+                                height={583}
+                                priority
+                                style={{
+                                    width: '100%',
+                                    height: 'auto',
+                                }}
+                            />
+                        </Box>
                     )}
+
                     <Typography component='h1' variant='h4' mt={1}>{name}</Typography>
                 </Box>
 
@@ -56,8 +71,8 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                                 variant='outlined'
                                 size='small'
                                 label={tag.name}
-                                component={GatsbyLink}
-                                to={`/tag/${tag.slug}`}
+                                component={NextLink}
+                                href={`/tag/${tag.slug}`}
                                 sx={{
                                     mr: 1,
                                     mb: 1,
@@ -97,8 +112,8 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                         variant='contained'
                         disableElevation
                         startIcon={<PrintOutlined />}
-                        component={GatsbyLink}
-                        to={`/recipe/${slug}/print`}
+                        component={NextLink}
+                        href={`/recipe/${slug}/print`}
                         onClick={(event) => {
                             event.preventDefault();
                             window.open(`/recipe/${slug}/print`);
@@ -158,7 +173,7 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                             {products.map((product, index) => (
                                 <ListItem key={index} disablePadding>
                                     <ListItemText>
-                                        <Link component={GatsbyLink} to={`/product/${product.slug}`}>{product.name}</Link>
+                                        <Link component={NextLink} href={`/product/${product.slug}`}>{product.name}</Link>
                                     </ListItemText>
                                 </ListItem>
                             ))}
@@ -200,55 +215,53 @@ const RecipeTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                 )}
             </Wrapper>
         </Layout>
-    )
+    );
 }
 
-export default RecipeTemplate
+export const getStaticPaths = () => {
+    const recipesDirectory = path.join(process.cwd(), 'src', 'data', 'recipes');
+    const filenames = fs.readdirSync(recipesDirectory);
 
-export const Head: HeadFC = () => <title>Epicure Recipes</title>
+    return {
+        paths: filenames.map((filename) => ({
+            params: {
+                slug: filename.replace(/\.json$/, ''),
+            },
+        })),
+        fallback: false,
+    };
+}
 
-export const query = graphql`
-  query ($slug: String) {
-    recipesJson(slug: {eq: $slug}) {
-      name
-      slug
-      totalTime
-      servings
-      description
-      ingredients {
-        name
-        quantity
-        additionalInstruction
-      }
-      preparation
-      tags {
-        slug
-        name
-      }
-      products {
-        slug
-        name
-      }
-      tips
-      perfectlyBalanceYourPlate
-      nutritionalInformation {
-        calories
-        carbohydrate
-        cholesterol
-        fat
-        fiber
-        protein
-        saturatedFat
-        servingSize
-        sodium
-        sugars
-        transFat
-      }
-      imagePath {
-        childImageSharp {
-          gatsbyImageData(placeholder: BLURRED, formats: AUTO, layout: FULL_WIDTH)
+export const getStaticProps: GetStaticProps = (context) => {
+    const recipePath = path.join(process.cwd(), 'src', 'data', 'recipes', `${context.params?.slug}.json`);
+    const content = fs.readFileSync(recipePath, 'utf8');
+    const recipe = JSON.parse(content);
+
+    const image: ImageProps = {};
+
+    if (recipe.imagePath) {
+        const srcDir = path.join(process.cwd(), 'src/data/images');
+        const destDir = path.join(process.cwd(), 'public/processed');
+
+        if (!fs.existsSync(destDir)) {
+            fs.mkdirSync(destDir, { recursive: true });
         }
-      }
+
+        const imagePath = recipe.imagePath.replace('../images/', '');
+        const srcPath = path.join(srcDir, imagePath);
+        const destPath = path.join(destDir, imagePath);
+
+        if (fs.existsSync(srcPath) && !fs.existsSync(destPath)) {
+            fs.copyFileSync(srcPath, destPath);
+        }
+
+        image.src = `/processed/${imagePath}`;
     }
-  }
-`
+
+    return {
+        props: {
+            recipe,
+            image,
+        },
+    };
+}

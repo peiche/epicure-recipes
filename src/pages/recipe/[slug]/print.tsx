@@ -1,32 +1,30 @@
-import { graphql, HeadFC, Link as GatsbyLink } from "gatsby";
-import * as React from "react"
-import Layout from "../components/layout";
-import { Box, Chip, Container, Grid2 as Grid, List, ListItem, ListItemText, Typography } from "@mui/material";
-import { AccessTimeOutlined, PrintOutlined, RestaurantOutlined } from "@mui/icons-material";
-import { Recipe } from "../interfaces/Recipe";
+import fs from 'fs';
+import path from 'path';
+import { Box, Container, Grid2 as Grid, List, ListItem, ListItemText, Typography } from '@mui/material';
+import { AccessTimeOutlined, RestaurantOutlined } from '@mui/icons-material';
+import Layout from '../../../components/layout';
+import { useEffect } from 'react';
+import { Recipe } from '../../../interfaces/Recipe';
+import { GetStaticProps, InferGetStaticPropsType } from 'next';
 
-interface RecipeTemplateProps {
-    data: {
-        recipesJson: Recipe;
-    };
+interface RecipePrintPageProps {
+    recipe: Recipe;
 }
 
-const RecipePrintTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
+export default function RecipePrintPage({ recipe }: RecipePrintPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
     const {
         name,
-        slug,
         totalTime,
         servings,
         description,
         ingredients,
         preparation,
-        tags,
+        nutritionalInformation,
         tips,
         perfectlyBalanceYourPlate,
-        nutritionalInformation,
-    } = data.recipesJson;
+    } = recipe;
 
-    React.useEffect(() => {
+    useEffect(() => {
         window.print();
     }, []);
 
@@ -132,46 +130,31 @@ const RecipePrintTemplate: React.FC<RecipeTemplateProps> = ({ data }) => {
                 )}
             </Container>
         </Layout>
-    )
+    );
 }
 
-export default RecipePrintTemplate
+export const getStaticPaths = () => {
+    const recipesDirectory = path.join(process.cwd(), 'src', 'data', 'recipes');
+    const filenames = fs.readdirSync(recipesDirectory);
 
-export const Head: HeadFC = () => <title>Epicure Recipes</title>
+    return {
+        paths: filenames.map((filename) => ({
+            params: {
+                slug: filename.replace(/\.json$/, ''),
+            },
+        })),
+        fallback: false,
+    };
+}
 
-export const query = graphql`
-  query ($slug: String) {
-    recipesJson(slug: {eq: $slug}) {
-      name
-      slug
-      totalTime
-      servings
-      description
-      ingredients {
-        name
-        quantity
-        additionalInstruction
-      }
-      preparation
-      tags {
-        slug
-        name
-      }
-      tips
-      perfectlyBalanceYourPlate
-      nutritionalInformation {
-        calories
-        carbohydrate
-        cholesterol
-        fat
-        fiber
-        protein
-        saturatedFat
-        servingSize
-        sodium
-        sugars
-        transFat
-      }
-    }
-  }
-`
+export const getStaticProps: GetStaticProps = (context) => {
+    const recipePath = path.join(process.cwd(), 'src', 'data', 'recipes', `${context.params?.slug}.json`);
+    const content = fs.readFileSync(recipePath, 'utf8');
+    const recipe = JSON.parse(content);
+
+    return {
+        props: {
+            recipe,
+        },
+    };
+}
