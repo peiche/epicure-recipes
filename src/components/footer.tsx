@@ -12,7 +12,7 @@ export default function Footer() {
                     <Link component='a' href='https://eichefam.net' target="_blank">Paul Eiche</Link>{` `}
                     with recipes from Epicure.{` `}
                     Built with{` `}
-                    <Link component='a' href='https://www.gatsbyjs.com/' target="_blank">Gatsby</Link>{` `}
+                    <Link component='a' href='https://nextjs.org/' target="_blank">Next.js</Link>{` `}
                     and hosted on{` `}
                     <Link component='a' href='https://www.netlify.com/' target="_blank">Netlify</Link>.
                 </Typography>

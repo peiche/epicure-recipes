@@ -1,9 +1,7 @@
-import { ImageDataLike } from "gatsby-plugin-image";
 import { Tag } from "./Tag";
 import { Product } from "./Product";
 
 export interface Recipe {
-    id: string;
     name: string;
     slug: string;
     totalTime: string;
@@ -16,7 +14,6 @@ export interface Recipe {
     tips: string[];
     perfectlyBalanceYourPlate: string,
     nutritionalInformation: NutritionalInformation,
-    imagePath?: ImageDataLike;
 }
 
 interface Ingredient {
