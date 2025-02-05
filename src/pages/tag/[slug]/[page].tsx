@@ -43,6 +43,7 @@ export default function TagPage({ tag, recipes, pagination }: TagPageProps & Inf
                                 key={index}
                                 size={{
                                     xs: 12,
+                                    sm: 6,
                                     md: 4,
                                 }}
                             >

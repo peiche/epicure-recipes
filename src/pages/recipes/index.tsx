@@ -32,6 +32,7 @@ export default function RecipesPage({ recipes, pagination }: RecipesPageProps & 
                                 key={index}
                                 size={{
                                     xs: 12,
+                                    sm: 6,
                                     md: 4,
                                 }}
                             >

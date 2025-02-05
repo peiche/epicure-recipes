@@ -50,6 +50,7 @@ export default function ProductPage({ product, recipes, pagination }: ProductPag
                                 key={index}
                                 size={{
                                     xs: 12,
+                                    sm: 6,
                                     md: 4,
                                 }}
                             >
