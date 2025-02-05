@@ -37,7 +37,6 @@ export default function TagPage({ tag, recipes, pagination }: TagPageProps & Inf
 
                 <Grid container spacing={2}>
                     {recipes
-                        .slice(0, RESULTS_PER_PAGE)
                         .map((recipe, index) => (
                             <Grid
                                 key={index}
@@ -99,7 +98,7 @@ export const getStaticProps: GetStaticProps = ({ params }) => {
     return {
         props: {
             tag,
-            recipes,
+            recipes: recipes.slice(0, RESULTS_PER_PAGE),
             pagination,
         },
     }

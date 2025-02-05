@@ -37,7 +37,6 @@ export default function TagPaginationPage({ tag, recipes, pagination }: TagPageP
 
                 <Grid container spacing={2}>
                     {recipes
-                        .slice(((pagination.currentPage - 1) * RESULTS_PER_PAGE), ((pagination.currentPage - 1) * RESULTS_PER_PAGE) + RESULTS_PER_PAGE)
                         .map((recipe, index) => (
                             <Grid
                                 key={index}
@@ -100,7 +99,7 @@ export const getStaticProps: GetStaticProps = ({ params }) => {
     const page = parseInt(String(params?.page));
     const tagPath = path.join(process.cwd(), 'src', 'data', 'tags', `${params?.slug}.json`);
     const content = fs.readFileSync(tagPath, 'utf8');
-    const tag: Tag   = JSON.parse(content);
+    const tag: Tag = JSON.parse(content);
 
     const recipes = getRecipesForTag(params?.slug) || [];
 
@@ -121,7 +120,10 @@ export const getStaticProps: GetStaticProps = ({ params }) => {
     return {
         props: {
             tag,
-            recipes,
+            recipes: recipes.slice(
+                ((pagination.currentPage - 1) * RESULTS_PER_PAGE),
+                ((pagination.currentPage - 1) * RESULTS_PER_PAGE) + RESULTS_PER_PAGE
+            ),
             pagination,
         },
     }

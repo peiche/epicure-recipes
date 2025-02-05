@@ -44,7 +44,6 @@ export default function ProductPaginationPage({ product, recipes, pagination }: 
 
                 <Grid container spacing={2}>
                     {recipes
-                        .slice(((pagination.currentPage - 1) * RESULTS_PER_PAGE), ((pagination.currentPage - 1) * RESULTS_PER_PAGE) + RESULTS_PER_PAGE)
                         .map((recipe, index) => (
                             <Grid
                                 key={index}
@@ -128,7 +127,10 @@ export const getStaticProps: GetStaticProps = ({ params }) => {
     return {
         props: {
             product,
-            recipes,
+            recipes: recipes.slice(
+                ((pagination.currentPage - 1) * RESULTS_PER_PAGE),
+                ((pagination.currentPage - 1) * RESULTS_PER_PAGE) + RESULTS_PER_PAGE
+            ),
             pagination,
         },
     }

@@ -11,6 +11,7 @@ import Pagination from '../../components/pagination';
 import RecipeCard from '../../components/recipeCard';
 import { PaginationProps } from '../../interfaces/PaginationProps';
 import { RecipesPageProps } from '../../interfaces/RecipesPageProps';
+import { getRecipes } from '../../lib/recipe';
 
 export default function RecipesPage({ recipes, pagination }: RecipesPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
     return (
@@ -21,7 +22,6 @@ export default function RecipesPage({ recipes, pagination }: RecipesPageProps & 
 
                 <Grid container spacing={2}>
                     {recipes
-                        .slice(0, RESULTS_PER_PAGE)
                         .map((recipe, index) => (
                             <Grid
                                 key={index}
@@ -52,30 +52,9 @@ export default function RecipesPage({ recipes, pagination }: RecipesPageProps & 
 }
 
 export const getStaticProps = () => {
-    const recipesDirectory = path.join(process.cwd(), 'src', 'data', 'recipes');
-    let filenames = fs.readdirSync(recipesDirectory);
-    filenames = filenames.map(filename => path.join(process.cwd(), 'src', 'data', 'recipes', filename));
-
-    let recipes: Recipe[] = [];
-    filenames.forEach((filename) => {
-        const content = fs.readFileSync(filename, 'utf8');
-        const recipe: Recipe = JSON.parse(content);
-
-        recipes.push(recipe);
-    });
-
+    const recipes = getRecipes();
     const totalCount = recipes.length;
     const totalPages = Math.ceil(totalCount / RESULTS_PER_PAGE);
-
-    recipes = recipes.sort((a, b) => {
-        if (a.slug < b.slug) {
-            return -1;
-        }
-        if (a.slug > b.slug) {
-            return 1;
-        }
-        return 0;
-    });
 
     const pagination: PaginationProps = {
         currentPage: 1,
@@ -84,7 +63,7 @@ export const getStaticProps = () => {
 
     return {
         props: {
-            recipes,
+            recipes: recipes.slice(0, RESULTS_PER_PAGE),
             pagination,
         },
     };

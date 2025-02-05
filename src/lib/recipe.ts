@@ -4,6 +4,31 @@ import { Product } from "../interfaces/Product";
 import { Recipe } from "../interfaces/Recipe";
 import { Tag } from '../interfaces/Tag';
 
+export const getRecipes = () => {
+    let recipes: Recipe[] = [];
+    const recipesDirectory = path.join(process.cwd(), 'src', 'data', 'recipes');
+    let filenames = fs.readdirSync(recipesDirectory);
+    filenames = filenames.map(filename => path.join(process.cwd(), 'src', 'data', 'recipes', filename));
+    filenames.forEach((filename) => {
+        const content = fs.readFileSync(filename, 'utf8');
+        const recipe: Recipe = JSON.parse(content);
+
+        recipes.push(recipe);
+    });
+
+    recipes = recipes.sort((a, b) => {
+        if (a.slug < b.slug) {
+            return -1;
+        }
+        if (a.slug > b.slug) {
+            return 1;
+        }
+        return 0;
+    });
+
+    return recipes;
+};
+
 export const getRecipesForTag = (slug: string | string[] | undefined) => {
     let recipes: Recipe[] = [];
     const recipesDirectory = path.join(process.cwd(), 'src', 'data', 'recipes');

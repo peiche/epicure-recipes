@@ -11,6 +11,7 @@ import Pagination from '../../components/pagination';
 import RecipeCard from '../../components/recipeCard';
 import { PaginationProps } from '../../interfaces/PaginationProps';
 import { RecipesPageProps } from '../../interfaces/RecipesPageProps';
+import { getRecipes } from '../../lib/recipe';
 
 export default function RecipesPaginationPage({ recipes, pagination }: RecipesPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
     return (
@@ -21,7 +22,6 @@ export default function RecipesPaginationPage({ recipes, pagination }: RecipesPa
 
                 <Grid container spacing={2}>
                     {recipes
-                        .slice(((pagination.currentPage - 1) * RESULTS_PER_PAGE), ((pagination.currentPage - 1) * RESULTS_PER_PAGE) + RESULTS_PER_PAGE)
                         .map((recipe, index) => (
                             <Grid
                                 key={index}
@@ -54,17 +54,7 @@ export default function RecipesPaginationPage({ recipes, pagination }: RecipesPa
 export const getStaticProps: GetStaticProps = async ({ params }) => {
     const page = parseInt(String(params?.page));
 
-    const recipesDirectory = path.join(process.cwd(), 'src', 'data', 'recipes');
-    let filenames = fs.readdirSync(recipesDirectory);
-    filenames = filenames.map(filename => path.join(process.cwd(), 'src', 'data', 'recipes', filename));
-
-    let recipes: Recipe[] = [];
-    filenames.forEach((filename) => {
-        const content = fs.readFileSync(filename, 'utf8');
-        const recipe: Recipe = JSON.parse(content);
-
-        recipes.push(recipe);
-    });
+    const recipes = getRecipes();
 
     const totalCount = recipes.length;
     const totalPages = Math.ceil(totalCount / RESULTS_PER_PAGE);
@@ -75,16 +65,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
         };
     }
 
-    recipes = recipes.sort((a, b) => {
-        if (a.slug < b.slug) {
-            return -1;
-        }
-        if (a.slug > b.slug) {
-            return 1;
-        }
-        return 0;
-    });
-
     const pagination: PaginationProps = {
         currentPage: page,
         totalPages: totalPages,
@@ -92,35 +72,17 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 
     return {
         props: {
-            recipes,
+            recipes: recipes.slice(
+                ((pagination.currentPage - 1) * RESULTS_PER_PAGE),
+                ((pagination.currentPage - 1) * RESULTS_PER_PAGE) + RESULTS_PER_PAGE
+            ),
             pagination,
         },
     };
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-    const recipesDirectory = path.join(process.cwd(), 'src', 'data', 'recipes');
-    let filenames = fs.readdirSync(recipesDirectory);
-    filenames = filenames.map(filename => path.join(process.cwd(), 'src', 'data', 'recipes', filename));
-
-    let recipes: Recipe[] = [];
-    filenames.forEach((filename) => {
-        const content = fs.readFileSync(filename, 'utf8');
-        const recipe: Recipe = JSON.parse(content);
-
-        recipes.push(recipe);
-    });
-
-    recipes = recipes.sort((a, b) => {
-        if (a.slug < b.slug) {
-            return -1;
-        }
-        if (a.slug > b.slug) {
-            return 1;
-        }
-        return 0;
-    });
-
+    const recipes = getRecipes();
     const totalCount = recipes.length;
     const totalPages = Math.ceil(totalCount / RESULTS_PER_PAGE);
 
