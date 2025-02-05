@@ -72,16 +72,16 @@ export default function ModeToggle() {
                             onChange={handleThemeChange}
                             aria-label='color theme'
                         >
-                            <ToggleButton value='light' size='small' sx={{ gap: 1 }}>
-                                <Brightness5 />
+                            <ToggleButton value='light' size='small' sx={{ gap: 1, fontSize: '0.75em' }}>
+                                <Brightness5 fontSize="small" />
                                 Light
                             </ToggleButton>
-                            <ToggleButton value='dark' size='small' sx={{ gap: 1 }}>
-                                <DarkMode />
+                            <ToggleButton value='dark' size='small' sx={{ gap: 1, fontSize: '0.75em' }}>
+                                <DarkMode fontSize="small" />
                                 Dark
                             </ToggleButton>
-                            <ToggleButton value='system' size='small' sx={{ gap: 1 }}>
-                                <BrightnessMedium />
+                            <ToggleButton value='system' size='small' sx={{ gap: 1, fontSize: '0.75em' }}>
+                                <BrightnessMedium fontSize="small" />
                                 System
                             </ToggleButton>
                         </ToggleButtonGroup>
