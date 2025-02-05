@@ -5,7 +5,7 @@ import path from 'path';
 import { Recipe } from '../interfaces/Recipe';
 import lunr from 'lunr';
 import { InferGetStaticPropsType } from 'next';
-import { ChangeEvent, ChangeEventHandler, useEffect, useRef, useState } from 'react';
+import { ChangeEvent, ChangeEventHandler, useEffect, useState } from 'react';
 import { Box, Container, IconButton, Link, List, ListItem, ListItemText, Tab, Tabs, TextField, Typography } from '@mui/material';
 import NextLink from 'next/link';
 import { Close } from '@mui/icons-material';

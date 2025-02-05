@@ -1,7 +1,8 @@
 import React from "react"
-import { AppBar, Container, IconButton, Toolbar, Typography } from "@mui/material";
+import { AppBar, Box, Container, IconButton, Toolbar, Typography } from "@mui/material";
 import NextLink from "next/link";
 import { SearchOutlined } from "@mui/icons-material";
+import ModeToggle from "./modeToggle";
 
 export default function Header() {
     return (
@@ -20,12 +21,16 @@ export default function Header() {
                         sx={{ textDecoration: 'none' }}
                     >Epicure Recipes</Typography>
 
-                    <IconButton
-                        component={NextLink}
-                        href='/search'
-                    >
-                        <SearchOutlined />
-                    </IconButton>
+                    <Box>
+                        <ModeToggle />
+
+                        <IconButton
+                            component={NextLink}
+                            href='/search'
+                        >
+                            <SearchOutlined />
+                        </IconButton>
+                    </Box>
                 </Toolbar>
             </Container>
         </AppBar>

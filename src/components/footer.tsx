@@ -1,10 +1,10 @@
 import React from "react"
-import { Box, Container, Divider, IconButton, Link, Stack, Typography } from "@mui/material";
+import { Box, Container, Divider, IconButton, Link, Typography } from "@mui/material";
 import { GitHub } from "@mui/icons-material";
 
 export default function Footer() {
     return (
-        <Box component='footer' sx={{ py: 3 }}>
+        <Box component='footer' sx={{ my: 3 }}>
             <Container maxWidth='md'>
                 <Divider />
                 <Typography variant='body2' textAlign='center' mt={3} mb={1}>
