@@ -31,7 +31,7 @@ export default function TagPage({ tag, recipes, pagination }: TagPageProps & Inf
                     <Typography sx={{ color: 'text.primary' }}>{name}</Typography>
                 </Breadcrumbs>
 
-                <Typography component='h1' variant='h4' mt={1} mb={3}>
+                <Typography component='h1' variant='h4' mt={1} mb={2}>
                     Recipes tagged with {name}
                 </Typography>
 

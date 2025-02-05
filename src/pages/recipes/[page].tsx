@@ -18,7 +18,7 @@ export default function RecipesPaginationPage({ recipes, pagination }: RecipesPa
         <Layout>
             <SEO title='Recipes' />
             <Wrapper>
-                <Typography component='h1' variant='h4' mt={1} mb={3}>Epicure Recipes</Typography>
+                <Typography component='h1' variant='h4' mt={1} mb={2}>Epicure Recipes</Typography>
 
                 <Grid container spacing={2}>
                     {recipes

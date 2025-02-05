@@ -32,7 +32,7 @@ export default function ProductPaginationPage({ product, recipes, pagination }: 
                     <Typography sx={{ color: 'text.primary' }}>{name}</Typography>
                 </Breadcrumbs>
 
-                <Typography component='h1' variant='h4' mt={1} mb={3}>
+                <Typography component='h1' variant='h4' mt={1} mb={2}>
                     Recipes made with {name}
                 </Typography>
 
