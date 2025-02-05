@@ -1,8 +1,5 @@
-import fs from 'fs';
-import path from 'path';
 import { Grid2 as Grid, Typography } from '@mui/material';
 import { InferGetStaticPropsType } from 'next';
-import { Recipe } from '../../interfaces/Recipe';
 import Layout from '../../components/layout';
 import SEO from '../../components/seo';
 import Wrapper from '../../components/wrapper';
@@ -51,7 +48,7 @@ export default function RecipesPage({ recipes, pagination }: RecipesPageProps & 
     );
 }
 
-export const getStaticProps = () => {
+export const getStaticProps = async () => {
     const recipes = getRecipes();
     const totalCount = recipes.length;
     const totalPages = Math.ceil(totalCount / RESULTS_PER_PAGE);

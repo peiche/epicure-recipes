@@ -6,7 +6,7 @@ import NextLink from 'next/link';
 import Layout from '../../../components/layout';
 import Wrapper from '../../../components/wrapper';
 import Image from 'next/image';
-import { GetStaticProps, InferGetStaticPropsType } from 'next';
+import { GetStaticPaths, GetStaticProps, InferGetStaticPropsType } from 'next';
 import { Recipe } from '../../../interfaces/Recipe';
 import SEO from '../../../components/seo';
 import { ImageProps } from '../../../interfaces/ImageProps';
@@ -38,7 +38,7 @@ export default function RecipePage({ recipe, image }: RecipePageProps & InferGet
             <Wrapper>
 
                 <Breadcrumbs>
-                    <Link underline='hover' color='inherit' component={NextLink} href='/'>Recipes</Link>
+                    <Link underline='hover' color='inherit' component={NextLink} href='/recipes'>Recipes</Link>
                     <Typography sx={{ color: 'text.primary' }}>{name}</Typography>
                 </Breadcrumbs>
 
@@ -217,7 +217,7 @@ export default function RecipePage({ recipe, image }: RecipePageProps & InferGet
     );
 }
 
-export const getStaticPaths = () => {
+export const getStaticPaths: GetStaticPaths = async () => {
     const recipesDirectory = path.join(process.cwd(), 'src', 'data', 'recipes');
     const filenames = fs.readdirSync(recipesDirectory);
 
@@ -231,7 +231,7 @@ export const getStaticPaths = () => {
     };
 }
 
-export const getStaticProps: GetStaticProps = ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params }) => {
     const recipePath = path.join(process.cwd(), 'src', 'data', 'recipes', `${params?.slug}.json`);
     const content = fs.readFileSync(recipePath, 'utf8');
     const recipe: Recipe = JSON.parse(content);

@@ -5,7 +5,7 @@ import { AccessTimeOutlined, RestaurantOutlined } from '@mui/icons-material';
 import Layout from '../../../components/layout';
 import { useEffect } from 'react';
 import { Recipe } from '../../../interfaces/Recipe';
-import { GetStaticProps, InferGetStaticPropsType } from 'next';
+import { GetStaticPaths, GetStaticProps, InferGetStaticPropsType } from 'next';
 import SEO from '../../../components/seo';
 
 interface RecipePrintPageProps {
@@ -135,7 +135,7 @@ export default function RecipePrintPage({ recipe }: RecipePrintPageProps & Infer
     );
 }
 
-export const getStaticPaths = () => {
+export const getStaticPaths: GetStaticPaths = async () => {
     const recipesDirectory = path.join(process.cwd(), 'src', 'data', 'recipes');
     const filenames = fs.readdirSync(recipesDirectory);
 
@@ -149,8 +149,8 @@ export const getStaticPaths = () => {
     };
 }
 
-export const getStaticProps: GetStaticProps = (context) => {
-    const recipePath = path.join(process.cwd(), 'src', 'data', 'recipes', `${context.params?.slug}.json`);
+export const getStaticProps: GetStaticProps = async ({ params }) => {
+    const recipePath = path.join(process.cwd(), 'src', 'data', 'recipes', `${params?.slug}.json`);
     const content = fs.readFileSync(recipePath, 'utf8');
     const recipe: Recipe = JSON.parse(content);
 

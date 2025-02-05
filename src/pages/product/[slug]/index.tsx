@@ -27,7 +27,7 @@ export default function ProductPage({ product, recipes, pagination }: ProductPag
             <Wrapper>
 
                 <Breadcrumbs>
-                    <Link underline='hover' color='inherit' component={NextLink} href='/'>Recipes</Link>
+                    <Link underline='hover' color='inherit' component={NextLink} href='/recipes'>Recipes</Link>
                     <Typography sx={{ color: 'text.primary' }}>Products</Typography>
                     <Typography sx={{ color: 'text.primary' }}>{name}</Typography>
                 </Breadcrumbs>
@@ -73,7 +73,7 @@ export default function ProductPage({ product, recipes, pagination }: ProductPag
     );
 }
 
-export const getStaticPaths: GetStaticPaths = () => {
+export const getStaticPaths: GetStaticPaths = async () => {
     const productsDirectory = path.join(process.cwd(), 'src', 'data', 'products');
     const filenames = fs.readdirSync(productsDirectory);
 
@@ -87,7 +87,7 @@ export const getStaticPaths: GetStaticPaths = () => {
     };
 }
 
-export const getStaticProps: GetStaticProps = ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params }) => {
     const productPath = path.join(process.cwd(), 'src', 'data', 'products', `${params?.slug}.json`);
     const content = fs.readFileSync(productPath, 'utf8');
     const product: Product = JSON.parse(content);

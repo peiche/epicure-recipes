@@ -51,6 +51,27 @@ export default function RecipesPaginationPage({ recipes, pagination }: RecipesPa
     );
 }
 
+export const getStaticPaths: GetStaticPaths = async () => {
+    const recipes = getRecipes();
+    const totalCount = recipes.length;
+    const totalPages = Math.ceil(totalCount / RESULTS_PER_PAGE);
+
+    let staticPathsResult: GetStaticPathsResult = {
+        paths: [],
+        fallback: false,
+    };
+
+    for (let i = 2; i < totalPages + 1; i++) {
+        staticPathsResult.paths.push({
+            params: {
+                page: i.toString(),
+            },
+        });
+    }
+
+    return staticPathsResult;
+}
+
 export const getStaticProps: GetStaticProps = async ({ params }) => {
     const page = parseInt(String(params?.page));
 
@@ -79,25 +100,4 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
             pagination,
         },
     };
-}
-
-export const getStaticPaths: GetStaticPaths = async () => {
-    const recipes = getRecipes();
-    const totalCount = recipes.length;
-    const totalPages = Math.ceil(totalCount / RESULTS_PER_PAGE);
-
-    let staticPathsResult: GetStaticPathsResult = {
-        paths: [],
-        fallback: false,
-    };
-
-    for (let i = 2; i < totalPages + 1; i++) {
-        staticPathsResult.paths.push({
-            params: {
-                page: i.toString(),
-            },
-        });
-    }
-
-    return staticPathsResult;
 }

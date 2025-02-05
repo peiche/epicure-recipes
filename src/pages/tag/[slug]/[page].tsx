@@ -26,7 +26,7 @@ export default function TagPaginationPage({ tag, recipes, pagination }: TagPageP
             <Wrapper>
 
                 <Breadcrumbs>
-                    <Link underline='hover' color='inherit' component={NextLink} href='/'>Recipes</Link>
+                    <Link underline='hover' color='inherit' component={NextLink} href='/recipes'>Recipes</Link>
                     <Typography sx={{ color: 'text.primary' }}>Tags</Typography>
                     <Typography sx={{ color: 'text.primary' }}>{name}</Typography>
                 </Breadcrumbs>
@@ -66,7 +66,7 @@ export default function TagPaginationPage({ tag, recipes, pagination }: TagPageP
     );
 }
 
-export const getStaticPaths: GetStaticPaths = () => {
+export const getStaticPaths: GetStaticPaths = async () => {
     const tagsDirectory = path.join(process.cwd(), 'src', 'data', 'tags');
     const filenames = fs.readdirSync(tagsDirectory);
 
@@ -95,7 +95,7 @@ export const getStaticPaths: GetStaticPaths = () => {
     return staticPathsResult;
 }
 
-export const getStaticProps: GetStaticProps = ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params }) => {
     const page = parseInt(String(params?.page));
     const tagPath = path.join(process.cwd(), 'src', 'data', 'tags', `${params?.slug}.json`);
     const content = fs.readFileSync(tagPath, 'utf8');
