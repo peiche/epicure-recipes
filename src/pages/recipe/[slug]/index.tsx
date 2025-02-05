@@ -9,10 +9,7 @@ import Image from 'next/image';
 import { GetStaticProps, InferGetStaticPropsType } from 'next';
 import { Recipe } from '../../../interfaces/Recipe';
 import SEO from '../../../components/seo';
-
-interface ImageProps {
-    src?: string;
-}
+import { ImageProps } from '../../../interfaces/ImageProps';
 
 interface RecipePageProps {
     recipe: Recipe;
@@ -234,14 +231,14 @@ export const getStaticPaths = () => {
     };
 }
 
-export const getStaticProps: GetStaticProps = (context) => {
-    const recipePath = path.join(process.cwd(), 'src', 'data', 'recipes', `${context.params?.slug}.json`);
+export const getStaticProps: GetStaticProps = ({ params }) => {
+    const recipePath = path.join(process.cwd(), 'src', 'data', 'recipes', `${params?.slug}.json`);
     const content = fs.readFileSync(recipePath, 'utf8');
-    const recipe = JSON.parse(content);
+    const recipe: Recipe = JSON.parse(content);
 
     const image: ImageProps = {};
 
-    if (recipe.imagePath) {
+    if (recipe.image) {
         const srcDir = path.join(process.cwd(), 'src/data/images');
         const destDir = path.join(process.cwd(), 'public/processed');
 
@@ -249,7 +246,7 @@ export const getStaticProps: GetStaticProps = (context) => {
             fs.mkdirSync(destDir, { recursive: true });
         }
 
-        const imagePath = recipe.imagePath.replace('../images/', '');
+        const imagePath = recipe.image;
         const srcPath = path.join(srcDir, imagePath);
         const destPath = path.join(destDir, imagePath);
 

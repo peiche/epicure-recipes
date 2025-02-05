@@ -14,6 +14,7 @@ export interface Recipe {
     tips: string[];
     perfectlyBalanceYourPlate: string,
     nutritionalInformation: NutritionalInformation,
+    image: string;
 }
 
 interface Ingredient {

@@ -152,7 +152,7 @@ export const getStaticPaths = () => {
 export const getStaticProps: GetStaticProps = (context) => {
     const recipePath = path.join(process.cwd(), 'src', 'data', 'recipes', `${context.params?.slug}.json`);
     const content = fs.readFileSync(recipePath, 'utf8');
-    const recipe = JSON.parse(content);
+    const recipe: Recipe = JSON.parse(content);
 
     return {
         props: {
