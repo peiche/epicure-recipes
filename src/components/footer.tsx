@@ -1,5 +1,5 @@
 import React from "react"
-import { Box, Container, Divider, IconButton, Link, Stack, Typography } from "@mui/material";
+import { Box, Container, Divider, IconButton, Link, Typography } from "@mui/material";
 import { GitHub } from "@mui/icons-material";
 
 export default function Footer() {

@@ -14,7 +14,7 @@ import { TagPageProps } from '../../../interfaces/TagPageProps';
 import { getRecipesForTag } from '../../../lib/recipe';
 import { Tag } from '../../../interfaces/Tag';
 
-export default function TagPage({ tag, recipes, pagination }: TagPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
+export default function TagPaginationPage({ tag, recipes, pagination }: TagPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
     const {
         slug,
         name,

@@ -1,7 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { Card, CardContent, CardMedia, Grid2 as Grid, Link, List, ListItem, ListItemText, Typography } from '@mui/material';
-import NextLink from 'next/link';
+import { Grid2 as Grid, Typography } from '@mui/material';
 import { GetStaticPaths, GetStaticPathsResult, GetStaticProps, InferGetStaticPropsType } from 'next';
 import { Recipe } from '../../interfaces/Recipe';
 import Layout from '../../components/layout';
@@ -11,13 +10,9 @@ import { RESULTS_PER_PAGE } from '../../constants/pagination';
 import Pagination from '../../components/pagination';
 import RecipeCard from '../../components/recipeCard';
 import { PaginationProps } from '../../interfaces/PaginationProps';
+import { RecipesPageProps } from '../../interfaces/RecipesPageProps';
 
-interface RecipesPaginationPageProps {
-    recipes: Recipe[];
-    pagination: PaginationProps,
-}
-
-export default function RecipesPaginationPage({ recipes, pagination }: RecipesPaginationPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
+export default function RecipesPaginationPage({ recipes, pagination }: RecipesPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
     return (
         <Layout>
             <SEO title='Recipes' />

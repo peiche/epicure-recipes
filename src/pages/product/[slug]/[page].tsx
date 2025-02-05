@@ -14,7 +14,7 @@ import { PaginationProps } from '../../../interfaces/PaginationProps';
 import { getRecipesForProduct } from '../../../lib/recipe';
 import { ProductPageProps } from '../../../interfaces/ProductPageProps';
 
-export default function ProductPage({ product, recipes, pagination }: ProductPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
+export default function ProductPaginationPage({ product, recipes, pagination }: ProductPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
     const {
         slug,
         name,

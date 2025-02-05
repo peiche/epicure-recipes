@@ -3,14 +3,9 @@ import Wrapper from '../components/wrapper';
 import { Box, Link, Typography } from '@mui/material';
 import NextLink from 'next/link';
 import { Recipe } from '../interfaces/Recipe';
-import { InferGetStaticPropsType } from 'next';
 import SEO from '../components/seo';
 
-interface HomePageProps {
-    recipes: Recipe[];
-}
-
-export default function HomePage({ recipes }: HomePageProps) {
+export default function HomePage() {
     return (
         <Layout>
             <SEO title='Home' />

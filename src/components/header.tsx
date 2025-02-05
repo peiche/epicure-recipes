@@ -1,7 +1,7 @@
-import React, { useState } from "react"
-import { AppBar, Box, Container, FormControl, FormControlLabel, FormLabel, IconButton, Menu, MenuItem, Radio, RadioGroup, Stack, ToggleButton, ToggleButtonGroup, Toolbar, Typography, useColorScheme } from "@mui/material";
+import React from "react"
+import { AppBar, Box, Container, IconButton, Toolbar, Typography } from "@mui/material";
 import NextLink from "next/link";
-import { Contrast, DarkMode, LightMode, SearchOutlined } from "@mui/icons-material";
+import { SearchOutlined } from "@mui/icons-material";
 import ModeToggle from "./modeToggle";
 
 export default function Header() {

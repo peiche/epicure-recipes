@@ -1,7 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { Card, CardContent, CardHeader, CardMedia, Grid2 as Grid, Link, List, ListItem, ListItemText, Typography } from '@mui/material';
-import NextLink from 'next/link';
+import { Grid2 as Grid, Typography } from '@mui/material';
 import { InferGetStaticPropsType } from 'next';
 import { Recipe } from '../../interfaces/Recipe';
 import Layout from '../../components/layout';
@@ -11,11 +10,7 @@ import { RESULTS_PER_PAGE } from '../../constants/pagination';
 import Pagination from '../../components/pagination';
 import RecipeCard from '../../components/recipeCard';
 import { PaginationProps } from '../../interfaces/PaginationProps';
-
-interface RecipesPageProps {
-    recipes: Recipe[];
-    pagination: PaginationProps,
-}
+import { RecipesPageProps } from '../../interfaces/RecipesPageProps';
 
 export default function RecipesPage({ recipes, pagination }: RecipesPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
     return (
