@@ -7,16 +7,14 @@ interface WrapperProps {
     children: React.ReactNode;
 }
 
-const Wrapper: React.FC<WrapperProps> = ({ children }) => {
+export default function Wrapper({ children }: WrapperProps) {
     return (
         <>
             <Header />
-            <Container maxWidth='md' sx={{ my: 3 }}>
+            <Container maxWidth='lg' sx={{ my: 3 }}>
                 {children}
             </Container>
             <Footer />
         </>
     )
 }
-
-export default Wrapper;

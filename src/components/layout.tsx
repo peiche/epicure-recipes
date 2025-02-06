@@ -6,7 +6,7 @@ interface LayoutProps {
     children: React.ReactNode;
 }
 
-const Layout: React.FC<LayoutProps> = ({ children }) => {
+export default function Layout({ children }: LayoutProps) {
     return (
         <ThemeProvider theme={theme}>
             <CssBaseline />
@@ -15,4 +15,3 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
     )
 }
 
-export default Layout;

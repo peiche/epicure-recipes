@@ -3,6 +3,7 @@ import { AppBar, Box, Container, IconButton, Toolbar, Typography } from "@mui/ma
 import NextLink from "next/link";
 import { SearchOutlined } from "@mui/icons-material";
 import ModeToggle from "./modeToggle";
+import SearchDialog from "./searchDialog";
 
 export default function Header() {
     return (
@@ -11,7 +12,7 @@ export default function Header() {
             borderLeft: 0,
             borderRight: 0,
         }}>
-            <Container maxWidth='md'>
+            <Container maxWidth='lg'>
                 <Toolbar disableGutters sx={{ justifyContent: 'space-between' }}>
                     <Typography
                         component={NextLink}
@@ -23,13 +24,7 @@ export default function Header() {
 
                     <Box>
                         <ModeToggle />
-
-                        <IconButton
-                            component={NextLink}
-                            href='/search'
-                        >
-                            <SearchOutlined />
-                        </IconButton>
+                        <SearchDialog />
                     </Box>
                 </Toolbar>
             </Container>

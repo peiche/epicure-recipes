@@ -5,7 +5,7 @@ import { GitHub } from "@mui/icons-material";
 export default function Footer() {
     return (
         <Box component='footer' sx={{ my: 3 }}>
-            <Container maxWidth='md'>
+            <Container maxWidth='lg'>
                 <Divider />
                 <Typography variant='body2' textAlign='center' mt={3} mb={1}>
                     Written by{` `}

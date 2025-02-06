@@ -5,7 +5,7 @@ interface SEOProps {
     title: string;
 }
 
-const SEO = ({ title }: SEOProps) => {
+export default function SEO({ title }: SEOProps) {
     const siteTitle = config.title;
 
     return (
@@ -17,5 +17,3 @@ const SEO = ({ title }: SEOProps) => {
         </Head>
     )
 };
-
-export default SEO;
