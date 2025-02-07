@@ -7,7 +7,7 @@ interface PaginationProps {
     totalPages: number;
 }
 
-const Pagination = ({ prefix, currentPage, totalPages }: PaginationProps) => {
+export default function Pagination({ prefix, currentPage, totalPages }: PaginationProps) {
     return (
         <Box display='flex' justifyContent='center' mt={2}>
             <MuiPagination
@@ -31,5 +31,3 @@ const Pagination = ({ prefix, currentPage, totalPages }: PaginationProps) => {
         </Box>
     )
 }
-
-export default Pagination;

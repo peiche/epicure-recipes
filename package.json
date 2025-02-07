@@ -15,19 +15,21 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@algolia/autocomplete-js": "^1.18.0",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@fontsource/roboto": "^5.1.1",
+    "@fortawesome/free-brands-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
     "@mui/icons-material": "^6.4.1",
     "@mui/material": "^6.4.1",
-    "@mui/material-nextjs": "^6.4.2",
     "@netlify/plugin-nextjs": "^5.9.4",
-    "@types/lunr": "^2.3.7",
+    "algoliasearch": "^5.20.1",
     "fs": "^0.0.1-security",
-    "lunr": "^2.3.9",
     "next": "^15.1.6",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-instantsearch": "^7.15.3"
   },
   "devDependencies": {
     "@types/node": "^20.11.19",

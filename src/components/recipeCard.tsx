@@ -1,9 +1,9 @@
 import NextLink from 'next/link';
-import { Recipe } from "../interfaces/Recipe"
+import { Recipe, RecipeLite } from "../interfaces/Recipe"
 import { Card, CardContent, CardMedia, Link, Typography } from '@mui/material';
 
 interface RecipeCardProps {
-    recipe: Recipe;
+    recipe: Recipe | RecipeLite;
 }
 
 export default function RecipeCard({ recipe }: RecipeCardProps) {

@@ -1,12 +1,16 @@
 import { Tag } from "./Tag";
 import { Product } from "./Product";
 
-export interface Recipe {
+export interface RecipeLite {
     name: string;
     slug: string;
+    description: string;
+    image: string;
+}
+
+export interface Recipe extends RecipeLite {
     totalTime: string;
     servings: string;
-    description: string;
     ingredients: Ingredient[];
     preparation: string[];
     tags: Tag[];
@@ -14,7 +18,6 @@ export interface Recipe {
     tips: string[];
     perfectlyBalanceYourPlate: string,
     nutritionalInformation: NutritionalInformation,
-    image: string;
 }
 
 interface Ingredient {
