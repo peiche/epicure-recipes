@@ -1,9 +1,8 @@
 import React from "react"
-import { AppBar, Box, Container, IconButton, Toolbar, Typography } from "@mui/material";
+import { AppBar, Box, Container, Toolbar, Typography } from "@mui/material";
 import NextLink from "next/link";
-import { SearchOutlined } from "@mui/icons-material";
 import ModeToggle from "./modeToggle";
-import SearchDialog from "./searchDialog";
+import HeaderSearch from "./headerSearch";
 
 export default function Header() {
     return (
@@ -22,9 +21,9 @@ export default function Header() {
                         sx={{ textDecoration: 'none' }}
                     >Epicure Recipes</Typography>
 
-                    <Box>
+                    <Box display='flex' gap={1}>
                         <ModeToggle />
-                        <SearchDialog />
+                        <HeaderSearch />
                     </Box>
                 </Toolbar>
             </Container>
