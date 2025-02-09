@@ -2,7 +2,7 @@ import React from "react"
 import { AppBar, Box, Container, Toolbar, Typography } from "@mui/material";
 import NextLink from "next/link";
 import ModeToggle from "./modeToggle";
-import HeaderSearch from "./headerSearch";
+import SearchDialogButton from "./searchDialogButton";
 
 export default function Header() {
     return (
@@ -23,7 +23,7 @@ export default function Header() {
 
                     <Box display='flex' gap={1}>
                         <ModeToggle />
-                        <HeaderSearch />
+                        <SearchDialogButton />
                     </Box>
                 </Toolbar>
             </Container>
