@@ -25,6 +25,7 @@
     "@netlify/plugin-nextjs": "^5.9.4",
     "algoliasearch": "^5.20.1",
     "fs": "^0.0.1-security",
+    "instantsearch.js": "^4.77.3",
     "next": "^15.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
