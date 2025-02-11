@@ -37,7 +37,6 @@ export default function SearchSuggestBox({ handleClose }: SearchBoxProps) {
         if (hits.length > 0) {
             switch (key) {
                 case 'ArrowUp':
-                    console.log('up');
                     if (selectedIndex === 0) {
                         setSelectedIndex(-1);
                     } else {
