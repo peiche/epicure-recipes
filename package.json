@@ -19,22 +19,36 @@
     "@emotion/styled": "^11.14.0",
     "@fontsource/roboto": "^5.1.1",
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
+    "@fortawesome/free-regular-svg-icons": "^6.7.2",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
     "@fortawesome/react-fontawesome": "^0.2.2",
     "@mui/icons-material": "^6.4.1",
     "@mui/material": "^6.4.1",
     "@netlify/plugin-nextjs": "^5.9.4",
+    "@progress/kendo-licensing": "^1.5.1",
+    "@progress/kendo-react-buttons": "^10.0.0",
+    "@progress/kendo-react-common": "^10.0.0",
+    "@progress/kendo-react-data-tools": "^10.0.0",
+    "@progress/kendo-react-dialogs": "^10.0.0",
+    "@progress/kendo-react-inputs": "^10.0.0",
+    "@progress/kendo-react-layout": "^10.0.0",
+    "@progress/kendo-react-popup": "^10.0.0",
+    "@progress/kendo-svg-icons": "^4.0.0",
+    "@progress/kendo-theme-default": "^10.3.1",
     "algoliasearch": "^5.20.1",
     "fs": "^0.0.1-security",
     "instantsearch.js": "^4.77.3",
-    "next": "^15.1.6",
+    "next": "^15.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-instantsearch": "^7.15.3"
+    "react-instantsearch": "^7.15.3",
+    "use-breakpoint": "^4.0.6"
   },
   "devDependencies": {
     "@types/node": "^20.11.19",
     "@types/react": "^18.2.55",
     "@types/react-dom": "^18.2.19",
+    "sass": "^1.85.1",
     "typescript": "^5.3.3"
   }
 }

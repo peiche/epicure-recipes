@@ -1,5 +1,4 @@
 import React from "react"
-import { Container } from "@mui/material";
 import Header from "./header";
 import Footer from "./footer";
 
@@ -11,9 +10,9 @@ export default function Wrapper({ children }: WrapperProps) {
     return (
         <>
             <Header />
-            <Container maxWidth='lg' sx={{ my: 3 }}>
+            <div className="container">
                 {children}
-            </Container>
+            </div>
             <Footer />
         </>
     )

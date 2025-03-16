@@ -1,4 +1,4 @@
-import { Box, Typography } from "@mui/material";
+import { Typography } from "@progress/kendo-react-common";
 
 interface FilterPanelProps {
     label: string;
@@ -8,10 +8,10 @@ interface FilterPanelProps {
 export default function SearchFilterPanel({ label, children }: FilterPanelProps) {
     return (
         <>
-            <Typography variant='body2' textTransform='uppercase'>{label}</Typography>
-            <Box mb={2}>
+            <Typography.h2 className="k-h5 !k-font-normal !k-mb-1">{label}</Typography.h2>
+            <div className="k-mb-2">
                 {children}
-            </Box>
+            </div>
         </>
     )
 };

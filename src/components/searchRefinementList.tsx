@@ -1,5 +1,8 @@
-import { KeyboardArrowDown, KeyboardArrowUp } from "@mui/icons-material";
-import { Box, Button, Checkbox, Chip, FormControl, FormControlLabel, Typography } from "@mui/material";
+import { faChevronDown, faChevronUp } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { Button, Chip } from "@progress/kendo-react-buttons";
+import { Typography } from "@progress/kendo-react-common";
+import { Checkbox } from "@progress/kendo-react-inputs";
 import { RefinementListProps, useRefinementList } from "react-instantsearch";
 
 export default function SearchRefinementList(props: RefinementListProps) {
@@ -13,50 +16,48 @@ export default function SearchRefinementList(props: RefinementListProps) {
 
     if (items.length === 0) {
         return (
-            <Typography variant='body2' mt={1} fontStyle='italic' sx={(theme) => ({
-                color: theme.palette.text.disabled,
-            })}>
-                There are no refinements available.
-            </Typography>
+            <Typography.p className="k-text-subtle">
+                <i>There are no refinements available.</i>
+            </Typography.p>
         )
     }
 
     return (
         <>
             {items.map((item, index) => (
-                <FormControl key={index} fullWidth>
-                    <FormControlLabel
-                        control={
-                            <Checkbox
-                                checked={item.isRefined}
-                                onChange={() => refine(item.value)}
-                            />
-                        }
+                <div key={index}>
+                    <Checkbox
+                        checked={item.isRefined}
+                        onChange={() => refine(item.value)}
                         label={
-                            <Box sx={{
-                                display: 'flex',
-                                alignItems: 'center',
-                                gap: 1,
-                            }}>
-                                <Typography component='span'>{item.label}</Typography>
-                                <Chip label={item.count} size='small' variant='outlined' />
-                            </Box>
+                            <span className="k-d-inline-flex k-gap-2 k-my-1">
+                                <span>{item.label}</span>
+                                <Chip
+                                    text={item.count.toString()}
+                                    size='small'
+                                    fillMode='outline'
+                                    className="k-rounded-full"
+                                />
+                            </span>
                         }
                     />
-                </FormControl>
+                </div>
             ))}
 
             {canToggleShowMore && (
-                <Button variant="text" onClick={toggleShowMore} color='inherit' startIcon={
-                    <>
-                    {isShowingMore ? (
-                        <KeyboardArrowUp />
-                    ) : (
-                        <KeyboardArrowDown />
-                    )}</>
-                } sx={{
-                    textTransform: 'none',
-                }}>
+                <Button
+                    onClick={toggleShowMore}
+                    fillMode='link'
+                    startIcon={
+                        <>
+                            {isShowingMore ? (
+                                <FontAwesomeIcon icon={faChevronUp} />
+                            ) : (
+                                <FontAwesomeIcon icon={faChevronDown} />
+                            )}
+                        </>
+                    }
+                >
                     {isShowingMore ? 'Show less' : 'Show more'}
                 </Button>
             )}

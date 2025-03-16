@@ -1,7 +1,5 @@
 import { faAlgolia } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { Close, Search } from "@mui/icons-material";
-import { Box, Grid2 as Grid, IconButton, InputAdornment, Link, TextField, Typography } from "@mui/material";
 import { useSearchParams } from "next/navigation";
 import { useEffect, useState } from "react";
 import { DynamicWidgets, useSearchBox } from "react-instantsearch";
@@ -11,6 +9,12 @@ import SearchResultsGrid from "./searchResultsGrid";
 import SearchPagination from "./searchPagination";
 import SearchRefinements from "./searchRefinements";
 import SearchDrawer from "./searchDrawer";
+import { Typography } from "@progress/kendo-react-common";
+import Link from "next/link";
+import { TextBox } from "@progress/kendo-react-inputs";
+import { Button } from "@progress/kendo-react-buttons";
+import { faClose, faSearch } from "@fortawesome/free-solid-svg-icons";
+import { GridLayout, GridLayoutItem } from "@progress/kendo-react-layout";
 
 export default function SearchBoxResults() {
     const searchParams = useSearchParams();
@@ -44,85 +48,90 @@ export default function SearchBoxResults() {
 
     return (
         <>
-            <TextField
-                id='search-input'
-                placeholder='Search...'
-                value={query}
-                onChange={(event) => refine(event.target.value)}
-                autoComplete='off'
-                autoFocus
-                fullWidth
-                slotProps={{
-                    htmlInput: { 'aria-label': 'search' },
-                    input: {
-                        startAdornment: (
-                            <InputAdornment position='start'>
-                                <Search />
-                            </InputAdornment>
-                        ),
-                        endAdornment: (
-                            <InputAdornment position='end'>
-                                {query && (
-                                    <IconButton onClick={handleClearSearch}>
-                                        <Close />
-                                    </IconButton>
-                                )}
-                            </InputAdornment>
-                        )
-                    }
-                }}
-            />
-            <Box textAlign='right' mt={1} mb={2}>
+            <div className="k-d-flex k-gap-2 k-align-items-center k-relative">
+                <FontAwesomeIcon icon={faSearch} style={{
+                    position: 'absolute',
+                    left: '10px',
+                }} />
+                <TextBox
+                    fillMode='outline'
+                    size='large'
+                    id='search-input'
+                    placeholder='Search...'
+                    value={query}
+                    onChange={(event) => {
+                        if (typeof event.target.value === 'string') {
+                            refine(event.target.value);
+                        }
+                    }}
+                    autoComplete='off'
+                    autoFocus
+                    style={{
+                        paddingLeft: '30px',
+                    }}
+                />
+                {query && (
+                    <Button
+                        size='large'
+                        fillMode='flat'
+                        rounded='full'
+                        startIcon={<FontAwesomeIcon icon={faClose} />}
+                        onClick={handleClearSearch}
+                        style={{
+                            position: 'absolute',
+                            right: '10px',
+                            zIndex: 1,
+                        }}
+                    />
+                )}
+            </div>
+            <div className="k-text-right k-mt-1 k-mb-2 k-font-size-md">
                 <Link
-                    variant='body2'
                     href='https://www.algolia.com'
-                    target='_blank'
-                    underline='hover'
-                    color='inherit'
+                    target="_blank"
+                    className="k-link"
                 >
                     Search powered by{` `}
-                    <FontAwesomeIcon icon={faAlgolia} />{` `}
+                    <FontAwesomeIcon icon={faAlgolia} />
                 </Link>
-            </Box>
+            </div>
 
             {query ? (
                 <>
-                    <Grid container>
-                        <Grid size={12} sx={{
-                            display: { xs: 'none', md: 'block' },
-                        }}>
+                    <div className="k-d-xs-none k-d-md-block">
+                        <SearchRefinements />
+                    </div>
+                    <div className="k-d-md-none">
+                        <SearchDrawer>
                             <SearchRefinements />
-                        </Grid>
-                        <Grid size={12} mb={2} sx={{
-                            display: { xs: 'block', md: 'none' },
-                        }}>
-                            <SearchDrawer>
-                                <SearchRefinements />
-                                {filterSidebar}
-                            </SearchDrawer>
-                        </Grid>
-                        <Grid size={{
-                            xs: 12,
-                            md: 3,
-                        }} sx={{
-                            display: { xs: 'none', md: 'block' },
-                        }}>
                             {filterSidebar}
-                        </Grid>
-                        <Grid size={{
-                            xs: 12,
-                            md: 9,
-                        }}>
+                        </SearchDrawer>
+                    </div>
+                    <GridLayout
+                        className="grid-responsive-sidebar"
+                        gap={{
+                            cols: 10,
+                            rows: 10,
+                        }}
+                    >
+                        <GridLayoutItem className="k-d-xs-none k-d-md-block">
+                            {filterSidebar}
+                        </GridLayoutItem>
+                        <GridLayoutItem>
                             <SearchResultsGrid />
-                        </Grid>
+                        </GridLayoutItem>
+                    </GridLayout>
 
+                    <div className="k-mt-3">
                         <SearchPagination />
-                    </Grid>
+                    </div>
                 </>
             ) : (
-                <Box p={5}>
-                    <Typography textAlign='center' fontStyle='italic'>Type something to start searching</Typography>
-                </Box>
+                <div className="p-5">
+                    <Typography.p className="k-text-center">
+                        <i>Type something to start searching</i>
+                    </Typography.p>
+                </div>
             )}
         </>
     )

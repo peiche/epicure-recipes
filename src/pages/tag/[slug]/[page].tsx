@@ -2,8 +2,6 @@ import fs from 'fs';
 import path from 'path';
 import Layout from '../../../components/layout';
 import Wrapper from '../../../components/wrapper';
-import { Breadcrumbs, Grid2 as Grid, Link, Typography } from '@mui/material';
-import NextLink from 'next/link';
 import { GetStaticPaths, GetStaticPathsResult, GetStaticProps, InferGetStaticPropsType } from 'next';
 import SEO from '../../../components/seo';
 import RecipeCard from '../../../components/recipeCard';
@@ -13,6 +11,9 @@ import { PaginationProps } from '../../../interfaces/PaginationProps';
 import { TagPageProps } from '../../../interfaces/TagPageProps';
 import { getRecipesForTag } from '../../../lib/recipe';
 import { Tag } from '../../../interfaces/Tag';
+import { Typography } from '@progress/kendo-react-common';
+import { GridLayout, GridLayoutItem } from '@progress/kendo-react-layout';
+import Breadcrumb from '../../../components/breadcrumbs';
 
 export default function TagPaginationPage({ tag, recipes, pagination }: TagPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
     const {
@@ -25,41 +26,40 @@ export default function TagPaginationPage({ tag, recipes, pagination }: TagPageP
             <SEO title={`Tag: ${name}`} />
             <Wrapper>
 
-                <Breadcrumbs>
-                    <Link underline='hover' color='inherit' component={NextLink} href='/recipes'>Recipes</Link>
-                    <Typography sx={{ color: 'text.primary' }}>Tags</Typography>
-                    <Typography sx={{ color: 'text.primary' }}>{name}</Typography>
-                </Breadcrumbs>
+                <Breadcrumb
+                    items={[
+                        { text: 'Recipes', href: '/recipes' },
+                        { text: 'Tags' },
+                        { text: name },
+                    ]}
+                />
 
-                <Typography component='h1' variant='h4' mt={1} mb={2}>
+                <Typography.h1 className='k-h3'>
                     Recipes tagged with {name}
-                </Typography>
+                </Typography.h1>
 
-                <Grid container spacing={2}>
-                    {recipes
-                        .map((recipe, index) => (
-                            <Grid
-                                key={index}
-                                size={{
-                                    xs: 12,
-                                    sm: 6,
-                                    md: 4,
-                                }}
-                            >
-                                <RecipeCard recipe={recipe} />
-                            </Grid>
-                        ))}
-
-                    <Grid size={12}>
-                        {pagination.totalPages > 1 && (
-                            <Pagination
-                                prefix={`/tag/${slug}`}
-                                currentPage={pagination.currentPage}
-                                totalPages={pagination.totalPages}
-                            />
-                        )}
-                    </Grid>
-                </Grid>
+                <GridLayout
+                    className='grid-responsive-3-cols'
+                    gap={{
+                        cols: 10,
+                        rows: 10,
+                    }}
+                >
+                    {recipes.map((recipe, index) => (
+                        <GridLayoutItem key={index}>
+                            <RecipeCard recipe={recipe} />
+                        </GridLayoutItem>
+                    ))}
+                </GridLayout>
+                {pagination.totalPages > 1 && (
+                    <div className='k-mt-md'>
+                        <Pagination
+                            prefix={`/tag/${slug}`}
+                            currentPage={pagination.currentPage}
+                            totalPages={pagination.totalPages}
+                        />
+                    </div>
+                )}
 
             </Wrapper>
         </Layout>

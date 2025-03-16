@@ -1,8 +1,5 @@
 import fs from 'fs';
 import path from 'path';
-import { Box, Breadcrumbs, Button, Chip, Grid2 as Grid, Link, List, ListItem, ListItemText, Typography } from '@mui/material';
-import { AccessTimeOutlined, PrintOutlined, RestaurantOutlined } from '@mui/icons-material';
-import NextLink from 'next/link';
 import Layout from '../../../components/layout';
 import Wrapper from '../../../components/wrapper';
 import Image from 'next/image';
@@ -10,6 +7,15 @@ import { GetStaticPaths, GetStaticProps, InferGetStaticPropsType } from 'next';
 import { Recipe } from '../../../interfaces/Recipe';
 import SEO from '../../../components/seo';
 import { ImageProps } from '../../../interfaces/ImageProps';
+import { Typography } from '@progress/kendo-react-common';
+import Link from 'next/link';
+import { Button, Chip } from '@progress/kendo-react-buttons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faPrint, faUtensils } from '@fortawesome/free-solid-svg-icons';
+import { faClock } from '@fortawesome/free-regular-svg-icons';
+import { GridLayout, GridLayoutItem } from '@progress/kendo-react-layout';
+import Breadcrumb from '../../../components/breadcrumbs';
+import ChipLink from '../../../components/chipLink';
 
 interface RecipePageProps {
     recipe: Recipe;
@@ -37,14 +43,16 @@ export default function RecipePage({ recipe, image }: RecipePageProps & InferGet
             <SEO title={name} />
             <Wrapper>
 
-                <Breadcrumbs>
-                    <Link underline='hover' color='inherit' component={NextLink} href='/recipes'>Recipes</Link>
-                    <Typography sx={{ color: 'text.primary' }}>{name}</Typography>
-                </Breadcrumbs>
+                <Breadcrumb
+                    items={[
+                        { text: 'Recipes', href: '/recipes' },
+                        { text: name },
+                    ]}
+                />
 
-                <Box sx={{ my: 2 }}>
+                <div>
                     {image?.src && (
-                        <Box position='relative'>
+                        <div className='k-fx'>
                             <Image
                                 src={image.src}
                                 alt=''
@@ -56,134 +64,106 @@ export default function RecipePage({ recipe, image }: RecipePageProps & InferGet
                                     height: 'auto',
                                 }}
                             />
-                        </Box>
+                        </div>
                     )}
-
-                    <Typography component='h1' variant='h4' mt={1}>{name}</Typography>
-                </Box>
+                    <Typography.h1 className='k-h3'>{name}</Typography.h1>
+                </div>
 
                 {tags?.length > 0 && (
-                    <Box my={1}>
+                    <div className='k-d-flex k-flex-wrap k-gap-1 k-my-1'>
                         {tags.map((tag, index) => (
-                            <Chip
-                                key={index}
-                                variant='outlined'
-                                size='small'
-                                label={tag.name}
-                                component={NextLink}
-                                href={`/tag/${tag.slug}`}
-                                sx={{
-                                    mr: 1,
-                                    mb: 1,
-                                    cursor: 'pointer',
-                                }} />
+                            <ChipLink key={index} name={tag.name} link={`/tag/${tag.slug}`} />
                         ))}
-                    </Box>
+                    </div>
                 )}
 
-                <Box sx={{
-                    display: 'flex',
-                    justifyContent: 'space-between',
-                    alignItems: 'center',
-                    mt: 1,
-                    mb: 2,
-                }}>
-                    <Box sx={{
-                        display: 'flex',
-                        gap: 3,
-                    }}>
+                <div className='k-d-flex k-justify-content-between k-mb-3'>
+                    <div className='k-d-flex k-gap-5 k-align-items-center'>
                         {totalTime && (
-                            <Typography sx={{ display: 'inline-flex', alignItems: 'center', gap: 1 }}>
-                                <AccessTimeOutlined />
+                            <Typography.p className='k-d-flex k-gap-1 k-align-items-center !k-mb-0'>
+                                <FontAwesomeIcon icon={faClock} />
                                 {totalTime}
-                            </Typography>
+                            </Typography.p>
                         )}
 
                         {servings && (
-                            <Typography sx={{ display: 'inline-flex', alignItems: 'center', gap: 1 }}>
-                                <RestaurantOutlined />
+                            <Typography.p className='k-d-flex k-gap-1 k-align-items-center !k-mb-0'>
+                                <FontAwesomeIcon icon={faUtensils} />
                                 {servings}
-                            </Typography>
+                            </Typography.p>
                         )}
-                    </Box>
+                    </div>
 
                     <Button
-                        variant='contained'
-                        disableElevation
-                        startIcon={<PrintOutlined />}
-                        component={NextLink}
-                        href={`/recipe/${slug}/print`}
+                        themeColor='primary'
+                        fillMode='solid'
+                        startIcon={<FontAwesomeIcon icon={faPrint} />}
                         onClick={(event) => {
                             event.preventDefault();
                             window.open(`/recipe/${slug}/print`);
                             return false;
                         }}
                     >Print</Button>
-                </Box>
+                </div>
 
                 {description && (
-                    <Typography my={2}>{description}</Typography>
+                    <div>
+                        <Typography.p>{description}</Typography.p>
+                    </div>
                 )}
 
-                <Grid container spacing={2} my={2}>
+                <GridLayout
+                    className='grid-responsive-2-cols'
+                    gap={{
+                        cols: 10,
+                        rows: 10,
+                    }}
+                >
                     {ingredients?.length > 0 && (
-                        <Grid size={{
-                            xs: 12,
-                            md: 6,
-                        }}>
-                            <Typography component='h2' variant='h5' mb={1}>Ingredients</Typography>
-                            <List disablePadding>
+                        <GridLayoutItem>
+                            <Typography.h2 className='k-h4 !k-font-normal'>Ingredients</Typography.h2>
+                            <ul className='k-list-none k-mt-0 k-p-0'>
                                 {ingredients.map((ingredient, index) => (
-                                    <ListItem key={index} disablePadding sx={{ display: 'list-item' }}>
-                                        <ListItemText>
-                                            <span dangerouslySetInnerHTML={{ __html: ingredient.quantity }} />{` `}
-                                            {ingredient.name}{ingredient.additionalInstruction && `, ${ingredient.additionalInstruction}`}
-                                        </ListItemText>
-                                    </ListItem>
+                                    <li key={index} className='k-my-2'>
+                                        <span dangerouslySetInnerHTML={{ __html: ingredient.quantity }} />{` `}
+                                        {ingredient.name}{ingredient.additionalInstruction && `, ${ingredient.additionalInstruction}`}
+                                    </li>
                                 ))}
-                            </List>
-                        </Grid>
+                            </ul>
+                        </GridLayoutItem>
                     )}
 
                     {preparation?.length > 0 && (
-                        <Grid size={{
-                            xs: 12,
-                            md: 6,
-                        }}>
-                            <Typography component='h2' variant="h5" mb={1}>Preparation</Typography>
-                            <List disablePadding component='ol' sx={{
-                                listStyle: 'auto',
-                                marginLeft: 3,
-                            }}>
+                        <GridLayoutItem>
+                            <Typography.h2 className='k-h4 !k-font-normal'>Preparation</Typography.h2>
+                            <ul className='k-list-none k-mt-0 k-p-0'>
                                 {preparation.map((prep, index) => (
-                                    <ListItem key={index} disablePadding sx={{ display: 'list-item' }}>
-                                        <ListItemText>{prep}</ListItemText>
-                                    </ListItem>
+                                    <li key={index} className='k-my-2'>
+                                        {prep}
+                                    </li>
                                 ))}
-                            </List>
-                        </Grid>
+                            </ul>
+                        </GridLayoutItem>
                     )}
-                </Grid>
+                </GridLayout>
 
                 {products?.length > 0 && (
-                    <>
-                        <Typography component='h2' variant="h5" mt={2} mb={1}>Epicure Products Used</Typography>
-                        <List>
-                            {products.map((product, index) => (
-                                <ListItem key={index} disablePadding>
-                                    <ListItemText>
-                                        <Link component={NextLink} href={`/product/${product.slug}`}>{product.name}</Link>
-                                    </ListItemText>
-                                </ListItem>
+                    <div>
+                        <Typography.h2 className='k-h4 !k-font-normal'>Epicure Products Used</Typography.h2>
+                        <ul className='k-list-none k-mt-0 k-p-0'>
+                            {products.map((products, index) => (
+                                <li key={index} className='k-my-2'>
+                                    <Link className='' href={`/product/${products.slug}`}>{products.name}</Link>
+                                </li>
                             ))}
-                        </List>
-                    </>
+                        </ul>
+                    </div>
                 )}
 
                 {nutritionalInformation && (
-                    <>
-                        <Typography component='h2' variant="h5" mt={2} mb={1}>Nutritional Information</Typography>
-                        <Typography>
+                    <div>
+                        <Typography.h2 className='k-h4 !k-font-normal'>Nutritional Information</Typography.h2>
+                        <Typography.p>
                             Per serving{nutritionalInformation.servingSize && (
                                 `(${nutritionalInformation.servingSize})`
                             )}:{` `}
@@ -193,24 +173,24 @@ export default function RecipePage({ recipe, image }: RecipePageProps & InferGet
                             Sodium {nutritionalInformation.sodium} mg,{` `}
                             Carbohydrate {nutritionalInformation.carbohydrate} g (Fiber {nutritionalInformation.fiber} g, Sugars {nutritionalInformation.sugars} g),{` `}
                             Protein {nutritionalInformation.protein} g.
-                        </Typography>
-                    </>
+                        </Typography.p>
+                    </div>
                 )}
 
                 {tips?.length > 0 && (
-                    <>
-                        <Typography component='h2' variant="h5" mt={2} mb={1}>Tips</Typography>
+                    <div>
+                        <Typography.h2 className='k-h4 !k-font-normal'>Tips</Typography.h2>
                         {tips.map((tip, index) => (
-                            <Typography key={index}>{tip}</Typography>
+                            <Typography.p key={index}>{tip}</Typography.p>
                         ))}
-                    </>
+                    </div>
                 )}
 
                 {perfectlyBalanceYourPlate && (
-                    <>
-                        <Typography component='h2' variant="h5" mt={2} mb={1}>Perfectly Balance Your Plate</Typography>
-                        <Typography>{perfectlyBalanceYourPlate}</Typography>
-                    </>
+                    <div>
+                        <Typography.h2 className='k-h4 !k-font-normal'>Perfectly Balance Your Plate</Typography.h2>
+                        <Typography.p>{perfectlyBalanceYourPlate}</Typography.p>
+                    </div>
                 )}
             </Wrapper>
         </Layout>

@@ -1,5 +1,7 @@
-import { Close, FilterAlt } from "@mui/icons-material";
-import { Box, Button, Divider, Drawer, IconButton, Toolbar, Typography } from "@mui/material";
+import { faFilter } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { Button } from "@progress/kendo-react-buttons";
+import { Dialog } from "@progress/kendo-react-dialogs";
 import { ReactNode, useState } from "react";
 
 interface SearchDrawerProps {
@@ -8,66 +10,32 @@ interface SearchDrawerProps {
 
 export default function SearchDrawer(props: SearchDrawerProps) {
     const { children } = props;
-    const [mobileOpen, setMobileOpen] = useState(false);
-    const [isClosing, setIsClosing] = useState(false);
+    const [open, setOpen] = useState(false);
 
-    const handleDrawerClose = () => {
-        setIsClosing(true);
-        setMobileOpen(false);
-    };
-
-    const handleDrawerTransitionEnd = () => {
-        setIsClosing(false);
+    const handleClose = () => {
+        setOpen(false);
     };
 
     const handleDrawerToggle = () => {
-        if (!isClosing) {
-            setMobileOpen(!mobileOpen);
-        }
+        setOpen(!open);
     };
 
     return (
         <>
             <Button
-                variant='outlined'
-                color='inherit'
-                startIcon={<FilterAlt />}
+                fillMode='outline'
+                className="k-mb-2"
+                startIcon={<FontAwesomeIcon icon={faFilter} />}
                 onClick={handleDrawerToggle}
             >
-                Search filters
+                Search Filters
             </Button>
 
-            <Drawer
-                variant="temporary"
-                open={mobileOpen}
-                onTransitionEnd={handleDrawerTransitionEnd}
-                onClose={handleDrawerClose}
-                ModalProps={{
-                    keepMounted: true, // Better open performance on mobile.
-                }}
-                sx={{
-                    display: { xs: 'block', md: 'none' },
-                    '& .MuiDrawer-paper': {
-                        boxSizing: 'border-box',
-                        width: '100%',
-                        maxWidth: '380px',
-                    },
-                }}
-            >
-                <Toolbar sx={{
-                    display: 'flex',
-                    justifyContent: 'space-between',
-                }}>
-                    <Typography>Search Filters</Typography>
-                    <IconButton onClick={handleDrawerClose}>
-                        <Close />
-                    </IconButton>
-                </Toolbar>
-                <Divider />
-                <Box p={2}>
+            {open && (
+                <Dialog onClose={handleClose} width={400} title='Search Filters'>
                     {children}
-                </Box>
-            </Drawer>
+                </Dialog>
+            )}
         </>
     )
 }

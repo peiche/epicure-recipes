@@ -1,27 +1,29 @@
 import React from "react"
-import { Box, Container, Divider, IconButton, Link, Typography } from "@mui/material";
-import { GitHub } from "@mui/icons-material";
+import { Typography } from "@progress/kendo-react-common";
+import Link from "next/link";
+import { faGithub } from "@fortawesome/free-brands-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export default function Footer() {
     return (
-        <Box component='footer' sx={{ my: 3 }}>
-            <Container maxWidth='lg'>
-                <Divider />
-                <Typography variant='body2' textAlign='center' mt={3} mb={1}>
+        <footer className="footer">
+            <div className="container">
+                <hr className="k-hr" style={{ borderColor: 'var(--kendo-color-border-alt)' }} />
+                <Typography.p className="k-text-center">
                     Written by{` `}
-                    <Link component='a' href='https://eichefam.net' target="_blank">Paul Eiche</Link>{` `}
+                    <Link className="k-button-link !k-text-underline" href='https://eichefam.net' target="_blank">Paul Eiche</Link>{` `}
                     with recipes from Epicure.{` `}
                     Built with{` `}
-                    <Link component='a' href='https://nextjs.org/' target="_blank">Next.js</Link>{` `}
+                    <Link className="k-button-link !k-text-underline" href='https://nextjs.org/' target="_blank">Next.js</Link>{` `}
                     and hosted on{` `}
-                    <Link component='a' href='https://www.netlify.com/' target="_blank">Netlify</Link>.
-                </Typography>
-                <Box textAlign='center'>
-                    <IconButton color='inherit' size="small" component='a' href='https://github.com/peiche/epicure-recipes' target="_blank">
-                        <GitHub />
-                    </IconButton>
-                </Box>
-            </Container>
-        </Box>
+                    <Link className="k-button-link !k-text-underline" href='https://www.netlify.com/' target="_blank">Netlify</Link>.
+                </Typography.p>
+                <Typography.p className="k-text-center">
+                    <a className="k-link" href='https://github.com/peiche/epicure-recipes' target="_blank">
+                        <FontAwesomeIcon icon={faGithub} size="lg" />
+                    </a>
+                </Typography.p>
+            </div>
+        </footer>
     )
 }

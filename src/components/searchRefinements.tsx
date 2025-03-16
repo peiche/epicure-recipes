@@ -1,6 +1,6 @@
-import { Box, Chip } from "@mui/material";
 import { CurrentRefinementsProps, useCurrentRefinements } from "react-instantsearch";
 import SearchClearRefinements from "./searchClearRefinements";
+import { Chip } from "@progress/kendo-react-buttons";
 
 export default function SearchRefinements(props: CurrentRefinementsProps) {
     const {
@@ -9,18 +9,21 @@ export default function SearchRefinements(props: CurrentRefinementsProps) {
     } = useCurrentRefinements(props);
 
     return (
-        <Box display='flex' flexWrap='wrap' gap={1} mb={2}>
+        <div className="k-d-flex k-gap-2 k-flex-wrap k-mb-2">
             {items.map((item, i) => (
                 item.refinements.map((refinement, j) => (
                     <Chip
-                        key={`${i}_${j}`}
-                        label={refinement.label}
-                        onDelete={() => refine(refinement)}
+                        key={`refinement-${i}_${j}`}
+                        text={refinement.label}
+                        fillMode='solid'
+                        className="k-rounded-full"
+                        removable
+                        onRemove={() => refine(refinement)}
                     />
                 ))
             ))}
 
             <SearchClearRefinements />
-        </Box>
+        </div>
     )
 };
