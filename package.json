@@ -22,8 +22,6 @@
     "@fortawesome/free-regular-svg-icons": "^6.7.2",
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
     "@fortawesome/react-fontawesome": "^0.2.2",
-    "@mui/icons-material": "^6.4.1",
-    "@mui/material": "^6.4.1",
     "@netlify/plugin-nextjs": "^5.9.4",
     "@progress/kendo-licensing": "^1.5.1",
     "@progress/kendo-react-buttons": "^10.0.0",
@@ -38,8 +36,7 @@
     "next": "^15.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-instantsearch": "^7.15.3",
-    "use-breakpoint": "^4.0.6"
+    "react-instantsearch": "^7.15.3"
   },
   "devDependencies": {
     "@types/node": "^20.11.19",
