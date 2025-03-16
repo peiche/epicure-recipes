@@ -1,7 +1,7 @@
 import { faAlgolia } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { useSearchParams } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import { DynamicWidgets, useSearchBox } from "react-instantsearch";
 import SearchFilterPanel from "./searchFilterPanel";
 import SearchRefinementList from "./searchRefinementList";

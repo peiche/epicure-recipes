@@ -9,7 +9,7 @@ import SEO from '../../../components/seo';
 import { ImageProps } from '../../../interfaces/ImageProps';
 import { Typography } from '@progress/kendo-react-common';
 import Link from 'next/link';
-import { Button, Chip } from '@progress/kendo-react-buttons';
+import { Button } from '@progress/kendo-react-buttons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPrint, faUtensils } from '@fortawesome/free-solid-svg-icons';
 import { faClock } from '@fortawesome/free-regular-svg-icons';
