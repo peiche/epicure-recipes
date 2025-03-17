@@ -25,12 +25,12 @@ export default function SearchRefinementList(props: RefinementListProps) {
     return (
         <>
             {items.map((item, index) => (
-                <div key={index}>
+                <div key={index} className="checkbox-wrapper">
                     <Checkbox
                         checked={item.isRefined}
                         onChange={() => refine(item.value)}
                         label={
-                            <span className="k-d-inline-flex k-gap-2 k-my-1">
+                            <span>
                                 <span>{item.label}</span>
                                 <Chip
                                     text={item.count.toString()}

@@ -110,6 +110,26 @@ body {
     }
 }
 
+.checkbox-wrapper {
+    margin-top: 4px;
+    margin-bottom: 4px;
+
+    >div {
+        padding-left: 24px;
+        position: relative;
+    }
+
+    .k-checkbox-wrap {
+        position: absolute;
+        left: 0;
+        top: 2px;
+    }
+
+    .k-chip {
+        margin-left: 4px;
+    }
+}
+
 .footer {
     margin-top: 3em;
     margin-bottom: 3em;
