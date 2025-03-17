@@ -58,7 +58,7 @@ export default function SearchPagination(props: PaginationProps) {
         if (visiblePages[visiblePages.length - 1] < totalPages) {
             items.push(
                 <React.Fragment key={totalPages}>
-                    <span key="ellipsis-end">...</span>,
+                    <span key="ellipsis-end">...</span>
                     <Button
                         type='button'
                         fillMode='outline'
