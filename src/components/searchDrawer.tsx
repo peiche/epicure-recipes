@@ -1,7 +1,8 @@
 import { faFilter } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Button } from "@progress/kendo-react-buttons";
-import { Dialog } from "@progress/kendo-react-dialogs";
+import { Typography } from "@progress/kendo-react-common";
+import { Drawer, DrawerNavigation } from "@progress/kendo-react-layout";
 import { ReactNode, useState } from "react";
 
 interface SearchDrawerProps {
@@ -32,9 +33,17 @@ export default function SearchDrawer(props: SearchDrawerProps) {
             </Button>
 
             {open && (
-                <Dialog onClose={handleClose} width={400} title='Search Filters'>
-                    {children}
-                </Dialog>
+                <Drawer expanded={open} onOverlayClick={handleClose}>
+                    <DrawerNavigation>
+                        <div className="k-p-3 k-pb-0">
+                            <Typography.h2 className="k-h5 !k-font-normal !k-mb-0">Search Filters</Typography.h2>
+                        </div>
+                        <hr className="k-hr" />
+                        <div className="k-p-3 k-pt-0">
+                            {children}
+                        </div>
+                    </DrawerNavigation>
+                </Drawer>
             )}
         </>
     )
