@@ -3,10 +3,11 @@ import SearchDialogButton from "./searchDialogButton";
 import { AppBar, AppBarSection, AppBarSpacer } from "@progress/kendo-react-layout";
 import { Typography } from "@progress/kendo-react-common";
 import Link from "next/link";
+import ModeToggle from "./modeToggle";
 
 export default function Header() {
     return (
-        <AppBar>
+        <AppBar themeColor="inherit" className="appbar-flat">
             <AppBarSection>
                 <Link className="k-link" href='/'>
                     <Typography.h1 className="k-h5" style={{ marginBottom: 0 }}>Epicure Recipes</Typography.h1>
@@ -25,6 +26,7 @@ export default function Header() {
                         paddingLeft: 12,
                         paddingRight: 12
                     }}>Donate</a>
+                <ModeToggle />
                 <SearchDialogButton />
             </AppBarSection>
         </AppBar>
