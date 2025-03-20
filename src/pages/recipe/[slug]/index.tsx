@@ -94,16 +94,14 @@ export default function RecipePage({ recipe, image }: RecipePageProps & InferGet
                         )}
                     </div>
 
-                    <Button
-                        themeColor='primary'
-                        fillMode='solid'
-                        startIcon={<FontAwesomeIcon icon={faPrint} />}
-                        onClick={(event) => {
-                            event.preventDefault();
-                            window.open(`/recipe/${slug}/print`);
-                            return false;
-                        }}
-                    >Print</Button>
+                    <Link
+                        className='k-button k-button-md k-button-solid k-button-solid-primary k-rounded-md'
+                        href={`/recipe/${slug}/print`}
+                        target='_blank'
+                    >
+                        <FontAwesomeIcon icon={faPrint} />
+                        <span className='k-button-text'>Print</span>
+                    </Link>
                 </div>
 
                 {description && (
@@ -153,7 +151,7 @@ export default function RecipePage({ recipe, image }: RecipePageProps & InferGet
                         <ul className='k-list-none k-mt-0 k-p-0'>
                             {products.map((products, index) => (
                                 <li key={index} className='k-my-2'>
-                                    <Link className='' href={`/product/${products.slug}`}>{products.name}</Link>
+                                    <Link className='k-color-primary' href={`/product/${products.slug}`}>{products.name}</Link>
                                 </li>
                             ))}
                         </ul>
