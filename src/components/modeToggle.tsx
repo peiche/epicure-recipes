@@ -1,6 +1,4 @@
-import { faMoon, faSun } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { Button } from "@progress/kendo-react-buttons";
+import { Switch } from "@progress/kendo-react-inputs";
 import { useThemeSwitcher } from "react-css-theme-switcher";
 
 export default function ModeToggle() {
@@ -12,14 +10,14 @@ export default function ModeToggle() {
         localStorage.setItem('theme', theme);
     };
 
+    const isDarkMode = currentTheme === 'dark';
+
     return (
-        <Button
-            onClick={toggleTheme}
-            size='large'
-            fillMode='outline'
-            rounded='full'
-            startIcon={<FontAwesomeIcon icon={currentTheme === 'dark' ? faMoon : faSun} width={16} height={16} />}
-            className="k-ml-2"
+        <Switch
+            checked={isDarkMode}
+            onChange={toggleTheme}
+            onLabel="⏾"
+            offLabel="☀︎"
         />
     );
 }
