@@ -42454,7 +42454,7 @@ kendo-sortable {
 }
 
 :root {
-    --kendo-font-family: inherit;
+    --kendo-font-family: "Helvetica Neue", sans-serif;
     --kendo-font-size: 14px;
     --kendo-line-height: 1.4285714286;
     --kendo-font-weight: 400;
@@ -54272,14 +54272,6 @@ select.k-picker-lg {
     bottom: 0
 }
 
-.k-appbar {
-    box-shadow: var(--kendo-elevation-4, 0 8px 10px rgba(0, 0, 0, 0.12), 0 4px 16px rgba(0, 0, 0, 0.12))
-}
-
-.k-appbar-bottom {
-    box-shadow: var(--kendo-elevation-4, 0 8px 10px rgba(0, 0, 0, 0.12), 0 4px 16px rgba(0, 0, 0, 0.12))
-}
-
 .k-appbar-primary {
     color: var(--kendo-color-on-primary, #ffffff);
     background-color: var(--kendo-color-primary, #ff6358)
@@ -55937,6 +55929,7 @@ kendo-card-footer {
 
 .k-card {
     border-radius: var(--kendo-border-radius-lg, 0.375rem);
+    border-color: var(--kendo-color-border-alt);
     border-width: 1px;
     border-style: solid;
     box-sizing: border-box;
@@ -57134,7 +57127,7 @@ kendo-card-footer {
 .k-breadcrumb {
     border-color: var(--kendo-color-border, rgba(0, 0, 0, 0.08));
     color: var(--kendo-color-on-app-surface, #3d3d3d);
-    background-color: var(--kendo-color-surface-alt, #ffffff)
+    background-color: transparent
 }
 
 .k-breadcrumb:focus,
