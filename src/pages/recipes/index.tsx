@@ -1,4 +1,3 @@
-import { Grid2 as Grid, Typography } from '@mui/material';
 import { InferGetStaticPropsType } from 'next';
 import Layout from '../../components/layout';
 import SEO from '../../components/seo';
@@ -9,39 +8,38 @@ import RecipeCard from '../../components/recipeCard';
 import { PaginationProps } from '../../interfaces/PaginationProps';
 import { RecipesPageProps } from '../../interfaces/RecipesPageProps';
 import { getRecipes } from '../../lib/recipe';
+import { Typography } from '@progress/kendo-react-common';
+import { GridLayout, GridLayoutItem } from '@progress/kendo-react-layout';
 
 export default function RecipesPage({ recipes, pagination }: RecipesPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
     return (
         <Layout>
             <SEO title='Recipes' />
             <Wrapper>
-                <Typography component='h1' variant='h4' mt={1} mb={2}>Epicure Recipes</Typography>
+                <Typography.h1 className='k-h3'>Epicure Recipes</Typography.h1>
 
-                <Grid container spacing={2}>
-                    {recipes
-                        .map((recipe, index) => (
-                            <Grid
-                                key={index}
-                                size={{
-                                    xs: 12,
-                                    sm: 6,
-                                    md: 4,
-                                }}
-                            >
-                                <RecipeCard recipe={recipe} />
-                            </Grid>
-                        ))}
-
-                    <Grid size={12}>
-                        {pagination.totalPages > 1 && (
-                            <Pagination
-                                prefix='/recipes'
-                                currentPage={pagination.currentPage}
-                                totalPages={pagination.totalPages}
-                            />
-                        )}
-                    </Grid>
-                </Grid>
+                <GridLayout
+                    className='grid-responsive-3-cols'
+                    gap={{
+                        cols: 10,
+                        rows: 10,
+                    }}
+                >
+                    {recipes.map((recipe, index) => (
+                        <GridLayoutItem key={index}>
+                            <RecipeCard recipe={recipe} />
+                        </GridLayoutItem>
+                    ))}
+                </GridLayout>
+                {pagination.totalPages > 1 && (
+                    <div className='k-mt-md'>
+                        <Pagination
+                            prefix='/recipes'
+                            currentPage={pagination.currentPage}
+                            totalPages={pagination.totalPages}
+                        />
+                    </div>
+                )}
 
             </Wrapper>
         </Layout>

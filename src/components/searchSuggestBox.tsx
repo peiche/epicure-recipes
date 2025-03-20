@@ -3,10 +3,12 @@ import { KeyboardEvent, useEffect, useState } from "react";
 import { SuggestHit } from "../interfaces/SuggestHit";
 import { Hit } from "algoliasearch";
 import { searchClient, suggestIndexName } from "../services/api/algolia";
-import { Box, IconButton, InputBase, List, ListItem, ListItemButton, ListItemText } from "@mui/material";
-import { Close, Search } from "@mui/icons-material";
-import NextLink from "next/link";
 import { isElementVisibleInScrollableDiv } from "../utils/utils";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faClose, faSearch } from "@fortawesome/free-solid-svg-icons";
+import { Button } from "@progress/kendo-react-buttons";
+import { TextBox, TextBoxChangeEvent } from "@progress/kendo-react-inputs";
+import Link from "next/link";
 
 interface SearchBoxProps {
     handleClose: () => void;
@@ -18,8 +20,10 @@ export default function SearchSuggestBox({ handleClose }: SearchBoxProps) {
     const [hits, setHits] = useState<SuggestHit[]>([]);
     const [selectedIndex, setSelectedIndex] = useState(-1);
 
-    const handleInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-        setInputValue(event.target.value);
+    const handleInputChange = (event: TextBoxChangeEvent) => {
+        if (typeof event.target.value === 'string') {
+            setInputValue(event.target.value);
+        }
     };
 
     const handleInputKeyDown = (event: KeyboardEvent<HTMLInputElement | HTMLTextAreaElement>) => {
@@ -109,69 +113,43 @@ export default function SearchSuggestBox({ handleClose }: SearchBoxProps) {
     }, [inputValue]);
 
     return (
-        <Box>
-            <Box
-                display='flex'
-                gap={2}
-                alignItems='center'
-                p={2}
-            >
-                <Search />
-                <InputBase
-                    name='s'
+        <div>
+            <div className="k-d-flex k-gap-2 k-align-items-center k-p-2">
+                <FontAwesomeIcon icon={faSearch} />
+                <TextBox
+                    fillMode='flat'
+                    size='large'
+                    name="s"
                     value={inputValue}
                     onChange={handleInputChange}
-                    placeholder='Search...'
+                    placeholder="Search..."
                     autoFocus
                     autoComplete="off"
-                    fullWidth
                     onKeyDown={handleInputKeyDown}
                 />
-                <IconButton onClick={handleClose}>
-                    <Close />
-                </IconButton>
-            </Box>
+                <Button
+                    startIcon={<FontAwesomeIcon icon={faClose} />}
+                    onClick={handleClose}
+                    size='large'
+                    fillMode='flat'
+                    rounded='full'
+                />
+            </div>
 
             {hits.length > 0 && (
-                <List
+                <ul
                     id='search-suggest-hits-list'
-                    sx={(theme) => ({
-                        maxHeight: {
-                            xs: 'calc(100vh - 72px)',
-                            sm: 'calc(100vh - 72px - 32px - 32px)'
-                        },
-                        overflowY: 'auto',
-                        borderTop: `1px solid ${theme.palette.divider}`,
-                    })}
+                    className="k-list-ul"
                 >
                     {hits.map((hit, index) => (
-                        <ListItem key={index} sx={{
-                            py: 0,
-                            my: 1,
-                        }}>
-                            <ListItemButton
-                                selected={selectedIndex === index}
-                                component={NextLink}
-                                href={`/search/?s=${hit.query}`}
-                                onClick={handleClose}
-                                sx={(theme) => ({
-                                    border: `1px solid ${theme.palette.divider}`,
-                                    borderRadius: '4px',
-                                })}
-                            >
-                                <ListItemText sx={{
-                                    'em': {
-                                        fontStyle: 'normal',
-                                        textDecoration: 'underline',
-                                    },
-                                }}>
-                                    <span dangerouslySetInnerHTML={{ __html: hit._highlightResult.query.value }} />
-                                </ListItemText>
-                            </ListItemButton>
-                        </ListItem>
+                        <li key={index} className="k-my-3">
+                            <Link className="search-suggest-hit k-text-no-underline" href={`/search/?s=${hit.query}`}>
+                                <span dangerouslySetInnerHTML={{ __html: hit._highlightResult.query.value }} />
+                            </Link>
+                        </li>
                     ))}
-                </List>
+                </ul>
             )}
-        </Box>
+        </div>
     )
 };

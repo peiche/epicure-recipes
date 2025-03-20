@@ -1,0 +1,130 @@
+body {
+    a {
+        color: var(--kendo-color-primary);
+
+        &:hover {
+            color: var(--kendo-color-primary-hover);
+        }
+    }
+}
+
+.k-appbar.appbar-flat {
+    box-shadow: none;
+    border-bottom: 1px solid var(--kendo-color-border-alt);
+    padding: 16px;
+}
+
+.container {
+    width: 100%;
+    margin-left: auto;
+    box-sizing: border-box;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+
+    @media (min-width: 600px) {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+
+    @media (min-width: 1200px) {
+        max-width: 1200px;
+    }
+
+    &-md {
+        @media (min-width: 900px) {
+            max-width: 900px;
+        }
+    }
+}
+
+.grid-responsive-3-cols {
+    grid-template-columns: repeat(1, 1fr);
+
+    @media only all and (min-width: 768px) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media only all and (min-width: 1200px) {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+.grid-responsive-2-cols {
+    grid-template-columns: repeat(1, 1fr);
+
+    @media only all and (min-width: 768px) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.grid-responsive-sidebar {
+    @media only all and (min-width: 768px) {
+        grid-template-columns: 1fr 2fr;
+    }
+}
+
+.card-image {
+    height: 194px;
+    width: auto;
+    object-fit: cover;
+}
+
+.overflow-ellipsis {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.k-input-flat {
+    border-color: var(--kendo-color-border-alt, rgba(0, 0, 0, 0.16));
+}
+
+.k-checkbox {
+    border-color: var(--kendo-color-border-alt, rgba(0, 0, 0, 0.16));
+}
+
+.k-dialog {
+    max-height: 90%;
+}
+
+.k-switch-label-off,
+.k-switch-label-on {
+    font-size: 2em;
+}
+
+.search-suggest-hit {
+    em {
+        font-style: normal;
+        text-decoration: underline;
+    }
+}
+
+.checkbox-wrapper {
+    margin-top: 4px;
+    margin-bottom: 4px;
+
+    >div {
+        padding-left: 24px;
+        position: relative;
+    }
+
+    .k-checkbox-wrap {
+        position: absolute;
+        left: 0;
+        top: 2px;
+    }
+
+    .k-chip {
+        margin-left: 4px;
+    }
+}
+
+.footer {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}

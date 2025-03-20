@@ -1,22 +1,22 @@
 import * as React from "react"
-import NextLink from 'next/link'
 import Layout from "../components/layout"
-import { Link, Typography } from "@mui/material"
 import Wrapper from "../components/wrapper"
 import SEO from "../components/seo"
+import { Typography } from "@progress/kendo-react-common"
+import Link from "next/link"
 
 const NotFoundPage: React.FC = () => {
   return (
     <Layout>
       <SEO title='Not Found' />
       <Wrapper>
-        <Typography component='h1' variant='h4' mb={3}>Page Not Found</Typography>
-        <Typography mb={3}>
+        <Typography.h1 className="k-h3">Page Not Found</Typography.h1>
+        <Typography.p className="k-mb-3">
           Not all who wander are lost, but you definitely are.
-        </Typography>
-        <Typography>
-          <Link component={NextLink} href='/'>Go Home</Link>
-        </Typography>
+        </Typography.p>
+        <Typography.p>
+          <Link href='/'>Go Home</Link>
+        </Typography.p>
       </Wrapper>
     </Layout>
   )

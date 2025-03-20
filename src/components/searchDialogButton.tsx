@@ -1,14 +1,14 @@
-import { Search } from "@mui/icons-material";
-import { Dialog, DialogContent, IconButton, useMediaQuery } from "@mui/material";
 import { useState } from "react";
 import { Configure, InstantSearch } from "react-instantsearch";
 import { searchClient, suggestIndexName } from "../services/api/algolia";
 import SearchSuggestBox from "./searchSuggestBox";
-import theme from "../themes/theme";
+import { Button } from "@progress/kendo-react-buttons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faSearch } from "@fortawesome/free-solid-svg-icons";
+import { Dialog } from "@progress/kendo-react-dialogs";
 
 export default function SearchDialogButton() {
     const [open, setOpen] = useState(false);
-    const smallScreen = useMediaQuery(theme.breakpoints.down('sm'));
 
     const handleClickOpen = () => {
         setOpen(true);
@@ -20,22 +20,15 @@ export default function SearchDialogButton() {
 
     return (
         <>
-            <IconButton onClick={handleClickOpen}>
-                <Search />
-            </IconButton>
-            <Dialog
-                open={open}
-                onClose={handleClose}
-                fullWidth
-                fullScreen={smallScreen}
-                maxWidth='sm'
-                sx={{
-                    '.MuiDialog-container': {
-                        alignItems: 'flex-start',
-                    },
-                }}
-            >
-                <DialogContent sx={{ p: 0 }}>
+            <Button
+                size='large'
+                fillMode='flat'
+                rounded='full'
+                startIcon={<FontAwesomeIcon icon={faSearch} />}
+                onClick={handleClickOpen}
+            />
+            {open && (
+                <Dialog onClose={handleClose}>
 
                     <InstantSearch
                         searchClient={searchClient}
@@ -50,8 +43,8 @@ export default function SearchDialogButton() {
                         <SearchSuggestBox handleClose={handleClose} />
                     </InstantSearch>
 
-                </DialogContent>
-            </Dialog>
+                </Dialog>
+            )}
         </>
     )
 };

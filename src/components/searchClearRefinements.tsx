@@ -1,4 +1,4 @@
-import { Chip } from "@mui/material";
+import { Chip } from "@progress/kendo-react-buttons";
 import { ClearRefinementsProps, useClearRefinements } from "react-instantsearch";
 
 export default function SearchClearRefinements(props: ClearRefinementsProps) {
@@ -9,7 +9,9 @@ export default function SearchClearRefinements(props: ClearRefinementsProps) {
 
     return (
         <Chip
-            label='Clear all'
+            text='Clear all'
+            fillMode='solid'
+            className="k-rounded-full"
             disabled={!canRefine}
             onClick={refine}
         />
