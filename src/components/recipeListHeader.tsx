@@ -5,7 +5,7 @@ import { setView } from "../redux/slices/viewSlice";
 import { useAppDispatch } from "../redux/hooks";
 
 interface RecipeListHeaderProps {
-    title: string;
+    title: string | null;
     view: View;
 }
 
@@ -25,11 +25,13 @@ export default function RecipeListHeader(props: RecipeListHeaderProps) {
             display: 'flex',
             justifyContent: 'space-between',
         }}>
-            <Typography component='h1' variant='h4' mt={1} mb={2}>
-                {title}
-            </Typography>
+            {title && (
+                <Typography component='h1' variant='h4' mt={1} mb={2}>
+                    {title}
+                </Typography>
+            )}
 
-            <Box>
+            <Box sx={{ ml: 'auto' }}>
                 <ToggleButtonGroup
                     value={view}
                     exclusive

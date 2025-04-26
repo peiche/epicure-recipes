@@ -3,9 +3,14 @@ import { RecipeLite } from "../interfaces/Recipe";
 import { Box, Grid, Typography } from "@mui/material";
 import { SearchOff } from "@mui/icons-material";
 import RecipeCard from "./recipeCard";
+import { useAppSelector } from "../redux/hooks";
+import { selectView } from "../redux/slices/viewSlice";
+import React from "react";
+import RecipeListItem from "./recipeListItem";
 
 export default function SearchResultsGrid() {
     const { items } = useHits<RecipeLite>();
+    const view = useAppSelector(selectView);
 
     if (items.length === 0) {
         return (
@@ -20,14 +25,27 @@ export default function SearchResultsGrid() {
 
     return (
         <Grid container spacing={2}>
-            {items.map((item) => (
-                <Grid key={item.objectID} size={{
-                    xs: 12,
-                    sm: 6,
-                }}>
-                    <RecipeCard recipe={item} />
-                </Grid>
-            ))}
+            {items
+                .map((item) => (
+                    <React.Fragment key={item.objectID}>
+                        {view === 'grid' && (
+                            <Grid
+                                size={{
+                                    xs: 12,
+                                    sm: 6,
+                                    md: 4,
+                                }}
+                            >
+                                <RecipeCard recipe={item} />
+                            </Grid>
+                        )}
+                        {view === 'list' && (
+                            <Grid size={12}>
+                                <RecipeListItem recipe={item} />
+                            </Grid>
+                        )}
+                    </React.Fragment>
+                ))}
         </Grid>
     )
 };

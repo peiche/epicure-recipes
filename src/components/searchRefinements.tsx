@@ -9,7 +9,7 @@ export default function SearchRefinements(props: CurrentRefinementsProps) {
     } = useCurrentRefinements(props);
 
     return (
-        <Box display='flex' flexWrap='wrap' gap={1} mb={2}>
+        <Box display='flex' flexWrap='wrap' gap={1}>
             {items.map((item, i) => (
                 item.refinements.map((refinement, j) => (
                     <Chip

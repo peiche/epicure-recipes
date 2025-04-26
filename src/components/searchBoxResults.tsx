@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Close, Search } from "@mui/icons-material";
 import { Box, Grid, IconButton, InputAdornment, Link, TextField, Typography } from "@mui/material";
 import { useSearchParams } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import { DynamicWidgets, useSearchBox } from "react-instantsearch";
 import SearchFilterPanel from "./searchFilterPanel";
 import SearchRefinementList from "./searchRefinementList";
@@ -11,10 +11,14 @@ import SearchResultsGrid from "./searchResultsGrid";
 import SearchPagination from "./searchPagination";
 import SearchRefinements from "./searchRefinements";
 import SearchDrawer from "./searchDrawer";
+import RecipeListHeader from "./recipeListHeader";
+import { selectView } from "../redux/slices/viewSlice";
+import { useAppSelector } from "../redux/hooks";
 
 export default function SearchBoxResults() {
     const searchParams = useSearchParams();
     const search = searchParams.get('s');
+    const view = useAppSelector(selectView);
 
     const {
         query,
@@ -91,15 +95,39 @@ export default function SearchBoxResults() {
                         <Grid size={12} sx={{
                             display: { xs: 'none', md: 'block' },
                         }}>
-                            <SearchRefinements />
+                            <Box sx={{
+                                display: 'flex',
+                                justifyContent: 'space-between',
+                                alignItems: 'center',
+                                mb: 1,
+                            }}>
+                                <SearchRefinements />
+
+                                <RecipeListHeader
+                                    title={null}
+                                    view={view}
+                                />
+                            </Box>
                         </Grid>
                         <Grid size={12} mb={2} sx={{
                             display: { xs: 'block', md: 'none' },
                         }}>
-                            <SearchDrawer>
-                                <SearchRefinements />
-                                {filterSidebar}
-                            </SearchDrawer>
+                            <Box sx={{
+                                display: 'flex',
+                                justifyContent: 'space-between',
+                                alignItems: 'center',
+                                mb: 1,
+                            }}>
+                                <SearchDrawer>
+                                    <SearchRefinements />
+                                    {filterSidebar}
+                                </SearchDrawer>
+
+                                <RecipeListHeader
+                                    title={null}
+                                    view={view}
+                                />
+                            </Box>
                         </Grid>
                         <Grid size={{
                             xs: 12,
@@ -109,6 +137,7 @@ export default function SearchBoxResults() {
                         }}>
                             {filterSidebar}
                         </Grid>
+
                         <Grid size={{
                             xs: 12,
                             md: 9,
