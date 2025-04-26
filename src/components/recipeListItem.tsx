@@ -12,9 +12,15 @@ export default function RecipeListItem({ recipe }: RecipeCardProps) {
             <Card variant='outlined' sx={{ display: 'flex' }}>
                 <CardMedia
                     component="img"
-                    sx={{ width: 151 }} // 151
                     image={`/processed/${recipe.image}`}
                     alt="Live from space album cover"
+                    sx={{
+                        width: 151,
+                        display: {
+                            xs: 'none',
+                            sm: 'block',
+                        },
+                    }}
                 />
                 <CardContent>
                     <Typography component="div" variant="h5">
