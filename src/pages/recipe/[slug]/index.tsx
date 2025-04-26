@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { Box, Breadcrumbs, Button, Chip, Grid2 as Grid, Link, List, ListItem, ListItemText, Typography } from '@mui/material';
+import { Box, Breadcrumbs, Button, Chip, Grid, Link, List, ListItem, ListItemText, Typography } from '@mui/material';
 import { AccessTimeOutlined, PrintOutlined, RestaurantOutlined } from '@mui/icons-material';
 import NextLink from 'next/link';
 import Layout from '../../../components/layout';

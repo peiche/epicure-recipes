@@ -1,6 +1,6 @@
 import Layout from '../components/layout';
 import Wrapper from '../components/wrapper';
-import { Box, Button, Grid2 as Grid, Link, Typography } from '@mui/material';
+import { Box, Button, Grid, Link, Typography } from '@mui/material';
 import NextLink from 'next/link';
 import { Recipe } from '../interfaces/Recipe';
 import SEO from '../components/seo';

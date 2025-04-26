@@ -1,6 +1,6 @@
 import { useHits } from "react-instantsearch";
 import { RecipeLite } from "../interfaces/Recipe";
-import { Box, Grid2 as Grid, Typography } from "@mui/material";
+import { Box, Grid, Typography } from "@mui/material";
 import { SearchOff } from "@mui/icons-material";
 import RecipeCard from "./recipeCard";
 

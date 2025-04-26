@@ -1,4 +1,4 @@
-import { Box, Grid2 as Grid, Pagination, PaginationItem } from "@mui/material";
+import { Box, Grid, Pagination, PaginationItem } from "@mui/material";
 import { PaginationProps, usePagination } from "react-instantsearch";
 
 export default function SearchPagination(props: PaginationProps) {

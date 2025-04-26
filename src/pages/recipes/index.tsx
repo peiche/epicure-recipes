@@ -1,4 +1,4 @@
-import { Grid2 as Grid, Typography } from '@mui/material';
+import { Grid, Typography } from '@mui/material';
 import { InferGetStaticPropsType } from 'next';
 import Layout from '../../components/layout';
 import SEO from '../../components/seo';

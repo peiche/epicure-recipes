@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import Layout from '../../../components/layout';
 import Wrapper from '../../../components/wrapper';
-import { Breadcrumbs, Grid2 as Grid, Link, Typography } from '@mui/material';
+import { Box, Breadcrumbs, Grid, Link, ToggleButton, ToggleButtonGroup, Typography } from '@mui/material';
 import NextLink from 'next/link';
 import { GetStaticPaths, GetStaticPathsResult, GetStaticProps, InferGetStaticPropsType } from 'next';
 import SEO from '../../../components/seo';

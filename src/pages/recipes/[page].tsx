@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { Grid2 as Grid, Typography } from '@mui/material';
+import { Grid, Typography } from '@mui/material';
 import { GetStaticPaths, GetStaticPathsResult, GetStaticProps, InferGetStaticPropsType } from 'next';
 import { Recipe } from '../../interfaces/Recipe';
 import Layout from '../../components/layout';

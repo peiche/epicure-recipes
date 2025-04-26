@@ -141,7 +141,7 @@ export default function SearchSuggestBox({ handleClose }: SearchBoxProps) {
                             sm: 'calc(100vh - 72px - 32px - 32px)'
                         },
                         overflowY: 'auto',
-                        borderTop: `1px solid ${theme.palette.divider}`,
+                        borderTop: `1px solid ${theme.vars.palette.divider}`,
                     })}
                 >
                     {hits.map((hit, index) => (
@@ -155,7 +155,7 @@ export default function SearchSuggestBox({ handleClose }: SearchBoxProps) {
                                 href={`/search/?s=${hit.query}`}
                                 onClick={handleClose}
                                 sx={(theme) => ({
-                                    border: `1px solid ${theme.palette.divider}`,
+                                    border: `1px solid ${theme.vars.palette.divider}`,
                                     borderRadius: '4px',
                                 })}
                             >

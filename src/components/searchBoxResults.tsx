@@ -1,7 +1,7 @@
 import { faAlgolia } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Close, Search } from "@mui/icons-material";
-import { Box, Grid2 as Grid, IconButton, InputAdornment, Link, TextField, Typography } from "@mui/material";
+import { Box, Grid, IconButton, InputAdornment, Link, TextField, Typography } from "@mui/material";
 import { useSearchParams } from "next/navigation";
 import { useEffect, useState } from "react";
 import { DynamicWidgets, useSearchBox } from "react-instantsearch";

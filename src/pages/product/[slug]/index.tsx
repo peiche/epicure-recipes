@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import Layout from '../../../components/layout';
 import Wrapper from '../../../components/wrapper';
-import { Breadcrumbs, Grid2 as Grid, Link, Typography } from '@mui/material';
+import { Breadcrumbs, Grid, Link, Typography } from '@mui/material';
 import NextLink from 'next/link';
 import { GetStaticPaths, GetStaticProps, InferGetStaticPropsType } from 'next';
 import { Product } from '../../../interfaces/Product';

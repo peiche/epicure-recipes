@@ -14,7 +14,7 @@ export default function SearchRefinementList(props: RefinementListProps) {
     if (items.length === 0) {
         return (
             <Typography variant='body2' mt={1} fontStyle='italic' sx={(theme) => ({
-                color: theme.palette.text.disabled,
+                color: theme.vars.palette.text.disabled,
             })}>
                 There are no refinements available.
             </Typography>

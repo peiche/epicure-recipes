@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { Box, Container, Grid2 as Grid, List, ListItem, ListItemText, Typography } from '@mui/material';
+import { Box, Container, Grid, List, ListItem, ListItemText, Typography } from '@mui/material';
 import { AccessTimeOutlined, RestaurantOutlined } from '@mui/icons-material';
 import Layout from '../../../components/layout';
 import { useEffect } from 'react';
