@@ -5,7 +5,6 @@ import ModeToggle from "./modeToggle";
 import SearchDialogButton from "./searchDialogButton";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPaypal } from '@fortawesome/free-brands-svg-icons';
-import Whisk1 from "../icons/whisk";
 
 export default function Header() {
     return (
