@@ -24,17 +24,22 @@ export default function RecipeCard({ recipe }: RecipeCardProps) {
                         WebkitLineClamp: 2,
                         WebkitBoxOrient: 'vertical',
                         overflow: 'hidden',
-
                     }}>
                         {recipe.name}
                     </Typography>
                     {recipe.description && (
-                        <Typography variant='body2' mt={1} sx={{
-                            display: '-webkit-box',
-                            WebkitLineClamp: 3,
-                            WebkitBoxOrient: 'vertical',
-                            overflow: 'hidden',
-                        }}>
+                        <Typography
+                            variant="subtitle1"
+                            component="div"
+                            mt={1}
+                            sx={{
+                                display: '-webkit-box',
+                                WebkitLineClamp: 3,
+                                WebkitBoxOrient: 'vertical',
+                                overflow: 'hidden',
+                                color: 'text.secondary',
+                            }}
+                        >
                             {recipe.description}
                         </Typography>
                     )}

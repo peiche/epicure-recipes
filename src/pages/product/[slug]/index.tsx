@@ -7,12 +7,15 @@ import NextLink from 'next/link';
 import { GetStaticPaths, GetStaticProps, InferGetStaticPropsType } from 'next';
 import { Product } from '../../../interfaces/Product';
 import SEO from '../../../components/seo';
-import RecipeCard from '../../../components/recipeCard';
 import { RESULTS_PER_PAGE } from '../../../constants/pagination';
 import Pagination from '../../../components/pagination';
 import { PaginationProps } from '../../../interfaces/PaginationProps';
 import { getRecipesForProduct } from '../../../lib/recipe';
 import { ProductPageProps } from '../../../interfaces/ProductPageProps';
+import { useAppSelector } from '../../../redux/hooks';
+import { selectView } from '../../../redux/slices/viewSlice';
+import RecipeListHeader from '../../../components/recipeListHeader';
+import RecipeList from '../../../components/recipeList';
 
 export default function ProductPage({ product, recipes, pagination }: ProductPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
     const {
@@ -20,6 +23,7 @@ export default function ProductPage({ product, recipes, pagination }: ProductPag
         name,
         summary,
     } = product;
+    const view = useAppSelector(selectView);
 
     return (
         <Layout>
@@ -32,9 +36,10 @@ export default function ProductPage({ product, recipes, pagination }: ProductPag
                     <Typography sx={{ color: 'text.primary' }}>{name}</Typography>
                 </Breadcrumbs>
 
-                <Typography component='h1' variant='h4' mt={1} mb={2}>
-                    Recipes made with {name}
-                </Typography>
+                <RecipeListHeader
+                    title={`Recipes made with ${name}`}
+                    view={view}
+                />
 
                 {summary && summary.map((summStr: string, index: number) => (
                     <Typography key={index} mb={2}>
@@ -43,19 +48,7 @@ export default function ProductPage({ product, recipes, pagination }: ProductPag
                 ))}
 
                 <Grid container spacing={2}>
-                    {recipes
-                        .map((recipe, index) => (
-                            <Grid
-                                key={index}
-                                size={{
-                                    xs: 12,
-                                    sm: 6,
-                                    md: 4,
-                                }}
-                            >
-                                <RecipeCard recipe={recipe} />
-                            </Grid>
-                        ))}
+                    <RecipeList recipes={recipes} />
 
                     <Grid size={12}>
                         {pagination.totalPages > 1 && (

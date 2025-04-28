@@ -2,23 +2,28 @@ import fs from 'fs';
 import path from 'path';
 import Layout from '../../../components/layout';
 import Wrapper from '../../../components/wrapper';
-import { Box, Breadcrumbs, Card, CardContent, CardMedia, Grid, Link, Stack, ToggleButton, ToggleButtonGroup, Typography } from '@mui/material';
+import { Breadcrumbs, Grid, Link, Typography } from '@mui/material';
 import NextLink from 'next/link';
 import { GetStaticPaths, GetStaticProps, InferGetStaticPropsType } from 'next';
 import SEO from '../../../components/seo';
-import RecipeCard from '../../../components/recipeCard';
 import { RESULTS_PER_PAGE } from '../../../constants/pagination';
 import Pagination from '../../../components/pagination';
 import { PaginationProps } from '../../../interfaces/PaginationProps';
 import { getRecipesForTag } from '../../../lib/recipe';
 import { Tag } from '../../../interfaces/Tag';
 import { TagPageProps } from '../../../interfaces/TagPageProps';
+import React from 'react';
+import { useAppSelector } from '../../../redux/hooks';
+import { selectView } from '../../../redux/slices/viewSlice';
+import RecipeListHeader from '../../../components/recipeListHeader';
+import RecipeList from '../../../components/recipeList';
 
 export default function TagPage({ tag, recipes, pagination }: TagPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
     const {
         slug,
         name,
     } = tag;
+    const view = useAppSelector(selectView);
 
     return (
         <Layout>
@@ -31,24 +36,13 @@ export default function TagPage({ tag, recipes, pagination }: TagPageProps & Inf
                     <Typography sx={{ color: 'text.primary' }}>{name}</Typography>
                 </Breadcrumbs>
 
-                <Typography component='h1' variant='h4' mt={1} mb={2}>
-                    Recipes tagged with {name}
-                </Typography>
+                <RecipeListHeader
+                    title={`Recipes tagged with ${name}`}
+                    view={view}
+                />
 
                 <Grid container spacing={2}>
-                    {recipes
-                        .map((recipe, index) => (
-                            <Grid
-                                key={index}
-                                size={{
-                                    xs: 12,
-                                    sm: 6,
-                                    md: 4,
-                                }}
-                            >
-                                <RecipeCard recipe={recipe} />
-                            </Grid>
-                        ))}
+                    <RecipeList recipes={recipes} />
 
                     <Grid size={12}>
                         {pagination.totalPages > 1 && (

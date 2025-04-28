@@ -1,36 +1,32 @@
-import { Grid, Typography } from '@mui/material';
+import { Grid } from '@mui/material';
 import { InferGetStaticPropsType } from 'next';
 import Layout from '../../components/layout';
 import SEO from '../../components/seo';
 import Wrapper from '../../components/wrapper';
 import { RESULTS_PER_PAGE } from '../../constants/pagination';
 import Pagination from '../../components/pagination';
-import RecipeCard from '../../components/recipeCard';
 import { PaginationProps } from '../../interfaces/PaginationProps';
 import { RecipesPageProps } from '../../interfaces/RecipesPageProps';
 import { getRecipes } from '../../lib/recipe';
+import RecipeListHeader from '../../components/recipeListHeader';
+import { useAppSelector } from '../../redux/hooks';
+import { selectView } from '../../redux/slices/viewSlice';
+import RecipeList from '../../components/recipeList';
 
 export default function RecipesPage({ recipes, pagination }: RecipesPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
+    const view = useAppSelector(selectView);
+
     return (
         <Layout>
             <SEO title='Recipes' />
             <Wrapper>
-                <Typography component='h1' variant='h4' mt={1} mb={2}>Epicure Recipes</Typography>
+                <RecipeListHeader
+                    title='Epicure Recipes'
+                    view={view}
+                />
 
                 <Grid container spacing={2}>
-                    {recipes
-                        .map((recipe, index) => (
-                            <Grid
-                                key={index}
-                                size={{
-                                    xs: 12,
-                                    sm: 6,
-                                    md: 4,
-                                }}
-                            >
-                                <RecipeCard recipe={recipe} />
-                            </Grid>
-                        ))}
+                    <RecipeList recipes={recipes} />
 
                     <Grid size={12}>
                         {pagination.totalPages > 1 && (
