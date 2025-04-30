@@ -5,6 +5,8 @@ import NextLink from 'next/link';
 import { Recipe } from '../interfaces/Recipe';
 import SEO from '../components/seo';
 import Image from 'next/image';
+import Script from 'next/script';
+import Ad from '../components/ad';
 
 export default function HomePage() {
     return (
@@ -58,6 +60,10 @@ export default function HomePage() {
                         <Button component={NextLink} href='/recipes' variant='outlined'>View Recipes</Button>
                     </Grid>
                 </Grid>
+
+                <Box>
+                    <Ad />
+                </Box>
             </Wrapper>
         </Layout>
     );
