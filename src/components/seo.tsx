@@ -10,6 +10,7 @@ export default function SEO({ title }: SEOProps) {
 
     return (
         <Head>
+            <meta charSet="UTF-8" />
             <title>{`${title} | ${siteTitle}`}</title>
             <meta property="og:type" content="website" />
             <meta property="og:title" content={title} />
