@@ -34,6 +34,11 @@ export default function RecipePage({ recipe, image }: RecipePageProps & InferGet
 
     return (
         <Layout>
+            <style global jsx>{`
+                .google-auto-placed {
+                    display: none;
+                }
+            `}</style>
             <SEO title={name} />
             <Wrapper>
 

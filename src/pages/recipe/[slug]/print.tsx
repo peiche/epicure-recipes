@@ -31,6 +31,11 @@ export default function RecipePrintPage({ recipe }: RecipePrintPageProps & Infer
 
     return (
         <Layout>
+            <style global jsx>{`
+                .google-auto-placed {
+                    display: none;
+                }
+            `}</style>
             <SEO title={name} />
             <Container maxWidth='md' sx={{ my: 3 }}>
                 <Typography component='h1' variant='h4' sx={{ my: 2 }}>{name}</Typography>
