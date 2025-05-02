@@ -17,7 +17,7 @@ export default function Footer() {
                     <Link component='a' href='https://www.netlify.com/' target="_blank">Netlify</Link>.
                 </Typography>
                 <Box textAlign='center'>
-                    <IconButton color='inherit' size="small" component='a' href='https://github.com/peiche/epicure-recipes' target="_blank">
+                    <IconButton color='inherit' size="small" component='a' href='https://github.com/peiche/epicure-recipes' target="_blank" aria-label="Epicure Recipes on GitHub">
                         <GitHub />
                     </IconButton>
                 </Box>

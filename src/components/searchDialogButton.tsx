@@ -20,7 +20,7 @@ export default function SearchDialogButton() {
 
     return (
         <>
-            <IconButton onClick={handleClickOpen}>
+            <IconButton onClick={handleClickOpen} aria-label='search'>
                 <Search />
             </IconButton>
             <Dialog
