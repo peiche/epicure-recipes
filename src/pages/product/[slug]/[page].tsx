@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import Layout from '../../../components/layout';
 import Wrapper from '../../../components/wrapper';
-import { Breadcrumbs, Grid, Link, Typography } from '@mui/material';
+import { Box, Breadcrumbs, Grid, Link, Typography } from '@mui/material';
 import NextLink from 'next/link';
 import { GetStaticPaths, GetStaticPathsResult, GetStaticProps, InferGetStaticPropsType } from 'next';
 import { Product } from '../../../interfaces/Product';
@@ -16,6 +16,7 @@ import RecipeListHeader from '../../../components/recipeListHeader';
 import { useAppSelector } from '../../../redux/hooks';
 import { selectView } from '../../../redux/slices/viewSlice';
 import RecipeList from '../../../components/recipeList';
+import AdSense from '../../../components/adsense';
 
 export default function ProductPaginationPage({ product, recipes, pagination }: ProductPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
     const {
@@ -60,6 +61,16 @@ export default function ProductPaginationPage({ product, recipes, pagination }: 
                         )}
                     </Grid>
                 </Grid>
+
+                <Box py={1}>
+                    <AdSense
+                        client="ca-pub-8316336599094727"
+                        slot="3666901353"
+                        format="auto"
+                        style={{ display: 'block' }}
+                        responsive="true"
+                    />
+                </Box>
 
             </Wrapper>
         </Layout>

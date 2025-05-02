@@ -59,7 +59,7 @@ export default function HomePage() {
                     </Grid>
                 </Grid>
 
-                <Box>
+                <Box py={1}>
                     <AdSense
                         client="ca-pub-8316336599094727"
                         slot="3666901353"

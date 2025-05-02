@@ -6,6 +6,8 @@ import SEO from '../components/seo';
 import SearchBoxResults from '../components/searchBoxResults';
 import { history } from 'instantsearch.js/es/lib/routers'
 import { RouterProps } from 'instantsearch.js/es/middlewares';
+import { Box } from '@mui/material';
+import AdSense from '../components/adsense';
 
 const routing: RouterProps = {
     router: history({
@@ -30,6 +32,16 @@ export default function Search() {
                     <Configure ruleContexts={[]} />
                     <SearchBoxResults />
                 </InstantSearch>
+
+                <Box py={1}>
+                    <AdSense
+                        client="ca-pub-8316336599094727"
+                        slot="3666901353"
+                        format="auto"
+                        style={{ display: 'block' }}
+                        responsive="true"
+                    />
+                </Box>
             </Wrapper>
         </Layout>
     )

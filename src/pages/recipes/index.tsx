@@ -1,4 +1,4 @@
-import { Grid } from '@mui/material';
+import { Box, Grid } from '@mui/material';
 import { InferGetStaticPropsType } from 'next';
 import Layout from '../../components/layout';
 import SEO from '../../components/seo';
@@ -12,6 +12,7 @@ import RecipeListHeader from '../../components/recipeListHeader';
 import { useAppSelector } from '../../redux/hooks';
 import { selectView } from '../../redux/slices/viewSlice';
 import RecipeList from '../../components/recipeList';
+import AdSense from '../../components/adsense';
 
 export default function RecipesPage({ recipes, pagination }: RecipesPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
     const view = useAppSelector(selectView);
@@ -38,6 +39,16 @@ export default function RecipesPage({ recipes, pagination }: RecipesPageProps & 
                         )}
                     </Grid>
                 </Grid>
+
+                <Box py={1}>
+                    <AdSense
+                        client="ca-pub-8316336599094727"
+                        slot="3666901353"
+                        format="auto"
+                        style={{ display: 'block' }}
+                        responsive="true"
+                    />
+                </Box>
 
             </Wrapper>
         </Layout>
