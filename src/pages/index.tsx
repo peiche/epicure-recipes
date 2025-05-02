@@ -58,16 +58,6 @@ export default function HomePage() {
                         <Button component={NextLink} href='/recipes' variant='outlined'>View Recipes</Button>
                     </Grid>
                 </Grid>
-
-                <Box>
-                    <AdSense
-                        client="ca-pub-8316336599094727"
-                        slot="3666901353"
-                        format="auto"
-                        style={{ display: 'block' }}
-                        responsive="true"
-                    />
-                </Box>
             </Wrapper>
         </Layout>
     );
