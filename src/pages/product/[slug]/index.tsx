@@ -1,84 +1,39 @@
 import fs from 'fs';
 import path from 'path';
-import Layout from '../../../components/layout';
-import Wrapper from '../../../components/wrapper';
+import Layout from '../../../components/ui/layout';
+import Wrapper from '../../../components/layout/wrapper';
 import { Box, Breadcrumbs, Grid, Link, Typography } from '@mui/material';
 import NextLink from 'next/link';
 import { GetStaticPaths, GetStaticProps, InferGetStaticPropsType } from 'next';
 import { Product } from '../../../interfaces/Product';
-import SEO from '../../../components/seo';
+import SEO from '../../../components/layout/seo';
 import { RESULTS_PER_PAGE } from '../../../constants/pagination';
-import Pagination from '../../../components/pagination';
+import Pagination from '../../../components/ui/pagination';
 import { PaginationProps } from '../../../interfaces/PaginationProps';
 import { getRecipesForProduct } from '../../../lib/recipe';
 import { ProductPageProps } from '../../../interfaces/ProductPageProps';
 import { useAppSelector } from '../../../redux/hooks';
 import { selectView } from '../../../redux/slices/viewSlice';
-import RecipeListHeader from '../../../components/recipeListHeader';
-import RecipeList from '../../../components/recipeList';
-import AdSense from '../../../components/adsense';
+// import RecipeListHeader from '../../../components/recipeListHeader';
+import RecipeList from '../../../components/recipe/recipeList';
+import AdSense from '../../../components/ui/adsense';
+import RecipeListHeader from '../../../components/recipe/recipeListHeader';
+import RecipeListBase from '../../../components/recipe/recipeListBase';
 
-export default function ProductPage({ product, recipes, pagination }: ProductPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
-    const {
-        slug,
-        name,
-        summary,
-    } = product;
-    const view = useAppSelector(selectView);
-
+export default function ProductPage(props: ProductPageProps) {
     return (
-        <Layout>
-            <SEO title={`Product: ${name}`} />
-            <Wrapper>
-
-                <Breadcrumbs>
-                    <Link underline='hover' color='inherit' component={NextLink} href='/recipes'>Recipes</Link>
-                    <Typography sx={{ color: 'text.primary' }}>Products</Typography>
-                    <Typography sx={{ color: 'text.primary' }}>{name}</Typography>
-                </Breadcrumbs>
-
-                <RecipeListHeader
-                    title={`Recipes made with ${name}`}
-                    view={view}
-                />
-
-                {summary && summary.map((summStr: string, index: number) => (
-                    <Typography key={index} mb={2}>
-                        <span dangerouslySetInnerHTML={{ __html: summStr }} />
-                    </Typography>
-                ))}
-
-                <Grid container spacing={2}>
-                    <RecipeList recipes={recipes} />
-
-                    <Grid size={12}>
-                        {pagination.totalPages > 1 && (
-                            <Pagination
-                                prefix={`/product/${slug}`}
-                                currentPage={pagination.currentPage}
-                                totalPages={pagination.totalPages}
-                            />
-                        )}
-                    </Grid>
-                </Grid>
-
-                <Box py={1}>
-                    <AdSense
-                        client="ca-pub-8316336599094727"
-                        slot="3666901353"
-                        format="auto"
-                        style={{ display: 'block' }}
-                        responsive="true"
-                    />
-                </Box>
-
-            </Wrapper>
-        </Layout>
+        <RecipeListBase
+            {...props}
+            title={`Recipes for ${props.product.name}`}
+            subtitle={props.product.summary?.length > 0 ? props.product.summary : [`Explore our curated list of recipes made with ${props.product.name}.`]}
+            breadcrumbLabel="Products"
+            paginationPrefix={`/product/${props.product.slug}`}
+        />
     );
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-    const productsDirectory = path.join(process.cwd(), 'src', 'data', 'products');
+    const productsDirectory = path.join(process.cwd(), 'data', 'products');
     const filenames = fs.readdirSync(productsDirectory);
 
     return {
@@ -92,7 +47,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 }
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
-    const productPath = path.join(process.cwd(), 'src', 'data', 'products', `${params?.slug}.json`);
+    const productPath = path.join(process.cwd(), 'data', 'products', `${params?.slug}.json`);
     const content = fs.readFileSync(productPath, 'utf8');
     const product: Product = JSON.parse(content);
 
@@ -111,6 +66,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
             product,
             recipes: recipes.slice(0, RESULTS_PER_PAGE),
             pagination,
+            totalCount,
         },
     }
 }

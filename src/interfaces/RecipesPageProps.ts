@@ -3,5 +3,6 @@ import { Recipe } from "./Recipe";
 
 export interface RecipesPageProps {
     recipes: Recipe[];
-    pagination: PaginationProps,
+    pagination: PaginationProps;
+    totalCount: number;
 }

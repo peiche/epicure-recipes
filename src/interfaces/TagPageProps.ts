@@ -1,9 +1,6 @@
-import { PaginationProps } from "./PaginationProps";
-import { Recipe } from "./Recipe";
+import { RecipesPageProps } from "./RecipesPageProps";
 import { Tag } from "./Tag";
 
-export interface TagPageProps {
+export interface TagPageProps extends RecipesPageProps {
     tag: Tag;
-    recipes: Recipe[];
-    pagination: PaginationProps,
 }

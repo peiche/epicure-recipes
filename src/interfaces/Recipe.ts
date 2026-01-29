@@ -6,6 +6,7 @@ export interface RecipeLite {
     slug: string;
     description: string;
     image: string;
+    thumbnail: string;
 }
 
 export interface Recipe extends RecipeLite {

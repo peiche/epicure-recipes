@@ -12,9 +12,9 @@ export default function Wrapper({ children }: WrapperProps) {
     return (
         <>
             <Header />
-            <Container maxWidth='lg' sx={{ my: 3 }}>
+            {/* <Container maxWidth='lg' sx={{ my: 3 }}> */}
                 {children}
-            </Container>
+            {/* </Container> */}
             <Footer />
         </>
     )

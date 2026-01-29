@@ -6,9 +6,9 @@ import { Tag } from '../interfaces/Tag';
 
 export const getRecipes = () => {
     let recipes: Recipe[] = [];
-    const recipesDirectory = path.join(process.cwd(), 'src', 'data', 'recipes');
+    const recipesDirectory = path.join(process.cwd(), 'data', 'recipes');
     let filenames = fs.readdirSync(recipesDirectory);
-    filenames = filenames.map(filename => path.join(process.cwd(), 'src', 'data', 'recipes', filename));
+    filenames = filenames.map(filename => path.join(process.cwd(), 'data', 'recipes', filename));
     filenames.forEach((filename) => {
         const content = fs.readFileSync(filename, 'utf8');
         const recipe: Recipe = JSON.parse(content);
@@ -31,9 +31,9 @@ export const getRecipes = () => {
 
 export const getRecipesForTag = (slug: string | string[] | undefined) => {
     let recipes: Recipe[] = [];
-    const recipesDirectory = path.join(process.cwd(), 'src', 'data', 'recipes');
+    const recipesDirectory = path.join(process.cwd(), 'data', 'recipes');
     let filenames = fs.readdirSync(recipesDirectory);
-    filenames = filenames.map(filename => path.join(process.cwd(), 'src', 'data', 'recipes', filename));
+    filenames = filenames.map(filename => path.join(process.cwd(), 'data', 'recipes', filename));
     filenames.forEach((filename) => {
         const content = fs.readFileSync(filename, 'utf8');
         const recipe: Recipe = JSON.parse(content);
@@ -65,9 +65,9 @@ export const getRecipesForTag = (slug: string | string[] | undefined) => {
 
 export const getRecipesForProduct = (slug: string | string[] | undefined) => {
     let recipes: Recipe[] = [];
-    const recipesDirectory = path.join(process.cwd(), 'src', 'data', 'recipes');
+    const recipesDirectory = path.join(process.cwd(), 'data', 'recipes');
     let filenames = fs.readdirSync(recipesDirectory);
-    filenames = filenames.map(filename => path.join(process.cwd(), 'src', 'data', 'recipes', filename));
+    filenames = filenames.map(filename => path.join(process.cwd(), 'data', 'recipes', filename));
     filenames.forEach((filename) => {
         const content = fs.readFileSync(filename, 'utf8');
         const recipe: Recipe = JSON.parse(content);
@@ -96,3 +96,17 @@ export const getRecipesForProduct = (slug: string | string[] | undefined) => {
 
     return recipes;
 };
+
+export function getRecipeBySlug(slug: string) {
+    const allRecipes = getRecipes();
+    
+    // This performs the 'query' on your local JSON data
+    return allRecipes.find((recipe) => recipe.slug === slug);
+}
+
+export function getCuratedRecipesBySlugs(slugs: string[]) {
+    const allRecipes = getRecipes();
+    
+    // Filters the JSON for any recipe whose slug is in your curated list
+    return allRecipes.filter((recipe) => slugs.includes(recipe.slug));
+}

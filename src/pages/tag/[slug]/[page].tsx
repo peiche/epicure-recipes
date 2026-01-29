@@ -1,22 +1,23 @@
 import fs from 'fs';
 import path from 'path';
-import Layout from '../../../components/layout';
-import Wrapper from '../../../components/wrapper';
+import Layout from '../../../components/ui/layout';
+import Wrapper from '../../../components/layout/wrapper';
 import { Breadcrumbs, Grid, Link, Typography } from '@mui/material';
 import NextLink from 'next/link';
 import { GetStaticPaths, GetStaticPathsResult, GetStaticProps, InferGetStaticPropsType } from 'next';
-import SEO from '../../../components/seo';
+import SEO from '../../../components/layout/seo';
 import { RESULTS_PER_PAGE } from '../../../constants/pagination';
-import Pagination from '../../../components/pagination';
+import Pagination from '../../../components/ui/pagination';
 import { PaginationProps } from '../../../interfaces/PaginationProps';
 import { TagPageProps } from '../../../interfaces/TagPageProps';
 import { getRecipesForTag } from '../../../lib/recipe';
 import { Tag } from '../../../interfaces/Tag';
 import React from 'react';
-import RecipeListHeader from '../../../components/recipeListHeader';
+// import RecipeListHeader from '../../../components/recipeListHeader';
 import { useAppSelector } from '../../../redux/hooks';
 import { selectView } from '../../../redux/slices/viewSlice';
-import RecipeList from '../../../components/recipeList';
+import RecipeList from '../../../components/recipe/recipeList';
+import RecipeListHeader from '../../../components/recipe/recipeListHeader';
 
 export default function TagPaginationPage({ tag, recipes, pagination }: TagPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
     const {
@@ -61,7 +62,7 @@ export default function TagPaginationPage({ tag, recipes, pagination }: TagPageP
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-    const tagsDirectory = path.join(process.cwd(), 'src', 'data', 'tags');
+    const tagsDirectory = path.join(process.cwd(), 'data', 'tags');
     const filenames = fs.readdirSync(tagsDirectory);
 
     let staticPathsResult: GetStaticPathsResult = {
@@ -91,7 +92,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
     const page = parseInt(String(params?.page));
-    const tagPath = path.join(process.cwd(), 'src', 'data', 'tags', `${params?.slug}.json`);
+    const tagPath = path.join(process.cwd(), 'data', 'tags', `${params?.slug}.json`);
     const content = fs.readFileSync(tagPath, 'utf8');
     const tag: Tag = JSON.parse(content);
 

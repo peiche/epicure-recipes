@@ -10,6 +10,8 @@ export default function SearchClearRefinements(props: ClearRefinementsProps) {
     return (
         <Chip
             label='Clear all'
+            size="small"
+            variant="outlined"
             disabled={!canRefine}
             onClick={refine}
         />

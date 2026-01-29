@@ -2,9 +2,12 @@ import { Search } from "@mui/icons-material";
 import { Dialog, DialogContent, IconButton, useMediaQuery } from "@mui/material";
 import { useState } from "react";
 import { Configure, InstantSearch } from "react-instantsearch";
-import { searchClient, suggestIndexName } from "../services/api/algolia";
+import theme from "../../themes/theme";
+import { searchClient, suggestIndexName } from "../../services/api/algolia";
 import SearchSuggestBox from "./searchSuggestBox";
-import theme from "../themes/theme";
+// import { searchClient, suggestIndexName } from "../services/api/algolia";
+// import SearchSuggestBox from "./searchSuggestBox";
+// import theme from "../themes/theme";
 
 export default function SearchDialogButton() {
     const [open, setOpen] = useState(false);

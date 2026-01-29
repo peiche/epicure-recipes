@@ -1,6 +1,6 @@
 import React from "react"
 import { CssBaseline, ThemeProvider } from "@mui/material";
-import theme from "../themes/theme";
+import theme from "../../themes/theme";
 
 interface LayoutProps {
     children: React.ReactNode;

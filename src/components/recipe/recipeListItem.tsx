@@ -1,6 +1,6 @@
 import { Card, CardContent, CardMedia, Link, Typography } from "@mui/material";
 import NextLink from "next/link";
-import { Recipe, RecipeLite } from "../interfaces/Recipe";
+import { Recipe, RecipeLite } from "../../interfaces/Recipe";
 
 interface RecipeCardProps {
     recipe: Recipe | RecipeLite;
@@ -12,7 +12,7 @@ export default function RecipeListItem({ recipe }: RecipeCardProps) {
             <Card variant='outlined' sx={{ display: 'flex' }}>
                 <CardMedia
                     component="img"
-                    image={`/processed/${recipe.image}`}
+                    image={`/images/thumbs/${recipe.thumbnail}`}
                     alt="Live from space album cover"
                     sx={{
                         width: 151,

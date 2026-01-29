@@ -1,12 +1,15 @@
 import { useRouter } from "next/router";
 import { KeyboardEvent, useEffect, useState } from "react";
-import { SuggestHit } from "../interfaces/SuggestHit";
+// import { SuggestHit } from "../interfaces/SuggestHit";
 import { Hit } from "algoliasearch";
-import { searchClient, suggestIndexName } from "../services/api/algolia";
+// import { searchClient, suggestIndexName } from "../services/api/algolia";
 import { Box, IconButton, InputBase, List, ListItem, ListItemButton, ListItemText } from "@mui/material";
 import { Close, Search } from "@mui/icons-material";
 import NextLink from "next/link";
-import { isElementVisibleInScrollableDiv } from "../utils/utils";
+import { SuggestHit } from "../../interfaces/SuggestHit";
+import { isElementVisibleInScrollableDiv } from "../../utils/utils";
+import { searchClient, suggestIndexName } from "../../services/api/algolia";
+// import { isElementVisibleInScrollableDiv } from "../utils/utils";
 
 interface SearchBoxProps {
     handleClose: () => void;

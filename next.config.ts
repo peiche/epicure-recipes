@@ -4,11 +4,6 @@ const nextConfig = {
     trailingSlash: true,
     images: {
         unoptimized: true,
-        localPatterns: [
-            {
-                pathname: '/public/processed/*',
-            }
-        ],
     },
 };
 

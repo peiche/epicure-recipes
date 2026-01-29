@@ -1,13 +1,13 @@
 import fs from 'fs';
 import path from 'path';
-import Layout from '../../../components/layout';
-import Wrapper from '../../../components/wrapper';
+import Layout from '../../../components/ui/layout';
+import Wrapper from '../../../components/layout/wrapper';
 import { Breadcrumbs, Grid, Link, Typography } from '@mui/material';
 import NextLink from 'next/link';
 import { GetStaticPaths, GetStaticProps, InferGetStaticPropsType } from 'next';
-import SEO from '../../../components/seo';
+import SEO from '../../../components/layout/seo';
 import { RESULTS_PER_PAGE } from '../../../constants/pagination';
-import Pagination from '../../../components/pagination';
+import Pagination from '../../../components/ui/pagination';
 import { PaginationProps } from '../../../interfaces/PaginationProps';
 import { getRecipesForTag } from '../../../lib/recipe';
 import { Tag } from '../../../interfaces/Tag';
@@ -15,53 +15,31 @@ import { TagPageProps } from '../../../interfaces/TagPageProps';
 import React from 'react';
 import { useAppSelector } from '../../../redux/hooks';
 import { selectView } from '../../../redux/slices/viewSlice';
-import RecipeListHeader from '../../../components/recipeListHeader';
-import RecipeList from '../../../components/recipeList';
+// import RecipeListHeader from '../../../components/recipeListHeader';
+import RecipeList from '../../../components/recipe/recipeList';
+import RecipeListHeader from '../../../components/recipe/recipeListHeader';
+import RecipeListBase from '../../../components/recipe/recipeListBase';
 
-export default function TagPage({ tag, recipes, pagination }: TagPageProps & InferGetStaticPropsType<typeof getStaticProps>) {
-    const {
-        slug,
-        name,
-    } = tag;
-    const view = useAppSelector(selectView);
+export default function TagPage(props: TagPageProps) {
+    // const {
+    //     slug,
+    //     name,
+    // } = tag;
+    // const view = useAppSelector(selectView);
 
     return (
-        <Layout>
-            <SEO title={`Tag: ${name}`} />
-            <Wrapper>
-
-                <Breadcrumbs>
-                    <Link underline='hover' color='inherit' component={NextLink} href='/recipes'>Recipes</Link>
-                    <Typography sx={{ color: 'text.primary' }}>Tags</Typography>
-                    <Typography sx={{ color: 'text.primary' }}>{name}</Typography>
-                </Breadcrumbs>
-
-                <RecipeListHeader
-                    title={`Recipes tagged with ${name}`}
-                    view={view}
-                />
-
-                <Grid container spacing={2}>
-                    <RecipeList recipes={recipes} />
-
-                    <Grid size={12}>
-                        {pagination.totalPages > 1 && (
-                            <Pagination
-                                prefix={`/tag/${slug}`}
-                                currentPage={pagination.currentPage}
-                                totalPages={pagination.totalPages}
-                            />
-                        )}
-                    </Grid>
-                </Grid>
-
-            </Wrapper>
-        </Layout>
+        <RecipeListBase 
+            {...props}
+            title={`Recipes for ${props.tag.name}`}
+            subtitle={[`Explore our curated list of ${props.tag.name} recipes.`]}
+            breadcrumbLabel="Tags"
+            paginationPrefix={`/tag/${props.tag.slug}`}
+        />
     );
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-    const tagsDirectory = path.join(process.cwd(), 'src', 'data', 'tags');
+    const tagsDirectory = path.join(process.cwd(), 'data', 'tags');
     const filenames = fs.readdirSync(tagsDirectory);
 
     return {
@@ -75,7 +53,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 }
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
-    const tagPath = path.join(process.cwd(), 'src', 'data', 'tags', `${params?.slug}.json`);
+    const tagPath = path.join(process.cwd(), 'data', 'tags', `${params?.slug}.json`);
     const content = fs.readFileSync(tagPath, 'utf8');
     const tag: Tag = JSON.parse(content);
 
@@ -94,6 +72,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
             tag,
             recipes: recipes.slice(0, RESULTS_PER_PAGE),
             pagination,
+            totalCount,
         },
     }
 }

@@ -1,8 +1,11 @@
 import { GridView as GridViewIcon, ViewList as ViewListIcon } from "@mui/icons-material";
 import { Box, ToggleButton, ToggleButtonGroup, Typography } from "@mui/material";
-import View from "../interfaces/View";
-import { setView } from "../redux/slices/viewSlice";
-import { useAppDispatch } from "../redux/hooks";
+import View from "../../interfaces/View";
+import { useAppDispatch } from "../../redux/hooks";
+import { setView } from "../../redux/slices/viewSlice";
+// import View from "../interfaces/View";
+// import { setView } from "../redux/slices/viewSlice";
+// import { useAppDispatch } from "../redux/hooks";
 
 interface RecipeListHeaderProps {
     title: string | null;

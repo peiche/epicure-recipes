@@ -2,11 +2,11 @@ import fs from 'fs';
 import path from 'path';
 import { Box, Container, Grid, List, ListItem, ListItemText, Typography } from '@mui/material';
 import { AccessTimeOutlined, RestaurantOutlined } from '@mui/icons-material';
-import Layout from '../../../components/layout';
+import Layout from '../../../components/ui/layout';
 import { useEffect } from 'react';
 import { Recipe } from '../../../interfaces/Recipe';
 import { GetStaticPaths, GetStaticProps, InferGetStaticPropsType } from 'next';
-import SEO from '../../../components/seo';
+import SEO from '../../../components/layout/seo';
 
 interface RecipePrintPageProps {
     recipe: Recipe;
@@ -141,7 +141,7 @@ export default function RecipePrintPage({ recipe }: RecipePrintPageProps & Infer
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-    const recipesDirectory = path.join(process.cwd(), 'src', 'data', 'recipes');
+    const recipesDirectory = path.join(process.cwd(), 'data', 'recipes');
     const filenames = fs.readdirSync(recipesDirectory);
 
     return {
@@ -155,7 +155,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 }
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
-    const recipePath = path.join(process.cwd(), 'src', 'data', 'recipes', `${params?.slug}.json`);
+    const recipePath = path.join(process.cwd(), 'data', 'recipes', `${params?.slug}.json`);
     const content = fs.readFileSync(recipePath, 'utf8');
     const recipe: Recipe = JSON.parse(content);
 

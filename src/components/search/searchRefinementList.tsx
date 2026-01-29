@@ -14,7 +14,7 @@ export default function SearchRefinementList(props: RefinementListProps) {
     if (items.length === 0) {
         return (
             <Typography variant='body2' mt={1} fontStyle='italic' sx={(theme) => ({
-                color: theme.vars.palette.text.disabled,
+                // color: theme.vars.palette.text.disabled,
             })}>
                 There are no refinements available.
             </Typography>
@@ -25,7 +25,7 @@ export default function SearchRefinementList(props: RefinementListProps) {
         <>
             {items.map((item, index) => (
                 <FormControl key={index} fullWidth>
-                    <FormControlLabel
+                    {/* <FormControlLabel
                         control={
                             <Checkbox
                                 checked={item.isRefined}
@@ -39,26 +39,39 @@ export default function SearchRefinementList(props: RefinementListProps) {
                                 gap: 1,
                             }}>
                                 <Typography component='span'>{item.label}</Typography>
-                                <Chip label={item.count} size='small' variant='outlined' />
+                                <Chip label={item.count.toLocaleString()} size='small' variant='outlined' />
                             </Box>
                         }
+                    /> */}
+                    <FormControlLabel
+                        control={
+                            <Checkbox
+                                size="small"
+                                checked={item.isRefined}
+                                onChange={() => refine(item.value)}
+                                sx={{ color: 'primary.main', '&.Mui-checked': { color: 'primary.main' } }}
+                            />
+                        }
+                        label={<Typography variant="body2">{item.label}</Typography>}
                     />
                 </FormControl>
             ))}
 
             {canToggleShowMore && (
-                <Button variant="text" onClick={toggleShowMore} color='inherit' startIcon={
-                    <>
-                    {isShowingMore ? (
-                        <KeyboardArrowUp />
-                    ) : (
-                        <KeyboardArrowDown />
-                    )}</>
-                } sx={{
-                    textTransform: 'none',
-                }}>
-                    {isShowingMore ? 'Show less' : 'Show more'}
-                </Button>
+                <Box sx={{ display: 'flex', justifyContent: 'center' }}>
+                    <Button variant="text" onClick={toggleShowMore} color='inherit' startIcon={
+                        <>
+                            {isShowingMore ? (
+                                <KeyboardArrowUp />
+                            ) : (
+                                <KeyboardArrowDown />
+                            )}</>
+                    } sx={{
+                        textTransform: 'none',
+                    }}>
+                        {isShowingMore ? 'Show less' : 'Show more'}
+                    </Button>
+                </Box>
             )}
         </>
     )

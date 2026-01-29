@@ -8,7 +8,7 @@ interface FilterPanelProps {
 export default function SearchFilterPanel({ label, children }: FilterPanelProps) {
     return (
         <>
-            <Typography variant='body2' textTransform='uppercase'>{label}</Typography>
+            <Typography variant="subtitle2" sx={{ fontWeight: 600 }}>{label}</Typography>
             <Box mb={2}>
                 {children}
             </Box>
