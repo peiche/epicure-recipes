@@ -1,0 +1,106 @@
+{
+  "name": "Maple Cranberry Chicken Breasts",
+  "slug": "maple-cranberry-chicken-breasts",
+  "description": "Cranberries contain powerful antioxidants that may lower bad cholesterol and prevent kidney stones. They even have cancer prevention properties.",
+  "ingredients": [
+    {
+      "name": "cranberry sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "maple syrup",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dijon-style mustard",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "35 - 40 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 375° F (190° C).",
+    "Combine first 3 ingredients in Multipurpose Pot - 8 cup and melt over medium-low heat.",
+    "Sprinkle chicken with Sea Salt and Black Pepper. Place in baking dish and brush with half the sauce. Bake for approximately 30 minutes, brushing chicken with remaining sauce after about 20 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 180,
+    "fat": 3,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 190,
+    "carbohydrate": 8,
+    "fiber": 0,
+    "sugars": 8,
+    "protein": 27
+  },
+  "tips": [
+    "Serve with garlic mashed potatoes and steamed veggies."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Maple-Cranberry-Chicken-Breasts-Main.jpg",
+  "thumbnail": "Maple-Cranberry-Chicken-Breasts-Main.webp",
+  "products": []
+}

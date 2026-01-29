@@ -1,0 +1,124 @@
+{
+  "name": "Sencha & Jasmine Green Tea Lemonade",
+  "slug": "sencha-jasmine-green-tea-lemonade",
+  "description": "Make this caf&#xE9; favourite at home&#x2014;you&#x2019;ll save money and you control the amount of sweetener! A typical iced tea lemonade can have up to 35 g of sugar per serving (1&#xBD; cups).",
+  "ingredients": [
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemons",
+      "quantity": "3",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ice water",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sencha & Jasmine Green Tea Blend",
+      "quantity": "4 bags",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey or maple syrup",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ice cubes",
+      "quantity": null,
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 - 12 min",
+  "servings": "2 servings  (about 3 cups)    ",
+  "preparation": [
+    "Put the kettle on to boil.",
+    "Meanwhile, cut lemons in half; using the 2-in-1 Citrus Press, squeeze juice into a large measuring cup. You&#x2019;ll need about &#x2154; cup. Stir in ice water; set aside.",
+    "Pour 1 cup boiling water into a separate measuring cup. Stir in honey until dissolved. Add tea bags; steep 3&#x2013;5 min.",
+    "Squeeze bags to release flavour; discard. Pour tea into lemon mixture; stir well. Taste and add more honey, if needed.",
+    "Fill 2 large glasses with ice cubes; pour tea on top. Garnish with lemon slices."
+  ],
+  "tags": [
+    {
+      "slug": "n4th_of_july",
+      "name": "4th of July"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "cook_the_catalogue",
+      "name": "Cook The Catalogue"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "easter",
+      "name": "Easter"
+    },
+    {
+      "slug": "brunch",
+      "name": "Brunch"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "barbecue",
+      "name": "Barbecue"
+    },
+    {
+      "slug": "drinks",
+      "name": "Drinks"
+    },
+    {
+      "slug": "cocktail_party",
+      "name": "Cocktail party"
+    },
+    {
+      "slug": "gfrr_drinks",
+      "name": "Drinks"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten Free\n"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No Cook"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 1/2 cups",
+    "calories": 80,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 10,
+    "carbohydrate": 25,
+    "fiber": 0,
+    "sugars": 19,
+    "protein": 0.4
+  },
+  "tips": [
+    "Don&#x2019;t have fresh lemons? Simply use bottled lemon juice."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "6811_sencha_jasmine-green-tea-lemondade_1036x583.jpg",
+  "thumbnail": "6811_sencha_jasmine-green-tea-lemondade_1036x583.webp",
+  "products": []
+}

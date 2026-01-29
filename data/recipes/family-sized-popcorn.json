@@ -1,0 +1,79 @@
+{
+  "name": "Family-Sized Popcorn ",
+  "slug": "family-sized-popcorn",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "popcorn kernels",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "popcorn toppings of your choice",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place popcorn into a Multipurpose Steamer, cover with lid, and microwave on high for 4–5 minutes or until the popping has slowed down.",
+    "Season with your favourite popcorn toppings, and let the healthy snacking begin!"
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 130,
+    "fat": 1.5,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 0,
+    "carbohydrate": 26,
+    "fiber": 4,
+    "sugars": 0,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Family-Sized-Popcorn-Main.jpg",
+  "thumbnail": "Family-Sized-Popcorn-Main.webp",
+  "products": [
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

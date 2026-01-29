@@ -1,0 +1,125 @@
+{
+  "name": "Slow-roasted Lemon Chicken",
+  "slug": "slow-roasted-lemon-chicken",
+  "description": "Fine dining at home!",
+  "ingredients": [
+    {
+      "name": "whole chicken",
+      "quantity": "1",
+      "additionalInstruction": "cut into pieces"
+    },
+    {
+      "name": "head garlic",
+      "quantity": "1",
+      "additionalInstruction": "separated into unpeeled cloves"
+    },
+    {
+      "name": "lemons",
+      "quantity": "2",
+      "additionalInstruction": "cut into wedges"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roasted Red Pepper Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "or Spinach Dip Mix"
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "white wine",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "2 hrs 45 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 325° F (160° C).",
+    "Place chicken, garlic cloves, and lemon wedges in a large casserole dish.",
+    "Drizzle with oil, and then sprinkle with Roasted Red Pepper Dip Mix, Lemon Dilly Dip Mix, Salt and Pepper. Toss to mix, then space out to fill pan. Be sure chicken pieces are turned skin-side up.",
+    "Pour in wine, tightly cover dish with foil and roast for 2 hours. Discard foil.",
+    "Increase temperature to 400° F (205° C). Continue baking for about 30 minutes, until chicken turns deep golden and lemons start to caramelize."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "slow_cooker",
+      "name": "Slow Cookers & Roasts"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 560,
+    "fat": 39,
+    "saturatedFat": 10,
+    "transFat": 0,
+    "cholesterol": 170,
+    "sodium": 180,
+    "carbohydrate": 3,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 43
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Slow-roasted-Lemon-Chicken-Main.jpg",
+  "thumbnail": "Slow-roasted-Lemon-Chicken-Main.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

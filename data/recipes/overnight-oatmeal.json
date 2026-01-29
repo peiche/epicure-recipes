@@ -1,0 +1,115 @@
+{
+  "name": "Overnight Oatmeal",
+  "slug": "overnight-oatmeal",
+  "description": "Make this portable recipe tonight for an easy, on-the-go breakfast. Serve warm or cold. Keeps up to three days in the fridge.",
+  "ingredients": [
+    {
+      "name": "2% plain Greek yogurt",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% milk or dairy-free alternative",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "quick oats",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chia seeds, or ground flaxseed",
+      "quantity": "1 tbsp",
+      "additionalInstruction": ""
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": "or any sweet dip mix, your choice"
+    },
+    {
+      "name": "Apple Pie Spice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "65 min (60 min chill time)",
+  "servings": "2 servings",
+  "preparation": [
+    "In a bowl, combine yogurt, milk, oats, seeds, dip mix, and Apple Pie Spice, if desired. Cover and leave overnight. The oats will soak up the milk and be ready by morning."
+  ],
+  "tags": [
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "gfrr_breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 250,
+    "fat": 7,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 65,
+    "carbohydrate": 34,
+    "fiber": 5,
+    "sugars": 6,
+    "protein": 15
+  },
+  "tips": [
+    "Go vegan by using dairy-free yogurt. Remember it will have less protein, so be sure to stir in a scoop of Power Up Vanilla Protein Blend."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup 2% plain Greek yogurt, 2 tbsp nuts, and 1 cup mixed berries.",
+  "image": "overnight_oatmeal_1036x583.jpg",
+  "thumbnail": "overnight_oatmeal_1036x583.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "A tangy, fruity blend of raspberries, strawberries, hibiscus &amp; a touch of rooibos. Sweet dip &amp; a seasoning!"
+      ]
+    },
+    {
+      "slug": "apple_pie_spice",
+      "name": "Apple Pie Spice",
+      "summary": [
+        "It’s apple pie in a jar: aromatic cinnamon &amp; nutmeg."
+      ]
+    }
+  ]
+}

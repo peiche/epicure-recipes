@@ -1,0 +1,164 @@
+{
+  "name": "Shrimp and Spinach Filling for Gyoza",
+  "slug": "shrimp-and-spinach-filling-for-gyoza",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "tightly packed spinach leaves",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "finely chopped shrimp",
+      "quantity": "6 oz (180 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "finely chopped water chestnuts",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Asian Stir-Fry Seasoning",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sesame oil",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg white",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sweet and Spicy Asian Dipping Sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Asian Stir-Fry Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Red Pepper Jelly",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sesame oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "soy sauce",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "or gluten free soy sauce"
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice vinegar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed chilies",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "Fills approximately 36 Gyoza for 4 servings",
+  "preparation": [
+    "Wilt spinach leaves in small amount of boiling water. Rinse under cold water, squeeze out as much moisture as possible and finely chop.",
+    "Combine spinach in a mixing bowl with remaining ingredients.",
+    "Use to fill Gyoza - Steamed Dumplings or Potstickers."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 70,
+    "fat": 2,
+    "saturatedFat": 0.3,
+    "transFat": 0,
+    "cholesterol": 85,
+    "sodium": 135,
+    "carbohydrate": 3,
+    "fiber": 1,
+    "sugars": 0,
+    "protein": 11
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Shrimp-and-Spinach-Filling-for-Gyoza-Main.jpg",
+  "thumbnail": "Shrimp-and-Spinach-Filling-for-Gyoza-Main.webp",
+  "products": [
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice &amp; noodle dish."
+      ]
+    },
+    {
+      "slug": "red_pepper_jelly",
+      "name": "Red Pepper Jelly (new)",
+      "summary": [
+        "A sweet red pepper flavour with a mild heat from cayenne.&nbsp;"
+      ]
+    }
+  ]
+}

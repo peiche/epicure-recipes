@@ -1,0 +1,108 @@
+{
+  "name": "Bliss Balls",
+  "slug": "bliss-balls",
+  "description": "An easy, no-bake, gluten-free treat! You’ll love the natural sweetness of the dates, honey, and vanilla. Wrap some up to bring with you on-the-go, or give them as a gift and spread the whole-food love!",
+  "ingredients": [
+    {
+      "name": "dates",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "almonds",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsweetened coconut ",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Power Up Chocolate Protein Blend",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Belgian Milk Chocolate",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "14 balls",
+  "preparation": [
+    "Pour boiling water over dates and soak for 10 min to soften, set aside.",
+    "Finely grind almonds in a food processor.",
+    "Drain and add dates and remaining ingredients and pulse until combined.",
+    "Form into balls."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 120,
+    "fat": 5,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 25,
+    "carbohydrate": 14,
+    "fiber": 2,
+    "sugars": 12,
+    "protein": 3
+  },
+  "tips": [
+    "For added crunch, mix in 1&frasl;2 cup crushed nuts."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "bliss balls large.jfif",
+  "thumbnail": "bliss balls large.webp",
+  "products": [
+    {
+      "slug": "power_up_chocolate_protein_blend__pouch_",
+      "name": "Power Up Chocolate Protein Blend (Pouch)",
+      "summary": [
+        "We like to fuel our bodies and satisfy those chocolate cravings at the same time. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    }
+  ]
+}

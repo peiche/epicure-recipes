@@ -1,0 +1,135 @@
+{
+  "name": "Mac & Cheese Tuna",
+  "slug": "mac-cheese-tuna",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "bite-sized pasta ",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Mac & Cheese Seasoning ",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium light tuna ",
+      "quantity": "1 can (5 oz/170 g) ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "CCB Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "steamed broccoli ",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": "divided"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings       ",
+  "preparation": [
+    "Preheat oven to 400° F (200° C).",
+    "Cook pasta according to package directions in a Multipurpose Pot - 8 cup. Drain.",
+    "Add Mac & Cheese Seasoning and milk, stirring to combine.",
+    "Mix in tuna, broccoli, half the cheese and dip mixes.",
+    "Pour into a casserole dish, top with remaining cheese and bake for 10 minutes. Serve."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 350,
+    "fat": 7,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 30,
+    "sodium": 680,
+    "carbohydrate": 42,
+    "fiber": 1,
+    "sugars": 7,
+    "protein": 30
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Mac-Cheese-Tuna-Main.jpg",
+  "thumbnail": "Mac-Cheese-Tuna-Main.webp",
+  "products": [
+    {
+      "slug": "mac___cheese_seasoning__pkg_of_3_",
+      "name": "Mac & Cheese Seasoning (Pack of 3)",
+      "summary": [
+        "An all-time best-seller, this is the Mac &amp; Cheese you’ve been craving – and that your kids will LOVE to eat! Creamy, cheesy, and super comforting, it’s free of unnecessary additives and packed with flavour thanks to real cheddar cheese. Take it from the stovetop (or microwave) to the table in under 10 minutes and dig in!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "ccb_dip_mix_b61a530",
+      "name": "CCB Dip Mix",
+      "summary": [
+        "<strong>Cheese. Chives. Bacon. </strong>How's that for a totally irresistible trio? Our very own smoky vegetarian bacon, made from pinto beans, is the secret star of this oh-so-yummy dip.",
+        "This blend is all about versatility and we recommend taking it way beyond the dip bowl—use CCB in any dish that could use a little levelling up.&nbsp;"
+      ]
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    }
+  ]
+}

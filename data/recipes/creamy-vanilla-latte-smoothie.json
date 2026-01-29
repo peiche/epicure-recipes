@@ -1,0 +1,129 @@
+{
+  "name": "Creamy Vanilla Latte Smoothie",
+  "slug": "creamy-vanilla-latte-smoothie",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Power Up Vanilla Protein Blend",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    },
+    {
+      "name": "espresso",
+      "quantity": "1 shot",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dates",
+      "quantity": "2",
+      "additionalInstruction": "pitted"
+    },
+    {
+      "name": "coconut oil",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk or non-dairy alternative",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oatmeal",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ice",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": null,
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 serving",
+  "preparation": [
+    "Combine all ingredients in a blender and blend until smooth. Add more ice for a thicker consistency, or more water for a thinner consistency, as desired."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 360,
+    "fat": 12,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 35,
+    "sodium": 370,
+    "carbohydrate": 35,
+    "fiber": 3,
+    "sugars": 19,
+    "protein": 29
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "creamy-vanilla-latte-smoothie_1036x583.jpg",
+  "thumbnail": "creamy-vanilla-latte-smoothie_1036x583.webp",
+  "products": [
+    {
+      "slug": "power_up_vanilla_protein_blend__pouch_",
+      "name": "Power Up Vanilla Protein Blend (Pouch)",
+      "summary": [
+        "Fuel up first thing and stay fuller longer with rich smooth-tasting vanilla blend. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    }
+  ]
+}

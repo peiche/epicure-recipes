@@ -1,0 +1,157 @@
+{
+  "name": "Stir-Fried Rice Noodles",
+  "slug": "stir-fried-rice-noodles",
+  "description": "Forget a take-out – make this sweet and savory tofu and red pepper stir-fry in minutes instead. Don’t love tofu? Swap for chicken or beef.",
+  "ingredients": [
+    {
+      "name": "rice noodles, such as vermicelli",
+      "quantity": "1 pkg (227 g/8 oz)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "extra-firm tofu",
+      "quantity": "1 pkg (350 g/12 oz)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "roasted, unsalted peanuts or cashews",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "snap peas",
+      "quantity": "1 pkg (227 g/8 oz)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Yaki Udon Stir-Fry Seasoning or Sweet & Sour Stir-Fry Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "12 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Cook noodles in Multipurpose Pot according to package directions. Drain and rinse with cold water.",
+    "Meanwhile, slice peppers and crumble tofu into small pieces. Chop peanuts and set aside.",
+    "Heat oil in Wok over medium-high heat. Add sliced peppers, crumbled tofu, and snap peas; cook 4–5 min.",
+    "Add cooked noodles, chopped peanuts, seasoning, and soy sauce; toss to combine. Add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 520,
+    "fat": 19,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 470,
+    "carbohydrate": 69,
+    "fiber": 6,
+    "sugars": 11,
+    "protein": 21
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "Stir-Fried-Rice-Noodles_1036x583.jpg",
+  "thumbnail": "Stir-Fried-Rice-Noodles_1036x583.webp",
+  "products": [
+    {
+      "slug": "chicken_yaki_udon_seasoning__pack_of_3_",
+      "name": "Yaki Udon Stir-Fry Seasoning (Pack of 3)",
+      "summary": [
+        "An Epicure take on Japanese street food that the whole family will love!"
+      ]
+    },
+    {
+      "slug": "sweet___sour_stir_fry_seasoning__pkg_of_3__6383458",
+      "name": "Sweet & Sour Stir-Fry Seasoning (Pack of 3)",
+      "summary": [
+        "Make this popular Asian-inspired meal in minutes without having to buy a ton of ingredients to get the flavour just right. Simply mix the blend with a few pantry staples and fire up your work to get a Better Than Takeout meal on the table in 20 minutes at around $4/serving.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Hot Buttered Rum",
+  "slug": "hot-buttered-rum",
+  "description": "A festive winter warmer made with real butter and rum.",
+  "ingredients": [
+    {
+      "name": "Hot Buttered Rum Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dark rum",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "lemon",
+      "quantity": "1 slice",
+      "additionalInstruction": "for garnish"
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 cup",
+  "preparation": [
+    "Spoon Hot Buttered Rum and rum into mug. Fill with boiling water.",
+    "Garnish with cinnamon and lemon slice, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cup",
+    "calories": 150,
+    "fat": 1.5,
+    "saturatedFat": 1,
+    "transFat": 0.1,
+    "cholesterol": 5,
+    "sodium": 15,
+    "carbohydrate": 10,
+    "fiber": 0,
+    "sugars": 10,
+    "protein": 0
+  },
+  "tips": [
+    "As a Hot Buttered Rum Sauce, warm and spoon over ice cream or sauté with bananas, apples, or mixed nuts."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Hot-Buttered-Rum-Main.jpg",
+  "thumbnail": "Hot-Buttered-Rum-Main.webp",
+  "products": []
+}

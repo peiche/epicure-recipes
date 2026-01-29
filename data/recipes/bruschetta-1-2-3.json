@@ -1,0 +1,130 @@
+{
+  "name": "Bruschetta 1 - 2 - 3",
+  "slug": "bruschetta-1-2-3",
+  "description": "An easy and elegant appetizer - perfect for any occasion.",
+  "ingredients": [
+    {
+      "name": "slices French baguette",
+      "quantity": "12",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "Classic Bruschetta with Pesto",
+      "quantity": "1 recipe",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "French baguette",
+      "quantity": "12 slices",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pesto Sauce Mix or Bruschetta Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herbed Garlic Sea Salt Blend or salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "shaved Parmesan cheese",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "12 pieces",
+  "preparation": [
+    "Preheat oven to broil. Lay bread slices on Sheet Pan lined with Sheet Pan Liner and, using a basting brush, lightly brush with oil. Broil for 2 minutes each side, or until golden.",
+    "Top toasted bread slices with a heaping tablespoon of Bruschetta mixture."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 180,
+    "fat": 3,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 390,
+    "carbohydrate": 33,
+    "fiber": 2,
+    "sugars": 0,
+    "protein": 6
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1600804447809-recipeMainImagePath.jpg",
+  "thumbnail": "1600804447809-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "bruschetta_seasoning",
+      "name": "Bruschetta Seasoning",
+      "summary": [
+        "An aromatic blend of basil, garlic and parsley."
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

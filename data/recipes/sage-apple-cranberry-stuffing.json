@@ -1,0 +1,135 @@
+{
+  "name": "Sage & Apple & Cranberry Stuffing",
+  "slug": "sage-apple-cranberry-stuffing",
+  "description": "Subtle sage and fall apple are the perfect flavour pairing for cozy winter dinners.",
+  "ingredients": [
+    {
+      "name": "diced celery",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth",
+      "quantity": "2 cups",
+      "additionalInstruction": "or Vegetable Broth, prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cubed day-old bread",
+      "quantity": "12 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced apple",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sage & Apple Stuffing Seasoning",
+      "quantity": "5 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "35 min",
+  "servings": "12 cups",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Boil celery for 3 minutes in Broth.",
+    "In a large mixing bowl, combine bread, apple, and Sage & Apple Stuffing Seasoning.",
+    "Pour Broth mixture over bread mixture, and stir to combine.",
+    "In a large, lightly buttered casserole dish, bake until golden, approximately 25 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cup",
+    "calories": 110,
+    "fat": 1,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 260,
+    "carbohydrate": 21,
+    "fiber": 2,
+    "sugars": 4,
+    "protein": 3
+  },
+  "tips": [
+    "Prep and freeze up to 3 weeks ahead, then bake in a large casserole dish to serve on the side.",
+    "Add 1 cup dried sweet cranberries to your stuffing for that extra sweet and savoury kick! Serve with chicken, turkey, or pork.",
+    "To make a half batch, in Rectangular Steamer, steam half the celery with 1&frasl;2 cup prepared Broth. Transfer to a heat-proof serving dish. Mix in 1&frasl;2 cup Broth and half all remaining ingredients. Bake, and serve: fewer dishes, less mess!",
+    "Compared to store-bought, Epicure Sage & Apple Stuffing could save you almost 700 mg of sodium per cup! Enjoy this traditional dish knowing you are serving something both delicious and healthy."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sage-Apple-Cranberry-Stuffing-Main.jpg",
+  "thumbnail": "Sage-Apple-Cranberry-Stuffing-Main.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavours of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "rectangular_steamer_efd7225",
+      "name": "Rectangular Steamer",
+      "summary": [
+        "Easy to clean. Easy to serve. Rectangular, silicone steamer is perfect for side dishes &amp; desserts."
+      ]
+    }
+  ]
+}

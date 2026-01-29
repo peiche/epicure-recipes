@@ -1,0 +1,69 @@
+{
+  "name": "BBQ Spiced Seasoning for Nuts",
+  "slug": "bbq-spiced-seasoning-for-nuts",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "egg white",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mixed raw nuts",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "BBQ Spiced Seasoning for Nuts",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "16 servings",
+  "preparation": [
+    "Preheat oven to 300° F. Line a Sheet Pan with a Sheet Pan Liner.",
+    "In large bowl, whisk egg white until foamy.",
+    "Stir in nuts until coated. Add seasoning and stir to combine.",
+    "Spread in a single layer on pan. Bake for 25–30 min.",
+    "Remove from oven, let cool completely, then break apart."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "about 1/4 cup",
+    "calories": 220,
+    "fat": 18,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 190,
+    "carbohydrate": 9,
+    "fiber": 3,
+    "sugars": 3,
+    "protein": 6
+  },
+  "tips": [
+    "Serve with cheese & charcuterie boards, toss over salads, roasted veggies, or even mix with popcorn.",
+    "Go egg-free by replacing egg white with 2 tbsp oil.",
+    "Make it nut free: Preheat oven to 400° F. Drain and rinse 2 cans (398 ml each) chickpeas. Coat with 2 tbsp oil. Add seasoning and stir to combine. Spread in a single layer on a lined sheet pan. Bake for 35 min."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1598988785400-recipeMainImagePath.jpg",
+  "thumbnail": "1598988785400-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

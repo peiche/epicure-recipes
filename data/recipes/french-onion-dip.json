@@ -1,0 +1,67 @@
+{
+  "name": "French Onion Dip",
+  "slug": "french-onion-dip",
+  "description": "Delicious with raw vegetables, potato chips, or crackers.",
+  "ingredients": [
+    {
+      "name": "sour cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "French Onion Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "35 min",
+  "servings": "2 cups",
+  "preparation": [
+    "Combine all ingredients. Let stand 30 minutes before serving."
+  ],
+  "tags": [
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 130,
+    "fat": 13,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 85,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "French-Onion-Dip-Main.jpg",
+  "thumbnail": "French-Onion-Dip-Main.webp",
+  "products": [
+    {
+      "slug": "french_onion_dip_mix_9a610da",
+      "name": "French Onion Dip Mix",
+      "summary": [
+        "Ruffled chips and crunchy veggies don’t stand a chance when French Onion is on the table! Gluten and sodium free, and packed with all the delicious taste of toasted onion and parsley, this blend makes a kid-friendly dip, but it doesn’t stop there. Use it to season any savoury dish where you’d like to liven up the flavour with onion — without having to chop or roast a bunch of onions!&nbsp;"
+      ]
+    }
+  ]
+}

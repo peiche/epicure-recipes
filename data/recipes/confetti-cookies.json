@@ -1,0 +1,140 @@
+{
+  "name": "Confetti Cookies",
+  "slug": "confetti-cookies",
+  "description": "Kid’s birthday party coming up? Look no further than the ultimate intersection where sweet treats meet a party hat. These cookies are practically screaming to join in on the celebrations. And, they’re allergen friendly—no gluten or nuts, and you can use vegan butter for a dairy-free version. Make sure you use the long-rod sprinkles called “jim bits” so the colours don’t bleed into the cookies.",
+  "ingredients": [
+    {
+      "name": "Smart Cookie Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rainbow jim bits sprinkles",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "divided (See Tip)"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Preheat oven to 350° F. Line Sheet Pan with Sheet Pan Liner.",
+    "Using a stand mixer (with paddle attachment) or hand mixer, beat mix with butter, egg, and vanilla extract on low speed until well combined. Fold in 1&frasl;4 cup sprinkles.",
+    "Scoop dough into 12 balls, about 2 tbsp each.",
+    "Pour remaining 1&frasl;4 cup  sprinkles in a bowl or on a plate. Gently roll or dip the tops and sides of the cookies in the sprinkles. Arrange on pan, spacing 1\" apart.",
+    "Bake 12–15 min, or until lightly golden on the edges and set in the middle. Let cool on pan for 5 min. Place cookies on Cooling Racks and cool completely."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "easter",
+      "name": "Easter"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 150,
+    "fat": 6,
+    "saturatedFat": 4,
+    "transFat": 0.2,
+    "cholesterol": 25,
+    "sodium": 130,
+    "carbohydrate": 24,
+    "fiber": 1,
+    "sugars": 12,
+    "protein": 1
+  },
+  "tips": [
+    "It’s important to use long, rod-shaped rainbow sprinkles, aka “jimmies” or “jim bits,” for this recipe—they hold up during baking and their colours don't bleed into the cookie dough."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Confetti-Cookies-on-pack_2160x1860.jpg",
+  "thumbnail": "Confetti-Cookies-on-pack_2160x1860.webp",
+  "products": [
+    {
+      "slug": "smart_cookie_mix__2pk_",
+      "name": "Smart Cookie Mix (Pack of 2)",
+      "summary": [
+        "Our product developers are real smart cookies! They’ve created an unbelievably tasty, gluten-free cookie dough with a neutral base so you can bake up cookies to accommodate any allergens, dietary constraints, preferences—and occasions! Make chocolate chip, oatmeal raisin, and white chocolate macadamia cookies—or just about any combo you’re craving. Let your favourite flavours guide you, and get your kids involved in the baking process and let their inner baker shine!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    },
+    {
+      "slug": "cooling_rack__set_of_2___1701277_",
+      "name": "Cooling Rack (Set of 2)",
+      "summary": [
+        "These space-saving cooling racks are an absolute must-have for every at-home baker or chef.&nbsp;"
+      ]
+    }
+  ]
+}

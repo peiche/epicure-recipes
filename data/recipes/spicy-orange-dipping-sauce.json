@@ -1,0 +1,103 @@
+{
+  "name": "Spicy Orange Dipping Sauce",
+  "slug": "spicy-orange-dipping-sauce",
+  "description": "A delicious dipping sauce for chicken and shrimp. It also makes a wonderful dip for fondues.",
+  "ingredients": [
+    {
+      "name": "low fat mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen orange juice concentrate",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "thawed"
+    },
+    {
+      "name": "white wine vinegar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chipotle Aioli Mix or Louisiana Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Smoky Sriracha Sea Salt Blend or sea salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "2/3 cup",
+  "preparation": [
+    "Whisk all ingredients together."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 tbsp",
+    "calories": 45,
+    "fat": 4,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 120,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 0.2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Spicy-Orange-Dipping-Sauce-Main.jpg",
+  "thumbnail": "Spicy-Orange-Dipping-Sauce-Main.webp",
+  "products": [
+    {
+      "slug": "chipotle_aioli_mix",
+      "name": "Chipotle Aioli Mix",
+      "summary": [
+        "Medium-spicy Southwestern flavour with noteworthy chipotle chili and smoked paprika. A crowd-pleasing condiment for your burgers, fries, fish tacos, burritos and anything else that needs a little extra kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "louisiana_seasoning",
+      "name": "Louisiana Seasoning (1011503)",
+      "summary": [
+        "A Cajun-inspired seasoning that brings the flavour with a medium-spice level. &nbsp;"
+      ]
+    },
+    {
+      "slug": "smoky_sriracha_sea_salt_blend_9618fe3",
+      "name": "Smoky Sriracha Sea Salt Blend",
+      "summary": [
+        "This smoky sea salt is a real timesaver when you’re looking for a quick way to add powerful&nbsp;flavor to any meal.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

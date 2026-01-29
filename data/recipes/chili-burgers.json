@@ -1,0 +1,153 @@
+{
+  "name": "Chili Burgers",
+  "slug": "chili-burgers",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chili Seasoning or Chipotle Aioli Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomato",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "burger buns",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "slices cheddar cheese",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "spinach",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat grill to medium-high heat. Lightly brush with oil to prevent sticking.",
+    "In large bowl, add beef and seasoning. Using your hands, gently mix to combine. Form into four patties.",
+    "Grill patties, with lid closed, 4–5 min per side, or until cooked through.",
+    "Meanwhile, slice tomato and onion. Slice buns open; add to grill, face down, for final 1 min of grilling patties. At this time, add 1 slice cheese on top of each patty to melt.",
+    "Tuck burgers into buns. Top with tomato, onion, spinach, and additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 burger",
+    "calories": 490,
+    "fat": 21,
+    "saturatedFat": 9,
+    "transFat": 0.4,
+    "cholesterol": 80,
+    "sodium": 450,
+    "carbohydrate": 40,
+    "fiber": 5,
+    "sugars": 8,
+    "protein": 35
+  },
+  "tips": [
+    "When mixing the beef and seasoning, work quickly and gently. Overmixing can lead to tough burgers.",
+    "Swap Cha Cha Chili Seasoning for Chili Seasoning or Chipotle Aioli Mix."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup veggies, your choice.",
+  "image": "june_cha_cha_burgers_1036x583.jpg",
+  "thumbnail": "june_cha_cha_burgers_1036x583.webp",
+  "products": [
+    {
+      "slug": "chili_seasoning",
+      "name": "Chili Seasoning (1001136)",
+      "summary": [
+        "Make classic, restaurant-quality chili at home with better-for-you ingredients."
+      ]
+    },
+    {
+      "slug": "chipotle_aioli_mix",
+      "name": "Chipotle Aioli Mix",
+      "summary": [
+        "Medium-spicy Southwestern flavor with noteworthy chipotle chili and smoked paprika. A crowd-pleasing condiment for your burgers, fries, fish tacos, burritos and anything else that needs a little extra kick.&nbsp;"
+      ]
+    }
+  ]
+}

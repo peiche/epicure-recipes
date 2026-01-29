@@ -1,0 +1,99 @@
+{
+  "name": "Big Batch Raspberry Montreal Chicken Marinade",
+  "slug": "big-batch-raspberry-montreal-chicken-marinade",
+  "description": "Tangy and ideal for chicken or pork.",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Montreal Chicken Rub",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Honey Mustard",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "raspberry vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "2 hours",
+  "servings": "3 cups",
+  "preparation": [
+    "Whisk oil with Montreal Chicken Rub, Honey Mustard, and vinegar.",
+    "Portion meat into resealable plastic bags.",
+    "Divide marinade, then pour each portion over meat in bags.",
+    "Squeeze out air from bags and seal as close as possible to meat.",
+    "Refrigerate at least 2 hours or freeze up to 2 months. Defrost before cooking."
+  ],
+  "tags": [
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 90,
+    "fat": 10,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 10,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Big-Batch-Raspberry-Montreal-Chicken-Marinade-Main.jpg",
+  "thumbnail": "Big-Batch-Raspberry-Montreal-Chicken-Marinade-Main.webp",
+  "products": [
+    {
+      "slug": "montreal_chicken_rub_4b3f157",
+      "name": "Montreal Chicken Rub",
+      "summary": [
+        "Robust, herby flavor with a hint of paprika and lemon—an all-purpose, sodium-free blend that’s nothing short on flavor!"
+      ]
+    },
+    {
+      "slug": "honey_mustard",
+      "name": "Honey Mustard",
+      "summary": [
+        "A bold twist on a classic condiment made with organic honey and spices."
+      ]
+    }
+  ]
+}

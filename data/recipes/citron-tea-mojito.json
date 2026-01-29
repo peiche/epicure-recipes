@@ -1,0 +1,84 @@
+{
+  "name": "Citron Tea Mojito",
+  "slug": "citron-tea-mojito",
+  "description": "To make alcohol-free Mojitos, replace white rum with additional lime juice or Tea.",
+  "ingredients": [
+    {
+      "name": "fresh mint leaves",
+      "quantity": "6 - 8",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar (or your favourite sweetener)",
+      "quantity": "1 - 2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ice",
+      "quantity": null,
+      "additionalInstruction": "to fill glass"
+    },
+    {
+      "name": "white rum",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sencha & Jasmine Green Tea Blend",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Club soda",
+      "quantity": null,
+      "additionalInstruction": "to fill glass"
+    },
+    {
+      "name": "lime wedges",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sprig fresh mint",
+      "quantity": "1",
+      "additionalInstruction": "for garnish"
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 serving",
+  "preparation": [
+    "Juice lime with a 2-in-1 Citrus Press. Place mint in tall highball glass. Cover with sugar and lime juice. With the back of a spoon, lightly crush mint.",
+    "Fill glass half-full with ice. Add rum, Sencha & Jasmine Green Tea Blend, and fill with club soda and stir well. Garnish with lime wedge and sprig of fresh mint. Serve."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 110,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 15,
+    "carbohydrate": 4,
+    "fiber": 0,
+    "sugars": 3,
+    "protein": 0.1
+  },
+  "tips": [
+    "Infuse your Mojito with fresh berries or cucumber for a delightful twist!"
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Citron-Tea-Mojito-Main.jpg",
+  "thumbnail": "Citron-Tea-Mojito-Main.webp",
+  "products": []
+}

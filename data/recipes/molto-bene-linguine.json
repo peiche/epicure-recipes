@@ -1,0 +1,131 @@
+{
+  "name": "Molto Bene Linguine",
+  "slug": "molto-bene-linguine",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Molto Bene sauce",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "linguine pasta, or gluten-free pasta",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light tuna",
+      "quantity": "2 cans (5 oz/280g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "low-sodium can of diced tomatoes",
+      "quantity": "1 can (14 oz/398ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "for topping – optional"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 - 6 servings",
+  "preparation": [
+    "In a Multipurpose Pot, cook linguine, according to instructions, drain reserving some of the pasta water.",
+    "Heat a frying pan over medium heat, add the tuna, Sea Salt and Black Pepper, tomatoes and their juices and then simmer for 5 minutes. Stir in sauce. Toss linguine with the sauce, and add a little hot reserved pasta water if required.",
+    "Sprinkle pasta with parmesan if desired."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 440,
+    "fat": 11,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 125,
+    "carbohydrate": 63,
+    "fiber": 4,
+    "sugars": 6,
+    "protein": 24
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Molto-Bene-Linguine-Main.jpg",
+  "thumbnail": "Molto-Bene-Linguine-Main.webp",
+  "products": [
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "Customizable ceramic grinder adjusts to coarse or fine grind."
+      ]
+    },
+    {
+      "slug": "multipurpose_pot___12_c",
+      "name": "Multipurpose Pot - 12 Cup",
+      "summary": [
+        "A 12 cup, multi-use, stainless-steel cooking pot with a lid made of glass, steel &amp; silicone rubber."
+      ]
+    }
+  ]
+}

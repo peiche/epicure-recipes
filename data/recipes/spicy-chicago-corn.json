@@ -1,0 +1,120 @@
+{
+  "name": "Spicy Chicago Corn",
+  "slug": "spicy-chicago-corn",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "popcorn kernels",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water or oil, for spritzing",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Maple Kettle Corn Popcorn Seasoning",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "White Cheddar Popcorn Seasoning",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Cajun Fries Seasoning or Smoky Sriracha Sea Salt Blend",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "6 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place popcorn in a Multipurpose Steamer; cover with lid and microwave on high for 4–5 min or until popping slows.",
+    "Spritz popcorn with water or oil; generously shake on toppers and grind salt for a spicy, sweet, and savoury combination."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 120,
+    "fat": 4.5,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 170,
+    "carbohydrate": 17,
+    "fiber": 4,
+    "sugars": 1,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1599156333476-recipeMainImagePath.jpg",
+  "thumbnail": "1599156333476-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "cajun_fries_seasoning",
+      "name": "Cajun Fries Seasoning",
+      "summary": [
+        "We love to make our taste buds dance with this <strong>Cajun Fries Seasoning</strong>. This blend of premium herbs and spices creates an earthy, piquant flavour that tastes great and packs a punch. It's perfect for anyone who wants to add excitement and heat to their favourite snack. Sprinkle as much or as little as you like over your spuds for a healthy alternative to restaurant fries with added seasonings.&nbsp;"
+      ]
+    },
+    {
+      "slug": "smoky_sriracha_sea_salt_blend_9618fe3",
+      "name": "Smoky Sriracha Sea Salt Blend",
+      "summary": [
+        "This smoky sea salt is a real timesaver when you’re looking for a quick way to add powerful&nbsp;flavor to any meal.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "name": "Smashed Chickpea Tacos",
+  "slug": "smashed-chickpea-tacos",
+  "description": "Chickpeas are a healthy, protein & fibre packed choice for a taco filling. Let eager kids help you smash the chickpeas with a Ground Meat Separator, everyone can help and have fun in the kitchen!",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "quantity": "2 cans (19 oz/540 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Taco Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomato paste",
+      "quantity": "1 can (5.5 oz/156 ml) ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "avocado",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crunchy taco shells",
+      "quantity": "8",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% plain Greek yogurt",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Drain and rinse chickpeas. Add to a sauté pan over medium heat with taco seasoning, water, and tomato paste. Stir to combine and cook until fragrant, 3 – 4 min.",
+    "Meanwhile, cut avocado in half; discard pit. Scoop out flesh and slice.",
+    "Remove pan from heat. Using Ground Meat Separator, lightly mash chickpeas until some have broken up.",
+    "To serve, spoon chickpea filling into taco shells; top with avocado and Greek yogurt. Add additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 530,
+    "fat": 19,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 460,
+    "carbohydrate": 77,
+    "fiber": 18,
+    "sugars": 10,
+    "protein": 20
+  },
+  "tips": [
+    "Swap avocado for Epicure’s Guacamole.",
+    "Consider cooking chickpeas in microwave using Multipurpose Steamer. Simply combine chickpeas (drained and rinsed), seasoning, water, and tomato paste. Cover; microwave on high 2–3 min until heated through.",
+    "Have some chickpea filling leftovers? Try them in a taco salad."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced cucumber and celery sticks.",
+  "image": "6743_smashed_chickpea_tacos_1036x583.jpg",
+  "thumbnail": "6743_smashed_chickpea_tacos_1036x583.webp",
+  "products": [
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

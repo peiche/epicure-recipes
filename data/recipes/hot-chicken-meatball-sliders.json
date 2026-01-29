@@ -1,0 +1,186 @@
+{
+  "name": "Hot Chicken Meatball Sliders",
+  "slug": "hot-chicken-meatball-sliders",
+  "description": "Throw these meatballs in the air fryer for crispy perfection (or bake them in the oven, if you’re rocking the OG kitchen vibes). The gluten-free breading in the seasoning helps keep these meatballs nice and juicy on the inside. Add some crunchy slaw, your go-to sauce—marinara for that tangy kick, or BBQ for smoky goodness—and you can’t go wrong!",
+  "ingredients": [
+    {
+      "name": "Nashville Hot Chicken Sandwich Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ground chicken or turkey",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "slider buns",
+      "quantity": "12",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce",
+      "quantity": "1 cup",
+      "additionalInstruction": "warmed, or BBQ sauce"
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded coleslaw mix",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded mozzarella",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat air fryer or oven to 400° F.",
+    "In a large bowl, combine seasoning with chicken. Using your hands or a large spoon, mix until well combined. Form into 18 meatballs, a scant 2 tbsp each.",
+    "Lightly brush air fryer with oil. Add meatballs; air fry 10 min, or until cooked through, shaking the basket halfway through. Or, arrange meatballs on Sheet Pan lined with Sheet Pan Liner. Bake in the oven 15 min, or until cooked.",
+    "Meanwhile, without separating rolls, slice entire package of buns in half, lengthwise, to form a top and a bottom sheet of bun halves. If desired, place both, cut sides up, on Sheet Pan; bake 5 min in preheated 400° F oven on pan to toast.",
+    "Slice meatballs in half. Divide half of the sauce between bottom sheet of buns, add coleslaw mix, and top with three meatball halves per bun, then pour over the remaining sauce. Sprinkle on cheese. Cover with top sheet of buns.",
+    "Slice along sides of each bun to portion into individual sliders, or serve on a tray to be pulled apart."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "air_fryer",
+      "name": "Air Fryer"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 sliders",
+    "calories": 380,
+    "fat": 13,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 105,
+    "sodium": 550,
+    "carbohydrate": 43,
+    "fiber": 2,
+    "sugars": 14,
+    "protein": 23
+  },
+  "tips": [
+    "Swap 1 pkg Crispy & Crunchy Coating Mix and 1 tbsp Buffalo or Louisiana Seasoning for Nashville Hot Chicken Sandwich Seasoning."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy greens and 1 tbsp Epicure Dressing.",
+  "image": "chicken-sliders.jpg",
+  "thumbnail": "chicken-sliders.webp",
+  "products": [
+    {
+      "slug": "nashville_hot_chicken_sandwich_seasoning__pack_of_",
+      "name": "Nashville Hot Chicken Sandwich Seasoning (Pack of 2)",
+      "summary": [
+        "A gluten free, crispy &amp; crunchy coating that bakes perfectly golden, fiery chicken. Make better-than-takeout sandwiches and tenders, or coat seafood and tofu for delicious appies or nourish bowls.&nbsp;"
+      ]
+    },
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavour of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    },
+    {
+      "slug": "buffalo_seasoning",
+      "name": "Buffalo Seasoning (1011492)",
+      "summary": [
+        "Feel the heat with this low-sodium, spicy blend that goes way beyond wings! &nbsp;"
+      ]
+    },
+    {
+      "slug": "louisiana_seasoning",
+      "name": "Louisiana Seasoning (1011503)",
+      "summary": [
+        "A Cajun-inspired seasoning that brings the flavour with a medium-spice level. &nbsp;"
+      ]
+    },
+    {
+      "slug": "crispy___crunchy_coating__pkg_of_3_",
+      "name": "Crispy & Crunchy Coating (Pkg of 3)",
+      "summary": [
+        "Craving the crunch? Add a crispy gluten free coating – that’s never soggy or bland – to protein and veggies and bake them in the oven. You’ll get all the taste of your fave fried foods without a trace of greasiness, so you can enjoy them whenever the craving strikes!&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

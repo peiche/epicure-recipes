@@ -1,0 +1,121 @@
+{
+  "name": "Red Garlic Shrimp & Tomato Pasta",
+  "slug": "red-garlic-shrimp-tomato-pasta",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "uncooked spaghetti noodles, preferably whole-grain",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen, peeled raw shrimp",
+      "quantity": "1 pkg (340 g)",
+      "additionalInstruction": "defrosted"
+    },
+    {
+      "name": "Red Garlic Topper Blend",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "1 pint",
+      "additionalInstruction": null
+    },
+    {
+      "name": "table cream",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Fill a Multipurpose Pot three-quarters full of water. Bring to a boil over high heat. Once boiling, add noodles and continue to boil until pasta is tender, about 8–10 min. Once cooked, drain noodles.",
+    "In a large fry pan or skillet, heat oil over medium-high heat. Add shrimp; season with topper blend. Cook, stirring occasionally, until pink and cooked through, about 2–3. Remove from pan and set aside (don’t wash).",
+    "Slice tomatoes in half; add to pan. Reduce heat to medium, cook 3 min, stirring frequently, until softened and juices start to release. Stir in cream and cheese; reduce heat to low. Scrape up any bits in the pan. Heat through, about 1 min.",
+    "Add cooked pasta and shrimp. Toss to combine. Season with more blend, to taste."
+  ],
+  "tags": [
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 380,
+    "fat": 13,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 150,
+    "sodium": 230,
+    "carbohydrate": 46,
+    "fiber": 6,
+    "sugars": 4,
+    "protein": 24
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups mixed greens and 1 tbsp Epicure Dressing, your choice.",
+  "image": "red_garlic_shrimp_tomato_pasta_1036x583.jpg",
+  "thumbnail": "red_garlic_shrimp_tomato_pasta_1036x583.webp",
+  "products": [
+    {
+      "slug": "red_garlic_topper_blend_c226e69",
+      "name": "Red Garlic Topper Blend",
+      "summary": [
+        "A salt-free, flavorful blend of garlic, red bell pepper, onions, &amp; herbs."
+      ]
+    },
+    {
+      "slug": "multipurpose_pot___12_c",
+      "name": "Multipurpose Pot - 12 Cup",
+      "summary": [
+        "A 12 cup, multi-use, stainless-steel cooking pot with a lid made of glass, steel &amp; silicone rubber."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "name": "Jalapeño Veggie Burger",
+  "slug": "jalapeno-veggie-burger",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "large carrot",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "celery stalk",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped walnuts or toasted sunflower seeds",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Kickin’ Jalapeño Burger Seasoning or Chipotle Aioli Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lentils",
+      "quantity": "1 can (540 ml/19 oz)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chickpea flour or other gluten-free flour",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whole wheat burger buns",
+      "quantity": "4",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "16 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Peel carrot then roughly chop it and celery. Add veggies, walnuts, and seasoning to food processor; pulse until combined, about 30 sec.",
+    "Drain and rinse lentils. Add to food processor with egg and flour. Blend until well combined, about 1 min, scraping down the sides as needed.",
+    "Heat oil in Sauté Pan over medium-high heat. Moisten hands and form mixture into 4 patties (they will be sticky!). Pan-fry 2 1&frasl;2 min per side.",
+    "Tuck patties into toasted buns and add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 510,
+    "fat": 18,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 45,
+    "sodium": 590,
+    "carbohydrate": 63,
+    "fiber": 18,
+    "sugars": 9,
+    "protein": 19
+  },
+  "tips": [
+    "Make vegan burgers by swapping egg with 1 tbsp ground chia or flax seeds mixed with 3 tbsp water. Let the mixture sit for a few minutes before adding to the recipe.",
+    "Chickpeas are a great source of protein. Chickpea flour is commonly found in most grocery stores and is also known as chana flour, garbanzo bean flour, and besan. It is a great, gluten-free option.",
+    "Make a “Jalapeño Popper” topper. In a bowl, mix 1&frasl;2 cup light cream cheese and 1&frasl;4 cup shredded cheddar cheese; spread over hot burgers!"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup chopped veggies, your choice.",
+  "image": "Jalapeno-Veggie-Burger_1036x583.jpg",
+  "thumbnail": "Jalapeno-Veggie-Burger_1036x583.webp",
+  "products": [
+    {
+      "slug": "spicy_jalapeno_burger_seasoning",
+      "name": "Kickin’ Jalapeño Burger Seasoning",
+      "summary": [
+        "Bring some zing to your burgers with our <strong>Kickin' Jalapeño Burger Seasoning</strong>, made with select spices and real jalapeño peppers. We made this versatile seasoning to bring spicy umami flavor (with a hint of lime) to anything and everything that we could throw on the BBQ. It's a spicy blend but you can add as much or as little heat as you want to cater to your tastes. Simply combine with your burger meat (or sprinkle on vegetables that have been lightly oiled) for an impressive, healthy alternative to takeout burgers.&nbsp;"
+      ]
+    },
+    {
+      "slug": "chipotle_aioli_mix",
+      "name": "Chipotle Aioli Mix",
+      "summary": [
+        "Medium-spicy Southwestern flavor with noteworthy chipotle chili and smoked paprika. A crowd-pleasing condiment for your burgers, fries, fish tacos, burritos and anything else that needs a little extra kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    }
+  ]
+}

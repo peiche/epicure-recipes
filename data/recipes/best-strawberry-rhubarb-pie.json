@@ -1,0 +1,136 @@
+{
+  "name": "Best Strawberry Rhubarb Pie",
+  "slug": "best-strawberry-rhubarb-pie",
+  "description": "Treat you and your family to the perfect summer dessert. Blind bake our gluten-free Easy As Pie Dough (or use a convenient, store-bought pie shell) and make a luscious filling on the stovetop. Then just fill the shell and chill! The classic sweet strawberries and tangy rhubarb pairing is unbeatable, and with way less sugar than store-bought pies, it's delicious, healthier, and super easy to whip up!",
+  "ingredients": [
+    {
+      "name": "Easy As Pie Dough",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cold, unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Easy As Pie Dough Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "ice water",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rhubarb",
+      "quantity": "3 stalks",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh strawberries",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cornstarch",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "2 hr & 50 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 375° F.",
+    "Roll dough into a large circle and fit into an 8\" pie plate; crimp or flute edge.  Using a fork, poke holes into pie dough all around bottom and sides.",
+    "Bake 15 min, or until golden brown. Remove from oven and allow to cool before filling.",
+    "Meanwhile, to make filling, slice rhubarb and chop strawberries. Place 1 cup strawberries in a small bowl; mash with a fork.",
+    "In a medium saucepan over medium heat, combine rhubarb, mashed strawberries, sweet dip mix, 1&frasl;4 cup water, and vanilla. Bring to a low boil, stirring and mashing frequently; cook until fruit softens, 5–6 min.",
+    "In a small bowl, whisk together cornstarch and remaining 1&frasl;2 cup water. Stir into simmering mixture on the stove and bring to a boil. Reduce heat and simmer until thickened, 1–2 min, stirring frequently.",
+    "Remove from heat and fold in remaining fresh strawberries. Transfer filling to pie crust. Let cool 15 min, then place in refrigerator to cool completely, about 2 hr."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 slice",
+    "calories": 160,
+    "fat": 7,
+    "saturatedFat": 4,
+    "transFat": 0.3,
+    "cholesterol": 15,
+    "sodium": 80,
+    "carbohydrate": 25,
+    "fiber": 3,
+    "sugars": 9,
+    "protein": null
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Best-Strawberry-Rhubarb-Pie_2160x1860.jpg",
+  "thumbnail": "Best-Strawberry-Rhubarb-Pie_2160x1860.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    }
+  ]
+}

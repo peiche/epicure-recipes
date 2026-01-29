@@ -1,0 +1,114 @@
+{
+  "name": "Red Velvet Sheet Pan Cake",
+  "slug": "red-velvet-sheet-pan-cake",
+  "description": "Sweet vanilla with hints of chocolate! This red velvet sheet pan cake is fluffy, soft, and a perfect celebration breaky.",
+  "ingredients": [
+    {
+      "name": "Ruby Red Velvet Cupcake Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "gluten-free flour, such as rice flour or all-purpose, gluten-free baking flour",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 425° F. Line 1&frasl;4 Sheet Pan with 1&frasl;4 Sheet Pan Liner. Lightly oil liner.",
+    "In a large bowl, combine cupcake mix, egg, milk, flour, and 2 tbsp oil. Let rest 3 min to thicken.",
+    "Pour batter onto pan; spread evenly to fill corners. Bake 12–14 min, or until a toothpick inserted in centre of cake comes out clean.",
+    "Slice and serve with toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 370,
+    "fat": 10,
+    "saturatedFat": 2,
+    "transFat": 0.1,
+    "cholesterol": 50,
+    "sodium": 470,
+    "carbohydrate": 62,
+    "fiber": 1,
+    "sugars": 27,
+    "protein": 7
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Red-Velvet-Sheet-Pan-Cakes_1036x583.jpg",
+  "thumbnail": "Red-Velvet-Sheet-Pan-Cakes_1036x583.webp",
+  "products": [
+    {
+      "slug": "ruby_velvet_cupcake_mix__2pk_",
+      "name": "Ruby Red Velvet Cupcake Mix (2pk)",
+      "summary": [
+        "A sweet, vanilla cupcake with subtle notes of cocoa. Skip the high sugar store-bought cupcakes and make a better-for-you version at home.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_liner__set_of_2___1711227_",
+      "name": "1/4 Sheet Pan Liner (Set of 2)",
+      "summary": [
+        "Easy to clean, nonstick, silicone mat with raised edges.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_7a23ca1",
+      "name": "1/4 Sheet Pan (Set of 2)",
+      "summary": [
+        "Smaller size than a standard sheet pan for easy handling."
+      ]
+    }
+  ]
+}

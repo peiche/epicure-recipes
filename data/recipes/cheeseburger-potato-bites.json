@@ -1,0 +1,124 @@
+{
+  "name": "Cheeseburger Potato Bites",
+  "slug": "cheeseburger-potato-bites",
+  "description": "Punt complicated potato skins off the field—these golden bites are the MVP of game-day snacks! No need to mess around with hollowing out potatoes here. This protein-packed touchdown appy is perfect for keeping your energy up when the game goes into overtime. Add extra of your favourite toppings: go the baked potato route with sour cream, chives, and Better Than Bacon Topper, or lean into those cheeseburger cravings with diced pickles, onion, tomato, and more!",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "quantity": "2 medium",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cheeseburger Pasta Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> lb (375 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": "divided"
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "24 potato bites",
+  "preparation": [
+    "Preheat oven to 400° F. Line Sheet Pan with Sheet Pan Liner.",
+    "Slice potatoes into 1&frasl;4\" coins. In Multipurpose or Round Steamer, toss sliced potatoes with oil and 2 tbsp seasoning. Cover; microwave on high 3 min.",
+    "Arrange potatoes in a single layer on pan. Bake 20 min, flipping halfway, until golden brown and tender.",
+    "Meanwhile, in same steamer used for the potatoes, combine beef and remaining seasoning. Cover; microwave on high 4–5 min, or until cooked through. Carefully place Multipurpose Tray over ground beef and strain excess liquid. Using Ground Meat Separator, break up large chunks of meat. Stir in 3&frasl;4 cup cheese.",
+    "Top each potato round with ground beef mixture, and sprinkle with remaining 1&frasl;2 cup cheese. Bake 1 min, or until cheese is melted.",
+    "Before serving, add additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 bites",
+    "calories": 170,
+    "fat": 9,
+    "saturatedFat": 3.5,
+    "transFat": 0.2,
+    "cholesterol": 25,
+    "sodium": 170,
+    "carbohydrate": 13,
+    "fiber": 2,
+    "sugars": 1,
+    "protein": 10
+  },
+  "tips": [
+    "Depending on the size of your Russet potatoes, you may end up with more potato bites. If there are too many bites to arrange in a single layer, separate onto two Sheet Pans."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Cheeseburger-Potato-Bites_2160x1860.jpg",
+  "thumbnail": "Cheeseburger-Potato-Bites_2160x1860.webp",
+  "products": [
+    {
+      "slug": "cheeseburger_pasta_seasoning__pack_of_3_",
+      "name": "Cheeseburger Pasta Seasoning (Pack of 3)",
+      "summary": [
+        "A throwback meal made healthier and tastier! Easily cook Cheeseburger Pasta in one pan—a great meal for budding young cooks. Enjoy the comfort of cheesy goodness with minimal cleanup. A win all around!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

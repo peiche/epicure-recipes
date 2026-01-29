@@ -1,0 +1,56 @@
+{
+  "name": "The Swagger",
+  "slug": "the-swagger",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Golden Milk Herbal Tea Blend",
+      "quantity": "1 cup",
+      "additionalInstruction": "brewed and chilled"
+    },
+    {
+      "name": "bourbon",
+      "quantity": "2 oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "amaretto",
+      "quantity": "1 oz",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Fill a cocktail shaker with ice. Pour in tea, bourbon, and amaretto. Shake thoroughly.",
+    "Strain into rock glasses and serve."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 120,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 5,
+    "carbohydrate": 8,
+    "fiber": 0,
+    "sugars": 8,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "The-Swagger-Main.jpg",
+  "thumbnail": "The-Swagger-Main.webp",
+  "products": []
+}

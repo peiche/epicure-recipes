@@ -1,0 +1,128 @@
+{
+  "name": "Spiced Sweet Potato Filling for Empanadas",
+  "slug": "spiced-sweet-potato-filling-for-empanadas",
+  "description": "The perfect sweet and savoury filling for your empanadas.",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "finely diced onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cinco Pepper Blend",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Louisiana Hot & Spicy Dip Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomato paste",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced sweet potato",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped raisins",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "finely chopped green olives (pitted or stuffed)",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 1/2 cups",
+  "preparation": [
+    "Heat oil in frying pan. Stir in onion, Cinco Pepper Blend and Louisiana Hot & Spicy Dip Mix. Cook until onions are softened.",
+    "Stir in remaining ingredients. Cover and simmer for 10 minutes. Using a fork, coarsely mash mixture.",
+    "Cool to room temperature before filling empanada dough."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 25,
+    "fat": 1,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 20,
+    "carbohydrate": 4,
+    "fiber": 1,
+    "sugars": 2,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Spiced-Sweet-Potato-Filling-for-Empanadas-Main.jpg",
+  "thumbnail": "Spiced-Sweet-Potato-Filling-for-Empanadas-Main.webp",
+  "products": [
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    }
+  ]
+}

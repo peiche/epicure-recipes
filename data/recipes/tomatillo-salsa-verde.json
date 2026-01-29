@@ -1,0 +1,121 @@
+{
+  "name": "Tomatillo Salsa Verde",
+  "slug": "tomatillo-salsa-verde",
+  "description": "An authentic Mexican salsa that’s zesty, spicy, and bright! Great with grilled or roasted meats, chicken or any dish that needs a flavourful, fiery boost. Look for fresh, seasonal tomatillos at your local Mexican specialty store, but in a pinch, simply swap with canned tomatillos that are found in most grocery stores.",
+  "ingredients": [
+    {
+      "name": "tomatillos",
+      "quantity": "2 lbs (900 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "garlic cloves",
+      "quantity": "3",
+      "additionalInstruction": null
+    },
+    {
+      "name": "onions",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "jalapeños",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa Mix or Guacamole Dip Mix",
+      "quantity": "2 - 3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped cilantro",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salt",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hour & 15 minutes",
+  "servings": "6 — 8 oz (250 ml) jars",
+  "preparation": [
+    "Combine all ingredients in Multipurpose Pot. Bring to a boil, stirring constantly. Reduce heat and simmer for 20–30 minutes, until tomatillos are very tender and mixture is thick. Working in batches, purée until smooth.",
+    "Ladle into hot, sterilized jars to within 1&frasl;2” of rim. Use a non-metallic utensil to remove any air bubbles. Wipe edges with a clean, damp cloth. Cover with prepared lids and screw bands, being careful not to over-tighten.",
+    "Place filled jars in the boiling water bath, adding more boiling water as needed to cover jars by about 1”. Bring to a boil again. Cover and continue boiling for 15 minutes. Lift jars out of water and place on cooling rack. Cool to room temperature."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 10,
+    "fat": 0.3,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 95,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 0.3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Tomatillo-Salsa-Verde-Main.jpg",
+  "thumbnail": "Tomatillo-Salsa-Verde-Main.webp",
+  "products": [
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chilies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "guacamole_dip_mix_dc7efdb",
+      "name": "Guacamole Dip Mix",
+      "summary": [
+        "An all-natural blend of sweet peppers, garlic, and chilies comes together to create the perfect guacamole––minus the sodium and additives! &nbsp;"
+      ]
+    }
+  ]
+}

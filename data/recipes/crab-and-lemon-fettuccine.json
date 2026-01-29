@@ -1,0 +1,114 @@
+{
+  "name": "Crab and Lemon Fettuccine",
+  "slug": "crab-and-lemon-fettuccine",
+  "description": "Simple seafood with a light lemon zing. It's time to change up pasta night!",
+  "ingredients": [
+    {
+      "name": "fettuccine",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium bell pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small onion",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Crab Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon zest",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "crab meat",
+      "quantity": "2 cans (4 oz/120 g)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Cook fettuccine according to package directions in a pasta pot. Drain, reserving 1 cup pasta water.",
+    "While pasta cooks, heat oil in Wok or large frying pan over medium-high heat. Stir-fry pepper, onion and Crab Dip Seasoning for 3 minutes.",
+    "Add lemon juice, lemon zest, cooked fettuccine, reserved liquid and crab meat. Toss to coat and serve hot."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 560,
+    "fat": 9,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 55,
+    "sodium": 210,
+    "carbohydrate": 91,
+    "fiber": 5,
+    "sugars": 7,
+    "protein": 29
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Crab-and-Lemon-Fettuccine_1036x583.jpg",
+  "thumbnail": "Crab-and-Lemon-Fettuccine_1036x583.webp",
+  "products": [
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

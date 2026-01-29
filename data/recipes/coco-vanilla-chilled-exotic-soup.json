@@ -1,0 +1,91 @@
+{
+  "name": "Coco Vanilla Chilled Exotic Soup",
+  "slug": "coco-vanilla-chilled-exotic-soup",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "boiled water",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coco vanilla white tea leaves",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "peeled papaya",
+      "quantity": "2 cups",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "frozen cubed mango",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh lime juice",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hour",
+  "servings": "3 cups",
+  "preparation": [
+    "Add tea leaves to boiled water. Steep for 5 minutes, strain, and cool.",
+    "Place ingredients in a blender or food processor and process until smooth. Chill well and serve"
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cup",
+    "calories": 130,
+    "fat": 0.5,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 10,
+    "carbohydrate": 34,
+    "fiber": 3,
+    "sugars": 28,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Coco-Vanilla-Chilled-Exotic-Soup-Main.jpg",
+  "thumbnail": "Coco-Vanilla-Chilled-Exotic-Soup-Main.webp",
+  "products": []
+}

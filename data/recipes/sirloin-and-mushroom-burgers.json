@@ -1,0 +1,133 @@
+{
+  "name": "Sirloin and Mushroom Burgers",
+  "slug": "sirloin-and-mushroom-burgers",
+  "description": "Why eat out when you can eat in? Try this delicious, moist burger at your next backyard barbecue to wow family and friends!",
+  "ingredients": [
+    {
+      "name": "ground sirloin",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (680 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Montreal Steak Rub",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dry breadcrumbs",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced mixed mushrooms",
+      "quantity": "8 oz (225 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shallot or 1/2 onion",
+      "quantity": "1",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "dry sherry, red wine or orange juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Bruschetta Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dry parsley",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Mix first 3 ingredients together. Wet hands to prevent sticking and form mixture into 6 patties.",
+    "Melt butter in frying pan over medium-high heat. Add mushrooms and shallot. Stir-fry for 3–5 minutes, until lightly browned.",
+    "Add Brushetta Herbs and sherry. Reduce heat and simmer for 2–4 minutes, until mushrooms are soft. Remove from heat and stir in parsley. Cover and keep warm.",
+    "Grill patties on the barbecue over medium-high heat with the lid closed for 5 minutes. Flip patties and continue grilling for an additional 5 minutes.",
+    "To serve, place burgers on plates and spoon mushroom sauce overtop."
+  ],
+  "tags": [
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 290,
+    "fat": 19,
+    "saturatedFat": 8,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 230,
+    "carbohydrate": 6,
+    "fiber": 1,
+    "sugars": 2,
+    "protein": 25
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sirloin-and-Mushroom-Burgers-Main.jpg",
+  "thumbnail": "Sirloin-and-Mushroom-Burgers-Main.webp",
+  "products": [
+    {
+      "slug": "bruschetta_seasoning",
+      "name": "Bruschetta Seasoning",
+      "summary": [
+        "An aromatic blend of basil, garlic and parsley."
+      ]
+    }
+  ]
+}

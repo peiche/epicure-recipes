@@ -1,0 +1,181 @@
+{
+  "name": "Chicken Zoodle Soup",
+  "slug": "chicken-zoodle-soup",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "zucchinis",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth or Vegetable Broth",
+      "quantity": "6 cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "carrots",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 cups for 4 servings",
+  "preparation": [
+    "Fit 4-in-1 Mandoline with 6 mm julienne plate. Julienne zucchinis into long thin strips to make zoodles. Set aside.",
+    "Cut chicken into small cubes. Chop carrots and pepper.",
+    "Place in Multipurpose Steamer.",
+    "Cover; microwave on high, 8 min.",
+    "Carefully remove from the microwave, stir in zoodles and serve.",
+    "Place in Multipurpose Pot.",
+    "Bring to a boil.  Reduce heat and simmer 10-12 min.",
+    "Stir in zoodles and serve."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 cups",
+    "calories": 200,
+    "fat": 4,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 220,
+    "carbohydrate": 14,
+    "fiber": 5,
+    "sugars": 3,
+    "protein": 30
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup rice.",
+  "image": "1575493194495-recipeMainImagePath.jpg",
+  "thumbnail": "1575493194495-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavour as making it from scratch—just add water!"
+      ]
+    },
+    {
+      "slug": "n4_in_1_mandoline_97d6780",
+      "name": "4-in-1 Mandoline",
+      "summary": [
+        "Perfect for cutting thin slices &amp; shredding veggies. 4 slicer settings: 2 slice &amp; 2 julienne options."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

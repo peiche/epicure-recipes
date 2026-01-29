@@ -1,0 +1,153 @@
+{
+  "name": "Sylvie's Mini Pumpkin Pancakes with Maple Cinnamon Butter",
+  "slug": "sylvie-s-mini-pumpkin-pancakes-with-maple-cinnamon-butter",
+  "description": "Moist, tender and lightly spiced hot cakes – a treat to wake up to on the weekend, or a Wednesday!",
+  "ingredients": [
+    {
+      "name": "butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "at room temperature"
+    },
+    {
+      "name": "Maple Spice Sweet Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "all-purpose flour",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whole-wheat flour ",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking soda",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salt",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Apple Pie Spice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "or Pumpkin Pie Spice"
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "canola oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "plus more to cook"
+    },
+    {
+      "name": "canned pumpkin",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "yogurt",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "35 min",
+  "servings": "24 mini pancakes",
+  "preparation": [
+    "Beat maple cinnamon butter ingredients together until light and creamy. Set aside.",
+    "For the pancakes, whisk dry ingredients in a mixing bowl. Set aside.",
+    "Whisk eggs, oil, pumpkin, milk and yogurt in a second mixing bowl.",
+    "Stir wet ingredients into dry until just moistened. Batter should have some lumps.",
+    "Heat 1 tsp of oil in frying pan over medium heat. Drop batter in by heaping tablespoons. Flip when bubbles form on top and continue to cook until golden brown. Cook in small batches and try not to over-crowd the pan.",
+    "Serve with maple cinnamon butter."
+  ],
+  "tags": [
+    {
+      "slug": "halloween",
+      "name": "Halloween"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 mini pancakes",
+    "calories": 230,
+    "fat": 14,
+    "saturatedFat": 6,
+    "transFat": 0,
+    "cholesterol": 60,
+    "sodium": 330,
+    "carbohydrate": 23,
+    "fiber": 2,
+    "sugars": 5,
+    "protein": 5
+  },
+  "tips": [
+    "Make Ahead: Cook a double batch and freeze for quick toaster breakfasts or easy lunchtime snacks."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sylvies-Mini-Pumpkin-Pancakes-with-Maple-Cinnamon-Butter_1036x583.jpg",
+  "thumbnail": "Sylvies-Mini-Pumpkin-Pancakes-with-Maple-Cinnamon-Butter_1036x583.webp",
+  "products": [
+    {
+      "slug": "cinnamon__ground___1701145_",
+      "name": "Cinnamon (Ground)",
+      "summary": [
+        "A simple blend of organic cinnamon that brings the flavor. Great for baking, desserts, egg nog, or enhancing the taste of Middle Eastern and Indian dishes.&nbsp;"
+      ]
+    },
+    {
+      "slug": "apple_pie_spice",
+      "name": "Apple Pie Spice",
+      "summary": [
+        "Move over pumpkin spice; it's time for Apple Pie Spice to shine! Perfect for leveling up the taste of fall-inspired baking, it's also great on top of oatmeal, in a frothy late or smoothie – or anywhere you want a punch of apple pie flavour.&nbsp;"
+      ]
+    }
+  ]
+}

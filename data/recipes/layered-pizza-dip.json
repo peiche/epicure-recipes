@@ -1,0 +1,149 @@
+{
+  "name": "Layered Pizza Dip",
+  "slug": "layered-pizza-dip",
+  "description": "This is truly a summer lovin’ type of appy. It’s cool, creamy, and loaded with pizza flavour. Make it your own by topping with your favourite pizza fixings, like roasted red peppers, cooked meat, or (dare I say it?) pineapple! Use a low, wide bowl so it’s easy to dip through all the layers.",
+  "ingredients": [
+    {
+      "name": "Pizza Dip Hot Dip Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "plain 2% Greek yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cream cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> brick (8 oz/250 g)",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "Marinara Sauce or tomato sauce",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green bell pepper",
+      "quantity": "1 large",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> small",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": " 8 min",
+  "servings": "4 ¾ cups",
+  "preparation": [
+    "In a bowl, combine hot dip mix, yogurt, and cream cheese. Spread dip in a large bowl or dish that will hold at least 5 cups.",
+    "Using a spoon, dollop marinara sauce overtop, then spread out to the edges.",
+    "Dice bell pepper and onion. Place on top of marinara, then sprinkle on cheese. Add additional toppings, if desired.",
+    "Serve with sliced veggies, tortilla chips, or crackers for dipping."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 25,
+    "fat": 1.5,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 40,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 1
+  },
+  "tips": [
+    "Swap 2 tbsp Pizza Seasoning for Pizza Dip Hot Dip Mix."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "layered-pizza-dip.jpg",
+  "thumbnail": "layered-pizza-dip.webp",
+  "products": [
+    {
+      "slug": "pizza_dip_hot_dip_mix__pack_of_3__8d78419",
+      "name": "Pizza Dip Hot Dip Mix (Pack of 2)",
+      "summary": [
+        "Pizza is always a fave and this hot (in temperature) dip will make you a legend at your next get-together. Loaded with layers of cheesy goodness, it’s great served with tortilla chips and bread.&nbsp;"
+      ]
+    },
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavor of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "pizza_seasoning_2308099",
+      "name": "Pizza Seasoning (1002291)",
+      "summary": [
+        "In a world of complex gastronomy, pizza is a testament to the simple pleasures we all crave. Now you can get it by the spoonful! This blend delivers the nostalgic flavors and feeling of eating pizza, with notes of basil, oregano, garlic, tomato, and green bell peppers with loads of Parmesan. And yes, there is a mild whisper of chilli, too!&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

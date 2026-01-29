@@ -1,0 +1,98 @@
+{
+  "name": "Sheet Pan Ranch Chicken",
+  "slug": "sheet-pan-ranch-chicken",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red onion",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "broccoli florets",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breast fillets",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil ",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Ranch Dip Mix or Caesar Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 450° F.",
+    "Cut bell peppers and onion into bite-sized pieces. Cut broccoli florets into bite-sized pieces, if needed.",
+    "Place vegetables and chicken on Sheet Pan lined with Sheet Pan Liner. They will overlap—this is OK.  Drizzle oil on top; sprinkle with dip mix. Toss to combine.",
+    "Bake 15 min, or until chicken is cooked through and veggies are tender."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 250,
+    "fat": 10,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 85,
+    "sodium": 75,
+    "carbohydrate": 11,
+    "fiber": 3,
+    "sugars": 4,
+    "protein": 29
+  },
+  "tips": [
+    "Use whatever veggies you have on hand—zucchini, cauliflower, cabbage, or mushrooms are all great choices!"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup rice.",
+  "image": "6887_sheet-pan-ranch-chicken_1036x583.jpg",
+  "thumbnail": "6887_sheet-pan-ranch-chicken_1036x583.webp",
+  "products": [
+    {
+      "slug": "creamy_ranch_dip_mix_7cfe081",
+      "name": "Creamy Ranch Dip Mix",
+      "summary": [
+        "Go beyond your classic ranch dressing and create spreads, dips, or seasonings with this versatile blend!&nbsp;"
+      ]
+    },
+    {
+      "slug": "caesar_dressing_mix_e72947d",
+      "name": "Caesar Dressing Mix",
+      "summary": [
+        "This dressing is a little bit of magic: It’s rich, creamy, full of flavour, and it has zero sodium! Take it far beyond Caesar salad and use it as a sauce for pizza, a dip for veggies, chicken fingers, and zucchini fries, or mix it in your white pasta sauce.&nbsp;Simply mix the blend with mayo or Greek yogurt, lemon juice, olive oil, and milk, and it’s ready for anything!&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

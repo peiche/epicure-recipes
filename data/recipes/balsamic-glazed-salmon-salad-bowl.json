@@ -1,0 +1,158 @@
+{
+  "name": "Balsamic Glazed Salmon Salad Bowl",
+  "slug": "balsamic-glazed-salmon-salad-bowl",
+  "description": "Salmon is a powerhouse of Omega-3 fatty acids, which are awesome for heart health and brain function! Make it a weekly catch to reel in those health benefits. The salmon is glazed with a sauce that’s both zesty and sweet. As for veggies? The more, the merrier! Use your favourites or what’s available in the fridge. Goat cheese adds a creamy richness for a delightful twist, but feel free to swap with feta, or a shredded cheese of your choice.",
+  "ingredients": [
+    {
+      "name": "balsamic vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup + 2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dijon mustard",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing Mix or Greek Dressing Mix",
+      "quantity": "1  tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "salmon fillet",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "about 1” thick"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "goat cheese crumbles",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mixed greens",
+      "quantity": "8 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "1 pint",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 400° F.",
+    "Meanwhile, prepare sauce. In a bowl, whisk together 1&frasl;4 cup vinegar, honey, mustard, and 2 tsp seasoning. Place salmon on 1&frasl;4 Sheet Pan lined with 1&frasl;4 Sheet Pan Liner. Pour sauce over salmon. Let stand to marinate while preparing remaining ingredients.",
+    "For dressing, in a large mixing bowl, whisk together remaining 1 tsp dressing mix and 2 tsp vinegar with oil. Add cheese. Place greens on top; don’t mix. Set aside.",
+    "Bake fish until cooked through, about 8–10 min.",
+    "Cut cherry tomatoes in half, add to salad bowl.",
+    "Remove salmon to a cutting board. Slice into 4 portions.",
+    "Toss salad so dressing is evenly mixed. Divide salad between four plates, add salmon; add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 320,
+    "fat": 15,
+    "saturatedFat": 4.5,
+    "transFat": 0,
+    "cholesterol": 70,
+    "sodium": 400,
+    "carbohydrate": 18,
+    "fiber": 4,
+    "sugars": 13,
+    "protein": 29
+  },
+  "tips": [
+    "Once the salmon is cooked, the sauce that pooled on the 1&frasl;4 Sheet Pan Liner is full of flavour! Spoon on top of salmon, if desired."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup cooked quinoa or rice—try adding it to the bowl!",
+  "image": "6893_balsamic-glazed-salmon-salad-bowl_1036x583.jpg",
+  "thumbnail": "6893_balsamic-glazed-salmon-salad-bowl_1036x583.webp",
+  "products": [
+    {
+      "slug": "balsamic_vinaigrette_dressing_mix",
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "summary": [
+        "Fresh, bright &amp; bold blend of Mediterranean herbs with notes of garlic &amp; rosemary. Our most versatile dressing."
+      ]
+    },
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_liner__set_of_2___1711227_",
+      "name": "1/4 Sheet Pan Liner (Set of 2)",
+      "summary": [
+        "Easy to clean, nonstick, silicone mat with raised edges.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_7a23ca1",
+      "name": "1/4 Sheet Pan (Set of 2)",
+      "summary": [
+        "Smaller size than a standard sheet pan for easy handling."
+      ]
+    }
+  ]
+}

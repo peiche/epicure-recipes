@@ -1,0 +1,91 @@
+{
+  "name": "Oh Canada Red Berry Cobbler",
+  "slug": "oh-canada-red-berry-cobbler",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "all-purpose flour",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": "2 tsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "2% milk or non-dairy milk alternative",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mixed red berries, such as raspberries and chopped strawberries",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "45 min",
+  "servings": "10 - 12 servings",
+  "preparation": [
+    "Preheat oven to 375° F.",
+    "In an 8 cup baking dish, melt butter in microwave on medium heat, 45–60 sec.",
+    "In mixing bowl, using a fork, combine flour, 1&frasl;2 cup sugar, baking powder, and 1 tsp Cinnamon. Add milk; stir just until mixed.",
+    "Pour over melted butter in baking dish. Don’t stir.",
+    "In same mixing bowl (don’t wash), combine berries with remaining sugar and cinnamon. Pour over batter—don’t stir.",
+    "Bake until golden brown, uncovered, about 40–45 min."
+  ],
+  "tags": [
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 300,
+    "fat": 10,
+    "saturatedFat": 6,
+    "transFat": 0,
+    "cholesterol": 25,
+    "sodium": 80,
+    "carbohydrate": 56,
+    "fiber": 4,
+    "sugars": 34,
+    "protein": 3
+  },
+  "tips": [
+    "If you don’t have fresh berries on hand, use frozen berries.",
+    "Serve with Greek yogurt and drizzle with peanut butter."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1599149413355-recipeMainImagePath.jpg",
+  "thumbnail": "1599149413355-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "cinnamon__ground___1701145_",
+      "name": "Cinnamon (Ground)",
+      "summary": [
+        "A simple blend of organic cinnamon that brings the flavour. Great for baking, desserts, egg nog, or enhancing the taste of Middle Eastern and Indian dishes.&nbsp;"
+      ]
+    }
+  ]
+}

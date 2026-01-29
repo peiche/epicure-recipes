@@ -1,0 +1,119 @@
+{
+  "name": "Almond Meringue Kisses",
+  "slug": "almond-meringue-kisses",
+  "description": "These light, airy bites are a real treat. Store in an airtight container for up to 2 weeks.",
+  "ingredients": [
+    {
+      "name": "large egg whites",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "of salt",
+      "quantity": "1 pinch",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh lemon juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>8</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "almond extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "finely ground almonds",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hour",
+  "servings": "24 meringues",
+  "preparation": [
+    "Preheat oven to 250° F (120° C).",
+    "Beat egg whites, sugar, salt and lemon juice in a medium bowl on low speed until foamy. Increase speed to high and beat until stiff peaks appear.",
+    "Beat in almond and vanilla extracts. Fold in almonds.",
+    "Drop meringue by heaping teaspoonful onto Sheet Pan lined with Sheet Pan Liner.",
+    "Because oven temperature is so low, you can bake two trays at a time. Bake for 18 minutes, reverse trays and bake an additional 18 minutes. Turn oven off and let cookies dry in oven for 30 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 meringue",
+    "calories": 50,
+    "fat": 1,
+    "saturatedFat": 0.1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 20,
+    "carbohydrate": 9,
+    "fiber": 0,
+    "sugars": 9,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1600791761914-recipeMainImagePath.jpg",
+  "thumbnail": "1600791761914-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

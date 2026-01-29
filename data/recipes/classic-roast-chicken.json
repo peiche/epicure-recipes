@@ -1,0 +1,93 @@
+{
+  "name": "Classic Roast Chicken",
+  "slug": "classic-roast-chicken",
+  "description": "The ideal roast chicken – a wondrous aroma, golden-brown and gleaming, tender, and juicy.",
+  "ingredients": [
+    {
+      "name": "whole chicken",
+      "quantity": "3 lb",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roast Chicken Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 45 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 375° F (190° C).",
+    "Place whole chicken in a roasting pan.",
+    "Drizzle with olive oil and sprinkle with Roast Chicken Seasoning.",
+    "Roast for 90 minutes, basting occasionally, until juice runs clear. The breast temperature should read 180° F (82° C) and the thigh should read 190° F (88° C).",
+    "Cover and allow to rest for 15 minutes before carving."
+  ],
+  "tags": [
+    {
+      "slug": "slow_cooker",
+      "name": "Slow Cookers & Roasts"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 220,
+    "fat": 8,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 90,
+    "sodium": 80,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 33
+  },
+  "tips": [
+    "Cook two chickens or a larger whole chicken if you want leftovers."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with prepared Sage & Apple Stuffing, Savoury Herb Gravy and pre-cut, fresh, in-season vegetables cooked in a Rectangular Steamer for fewer pots on the stove!",
+  "image": "Classic-Roast-Chicken-Main.jpg",
+  "thumbnail": "Classic-Roast-Chicken-Main.webp",
+  "products": []
+}

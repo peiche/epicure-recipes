@@ -1,0 +1,220 @@
+{
+  "name": "Veggie Burger Nourish Bowl",
+  "slug": "veggie-burger-nourish-bowl",
+  "description": "This is the most delicious veggie burger you've ever tasted!",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "quantity": "2 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "avocado",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach or mixed greens",
+      "quantity": "4 cups ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "zucchini noodles",
+      "quantity": "2 cups ",
+      "additionalInstruction": ""
+    },
+    {
+      "name": "Veggie Burger",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": "made into sliders"
+    },
+    {
+      "name": "uncooked quinoa",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "small zucchini",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Veggie Burger Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "burger buns",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Big Burger Sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup prepared",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Big Burger Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ketchup",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "relish",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded cheddar",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "balsamic vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Cut tomatoes into wedges, slice avocado and slice onion into rings.",
+    "Arrange tomatoes, avocado, onion, baby spinach, zucchini, Veggie Burger sliders, and shredded cheddar in four bowls.",
+    "Drizzle with dressing and enjoy!"
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 430,
+    "fat": 18,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 770,
+    "carbohydrate": 46,
+    "fiber": 14,
+    "sugars": 10,
+    "protein": 31
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "VeggieNourishBowl_1036x583.jpg",
+  "thumbnail": "VeggieNourishBowl_1036x583.webp",
+  "products": [
+    {
+      "slug": "big_burger_sauce_mix_d51f091",
+      "name": "Big Burger Sauce Mix",
+      "summary": []
+    },
+    {
+      "slug": "balsamic_vinaigrette_dressing_mix",
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "summary": []
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": []
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": []
+    }
+  ]
+}

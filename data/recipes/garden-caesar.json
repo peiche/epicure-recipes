@@ -1,0 +1,104 @@
+{
+  "name": "Garden Caesar",
+  "slug": "garden-caesar",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Caesar rim trimmer",
+      "quantity": null,
+      "additionalInstruction": "enough to trim glass rim"
+    },
+    {
+      "name": "lemon wedge",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Clamato® or tomato juice",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vodka",
+      "quantity": "1 oz",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Caesar Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "assorted fresh veggies",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Quickles",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Quickles Pickling Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coarse sea salt",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vinegar",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 serving",
+  "preparation": [
+    "Shake rim trimmer on small plate. Moisten rim of glass with lemon wedge and rotate on plate to evenly frost. Fill with ice.",
+    "Stir Clamato®, vodka, and Caesar Mix in a tall glass.",
+    "Garnish artistically with remaining ingredients."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "epic_life_beverages",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 45,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 790,
+    "carbohydrate": 10,
+    "fiber": 2,
+    "sugars": 7,
+    "protein": 2
+  },
+  "tips": [
+    "Garnish with Epicure Quickles and lots of fresh veggies for added wow."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Garden-Bloody-Caesar-Main.jpg",
+  "thumbnail": "Garden-Bloody-Caesar-Main.webp",
+  "products": []
+}

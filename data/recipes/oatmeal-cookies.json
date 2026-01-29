@@ -1,0 +1,127 @@
+{
+  "name": "Oatmeal Cookies",
+  "slug": "oatmeal-cookies",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "white sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "skim milk",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "all-purpose flour",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking soda",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salt",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rolled oats",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 - 22 min",
+  "servings": "30 cookies",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Cream butter and sugars in a medium mixing bowl. Beat in egg, vanilla extract and milk.",
+    "Whisk flour, baking soda, Baking Powder and salt in a separate mixing bowl. Beat into creamed mixture until smooth. Stir in oats.",
+    "Drop by the teaspoon onto 2 parchment-lined Sheet Pans.",
+    "Bake 10–12 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cookie",
+    "calories": 80,
+    "fat": 3.5,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 90,
+    "carbohydrate": 12,
+    "fiber": 0,
+    "sugars": 7,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Oatmeal-Cookies-Main.jpg",
+  "thumbnail": "Oatmeal-Cookies-Main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

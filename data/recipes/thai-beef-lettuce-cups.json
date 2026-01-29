@@ -1,0 +1,160 @@
+{
+  "name": "Thai Beef Lettuce Cups",
+  "slug": "thai-beef-lettuce-cups",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "white rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Thai Stir-Fry Seasoning",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coconut milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> can (14 oz/398 ml)",
+      "additionalInstruction": "preferably light"
+    },
+    {
+      "name": "natural peanut butter or nut-free pea or seed butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "soy sauce",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef, chicken, or pork",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "carrots",
+      "quantity": "2 large",
+      "additionalInstruction": null
+    },
+    {
+      "name": "yellow bell pepper",
+      "quantity": "1 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lettuce leaves",
+      "quantity": "24–36 ",
+      "additionalInstruction": "such as butter or iceberg"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Steamer, combine rice with 2 1&frasl;2 cups water. Microwave on high, uncovered, 15 min.",
+    "Meanwhile, in bowl, combine seasoning, coconut milk, peanut or nut-free butter, and soy sauce. Set aside.",
+    "Heat oil in wok over medium-high heat. Add beef; cook, stirring often, until browned, 5–7 min.",
+    "Meanwhile, thinly julienne carrots. Finely dice pepper. Set aside.",
+    "Once beef is cooked, stir in reserved sauce. Simmer, stirring occasionally, until most of sauce is absorbed, 2 min.",
+    "To serve, form three lettuce cups (using two or three leaves per cup) on each plate; divide rice and beef in each cup. Sprinkle with carrots, peppers, and toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 510,
+    "fat": 20,
+    "saturatedFat": 8,
+    "transFat": 0.4,
+    "cholesterol": 60,
+    "sodium": 300,
+    "carbohydrate": 53,
+    "fiber": 4,
+    "sugars": 5,
+    "protein": 30
+  },
+  "tips": [
+    "Make it vegetarian: Swap meat for 4 cups lentils or beans."
+  ],
+  "perfectlyBalanceYourPlate": "1 cup sliced vegetables, your choice.",
+  "image": "1578007200107-recipeMainImagePath.jpg",
+  "thumbnail": "1578007200107-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

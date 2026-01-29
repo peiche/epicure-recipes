@@ -1,0 +1,150 @@
+{
+  "name": "Quick Arrabbiata Spaghetti",
+  "slug": "quick-arrabbiata-spaghetti",
+  "description": "A spicy pasta for a quick dinner or side dish. Make it a meal by adding shrimp.",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix or Bruschetta Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chipotle Aioli Mix or Chili Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "anchovy fillets",
+      "quantity": "4 ",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "dry parsley",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed chilies",
+      "quantity": "",
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "",
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Pot, cook pasta according to package directions.",
+    "Heat frying pan over medium-high heat. Add olive oil, Marinara  Sauce Mix and anchovy fillets, if desired. Heat until aromatic.",
+    "Remove from heat, add parsley, crushed chilies and drained cooked pasta. Toss well and season with Salt and Pepper."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 500,
+    "fat": 9,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 5,
+    "carbohydrate": 86,
+    "fiber": 5,
+    "sugars": 2,
+    "protein": 16
+  },
+  "tips": [
+    "Serve with freshly grated Parmesan cheese and prawns."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Quick-Arrabbiata-Spaghetti-Main.jpg",
+  "thumbnail": "Quick-Arrabbiata-Spaghetti-Main.webp",
+  "products": [
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavour of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "bruschetta_seasoning",
+      "name": "Bruschetta Seasoning",
+      "summary": [
+        "An aromatic blend of basil, garlic and parsley."
+      ]
+    },
+    {
+      "slug": "chipotle_aioli_mix",
+      "name": "Chipotle Aioli Mix",
+      "summary": [
+        "Medium-spicy Southwestern flavour with noteworthy chipotle chili and smoked paprika. A crowd-pleasing condiment for your burgers, fries, fish tacos, burritos and anything else that needs a little extra kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "chili_seasoning",
+      "name": "Chili Seasoning (1001136)",
+      "summary": [
+        "Make classic, restaurant-quality chili at home with better-for-you ingredients."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "name": "Butter Tart Bars",
+  "slug": "butter-tart-bars",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "packed brown sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "chilled"
+    },
+    {
+      "name": "water",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "True North Butter Tart Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "warm water",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 20 min",
+  "servings": "25 bars",
+  "preparation": [
+    "Preheat oven to 375° F. Place Perfect Petites on Sheet Pan. Using a basting brush, brush 25 wells with oil.",
+    "In a large bowl, combine flour and sugar. Cube butter. Using a pastry cutter or your hands, cut in butter until coarse crumbs form. Stir in water. The dough should hold together when you squeeze some gently in your hand.",
+    "Using 4-in-1 Spice Spoon, divide dough between 25 wells in Perfect Petites. The wells will look very full. Using the back of the spoon, press firmly and evenly into wells. The wells should now be about half full.",
+    "Bake 12 min. The crust will have risen and browned slightly. It should resist when pressed gently, but still be a bit soft.",
+    "Meanwhile, prepare butter tart layer. Melt butter in the microwave, about 45 sec. In a bowl, whisk melted butter with mix and warm water. Whisk in egg.",
+    "Transfer mixture to a spouted measuring cup. Pour into wells over pre-baked crust.",
+    "Bake until filling is set (a slight jiggle is OK), 8–9 min.",
+    "Rest in pan until cool enough to handle, about 45 min. Gently pop out bars.",
+    "Store in an airtight container in the fridge until ready to serve."
+  ],
+  "tags": [
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 bar",
+    "calories": 60,
+    "fat": 1,
+    "saturatedFat": 0.4,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 25,
+    "carbohydrate": 13,
+    "fiber": 0,
+    "sugars": 8,
+    "protein": 1
+  },
+  "tips": [
+    "Lucky enough to have some Shortbread Cookie Mix on hand? Prepare the dough as per the recipe on pack, then fill Perfect Petites and continue as per the recipe above."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Tart 36.jfif",
+  "thumbnail": "Tart 36.webp",
+  "products": [
+    {
+      "slug": "n4_in_1_spice_spoon_2cc83da",
+      "name": "4-in-1 Spice Spoon",
+      "summary": [
+        "Smart, convenient tool for multiple measurements."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "perfect_petites_a4d39ed",
+      "name": "Perfect Petites",
+      "summary": [
+        "A versatile non-stick silicone pan that makes baking the cutest bite-sized portions easy and fun! Go beyond baking and use the Perfect Petites to make ice cubes, portion baby food and sauces, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "shortbread_cookies_mix__2pk_",
+      "name": "Shortbread Cookie Mix (2pk)",
+      "summary": [
+        "We’re taking Shortbread Cookies beyond the holiday season and making them an everyday delight because they are just too good to only be enjoyed once a year! Our gluten free baking mix is a dream to work with. Just add butter and water (and salt, if you like) and stir it up! It’s super easy to work with and a great way to get kids involved in baking without a ton of mess — and the cookies turn out perfectly each and every time.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "perfect_petites_a4d39ed",
+      "name": "Perfect Petites",
+      "summary": [
+        "A versatile non-stick silicone pan that makes baking the cutest bite-sized portions easy and fun! Go beyond baking and use the Perfect Petites to make ice cubes, portion baby food and sauces, and more!&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "name": "Thai Coconut Soup",
+  "slug": "thai-coconut-soup",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "large sweet potato",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Thai Coconut Soup Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coconut milk",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby bok choy",
+      "quantity": "2 heads",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium-firm tofu",
+      "quantity": "1 block (454 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced mushrooms",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 cups for 4 servings",
+  "preparation": [
+    "Dice sweet potato into small cubes, you should have about 2 cups. Place in Round or Multipurpose Steamer; cover, microwave on high 6 min, or until tender.",
+    "Meanwhile, in Wok, combine seasoning, hot water, and coconut milk. Cover; bring to a boil over high heat. Reduce heat to a simmer.",
+    "Meanwhile, coarsely chop bok choy, you should have about 2 cups. Drain tofu, measure out 1 1&frasl;2 cups. Save remainder for use at a later date.",
+    "Add bok choy, tofu, mushrooms, and sweet potato to wok. Simmer for 1 min.",
+    "Using 2-in-1 Citrus Press, squeeze in juice from lime, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "about 1 1/2 cups",
+    "calories": 340,
+    "fat": 19,
+    "saturatedFat": 13,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 340,
+    "carbohydrate": 30,
+    "fiber": 6,
+    "sugars": 10,
+    "protein": 16
+  },
+  "tips": [
+    "To lower the amount of saturated fat in the recipe, simply use light coconut milk.",
+    "Swap tofu with cooked chicken or shrimp.",
+    "For a protein boost, add leftover tofu to your morning smoothie&#x2014;you won&#x2019;t even taste it!"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced vegetables and 1 small wholegrain bun.",
+  "image": "thai_coconut_soup_1036x583.jpg",
+  "thumbnail": "thai_coconut_soup_1036x583.webp",
+  "products": []
+}

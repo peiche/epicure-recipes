@@ -1,0 +1,110 @@
+{
+  "name": "Pumpkin Spice Loaf & Muffins",
+  "slug": "pumpkin-spice-loaf-muffins",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pumpkin purée",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pumpkin Spice Loaf & Muffin Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Spiced Cream Cheese Icing",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": "(optional)"
+    },
+    {
+      "name": "cream cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg (8 oz/250 g)",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "icing sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "1 loaf for 12 servings",
+  "preparation": [
+    "Generously oil Rectangular Steamer using basting brush.",
+    "In large bowl, whisk eggs. Whisk in pumpkin purée and oil. Whisk in mix.",
+    "Scrape batter into steamer. Microwave for 8 min on high, uncovered. Rest in steamer for 6 min; invert onto wire rack to cool. Or bake in preheated 350° F oven, 50–55 min. Cool in steamer 15 min; unmold.",
+    "When completely cool, spread on icing, if desired. Slice and serve."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 slice with 2 tbsp Spiced Cream Cheese Icing",
+    "calories": 300,
+    "fat": 10,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 40,
+    "sodium": 190,
+    "carbohydrate": 16,
+    "fiber": 1,
+    "sugars": 8,
+    "protein": 2
+  },
+  "tips": [
+    "Divide and spoon batter into oiled Muffin Maker. Bake in preheated 375° F oven for 15–18 min. Cool in pan 10 min; unmold. Makes 12 muffins."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1594675207689-recipeMainImagePath.jpg",
+  "thumbnail": "1594675207689-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "cinnamon__ground___1701145_",
+      "name": "Cinnamon (Ground)",
+      "summary": [
+        "Organic, ground cinnamon. Perfect for sprinkling on baked goods, smoothies, coffee &amp; fruit.&nbsp;"
+      ]
+    },
+    {
+      "slug": "rectangular_steamer_efd7225",
+      "name": "Rectangular Steamer",
+      "summary": [
+        "Easy to clean. Easy to serve. Rectangular, silicone steamer is perfect for side dishes &amp; desserts."
+      ]
+    }
+  ]
+}

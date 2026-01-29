@@ -1,0 +1,73 @@
+{
+  "name": "Chocolate Hazelnut Spread",
+  "slug": "chocolate-hazelnut-spread",
+  "description": "Chockablock full of hazelnuts, this recipe makes a better-for-you version of store-bought chocolate spreads.",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "almonds",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "icing sugar",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coconut oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "1 pinch",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "2 cups",
+  "preparation": [
+    "Blend hazelnuts and almonds in a food processor for 5 minutes, scraping down the sides every couple of minutes, until a loose paste forms",
+    "Add remaining ingredients and continue to mix until well blended.",
+    "Mixture will thicken if placed in the refrigerator."
+  ],
+  "tags": [
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 tbsp",
+    "calories": 60,
+    "fat": 4,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 10,
+    "carbohydrate": 5,
+    "fiber": 1,
+    "sugars": 3,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Chocolate-Hazelnut-Spread-Main.jpg",
+  "thumbnail": "Chocolate-Hazelnut-Spread-Main.webp",
+  "products": []
+}

@@ -1,0 +1,126 @@
+{
+  "name": "Steamer Berry Swirl Cheesecake",
+  "slug": "steamer-berry-swirl-cheesecake",
+  "description": "Cheesecake in less than 10 min? Yes please! Use the Rectangular Steamer in your microwave to create a delicious 'baked' cheesecake in a fraction of the time of using a conventional oven, perfect for those hot summer months.",
+  "ingredients": [
+    {
+      "name": "Berry Swirl No-Bake Cheesecake Mix ",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cream cheese",
+      "quantity": "1 brick (8 oz/250 g)",
+      "additionalInstruction": "room temperature "
+    },
+    {
+      "name": "plain Greek yogurt",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min (+ 1 hr chilling)",
+  "servings": "8 servings",
+  "preparation": [
+    "In a 4-Cup Prep Bowl, whisk together cheesecake mix, cream cheese, Greek yogurt, and egg.",
+    "Spoon into a lightly-oiled Rectangular Steamer.",
+    "Cover; microwave on high until set, about 5-6 min. Refrigerate until cool completely, about 1 hr.",
+    "Before serving, top with berries and crumbled gingersnaps, if desired. Slice and serve."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 140,
+    "fat": 11,
+    "saturatedFat": 7,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 110,
+    "carbohydrate": 8,
+    "fiber": 0,
+    "sugars": 6,
+    "protein": 5
+  },
+  "tips": [
+    "Prep ahead—cheesecake will keep well in fridge for up to 3 days. Garnish just before serving.",
+    "Make sure to let cream cheese completely come up to room temperature to ensure easy mixing. To quickly soften cream cheese, remove block from box and foil and place on a microwave-safe plate. Microwave on high for 15 seconds.",
+    "Instead of whisking by hand, use a hand or stand mixer to easily combine ingredients."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "steamer_berry_swirl_sheesecake_overhead1_1036x583.jpg",
+  "thumbnail": "steamer_berry_swirl_sheesecake_overhead1_1036x583.webp",
+  "products": [
+    {
+      "slug": "berry_swirl_cheesecake_mix__pack_of_2_",
+      "name": "Berry Swirl Cheesecake Mix (Pack of 2)",
+      "summary": [
+        "When the summer temperatures start to rise, keep your kitchen cool and enjoy the best no-bake cheesecake around! Easily whip up cheesecake, icebox cakes, ice pops, tarts and more, packed with the taste of vine-ripened, juicy berries.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "rectangular_steamer_efd7225",
+      "name": "Rectangular Steamer",
+      "summary": [
+        "Easy to clean. Easy to serve. Rectangular, silicone steamer is perfect for side dishes &amp; desserts."
+      ]
+    }
+  ]
+}

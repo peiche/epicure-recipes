@@ -1,0 +1,87 @@
+{
+  "name": "Garlic Croutons",
+  "slug": "garlic-croutons",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "cubed crusty bread",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "garlic clove",
+      "quantity": "1 ",
+      "additionalInstruction": "crushed"
+    },
+    {
+      "name": "Herb & Garlic Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 375° F (190° C).",
+    "Place bread on Sheet Pan lined with Sheet Pan Liner or parchment paper.",
+    "In a mixing bowl, combine olive oil, garlic, and Herb & Garlic Dip Mix. Drizzle over bread and toss to coat.",
+    "Bake for 10 minutes, tossing once. Remove from oven, and sprinkle with Parmesan."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1/2 cup",
+    "calories": 100,
+    "fat": 45,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 130,
+    "carbohydrate": 12,
+    "fiber": 1,
+    "sugars": 0,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Garlic-Croutons-Main.jpg",
+  "thumbnail": "Garlic-Croutons-Main.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, onion &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

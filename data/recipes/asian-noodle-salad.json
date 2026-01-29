@@ -1,0 +1,146 @@
+{
+  "name": "Asian Noodle Salad",
+  "slug": "asian-noodle-salad",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "rice vermicelli noodles",
+      "quantity": "1 pkg (1 lb/450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large carrots",
+      "quantity": "2",
+      "additionalInstruction": "coarsely grated"
+    },
+    {
+      "name": "green pepper",
+      "quantity": "1",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "red pepper",
+      "quantity": "1",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "green onions",
+      "quantity": "4",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "fresh bean sprouts",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sesame Ginger Dressing",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sesame Ginger Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low sodium soy sauce or gluten free soy sauce",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coarsely chopped peanuts, nuts, or 3 Onion Roasted Almonds",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sesame seeds",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "13 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Boil noodles for 3 minutes, drain, and rinse to cool.",
+    "Place noodles in prep bowl with next 5 ingredients.",
+    "Add Sesame Ginger Dressing or your choice of other Epicure Dressing and toss to combine.",
+    "Sprinkle with chopped nuts and sesame seeds."
+  ],
+  "tags": [
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 420,
+    "fat": 11,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 260,
+    "carbohydrate": 75,
+    "fiber": 4,
+    "sugars": 6,
+    "protein": 8
+  },
+  "tips": [
+    "For an extra crunch, top with our Sesame Crunch Topper."
+  ],
+  "perfectlyBalanceYourPlate": "To make this recipe complete, top with Grilled Teryiaki Chicken from the day before.",
+  "image": "1610042589483-recipeMainImagePath.jpg",
+  "thumbnail": "1610042589483-recipeMainImagePath.webp",
+  "products": []
+}

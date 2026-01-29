@@ -1,0 +1,115 @@
+{
+  "name": "Carrot Cake Overnight Oats",
+  "slug": "carrot-cake-overnight-oats",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "large flake oats",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "grated carrots",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Apple Pie Spice or Summer Berry Sweet Dip Mix",
+      "quantity": "1 - 2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "strawberries",
+      "quantity": "2",
+      "additionalInstruction": "sliced"
+    }
+  ],
+  "totalTime": "12 hours",
+  "servings": "1 serving",
+  "preparation": [
+    "Measure oats into a Mason jar or container of your choice. Pour in milk; stir in carrots and dip mix.",
+    "Cover and refrigerate overnight.",
+    "Top with berries and enjoy in the morning!"
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 320,
+    "fat": 5,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 125,
+    "carbohydrate": 60,
+    "fiber": 2,
+    "sugars": 28,
+    "protein": 12
+  },
+  "tips": [
+    "Double the recipe. Make and store in Rectangular Steamer."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 hard-cooked egg, or add 1 scoop of Power Up Vanilla Protein Blend in Step 1.",
+  "image": "1599582693935-recipeMainImagePath.jpg",
+  "thumbnail": "1599582693935-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "apple_pie_spice",
+      "name": "Apple Pie Spice",
+      "summary": [
+        "Move over pumpkin spice; it's time for Apple Pie Spice to shine! Perfect for leveling up the taste of fall-inspired baking, it's also great on top of oatmeal, in a frothy late or smoothie – or anywhere you want a punch of apple pie flavour.&nbsp;"
+      ]
+    },
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    },
+    {
+      "slug": "rectangular_steamer_efd7225",
+      "name": "Rectangular Steamer",
+      "summary": [
+        "Easy to clean. Easy to serve. Rectangular, silicone steamer is perfect for side dishes &amp; desserts."
+      ]
+    }
+  ]
+}

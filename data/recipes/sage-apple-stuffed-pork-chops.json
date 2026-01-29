@@ -1,0 +1,143 @@
+{
+  "name": "Sage & Apple-stuffed Pork Chops",
+  "slug": "sage-apple-stuffed-pork-chops",
+  "description": "Pork is a great source of protein, vitamin B 12 and zinc – important for building strong, healthy bodies.",
+  "ingredients": [
+    {
+      "name": "butter",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "apple",
+      "quantity": "1",
+      "additionalInstruction": "cored and chopped"
+    },
+    {
+      "name": "Sage & Apple Stuffing Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "toasted and cubed whole-grain bread",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless pork chops",
+      "quantity": "4 (4 oz/ 120 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Add butter and apple to frying pan and sauté over medium-high heat until apple is soft and browned. Add Sage & Apple Stuffing Seasoning, bread, Black Pepper, and Nourish Bouillon. Heat thoroughly.",
+    "Slice each pork chop along one side to create a pocket. Stuff bread mixture into pocket.",
+    "Return pan to stove; add oil and sear pork chops on both sides for 3–5 minutes. Reduce heat to medium-low and cook for an additional 5–8 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 320,
+    "fat": 17,
+    "saturatedFat": 5,
+    "transFat": 0.1,
+    "cholesterol": 100,
+    "sodium": 125,
+    "carbohydrate": 9,
+    "fiber": 2,
+    "sugars": 5,
+    "protein": 31
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with steamed Brussels sprouts and mashed potatoes.",
+  "image": "Sage & Apple Stuffed Pork Chops Lg.jpg",
+  "thumbnail": "Sage & Apple Stuffed Pork Chops Lg.webp",
+  "products": [
+    {
+      "slug": "sage___apple_stuffing_seasoning_32d0fa0",
+      "name": "Sage & Apple Stuffing Seasoning",
+      "summary": [
+        "Prepare to wow your guests with this simple yet show-stopping Sage &amp; Apple Stuffing. It’s a holiday must-have!&nbsp;"
+      ]
+    },
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    }
+  ]
+}

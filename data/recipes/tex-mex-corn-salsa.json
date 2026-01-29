@@ -1,0 +1,158 @@
+{
+  "name": "Tex-Mex Corn Salsa",
+  "slug": "tex-mex-corn-salsa",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup",
+      "additionalInstruction": "canned or fresh"
+    },
+    {
+      "name": "Tex-Mex Grilling Sauce",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "ketchup",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "molasses",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Taco Seasoning ",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Fajita Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dijon-style mustard",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh or frozen corn niblets",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon or lime juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 1/2 cups",
+  "preparation": [
+    "Combine ingredients.",
+    "Refrigerate in a sealed container for up to 1 week."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1/4 cup",
+    "calories": 30,
+    "fat": 0.1,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 190,
+    "carbohydrate": 7,
+    "fiber": 1,
+    "sugars": 4,
+    "protein": 1
+  },
+  "tips": [
+    "An excellent topping for burgers, fish and tacos, or a great dip for tortilla chips."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Tex-Mex-Corn-Salsa-Main.jpg",
+  "thumbnail": "Tex-Mex-Corn-Salsa-Main.webp",
+  "products": [
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chilies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "taco_seasoning__1701317_",
+      "name": "Taco Seasoning (Jar)",
+      "summary": [
+        "Classic Tex-Mex flavor with medium heat."
+      ]
+    },
+    {
+      "slug": "fajita_seasoning_ceb100c",
+      "name": "Fajita Seasoning",
+      "summary": [
+        "A lively, mild blend for seasoning beef, chicken, or fish fajitas &amp; enchiladas."
+      ]
+    }
+  ]
+}

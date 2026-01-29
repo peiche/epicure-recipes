@@ -1,0 +1,76 @@
+{
+  "name": "Crispy Garlic-Pepper Tilapia",
+  "slug": "crispy-garlic-pepper-tilapia",
+  "description": "What’s the best tool for making frozen fish crispy? The air fryer! Frozen fish is great to have on hand—freezing locks in the nutrients of fresh fish (without preservatives) and is uber cost-conscious. Tilapia is an excellent source of low-fat protein and omega 3’s which are important for optimum heart and brain health.",
+  "ingredients": [
+    {
+      "name": "frozen tilapia fillets, about 4 fillets",
+      "quantity": "1 pkg (340 g/12 oz)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Montreal Steak Rub or Lemon Pepper Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "12 minutes",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat air fryer to 400° F.",
+    "Lightly brush both sides of fillets with oil and sprinkle with rub.",
+    "Arrange fillets in a single layer in the air fryer. Depending on the size of your air fryer, you might need to do this in 2 batches. Air fry fillets 8–10 min, or until fish reaches an internal temperature of 145° F (do not flip)."
+  ],
+  "tags": [
+    {
+      "slug": "air_fryer",
+      "name": "Air Fryer"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 120,
+    "fat": 5,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 45,
+    "sodium": 270,
+    "carbohydrate": 2,
+    "fiber": 1,
+    "sugars": 0,
+    "protein": 18
+  },
+  "tips": [
+    "No air fryer? No problem! Quickly thaw fish by running it under cold water for 5 min. Place in Multipurpose Steamer and microwave, covered, on high 4–5 min, or until cooked through.",
+    "Swap any frozen fish fillets for tilapia."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup rice and 2 cups leafy greens with 1 tbsp Epicure Dressing.",
+  "image": "Crispy Garlic Pepper Tilapia-1036x583.jpg",
+  "thumbnail": "Crispy Garlic Pepper Tilapia-1036x583.webp",
+  "products": [
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

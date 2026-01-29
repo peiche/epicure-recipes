@@ -1,0 +1,93 @@
+{
+  "name": "Sesame Crunch Edamame",
+  "slug": "sesame-crunch-edamame",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "frozen edamame or steamed green beans",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poke Bowl Topper Blend or Everything Bagel Whole Food Topper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 - 6  servings",
+  "preparation": [
+    "In Multipurpose Pot - 8 cup, boil frozen edamame until heated through, 3–5 minutes. Be careful not to overcook or they’ll turn mushy.",
+    "Drain well, then place in a bowl. Toss with Poke Bowl Topper if desired. Serve warm."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 140,
+    "fat": 6,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 10,
+    "carbohydrate": 11,
+    "fiber": 6,
+    "sugars": 3,
+    "protein": 13
+  },
+  "tips": [
+    "Look for packages of edamame in the freezer section of your grocery store. They’re sold in pods as well as shelled. Either works well. Can’t find any? Swap out for steamed green beans instead."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "sesame_crunch_edamame_1036x583.jpg",
+  "thumbnail": "sesame_crunch_edamame_1036x583.webp",
+  "products": [
+    {
+      "slug": "everything_bagel_whole_food_topper_d9d0776",
+      "name": "Everything Bagel Whole Food Topper",
+      "summary": [
+        "Reminiscent of a big bite of a seasoned toasted bagel."
+      ]
+    }
+  ]
+}

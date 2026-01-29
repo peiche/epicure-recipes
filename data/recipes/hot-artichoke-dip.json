@@ -1,0 +1,70 @@
+{
+  "name": "Hot Artichoke Dip",
+  "slug": "hot-artichoke-dip",
+  "description": "A perfect dip or spread for bread and crackers.",
+  "ingredients": [
+    {
+      "name": "artichokes",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": "drained and coarsely chopped"
+    },
+    {
+      "name": "Artichoke Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 - 30 min",
+  "servings": "3 cups",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Combine all ingredients.",
+    "Spoon into a heat-proof serving dish. Bake for 20 minutes, or until bubbling."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 60,
+    "fat": 5,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 110,
+    "carbohydrate": 3,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Hot-Artichoke-Dip-Main.jpg",
+  "thumbnail": "Hot-Artichoke-Dip-Main.webp",
+  "products": []
+}

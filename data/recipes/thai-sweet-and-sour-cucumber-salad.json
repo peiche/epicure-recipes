@@ -1,0 +1,97 @@
+{
+  "name": "Thai Sweet and Sour Cucumber Salad",
+  "slug": "thai-sweet-and-sour-cucumber-salad",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "rice or apple cider vinegar",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Thai Seasoning",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "1 tsp",
+      "additionalInstruction": "coarsely ground"
+    },
+    {
+      "name": "sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "kaffir lime leaves",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cucumber",
+      "quantity": "1 large",
+      "additionalInstruction": "peeled, cut in half and thinly sliced"
+    },
+    {
+      "name": "red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> small",
+      "additionalInstruction": "finely diced"
+    },
+    {
+      "name": "freshly chopped cilantro",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "coarsely chopped salted peanuts",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Whisk vinegar, Thai Seasoning, water, Sea Salt, sugar and kaffir lime leaves together in Multipurpose Pot - 8 cup.",
+    "Bring to boil, stirring to dissolve sugar. Reduce heat to medium and simmer until reduced by half. Remove from heat, discard kaffir lime leaves and set aside to cool.",
+    "Combine cucumbers, red onion and half the cilantro in serving bowl.",
+    "Drizzle with dressing and toss to coat. Garnish with remaining cilantro and chopped peanuts. Serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 6,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 670,
+    "carbohydrate": 38,
+    "fiber": 2,
+    "sugars": 31,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Thai-Sweet-and-Sour-Cucumber-Salad-Main.jpg",
+  "thumbnail": "Thai-Sweet-and-Sour-Cucumber-Salad-Main.webp",
+  "products": []
+}

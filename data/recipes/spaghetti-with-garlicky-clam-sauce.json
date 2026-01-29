@@ -1,0 +1,123 @@
+{
+  "name": "Spaghetti with Garlicky Clam Sauce",
+  "slug": "spaghetti-with-garlicky-clam-sauce",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "quantity": "12 oz (340 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Toasted Onion",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roasted Garlic Aioli Mix",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby clams",
+      "quantity": "2 cans (5 oz/142g)",
+      "additionalInstruction": "drained, broth reserved"
+    },
+    {
+      "name": "clam broth or white wine",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh parsley",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "crushed chilies",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Cook spaghetti according to package directions.",
+    "Melt butter in frying pan. Add toasted onion and roasted garlic aioli with baby clams and clam broth (or white wine). Simmer for 1 minute.",
+    "Add drained spaghetti and chopped parsley to pan, tossing to coat. Season to taste with crushed chilies, sea salt and pepper."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 160,
+    "fat": 13,
+    "saturatedFat": 8,
+    "transFat": 0,
+    "cholesterol": 60,
+    "sodium": 340,
+    "carbohydrate": 4,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 6
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Spaghetti-with-Garlicky-Clam-Sauce_1036x583.jpg",
+  "thumbnail": "Spaghetti-with-Garlicky-Clam-Sauce_1036x583.webp",
+  "products": [
+    {
+      "slug": "toasted_onion",
+      "name": "Toasted Onion",
+      "summary": [
+        "Sweet flavour of lightly toasted onion."
+      ]
+    },
+    {
+      "slug": "roasted_garlic_aioli_mix",
+      "name": "Roasted Garlic Aioli Mix",
+      "summary": [
+        "A creamy roasted garlic condiment for your burger, sandwich or use as a dip for fries or veg.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

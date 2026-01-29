@@ -1,0 +1,90 @@
+{
+  "name": "Garlic Basmati Rice",
+  "slug": "garlic-basmati-rice",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "water",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt ",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Roasted Garlic Aioli Mix",
+      "quantity": "1 - 2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "basmati rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "27 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Bring water, salt, and aioli mix to a boil in a Multipurpose Pot - 8 cup.",
+    "Stir in rice and reduce heat to low. Simmer for 20 minutes with lid on, or until all liquid has been absorbed.",
+    "Let stand for 5 minutes, then fluff with a fork and serve."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 170,
+    "fat": 0.5,
+    "saturatedFat": 0.1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 320,
+    "carbohydrate": 38,
+    "fiber": 1,
+    "sugars": 0,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Garlic-Basmati-Rice-Main.jpg",
+  "thumbnail": "Garlic-Basmati-Rice-Main.webp",
+  "products": [
+    {
+      "slug": "roasted_garlic_aioli_mix",
+      "name": "Roasted Garlic Aioli Mix",
+      "summary": [
+        "A creamy roasted garlic condiment for your burger, sandwich or use as a dip for fries or veg.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

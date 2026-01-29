@@ -1,0 +1,132 @@
+{
+  "name": "Sloppy Joes",
+  "slug": "sloppy-joes",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sloppy Joe Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomato paste",
+      "quantity": "1 can (5.5 oz/156 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "buns",
+      "quantity": "4 ",
+      "additionalInstruction": "split and toasted, optional"
+    }
+  ],
+  "totalTime": "15–17 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Sauté Pan, brown beef over medium-high heat, 5–7 min. Use Ground Meat Separator to break up chunks.",
+    "Drain excess fat.",
+    "Stir in seasoning, water, and tomato paste. Reduce heat to medium; simmer, stirring occasionally, for 5 min. Spoon over buns, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 290,
+    "fat": 12,
+    "saturatedFat": 4.5,
+    "transFat": 0,
+    "cholesterol": 60,
+    "sodium": 340,
+    "carbohydrate": 22,
+    "fiber": 5,
+    "sugars": 3,
+    "protein": 26
+  },
+  "tips": [
+    "Replace meat with 1 can (19 oz/540 ml) lentils, drained and rinsed. Combine as above and simmer for 5 min. Slash carbs and serve in lettuce cups instead of buns."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup mixed veggies and 1 small bun.",
+  "image": "1578070184378-recipeMainImagePath.jpg",
+  "thumbnail": "1578070184378-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

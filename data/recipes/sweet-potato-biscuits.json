@@ -1,0 +1,101 @@
+{
+  "name": "Sweet Potato Biscuits",
+  "slug": "sweet-potato-biscuits",
+  "description": "Add a little sweet potato goodness to your biscuits.",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "all-purpose flour",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "4 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cajun seasoning",
+      "quantity": "1 - 3 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Preheat oven to 400° F (205° C).",
+    "Wash potatoes and pierce in several places with a fork. Place on Sheet Pan and bake until soft (about 1 hour), or microwave for 5–7 minutes until soft.",
+    "When cool enough to handle, scoop out insides and mash to a fine purée. Measure out 1 3&frasl;4 cups purée and set aside. Refrigerate or freeze leftover for future use.",
+    "Stir flour with baking powder, sugar, Sea Salt and Cajun Seasoning in a bowl. With a pastry cutter or two knives, cut in butter until mixture resembles a coarse meal.",
+    "Stir milk with potato purée in another bowl and add to dry ingredients. Stir until moistened.",
+    "Place dough on a lightly floured surface. Knead once or twice, and pat out to 1&frasl;2\" thick. Cut out biscuits using an upside-down water glass. Place on parchment-lined Sheet Pan and bake for about 20 minutes, until golden brown."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 200,
+    "fat": 8,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 350,
+    "carbohydrate": 29,
+    "fiber": 2,
+    "sugars": 4,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sweet-Potato-Biscuits-Main.jpg",
+  "thumbnail": "Sweet-Potato-Biscuits-Main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

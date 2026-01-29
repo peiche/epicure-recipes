@@ -1,0 +1,128 @@
+{
+  "name": " Carrot and Yam Casserole",
+  "slug": "carrot-and-yam-casserole",
+  "description": "The perfect in-season dish with the super-spice benefits of cinnamon!",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "quantity": "4 ",
+      "additionalInstruction": "peeled and diced"
+    },
+    {
+      "name": "yam",
+      "quantity": "1 large",
+      "additionalInstruction": "peeled and diced"
+    },
+    {
+      "name": "maple syrup",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "apple juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herb & Garlic Dip Mix",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "butter",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cinnamon (ground)",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "breadcrumbs",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "melted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "In Multipurpose Pot, boil carrots and yams until tender. Drain and mash.",
+    "Heat maple syrup, apple juice, 1 1&frasl;2 tsp Herb & Garlic Dip Mix, butter and Cinnamon.",
+    "Combine all ingredients and spoon into a lightly buttered casserole dish.",
+    "For the topping, stir breadcrumbs with melted butter and remaining 1 tsp Herb & Garlic Dip Mix. Sprinkle over carrots and yams.",
+    "Place on Sheet Pan and bake for about 10 minutes, until lightly browned."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 160,
+    "fat": 6,
+    "saturatedFat": 4,
+    "transFat": 0.2,
+    "cholesterol": 15,
+    "sodium": 180,
+    "carbohydrate": 24,
+    "fiber": 4,
+    "sugars": 10,
+    "protein": 2
+  },
+  "tips": [
+    "Serve with grilled fish."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "-Carrot-and-Yam-Casserole-Main.jpg",
+  "thumbnail": "-Carrot-and-Yam-Casserole-Main.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    }
+  ]
+}

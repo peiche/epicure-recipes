@@ -1,0 +1,168 @@
+{
+  "name": "Grilled Summer Cauli with Creamy Garlic Mayo",
+  "slug": "grilled-summer-cauli-with-creamy-garlic-mayo",
+  "description": "Make this easy and delicious cauliflower dish the star at your dinner table, paired with a creamy miso mayo that is the perfect balance of sweet and salty. You’ll want to put this sauce on everything this summer!",
+  "ingredients": [
+    {
+      "name": "medium head cauliflower",
+      "quantity": "1",
+      "additionalInstruction": "about 5 - 6\""
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice vinegar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ketchup",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "1 tbsp + 1 tsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Chipotle Aioli Mix or Cajun Fries Seasoning",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar or maple syrup",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roasted Garlic Aioli Mix or SPG Seasoning",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat grill to medium-high.",
+    "Trim leaves and bottom stalk from cauliflower, making sure not to remove the core. Place cauliflower in Round Steamer. Cover; microwave on high 5–6 min or until a knife can easily slide into the stem. Remove from steamer and place on 1&frasl;4 Sheet Pan lined with 1&frasl;4 Sheet Pan Liner.",
+    "In a microwave-safe bowl, add butter. Microwave on high, until melted, about 1 min. Whisk in vinegar, ketchup, 1 tbsp soy sauce, and Chipotle Aioli Mix. Place on Sheet Pan with cauliflower. Brush entire cauliflower with some of the sauce and head to the grill!",
+    "Place cauliflower on grill, floret-side down. Grill, covered, 10 min. Turn over and brush with more sauce. Repeat, brushing and turning every 10 min until lightly charred, about 30 min. If sauce starts to solidify, reheat as needed to easily brush over cauliflower. Remove from grill.",
+    "In a bowl, whisk together mayonnaise, sugar, remaining 1 tsp soy sauce, and 1 tsp Roasted Garlic Aioli Mix.",
+    "To serve, slice cauliflower into steaks or large wedges. Spoon sauce on top and add additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 220,
+    "fat": 21,
+    "saturatedFat": 6,
+    "transFat": 0.5,
+    "cholesterol": 20,
+    "sodium": 310,
+    "carbohydrate": 9,
+    "fiber": 3,
+    "sugars": 5,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup lean protein, such as tofu or beans, and 1&frasl;2 cup quinoa or rice.",
+  "image": "Grilled Cauli lg.jfif",
+  "thumbnail": "Grilled Cauli lg.webp",
+  "products": [
+    {
+      "slug": "chipotle_aioli_mix",
+      "name": "Chipotle Aioli Mix",
+      "summary": [
+        "Medium-spicy Southwestern flavor with noteworthy chipotle chili and smoked paprika. A crowd-pleasing condiment for your burgers, fries, fish tacos, burritos and anything else that needs a little extra kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "cajun_fries_seasoning",
+      "name": "Cajun Fries Seasoning",
+      "summary": [
+        "We love to make our taste buds dance with this <strong>Cajun Fries Seasoning</strong>. This blend of premium herbs and spices creates an earthy, piquant flavour that tastes great and packs a punch. It's perfect for anyone who wants to add excitement and heat to their favourite snack. Sprinkle as much or as little as you like over your spuds for a healthy alternative to restaurant fries with added seasonings.&nbsp;"
+      ]
+    },
+    {
+      "slug": "roasted_garlic_aioli_mix",
+      "name": "Roasted Garlic Aioli Mix",
+      "summary": [
+        "A creamy roasted garlic condiment for your burger, sandwich or use as a dip for fries or veg.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "spg_seasoning_5edecfd",
+      "name": "SPG Seasoning",
+      "summary": [
+        "Salt. Pepper. Garlic. Your go-to for chicken, fish, seafood, roasted potatoes, veggies, &amp; even popcorn!"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_liner__set_of_2___1711227_",
+      "name": "1/4 Sheet Pan Liner (Set of 2)",
+      "summary": [
+        "Easy to clean, nonstick, silicone mat with raised edges.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_7a23ca1",
+      "name": "1/4 Sheet Pan (Set of 2)",
+      "summary": [
+        "Smaller size than a standard sheet pan for easy handling."
+      ]
+    }
+  ]
+}

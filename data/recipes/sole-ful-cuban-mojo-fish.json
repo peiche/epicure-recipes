@@ -1,0 +1,130 @@
+{
+  "name": "“Sole”-ful Cuban Mojo Fish",
+  "slug": "sole-ful-cuban-mojo-fish",
+  "description": "This recipe is good for the body, mind, and “sole”! Fish is high in omega 3’s that promote heart health and even boost brain power! Grilling in foil packets is a fool-proof, less-mess way to prepare fish when you’re camping, so you can still get all the health benefits while out in nature.",
+  "ingredients": [
+    {
+      "name": "Cuban Mojo Marinade Mix or Herb & Garlic Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "orange juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sole fillets",
+      "quantity": "4 (5 oz/150 g each)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat grill to medium-high heat.",
+    "In Round or Multipurpose Steamer, whisk mix, juice, and oil. Add fish to steamer; flip to coat. If you have time, cover and marinate 10–15 min.",
+    "Place each fillet on its own sheet of aluminum foil and wrap up each fillet. Grill with lid closed for 10 min (do not flip)."
+  ],
+  "tags": [
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 170,
+    "fat": 10,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 60,
+    "sodium": 470,
+    "carbohydrate": 5,
+    "fiber": 1,
+    "sugars": 2,
+    "protein": 16
+  },
+  "tips": [
+    "If you like more citrusy notes with your fish, place a thin slice of lemon on each fillet before wrapping in foil.",
+    "No grill? Pan fry fillets with some of the marinade in Sauté Pan over medium-high heat, 2–3 min per side, or until golden."
+  ],
+  "perfectlyBalanceYourPlate": "Serve over 2 cups leafy greens with 1 tbsp Epicure Dressing and 1 cup cooked rice.",
+  "image": "Sole-ful-Cuban-Mojo-Fish_1036x583.jpg",
+  "thumbnail": "Sole-ful-Cuban-Mojo-Fish_1036x583.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, onion &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    }
+  ]
+}

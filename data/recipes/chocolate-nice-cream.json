@@ -1,0 +1,99 @@
+{
+  "name": "Chocolate Nice Cream",
+  "slug": "chocolate-nice-cream",
+  "description": "You won’t believe this “nice” cream is vegan! Chocolatey and rich, it’s a healthier treat that the whole family will love. Try it with Power Up Vanilla Protein Blend to switch up the flavours.",
+  "ingredients": [
+    {
+      "name": "frozen bananas",
+      "quantity": "3",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix or Dark & Dreamy Hot Chocolate Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Power Up Chocolate Protein Blend",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh or frozen mixed berries",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place bananas, sweet dip mix, and protein blend in food processor and blend until creamy, scraping down the sides as necessary. Fold in berries and serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 120,
+    "fat": 1,
+    "saturatedFat": 0.3,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 69,
+    "carbohydrate": 25,
+    "fiber": 4,
+    "sugars": 15,
+    "protein": 6
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Chocolate-Nice-Cream_1036x583.jpg",
+  "thumbnail": "Chocolate-Nice-Cream_1036x583.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    },
+    {
+      "slug": "power_up_chocolate_protein_blend__pouch_",
+      "name": "Power Up Chocolate Protein Blend (Pouch)",
+      "summary": [
+        "We like to fuel our bodies and satisfy those chocolate cravings at the same time. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    }
+  ]
+}

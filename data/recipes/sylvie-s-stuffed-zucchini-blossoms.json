@@ -1,0 +1,127 @@
+{
+  "name": "Sylvie’s Stuffed Zucchini Blossoms",
+  "slug": "sylvie-s-stuffed-zucchini-blossoms",
+  "description": "Light, crispy, savoury, and delicious – this appetizer makes glorious summer finger food.",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herb & Garlic Dip Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": "or Spinach Dip Mix"
+    },
+    {
+      "name": "zest of 1 lemon",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "16 zucchini blossoms",
+      "quantity": null,
+      "additionalInstruction": "gently rinsed and stamens removed "
+    },
+    {
+      "name": "soda water",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "flour",
+      "quantity": "1 cup",
+      "additionalInstruction": "with extra for dusting"
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": null,
+      "additionalInstruction": "for frying"
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "16 servings",
+  "preparation": [
+    "In a bowl, combine filling ingredients.",
+    "Fill each blossom with about 1 tbsp of filling.",
+    "In a second medium bowl, whisk soda water into flour until just combined (a few lumps are fine).",
+    "In Wok, heat 2” of vegetable oil over medium heat until a deep-fry thermometer reads 350° F (175° C).",
+    "Lightly dust stuffed blossoms with flour and dredge, one-by-one, in batter.",
+    "Gently place blossoms in oil and fry in batches, 2–3 minutes, until golden-brown, flipping once. Be careful not to over-crowd Wok.",
+    "Place blossoms on paper towels to soak up excess oil. Season with Sea Salt and Pepper, and serve while still warm."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 60,
+    "fat": 2.5,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 40,
+    "carbohydrate": 6,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sylvie-s-Stuffed-Zucchini-Blossoms-Main.jpg",
+  "thumbnail": "Sylvie-s-Stuffed-Zucchini-Blossoms-Main.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

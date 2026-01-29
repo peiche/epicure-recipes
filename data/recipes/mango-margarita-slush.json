@@ -1,0 +1,84 @@
+{
+  "name": "Mango Margarita Slush",
+  "slug": "mango-margarita-slush",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "lime",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen mango chunks",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coconut water",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tequila",
+      "quantity": "2 oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Strawberry Margarita Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ice cubes",
+      "quantity": "10",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Slice lime in half. Using 2-in-1 Citrus Press, squeeze juice into a blender. Add mango, coconut water, tequila, and mix. Blend until smooth. Add ice cubes, 5 at a time, until a slushy texture is achieved.",
+    "Pour into glasses. Add garnish, if desired, and serve."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "about 1 cup",
+    "calories": 110,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 35,
+    "carbohydrate": 18,
+    "fiber": 1,
+    "sugars": 14,
+    "protein": 1
+  },
+  "tips": [
+    "Rub a lime wedge around the edge of each glass; dip rim on plate with salt, until covered. Pour margarita into each glass, garnish, and serve."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "mango_margarita_slush_1036x583.jpg",
+  "thumbnail": "mango_margarita_slush_1036x583.webp",
+  "products": [
+    {
+      "slug": "strawberry_margarita_mix",
+      "name": "Strawberry Margarita Mix",
+      "summary": [
+        "We can transport ourselves to the tropics whenever we want with our <strong>Strawberry Margarita Mix</strong>. With a sweet, tangy blend of real strawberries and tart lime juice, we can create restaurant-quality margaritas by blending with ice, strawberries (frozen or fresh), and water (tequila optional). This mix is also perfect for other fruity cocktails or mocktails. Made with high-quality, natural ingredients, it's a healthier alternative to traditional, sugary mixes.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n2_in_1_citrus_press_329bead",
+      "name": "2-in-1 Citrus Press",
+      "summary": [
+        "Easily squeeze the juice from small citrus fruits like lemons, limes, clementines, &amp; tangerines."
+      ]
+    }
+  ]
+}

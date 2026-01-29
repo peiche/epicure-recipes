@@ -1,0 +1,105 @@
+{
+  "name": "Mexican Pasta Salad with Tex-Mex Dressing",
+  "slug": "mexican-pasta-salad-with-tex-mex-dressing",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "red wine vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cheese & Jalapeño Dip Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Fajita Seasoning",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped mixed veggies",
+      "quantity": "4 cups",
+      "additionalInstruction": "in season, your choice."
+    },
+    {
+      "name": "kidney beans",
+      "quantity": "1 can (14 oz /398 ml)",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "bite-sized pasta",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": "cooked and cooled"
+    }
+  ],
+  "totalTime": "19 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a large bowl, whisk together vinegar, olive oil, dip mix, and seasoning.",
+    "Add veggies, beans, and pasta.",
+    "Toss to coat and serve."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 330,
+    "fat": 16,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 340,
+    "carbohydrate": 38,
+    "fiber": 9,
+    "sugars": 5,
+    "protein": 10
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Mexican-Pasta-Salad-with-Tex-Mex-Dressing-Main.jpg",
+  "thumbnail": "Mexican-Pasta-Salad-with-Tex-Mex-Dressing-Main.webp",
+  "products": [
+    {
+      "slug": "fajita_seasoning_ceb100c",
+      "name": "Fajita Seasoning",
+      "summary": [
+        "A lively, mild blend for seasoning beef, chicken, or fish fajitas &amp; enchiladas."
+      ]
+    }
+  ]
+}

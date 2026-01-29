@@ -1,0 +1,97 @@
+{
+  "name": "Classic Baked Cheesecake",
+  "slug": "classic-baked-cheesecake",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "graham wafer crumbs",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "melted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light cream cheese",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (775 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "5",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon",
+      "quantity": "1",
+      "additionalInstruction": "zest grated and juiced"
+    },
+    {
+      "name": "light sour cream",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "12 hrs (time to chill)",
+  "servings": "12 servings",
+  "preparation": [
+    "Mix together crumbs and melted butter and press into bottom of 9\" springform Pan. Bake in 350° F (175° C) oven for 5 minutes.",
+    "Beat cream cheese with sugar until smooth. Add vanilla extract, lemon juice and zest. Add eggs, one at a time, beating well after each addition. Add sour cream and beat to form a smooth batter. Pour over baked crust. Bake at 325° F (160° C) for 40 minutes.",
+    "Remove the cheesecake from the oven, let cool to room temperature. Refrigerate overnight in the pan.",
+    "To serve, gently remove outside ring and transfer to plate. Serve with fresh fruit or Raspberry Coulis. For best results when serving cheesecake, always use a clean, wet knife for each slice."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 310,
+    "fat": 18,
+    "saturatedFat": 10,
+    "transFat": 0.2,
+    "cholesterol": 140,
+    "sodium": 420,
+    "carbohydrate": 28,
+    "fiber": 0,
+    "sugars": 20,
+    "protein": 10
+  },
+  "tips": [
+    "Place a pan of cold water in the bottom of the oven while the cheesecake bakes. This will help promote even baking and prevent the cake from cracking."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1601485824450-recipeMainImagePath.jpg",
+  "thumbnail": "1601485824450-recipeMainImagePath.webp",
+  "products": []
+}

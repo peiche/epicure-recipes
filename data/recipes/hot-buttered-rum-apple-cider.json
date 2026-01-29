@@ -1,0 +1,56 @@
+{
+  "name": "Hot Buttered Rum Apple Cider",
+  "slug": "hot-buttered-rum-apple-cider",
+  "description": "A hot drink for cool nights. For holiday parties, make it in Epicure Multipurpose Pot or a crock pot – it smells wonderful!",
+  "ingredients": [
+    {
+      "name": "apple cider or apple juice",
+      "quantity": "5 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Hot Buttered Rum Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dark rum",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "7 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Simmer apple cider or juice for 5 minutes.",
+    "Add Hot Buttered Rum, stirring until melted.",
+    "Pour into 6 glasses, and add 1 or 2—1 oz shots of rum to each. Stir and serve."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 1,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 30,
+    "carbohydrate": 30,
+    "fiber": 0,
+    "sugars": 27,
+    "protein": 0
+  },
+  "tips": [
+    "Switch out rum and use bourbon for a change.",
+    "Add spirits to glasses individually to leave a great non-alcoholic option for guests."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Hot-Buttered-Rum-Apple-Cider-Main.jpg",
+  "thumbnail": "Hot-Buttered-Rum-Apple-Cider-Main.webp",
+  "products": []
+}

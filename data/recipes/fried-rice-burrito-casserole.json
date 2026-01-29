@@ -1,0 +1,170 @@
+{
+  "name": "Fried Rice Burrito Casserole ",
+  "slug": "fried-rice-burrito-casserole",
+  "description": "Fried rice and burritos are joining forces in a mouthwatering way. We’re taking regular, ol’ leftovers, mixing ‘em up, and turning them into a dinner or lunchtime hit that’s anything but boring. The cream cheese in here adds so much creaminess and flavour that cheddar on its own just can’t match.",
+  "ingredients": [
+    {
+      "name": "unsalted black beans",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "quantity": "4 cups prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chicken Fried Rice Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sesame oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken thighs or breasts",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cold, cooked white rice",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded coleslaw",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "cilantro",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "cream cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> brick (8 oz/250 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "35 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 350° F. Lightly brush a 9\" X 13\" baking dish with oil.",
+    "In a large bowl, combine beans, fried rice, and salsa. Spread half of the filling evenly across the baking dish. Dollop cream cheese in chunks over filling. Top with remaining filling and sprinkle on cheese.",
+    "Bake 30 min. Add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 400,
+    "fat": 18,
+    "saturatedFat": 8,
+    "transFat": 0.2,
+    "cholesterol": 75,
+    "sodium": 500,
+    "carbohydrate": 35,
+    "fiber": 5,
+    "sugars": 3,
+    "protein": 23
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced veggies.",
+  "image": "fried_rice_burrito_casserole_1036x583.jpg",
+  "thumbnail": "fried_rice_burrito_casserole_1036x583.webp",
+  "products": [
+    {
+      "slug": "chicken_fried_rice_seasoning__pkg_of_3_",
+      "name": "Chicken Fried Rice Seasoning (Pkg of 3)",
+      "summary": [
+        "Plain white rice has its place at the table, but when it’s time to kick dinner up a notch, Chicken Fried Rice is the answer. Make a mountain of crispy fragrant rice – with notes of garlic, ginger, chives, and chillies – packed with protein and amplified by crunchy coleslaw.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chilies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Roasted Red Pepper and Feta Dip",
+  "slug": "roasted-red-pepper-and-feta-dip",
+  "description": "Make entertaining easy with Epicure Dip recipes.",
+  "ingredients": [
+    {
+      "name": "mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sour cream",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roasted Red Pepper Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crumbled feta cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": "",
+      "additionalInstruction": "coarsely ground, to taste"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "1 1/4 cups",
+  "preparation": [
+    "Whisk together mayonnaise and sour cream.",
+    "Stir in remaining ingredients."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 120,
+    "fat": 12,
+    "saturatedFat": 3.5,
+    "transFat": 0.1,
+    "cholesterol": 15,
+    "sodium": 110,
+    "carbohydrate": 1,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 1
+  },
+  "tips": [
+    "Dish up with crackers, pita bread, or vegetables."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Roasted-Red-Pepper-and-Feta-Dip-Main.jpg",
+  "thumbnail": "Roasted-Red-Pepper-and-Feta-Dip-Main.webp",
+  "products": []
+}

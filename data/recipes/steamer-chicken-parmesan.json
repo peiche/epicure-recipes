@@ -1,0 +1,160 @@
+{
+  "name": "Steamer Chicken Parmesan",
+  "slug": "steamer-chicken-parmesan",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "regular or gluten free breadcrumbs",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Rosemary Garlic Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "if desired"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "if desired"
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "450 g (1 lb)",
+      "additionalInstruction": "sliced in two"
+    },
+    {
+      "name": "grated mozzarella cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "18 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Cover the bottom of a Multipurpose Steamer with Marinara Sauce.",
+    "In a shallow bowl, stir together the breadcrumbs, Parmesan, seasoning, and salt and pepper, if desired.",
+    "Dip each chicken piece in the breadcrumb mixture, patting to coat thoroughly on both sides.",
+    "Place the chicken pieces in the bottom of the steamer and layer mozzarella cheese on top.",
+    "Close lid and microwave on high for 6–8 minutes or until chicken is cooked through. Serve hot."
+  ],
+  "tags": [
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 270,
+    "fat": 10,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 90,
+    "sodium": 450,
+    "carbohydrate": 12,
+    "fiber": 2,
+    "sugars": 4,
+    "protein": 32
+  },
+  "tips": [
+    "1 recipe, 2 ways:  Fix it & forget it in your slow cooker: Slow Cooker Chicken Parmesan  Make a big batch on a sheet pan: Sheet Pan Chicken Parmesan",
+    ""
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups salad greens, 1 cup egg noodles or rice, and 1 tbsp Balsamic Vinaigrette, prepared.",
+  "image": "Steamer_Chicken_Parmesan_1036x583.jpg",
+  "thumbnail": "Steamer_Chicken_Parmesan_1036x583.webp",
+  "products": [
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavours on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    },
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavour of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

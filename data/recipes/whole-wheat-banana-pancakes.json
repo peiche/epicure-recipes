@@ -1,0 +1,129 @@
+{
+  "name": "Whole-wheat Banana Pancakes",
+  "slug": "whole-wheat-banana-pancakes",
+  "description": "The perfect weekend pancake: moist, fluffy, flavourful. Whole-wheat never tasted so good.",
+  "ingredients": [
+    {
+      "name": "old-fashioned or quick oats",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "4 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "4 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whole-wheat flour",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "all-purpose flour",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking soda",
+      "quantity": "1 pinch",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salt",
+      "quantity": "1 pinch",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": "1 pinch",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat plain yogurt",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "banana",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Combine oats and water in a large, microwave safe bowl. Microwave on high for approximately 3 minutes, or until oats are creamy and tender. Stir in sugar and oil. Set aside to cool.",
+    "In another large mixing bowl, whisk together flours, baking powder, baking soda, salt and cinnamon. Set aside.",
+    "Add milk, yogurt, banana and egg to the cooled oat mixture and stir until blended.",
+    "Add dry ingredients to wet ingredients. Mix with swift strokes using a wooden spoon until just combined. Batter will be slightly lumpy.",
+    "Heat a frying pan over medium heat.",
+    "When hot, pour 1&frasl;4 cup pancake batter (per pancake) into pan. Cook until pancakes are covered with bubbles and edges are slightly browned.",
+    "Flip and cook other side until underside is golden brown. Repeat with remaining batter.",
+    "Serve immediately, drizzled with maple syrup, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 220,
+    "fat": 7,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 220,
+    "carbohydrate": 34,
+    "fiber": 3,
+    "sugars": 8,
+    "protein": 7
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Whole-wheat-Banana-Pancakes-Main.jpg",
+  "thumbnail": "Whole-wheat-Banana-Pancakes-Main.webp",
+  "products": []
+}

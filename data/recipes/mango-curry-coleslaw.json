@@ -1,0 +1,132 @@
+{
+  "name": "Mango Curry Coleslaw",
+  "slug": "mango-curry-coleslaw",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Mango Curry Dip Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat sour cream",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded cabbage",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "celery",
+      "quantity": "1 cup",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "carrot",
+      "quantity": "1 cup",
+      "additionalInstruction": "grated"
+    },
+    {
+      "name": "red pepper",
+      "quantity": "1",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "low-fat milk",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 - 6 servings",
+  "preparation": [
+    "In a medium sized bowl, using a Piano Wire Whisk, whisk together the Mango Curry Dip Mix, sour cream, mayonnaise, and lemon juice.",
+    "Toss remaining ingredients and season to taste."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 120,
+    "fat": 8,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 220,
+    "carbohydrate": 10,
+    "fiber": 2,
+    "sugars": 6,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Mango-Curry-Coleslaw-Main.jpg",
+  "thumbnail": "Mango-Curry-Coleslaw-Main.webp",
+  "products": [
+    {
+      "slug": "piano_wire_whisk__1707512_",
+      "name": "Piano Wire Whisk",
+      "summary": [
+        "&nbsp;Whisking and whipping made easy with the <strong>Piano Wire Whisk</strong>.&nbsp;"
+      ]
+    }
+  ]
+}

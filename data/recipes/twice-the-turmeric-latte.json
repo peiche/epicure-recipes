@@ -1,0 +1,60 @@
+{
+  "name": "Twice the Turmeric Latté",
+  "slug": "twice-the-turmeric-latte",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "milk",
+      "quantity": "2 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Turmeric & Ginger Enhanced Herbal Tea",
+      "quantity": "2 bags",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Turmeric & Black Pepper Blend",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Pour milk into Multipurpose Pot - 8 cup over high heat; add teabags.",
+    "Using a large spoon, carefully squeeze tea bags against side of the pot. This helps release flavour and natural colour.",
+    "Bring to a boil, then remove from heat. Gently squeeze teabags one last time (careful not to break teabags!), then discard.",
+    "Pour into blender; add honey, cinnamon, and pepper blend. Blend for 30 sec, or until frothy.",
+    "Pour into mugs; sprinkle with more cinnamon and pepper blend, if desired."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 150,
+    "fat": 4.5,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 120,
+    "carbohydrate": 21,
+    "fiber": 0,
+    "sugars": 8,
+    "protein": 8
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "6714_Turmeric-Latte_1036x583.jpg",
+  "thumbnail": "6714_Turmeric-Latte_1036x583.webp",
+  "products": []
+}

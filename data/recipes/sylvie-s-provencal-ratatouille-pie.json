@@ -1,0 +1,172 @@
+{
+  "name": "Sylvie’s Provençal Ratatouille Pie",
+  "slug": "sylvie-s-provencal-ratatouille-pie",
+  "description": "Yesterday's Ratatouille tastes twice as good in a pie! This traditional dish is easy to make and vegetarian friendly.",
+  "ingredients": [
+    {
+      "name": "frozen pie shell",
+      "quantity": "1",
+      "additionalInstruction": "thawed"
+    },
+    {
+      "name": "container 1% cottage cheese",
+      "quantity": "1 (8 oz/ 250 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cooked lentils",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Provençal Ratatouille",
+      "quantity": "3 cups",
+      "additionalInstruction": "drained"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced onion",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "garlic cloves",
+      "quantity": "2 ",
+      "additionalInstruction": "crushed"
+    },
+    {
+      "name": "tomato paste",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Souvlaki Seasoning",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herbes Provencales",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced zucchini",
+      "quantity": "6 cups",
+      "additionalInstruction": "quartered lengthwise and sliced"
+    },
+    {
+      "name": "red peppers",
+      "quantity": "2 ",
+      "additionalInstruction": "seeded and diced"
+    },
+    {
+      "name": "green peppers",
+      "quantity": "2 ",
+      "additionalInstruction": "seeded and diced"
+    },
+    {
+      "name": "tomatoes",
+      "quantity": "6 ",
+      "additionalInstruction": "peeled and coarsely chopped"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "",
+      "additionalInstruction": "coarsely ground, to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": "",
+      "additionalInstruction": "coarsely ground, to taste"
+    },
+    {
+      "name": "grated low-fat cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "45 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 400° F (205° C).",
+    "Gently press pie shell into a pie dish. Using a fork, prick a few holes in bottom, and bake 10 minutes.",
+    "Meanwhile, stir cottage cheese with 3 Onion Dip Mix.",
+    "Cover bottom of warm pie shell with lentils, then Provençal Ratatouille. Top with cottage cheese mixture, and sprinkle with cheese.",
+    "Reduce temperature to 350° F (175° C), and bake 20 minutes, until bubbly and cheese is melted."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 250,
+    "fat": 3.5,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 270,
+    "carbohydrate": 23,
+    "fiber": 6,
+    "sugars": 5,
+    "protein": 14
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sylvie-s-Provencal-Ratatouille-Pie-Main.jpg",
+  "thumbnail": "Sylvie-s-Provencal-Ratatouille-Pie-Main.webp",
+  "products": [
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "A savory medley of robust onion and herbs. Made with 3 different types of onions: chives, onion, and scallions."
+      ]
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "Customizable ceramic grinder adjusts to coarse or fine grind."
+      ]
+    }
+  ]
+}

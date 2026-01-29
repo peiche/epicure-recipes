@@ -1,0 +1,99 @@
+{
+  "name": "Spicy Stir-fried Broccoli",
+  "slug": "spicy-stir-fried-broccoli",
+  "description": "Broccoli with a bite! Add crushed chilies to spice up a healthy side dish.",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "broccoli florets",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "steamed"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "crushed chilies",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "7 - 9 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Heat a frying pan over medium-high heat. Add olive oil and sauté Marinara Sauce Mix and crushed chilies until aromatic - about 1 minute, stirring constantly.",
+    "Add steamed broccoli and toss to evenly coat with flavoured oil. Cook until evenly heated. Season with Sea Salt and Pepper and serve."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 130,
+    "fat": 11,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 0,
+    "carbohydrate": 0,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1600467462468-recipeMainImagePath.jpg",
+  "thumbnail": "1600467462468-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavour of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

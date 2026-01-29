@@ -1,0 +1,143 @@
+{
+  "name": "Cauliflower Crust Pizza",
+  "slug": "cauliflower-crust-pizza",
+  "description": "A gluten-free pizza crust that’s made with cauliflower instead of flour.",
+  "ingredients": [
+    {
+      "name": "grated cauliflower ",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated part-skim mozzarella cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese ",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pizza Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1 ",
+      "additionalInstruction": "slightly beaten"
+    },
+    {
+      "name": "Sea Salt ",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "pizza toppings",
+      "quantity": null,
+      "additionalInstruction": "your choice"
+    }
+  ],
+  "totalTime": "45 min",
+  "servings": "6 slices",
+  "preparation": [
+    "Preheat oven to 425° F (220° C).",
+    "Place grated cauliflower in a Rectangular Steamer and microwave for 5–6 minutes, until soft. Allow to cool.",
+    "In a medium prep bowl, combine cauliflower and remaining ingredients, except toppings.",
+    "On an Sheet Pan lined with a lightly oiled Sheet Pan Liner, press mixture out into desired shape and thickness.",
+    "Bake for 15 minutes, until slightly golden.",
+    "Finish pizza with desired toppings and bake for 10 more minutes."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 slice",
+    "calories": 80,
+    "fat": 4,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 55,
+    "sodium": 140,
+    "carbohydrate": 4,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 7
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Cauliflower-Crust-Pizza-Main.jpg",
+  "thumbnail": "Cauliflower-Crust-Pizza-Main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    },
+    {
+      "slug": "rectangular_steamer_efd7225",
+      "name": "Rectangular Steamer",
+      "summary": [
+        "Easy to clean. Easy to serve. Rectangular, silicone steamer is perfect for side dishes &amp; desserts."
+      ]
+    }
+  ]
+}

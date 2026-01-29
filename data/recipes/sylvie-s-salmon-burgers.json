@@ -1,0 +1,186 @@
+{
+  "name": "Sylvie’s Salmon Burgers",
+  "slug": "sylvie-s-salmon-burgers",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "large potatoes",
+      "quantity": "2",
+      "additionalInstruction": "peeled, boiled and mashed"
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "or 3 green onions, thinly sliced"
+    },
+    {
+      "name": "Honey Mustard or Sweet & Spicy Mustard",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Herb & Garlic Dip Mix or Lemon Dilly Dip Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": "beaten"
+    },
+    {
+      "name": "salmon",
+      "quantity": "2 cans (6 oz/170 g)",
+      "additionalInstruction": "drained and flaked"
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "capers",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "chopped — optional"
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "1 tsp",
+      "additionalInstruction": "or 1 minced garlic clove"
+    }
+  ],
+  "totalTime": "1 hr 20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Stir potatoes with 3 Onion Dip Mix, 1 tbsp mustard, Herb & Garlic Dip mix, sea salt, black pepper, and egg.",
+    "Fold in salmon and let mixture sit for 5 min.",
+    "Divide salmon mixture into desired number of burgers. Wet hands to prevent sticking and form into patties. Wrap with plastic and chill in refrigerator for at least 1 hour, or overnight.",
+    "Lightly spray frying pan with vegetable or olive oil. Pan-fry burgers over medium heat for 5 min per side, or until heated through.",
+    "Stir mayonnaise with remaining mustard, lemon juice, capers, Lemon Dilly Dip Mix and minced garlic. Spoon over cooked burgers."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 290,
+    "fat": 12,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 115,
+    "sodium": 700,
+    "carbohydrate": 24,
+    "fiber": 2,
+    "sugars": 6,
+    "protein": 21
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sylvie-s-Salmon-Burgers-Main.jpg",
+  "thumbnail": "Sylvie-s-Salmon-Burgers-Main.webp",
+  "products": [
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "honey_mustard",
+      "name": "Honey Mustard",
+      "summary": [
+        "A bold twist on a classic condiment made with 100% Canadian mustard seed and organic honey.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sweet___spicy_organic_mustard_a09b01b",
+      "name": "Sweet & Spicy Organic Mustard",
+      "summary": [
+        "Golden, sweet, with just the right heat. You’ll love this on burgers and Nashville Hot Chicken Sandwiches—or as a dip for chicken fingers. It’s also amazing in potato salad and salad dressings.&nbsp;"
+      ]
+    },
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, onion &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    },
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    }
+  ]
+}

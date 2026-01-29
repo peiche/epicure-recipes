@@ -1,0 +1,118 @@
+{
+  "name": "Sante Fe Chicken Skewers",
+  "slug": "sante-fe-chicken-skewers",
+  "description": "Be sure to leave time for marinating – it adds so much flavour and makes the chicken meltingly tender.",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Taco Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen limeade",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "defrosted, or margarita mix"
+    },
+    {
+      "name": "tequila",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "2",
+      "additionalInstruction": "cut into large cubes"
+    },
+    {
+      "name": "bamboo skewers",
+      "quantity": "6",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": "cut into large pieces"
+    },
+    {
+      "name": "red onion",
+      "quantity": "1",
+      "additionalInstruction": "cut into thick strips"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Mix oil with Taco Seasoning, limeade and tequila, if desired. Add chicken and turn to coat evenly. Cover and refrigerate for at least 3 hours, or overnight.",
+    "Soak bamboo skewers in water for 10 minutes. Alternately thread with marinated chicken, peppers and onion.",
+    "Grill over medium-high heat, turning often for 10–15 minutes, until chicken is cooked through."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 90,
+    "fat": 3.5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 25,
+    "sodium": 30,
+    "carbohydrate": 6,
+    "fiber": 1,
+    "sugars": 4,
+    "protein": 10
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sante-Fe-Chicken-Skewers-Main.jpg",
+  "thumbnail": "Sante-Fe-Chicken-Skewers-Main.webp",
+  "products": [
+    {
+      "slug": "taco_seasoning__1701317_",
+      "name": "Taco Seasoning (Jar)",
+      "summary": [
+        "Classic Tex-Mex flavor with medium heat."
+      ]
+    }
+  ]
+}

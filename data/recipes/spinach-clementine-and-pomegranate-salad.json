@@ -1,0 +1,126 @@
+{
+  "name": "Spinach, Clementine and Pomegranate Salad",
+  "slug": "spinach-clementine-and-pomegranate-salad",
+  "description": "A delightful winter salad packed with Vitamins and minerals.",
+  "ingredients": [
+    {
+      "name": "Balsamic Vinaigrette Dressing",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "balsamic vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "baby spinach leaves",
+      "quantity": "10 oz (300 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pomegranate seeds",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "clementines",
+      "quantity": "4",
+      "additionalInstruction": "peeled and divided into segments"
+    },
+    {
+      "name": "sliced almonds, hazelnuts or sunflower seeds",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Whisk together Balsamic Vinaigrette in a medium mixing bowl.",
+    "Add spinach leaves and gently toss to coat.",
+    "Sprinkle with pomegranate seeds, nuts and clementines. Serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 190,
+    "fat": 11,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 210,
+    "carbohydrate": 23,
+    "fiber": 6,
+    "sugars": 11,
+    "protein": 3
+  },
+  "tips": [
+    "For easy, mess-free, pomegranate seeds, score pomegranate skin into quarters. Place in a bowl of water and break open. Seeds will sink to the bottom and segments will float to the top. Scoop away pulp, drain and enjoy."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Spinach-Clementine-and-Pomegranate-Salad-Main.jpg",
+  "thumbnail": "Spinach-Clementine-and-Pomegranate-Salad-Main.webp",
+  "products": [
+    {
+      "slug": "balsamic_vinaigrette_dressing_mix",
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "summary": [
+        "Fresh, bright &amp; bold blend of Mediterranean herbs with notes of garlic &amp; rosemary. Our most versatile dressing."
+      ]
+    }
+  ]
+}

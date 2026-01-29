@@ -1,0 +1,165 @@
+{
+  "name": "Salisbury Steak with Béarnaise Sauce",
+  "slug": "salisbury-steak-with-bearnaise-sauce",
+  "description": "Looking for a fancy date night on a dime? Look no further than these juicy, tender ground beef patties doused in rich, tangy Béarnaise sauce. They’re ready in just 15 minutes with almost no cleanup required! Top each steak with 1&frasl;4 cup of Rosemary Garlic Mushrooms for an even more elevated dining experience at home.",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "gluten-free panko breadcrumbs",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Montreal Steak Rub or Beef & Steak Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "slices French bread",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "prepared Béarnaise Sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Béarnaise Sauce Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Preheat grill to medium-high heat. Lightly brush with oil.",
+    "In a large bowl, combine beef with egg, breadcrumbs, and rub. Form into two patties.",
+    "Grill patties with lid closed, 4–5 min per side, until cooked through. While the patties are cooking, grill bread 1 min per side.",
+    "Top each bread slice with Salisbury steak patty. Drizzle each patty with 2 tbsp of sauce."
+  ],
+  "tags": [
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "cook_the_catalogue",
+      "name": "Cook The Catalogue"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 400,
+    "fat": 21,
+    "saturatedFat": 10,
+    "transFat": 1,
+    "cholesterol": 175,
+    "sodium": 550,
+    "carbohydrate": 27,
+    "fiber": 2,
+    "sugars": 3,
+    "protein": 26
+  },
+  "tips": [
+    "No grill? Pan fry patties in Sauté Pan over medium-high heat in 1&frasl;2 tbsp of oil, 4–5 min per side. Toast bread right on the pan or in the toaster, if desired.",
+    "Prepare Bearnaise Sauce the night before and reheat in the microwave until warm, whisking every 30 seconds.",
+    "Swap panko breadcrumbs for 1&frasl;2 pkg Crispy & Crunchy Coating Mix."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup steamed or roasted veggies.",
+  "image": "Salisbury-Steak-with-Bearnaise-Sauce_1036x583.jpg",
+  "thumbnail": "Salisbury-Steak-with-Bearnaise-Sauce_1036x583.webp",
+  "products": [
+    {
+      "slug": "beef___steak_seasoning",
+      "name": "Beef & Steak Seasoning",
+      "summary": [
+        "An all-purpose blend with mild heat &amp; aromatic flavour."
+      ]
+    },
+    {
+      "slug": "bearnaise_sauce_mix__pack_of_3_",
+      "name": "Bearnaise Sauce Mix (Pack of 3)",
+      "summary": [
+        "A classic French sauce that’s notoriously hard to make at home – until now! With just one ingredient and 20 minutes, make buttery <strong>Béarnaise Sauce</strong> to drizzle on meat, fish, seafood, and veggies. Level-up date night, impress a crowd for brunch, or slather the sauce on burgers and sandwiches—it’s delicious any way you want it!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "crispy___crunchy_coating__pkg_of_3_",
+      "name": "Crispy & Crunchy Coating (Pkg of 3)",
+      "summary": [
+        "Craving the crunch? Add a crispy gluten free coating – that’s never soggy or bland – to protein and veggies and bake them in the oven. You’ll get all the taste of your fave fried foods without a trace of greasiness, so you can enjoy them whenever the craving strikes!&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

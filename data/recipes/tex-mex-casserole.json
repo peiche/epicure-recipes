@@ -1,0 +1,153 @@
+{
+  "name": "Tex-Mex Casserole",
+  "slug": "tex-mex-casserole",
+  "description": "Thank you, Destiny Moser, for this recipe that transforms Spanish Rice leftovers into a flavour-packed Tex-Mex casserole! Love your leftovers by layering prepared Spanish Rice into layers of meat, beans, tomatoes, and cheese. Prep ahead for a hassle-free meal that the whole family will enjoy.",
+  "ingredients": [
+    {
+      "name": "lean ground beef, bison, chicken, turkey, or plant-based meat substitute",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Spanish Rice",
+      "quantity": "2 cups prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Spanish Rice Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water",
+      "quantity": "4–4 <sup>1</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "long grain rice",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomato paste",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "plain yogurt or plain oat yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "black beans",
+      "quantity": "1 can (19 oz/540 ml)",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "grated Tex-Mex or cheddar cheese",
+      "quantity": "2 cups",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "unsalted diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 425° F. Coat a 9\" X 13\" casserole dish with non-stick spray and set aside.",
+    "Add beef to Multipurpose Steamer. Cover; microwave on high 5 min or until beef is cooked through. Using Ground Meat Separator, break up chunks.",
+    "Meanwhile, dice peppers. Once beef is cooked, add peppers, rice, and yogurt to steamer. Mix until evenly combined.",
+    "To assemble casserole, spread beans into an even layer in the dish, sprinkle 1 cup cheese over the beans, scatter diced tomatoes overtop, then spoon in the beef and rice mixture and spread into an even layer. Top with remaining 1 cup cheese.",
+    "Bake uncovered for 15 min or until cheese is melted and the casserole is hot.",
+    "Let rest for 5 min and enjoy with desired toppings."
+  ],
+  "tags": [
+    {
+      "slug": "community_recipe",
+      "name": "Community Recipe"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 470,
+    "fat": 22,
+    "saturatedFat": 10,
+    "transFat": 0.5,
+    "cholesterol": 80,
+    "sodium": 460,
+    "carbohydrate": 37,
+    "fiber": 7,
+    "sugars": 7,
+    "protein": 31
+  },
+  "tips": [
+    "Prep ahead! Assemble casserole (complete step 4 in the recipe), cover tightly with plastic wrap and store for up to 3 days in the refrigerator. When ready to eat, preheat oven to 350° F and continue with step 5."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "tex_mex_casserole_1036x583.jpg",
+  "thumbnail": "tex_mex_casserole_1036x583.webp",
+  "products": [
+    {
+      "slug": "spanish_rice_seasoning__pack_of_3_",
+      "name": "Spanish Rice Seasoning (Pack of 3)",
+      "summary": [
+        "Spanish Rice, or <em>arroz rojo, </em>is the taco night sidekick you’ve been waiting for! Ready in just 20 minutes, it pairs well with tacos, enchiladas, and Chicken Barbacoa. It’s a great filling for tasty burritos with the flavour of fresh tomato, oregano, cumin, and coriander. No need to buy and chop tomatoes and onions—follow the foolproof, one-pot recipe on the back of the pack for perfect rice every time.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

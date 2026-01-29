@@ -1,0 +1,134 @@
+{
+  "name": "Velvety Shrimp Bisque",
+  "slug": "velvety-shrimp-bisque",
+  "description": "A sophisticated, velvety-smooth appetizer for special occasions, or to make any day a little special.",
+  "ingredients": [
+    {
+      "name": "butter",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herb & Garlic Dip Mix",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large potato",
+      "quantity": "1",
+      "additionalInstruction": "peeled and cubed"
+    },
+    {
+      "name": "clam juice",
+      "quantity": "2 bottles (8 oz/240 ml)",
+      "additionalInstruction": "or 2 — (10 oz/284 ml) cans clam nectar"
+    },
+    {
+      "name": "water",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "2 - 3 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Spinach Dip Mix",
+      "quantity": "1 - 2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated orange peel",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby shrimp",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "heavy cream",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "33 min",
+  "servings": "8 cups (16 servings)",
+  "preparation": [
+    "Melt butter in Multipurpose Pot over medium heat. Add Herb & Garlic Dip Mix and sauté for 30 seconds, until fragrant. Stir in tomatoes, potato, clam juice, water, 3 Onion Dip Mix, Spinach Dip Mix and orange peel.",
+    "Cover and bring to a boil, then reduce heat and simmer for 10-15 minutes, until potatoes are very soft. Add shrimp. Bring to a boil, stirring often. Cover and reduce heat. Simmer for 5 minutes, until shrimp is warm.",
+    "Purée soup in a blender, then stir back into pot. Add cream and simmer until warm. Ladle into soup bowls or dish up in verrines."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 110,
+    "fat": 7,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 450,
+    "sodium": 150,
+    "carbohydrate": 7,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 5
+  },
+  "tips": [
+    "Chef Tip: For a great garnish, skewer baby shrimp on mini bamboo skewers and serve on the side."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Velvety-Shrimp-Bisque-Main.jpg",
+  "thumbnail": "Velvety-Shrimp-Bisque-Main.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    }
+  ]
+}

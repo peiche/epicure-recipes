@@ -1,0 +1,291 @@
+{
+  "name": "Middle Eastern Mezze Platter",
+  "slug": "middle-eastern-mezze-platter",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Falafels",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Falafel Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Garlic Hummus",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chickpeas",
+      "quantity": "1 can (19 oz/540 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Garlic Hummus Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "about 1 lemon"
+    },
+    {
+      "name": "tahini",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Beet Dip & Spread",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "beets",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": "drained"
+    },
+    {
+      "name": "2% Greek yogurt",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "walnuts",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Red Pepper Spread ",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red bell peppers",
+      "quantity": "2",
+      "additionalInstruction": "cut in quarters"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Spinach Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Dillicious Tzatziki",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% plain Greek yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Citrus Marinated Olives",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brine-cured black olives",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brine-cured green olives",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon zest",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "orange zest",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh orange juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "freshly squeezed lemon juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herb & Garlic Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed chilies",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dipping veggies",
+      "quantity": "4 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Rosemary Garlic Seasoning",
+      "quantity": "flat bread with",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Arrange falafels, dips, olives, veggies and bread, if desired on a platter and serve."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 460,
+    "fat": 23,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 920,
+    "carbohydrate": 53,
+    "fiber": 12,
+    "sugars": 16,
+    "protein": 18
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Middle-Eastern-Mezze-Platter-Main.jpg",
+  "thumbnail": "Middle-Eastern-Mezze-Platter-Main.webp",
+  "products": [
+    {
+      "slug": "creamy_garlic_hummus_dip_mix__1701243_",
+      "name": "Creamy Garlic Hummus Dip Mix",
+      "summary": []
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": []
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": []
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": []
+    },
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": []
+    },
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": []
+    }
+  ]
+}

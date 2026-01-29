@@ -1,0 +1,96 @@
+{
+  "name": "Keema Curry",
+  "slug": "keema-curry",
+  "description": "Try something new! When it comes to ground beef recipes, Keema Curry makes mincemeat out of meatloaf. A mild Indian-inspired stew of beef, peas, and potatoes is fabulously flavourful thanks to fragrant spices and a splash of lime. Add a bit of coconut milk to keep this dish mild and kid-friendly.",
+  "ingredients": [
+    {
+      "name": "Keema Curry Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water or broth",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium potatoes",
+      "quantity": "3",
+      "additionalInstruction": "about 1 lb (450 g)"
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen peas",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime",
+      "quantity": "1",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a bowl, combine seasoning and water. Set aside.",
+    "Cut potatoes into small cubes; you should have about 4 cups.",
+    "Place potatoes in Multipurpose or Round Steamer. Cover; microwave on high, 6–8 min, or until tender.",
+    "Meanwhile, brown beef in Wok or Sauté Pan over medium-high heat. Stir in reserved seasoning mixture. Bring to a boil; stir in peas and potatoes. Simmer 5 min or until heated through.",
+    "Slice lime in half. Using 2-in-1 Citrus Press, squeeze in juice from lime. Serve with extra lime wedges, if desired."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "about 1 3/4 cups",
+    "calories": 400,
+    "fat": 12,
+    "saturatedFat": 4.5,
+    "transFat": 0.4,
+    "cholesterol": 60,
+    "sodium": 390,
+    "carbohydrate": 42,
+    "fiber": 8,
+    "sugars": 7,
+    "protein": 30
+  },
+  "tips": [
+    "Make it vegan—swap ground beef with 1 can (19 oz/540 ml) lentils, drained and rinsed."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup veggies, your choice.",
+  "image": "Keema-Curry-1036x583.jpg",
+  "thumbnail": "Keema-Curry-1036x583.webp",
+  "products": [
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

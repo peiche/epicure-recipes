@@ -1,0 +1,118 @@
+{
+  "name": "Mini Gingerbread Cakes",
+  "slug": "mini-gingerbread-cakes",
+  "description": "Sometimes, you just need a little gingerbread goodness without committing to a whole cake. These mini cakes are like the quick fix for your cozy fall flavour cravings – and they’re so cute, too!",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "quantity": "6 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "molasses",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek yogurt",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "flour",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>3</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking soda",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Gingerbread Spices",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "30 mini cakes",
+  "preparation": [
+    "Preheat oven to 350°F (180°C).",
+    "In a medium bowl, add the first six ingredients and whisk until smooth.",
+    "In another bowl, combine the remaining dry ingredients.",
+    "Fold dry ingredients into wet ingredients until evenly combined.",
+    "Place a Perfect Petites mold on a Sheet Pan. Using a basting brush, lightly brush with oil.",
+    "Divide batter evenly between petites and bake until a toothpick inserted in centre comes out clean, 15–17 minutes.",
+    "When cool to the touch, flip Perfect Petites mold onto Sheet Pan and twist to pop out gingerbread."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 70,
+    "fat": 3,
+    "saturatedFat": 0.3,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 60,
+    "carbohydrate": 9,
+    "fiber": 0,
+    "sugars": 4,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Mini-Gingerbread-Cakes-Main.jpg",
+  "thumbnail": "Mini-Gingerbread-Cakes-Main.webp",
+  "products": [
+    {
+      "slug": "gingerbread_spices",
+      "name": "Gingerbread Spices",
+      "summary": [
+        "Bake up joy this holiday season with a traditional gingerbread blend that’s sure to impress."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "perfect_petites_a4d39ed",
+      "name": "Perfect Petites",
+      "summary": [
+        "A versatile non-stick silicone pan that makes baking the cutest bite-sized portions easy and fun! Go beyond baking and use the Perfect Petites to make ice cubes, portion baby food and sauces, and more!&nbsp;"
+      ]
+    }
+  ]
+}

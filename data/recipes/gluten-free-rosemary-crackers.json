@@ -1,0 +1,100 @@
+{
+  "name": "Gluten-Free Rosemary Crackers",
+  "slug": "gluten-free-rosemary-crackers",
+  "description": "Try substituting sesame, sunflower, or chia seeds in place of the flax seeds…or a combo of all three!",
+  "ingredients": [
+    {
+      "name": "gluten-free flour blend ",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "flax seeds ",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "roasted sesame or sunflower seeds",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Rosemary Garlic Seasoning ",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt ",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil ",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "warm water",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "35 - 45 min",
+  "servings": "40 crackers",
+  "preparation": [
+    "Preheat oven to 375° F (190° C).",
+    "In a medium bowl, combine the dry ingredients.",
+    "Add the oil and enough water for dough to form.",
+    "Press into a Sheet Pan, forming a thin, even layer.",
+    "Bake for 20–30 minutes, until golden brown.",
+    "When cool enough to touch, gently break into pieces. Crackers will crisp slightly as they cool and can also be re-crisped in the oven."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 crackers",
+    "calories": 80,
+    "fat": 5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 115,
+    "carbohydrate": 7,
+    "fiber": 1,
+    "sugars": 0,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Gluten-Free-Rosemary-Crackers-Main.jpg",
+  "thumbnail": "Gluten-Free-Rosemary-Crackers-Main.webp",
+  "products": [
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavors on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

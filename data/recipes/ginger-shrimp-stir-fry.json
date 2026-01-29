@@ -1,0 +1,171 @@
+{
+  "name": "Ginger Shrimp Stir-fry",
+  "slug": "ginger-shrimp-stir-fry",
+  "description": "Kids can help! Let little hands stir together the sauce ingredients.",
+  "ingredients": [
+    {
+      "name": "freshly grated ginger",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Asian Stir-Fry Seasoning or Vegetable Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "soy sauce",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice vinegar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cornstarch",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "orange juice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "raw shrimp",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (675 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herbed Garlic Sea Salt Blend or sea salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sweet pepper",
+      "quantity": "1",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "freshly grated ginger",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green onion",
+      "quantity": "1",
+      "additionalInstruction": "sliced - optional"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Stir together first 7 ingredients.",
+    "Season shrimp with sea salt and pepper. Heat oil in Wok over medium-high heat. Add shrimp, pepper and ginger. Stir-fry for 3–4 minutes, until shrimp are cooked through.",
+    "Stir sauce, then pour into wok. Simmer for 1 minute, until sauce is thickened.",
+    "Remove from heat and stir in green onion."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 180,
+    "fat": 3,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 220,
+    "sodium": 450,
+    "carbohydrate": 12,
+    "fiber": 1,
+    "sugars": 6,
+    "protein": 25
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Ginger-Shrimp-Stir-fry-Main.jpg",
+  "thumbnail": "Ginger-Shrimp-Stir-fry-Main.webp",
+  "products": [
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice and noodle dish."
+      ]
+    },
+    {
+      "slug": "vegetable_seasoning__1701330_",
+      "name": "Vegetable Seasoning",
+      "summary": [
+        "All-in-one herby meal helper. Less measuring &amp; more flavor!"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

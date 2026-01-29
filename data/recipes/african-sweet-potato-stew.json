@@ -1,0 +1,135 @@
+{
+  "name": "African Sweet Potato Stew",
+  "slug": "african-sweet-potato-stew",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "large sweet potatoes",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ground turkey",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "African Sweet Potato Stew Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light coconut milk",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water or broth",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "natural crunchy peanut butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "or nut butter alternative"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Peel and cut sweet potatoes into small cubes (about 4 cups). Place in Multipurpose Steamer; cover, microwave on high for 6 min.",
+    "Meanwhile, in Wok, cook turkey over medium high heat until cooked through, 3–5 min. Stir in seasoning, tomatoes, coconut milk and water or broth. Cover; cook for 5 min.",
+    "Stir in sweet potatoes and peanut butter. Add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 360,
+    "fat": 18,
+    "saturatedFat": 6,
+    "transFat": 0,
+    "cholesterol": 25,
+    "sodium": 420,
+    "carbohydrate": 31,
+    "fiber": 5,
+    "sugars": 8,
+    "protein": 17
+  },
+  "tips": [
+    "Make it vegan: Replace turkey with 1 can (19 oz/540 ml) black beans, drained and rinsed."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 wholegrain roll.",
+  "image": "6861_African_Sweet_Potato_Stew_1036x583.jpg",
+  "thumbnail": "6861_African_Sweet_Potato_Stew_1036x583.webp",
+  "products": [
+    {
+      "slug": "african_sweet_potato_stew_seasoning__pkg_of_3___15",
+      "name": "African Sweet Potato Stew Seasoning (Pack of 3)",
+      "summary": []
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": []
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": []
+    }
+  ]
+}

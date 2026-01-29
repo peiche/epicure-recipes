@@ -1,0 +1,123 @@
+{
+  "name": "Oh Canada! Grilled Tofu Kebabs",
+  "slug": "oh-canada-grilled-tofu-kebabs",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "quantity": "1 block (14 oz/400 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Oh Canada Dry Glaze",
+      "quantity": "2 - 3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "maple syrup",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light soy sauce",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium green zucchini",
+      "quantity": "1",
+      "additionalInstruction": "cut into 8 rounds"
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "8",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lightly oiled bamboo skewers",
+      "quantity": null,
+      "additionalInstruction": "pre-soaked in water to prevent scorching"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Cut tofu into 1\" blocks. Drain well on paper towels.",
+    "Combine first 7 ingredients in a bowl, or large zip lock bag, ensuring that the tofu is well coated, and let marinate for 10 minutes. Thread tofu and vegetables snuggly onto bamboo skewers, alternating with a cherry tomato and a piece of zucchini. Preheat grill to medium, and lightly brush with oil to prevent sticking.",
+    "Grill tofu kebabs, over medium-low heat, for about 5 minutes turning once or twice, and brushing with remaining glaze."
+  ],
+  "tags": [
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 160,
+    "fat": 8,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 125,
+    "carbohydrate": 13,
+    "fiber": 2,
+    "sugars": 7,
+    "protein": 10
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Oh-Canada-Grilled-Tofu-Kebabs-Main.jpg",
+  "thumbnail": "Oh-Canada-Grilled-Tofu-Kebabs-Main.webp",
+  "products": [
+    {
+      "slug": "oh_canada_dry_glaze_ea4bf73",
+      "name": "Oh Canada Dry Glaze",
+      "summary": [
+        "With notes of sweet and sticky maple, the Oh Canada Dry Glaze is a customer fave!&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

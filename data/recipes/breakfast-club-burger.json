@@ -1,0 +1,152 @@
+{
+  "name": "Breakfast Club Burger",
+  "slug": "breakfast-club-burger",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "extra lean ground beef or pork",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> lb (340 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Burger Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Big Burger Sauce Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ketchup",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "relish",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hamburger buns",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter lettuce leaves",
+      "quantity": "4",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In fry pan, heat oil over medium heat.",
+    "Meanwhile, in bowl, combine ground meat and seasoning. Form mixture into four patties.",
+    "Pan fry patties until cooked, approximately 5 min per side.",
+    "To make sauce, combine mayo, sauce mix, ketchup, and relish in small bowl. Set aside.",
+    "Once cooked, remove patties from pan, set aside. In the same pan, fry eggs over medium until yolks are set. Cover pan with lid, if needed.",
+    "Place patty on bottom bun; top with fried egg and lettuce. Add additional toppings, if desired. Spread top bun with sauce, then cover."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 420,
+    "fat": 19,
+    "saturatedFat": 4.5,
+    "transFat": 0,
+    "cholesterol": 295,
+    "sodium": 560,
+    "carbohydrate": 31,
+    "fiber": 2,
+    "sugars": 4,
+    "protein": 31
+  },
+  "tips": [
+    "Make it vegetarian, simply make it a Veggie Burger—follow the recipe on pack."
+  ],
+  "perfectlyBalanceYourPlate": "serve with 1 cup veggies—try making a skewer!",
+  "image": "6788_breakfast-club-burger2_1036x583.jpg",
+  "thumbnail": "6788_breakfast-club-burger2_1036x583.webp",
+  "products": [
+    {
+      "slug": "burger_seasoning_5d205ac",
+      "name": "Burger Seasoning",
+      "summary": [
+        "Tired of bland burgers? Level up with one simple seasoning that’s packed with the robust flavours of onion, garlic, and red bell pepper, and a mild paprika kick. Just combine the seasoning with ground beef, chicken, pork, or turkey for mouth-watering burgers every single time.&nbsp;"
+      ]
+    },
+    {
+      "slug": "big_burger_sauce_mix_d51f091",
+      "name": "Big Burger Sauce Mix",
+      "summary": [
+        "The tastiest burger sauce on this side of the golden arches. Best of all, it’s free of sodium and preservatives. Simply mix the seasoning with mayo, ketchup, and relish, and you’ve got saucy goodness to slather on burgers, sandwiches, sausages, and hot dogs.&nbsp;&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

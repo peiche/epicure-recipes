@@ -1,0 +1,129 @@
+{
+  "name": "Christina’s Greek Orzo Salad",
+  "slug": "christina-s-greek-orzo-salad",
+  "description": "A stunning side dish submitted by Christina Williamson from Huntsville, ON.",
+  "ingredients": [
+    {
+      "name": "cooked orzo",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "10",
+      "additionalInstruction": "cut in half"
+    },
+    {
+      "name": "bell pepper",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub>",
+      "additionalInstruction": "sliced and quartered"
+    },
+    {
+      "name": "whole black olives",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "canned chickpeas",
+      "quantity": "1 cup",
+      "additionalInstruction": "drained and rinsed – optional"
+    },
+    {
+      "name": "crumbled low-fat feta cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Dressing",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red wine vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "17 min",
+  "servings": "4 - 6 servings",
+  "preparation": [
+    "Combine first 7 ingredients in a bowl and sprinkle with 3 Onion Dip Mix.",
+    "Drizzle with Greek Dressing and toss to mix.",
+    "For optimum flavour, cover and refrigerate at least one hour before serving. Salad will keep well for up to 3 days."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "community_recipe",
+      "name": "Community Recipe"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 250,
+    "fat": 16,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 510,
+    "carbohydrate": 21,
+    "fiber": 3,
+    "sugars": 2,
+    "protein": 7
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Christina-s-Greek-Orzo-Salad-Main.jpg",
+  "thumbnail": "Christina-s-Greek-Orzo-Salad-Main.webp",
+  "products": [
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    }
+  ]
+}

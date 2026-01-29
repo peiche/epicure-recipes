@@ -1,0 +1,88 @@
+{
+  "name": "3 Onion Buttery Beans",
+  "slug": "3-onion-buttery-beans",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "trimmed"
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Cook beans in boiling salted water until tender-crisp, about 4 minutes. Drain and reserve 1&frasl;4 cup hot water.",
+    "Place beans in a large bowl and add 3 Onion Dip Mix, butter and reserved water. Toss vigorously to mix until butter melts. Serve warm."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 45,
+    "fat": 2,
+    "saturatedFat": 1,
+    "transFat": 0.1,
+    "cholesterol": 5,
+    "sodium": 5,
+    "carbohydrate": 7,
+    "fiber": 2,
+    "sugars": 3,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "3-Onion-Buttery-Beans-Main.jpg",
+  "thumbnail": "3-Onion-Buttery-Beans-Main.webp",
+  "products": [
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    }
+  ]
+}

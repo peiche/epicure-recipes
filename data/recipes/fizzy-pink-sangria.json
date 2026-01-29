@@ -1,0 +1,109 @@
+{
+  "name": "Fizzy Pink Sangria",
+  "slug": "fizzy-pink-sangria",
+  "description": "You’ll be tickled pink every sip this summer with this Fizzy Pink Sangria, perfect for entertaining or just treating yourself. Sangria, a classic Spanish and Portuguese punch, is usually made with wine, fruit, and a splash of something fizzy, and ours is no exception—except it’s sugar-conscious with only 7 grams per serving. The blend comes packed with fruity chunks so you can skip the grocery run and save some cash—no fresh berries required. Cheers to an easy, delicious, and wallet-friendly way to enjoy the season!",
+  "ingredients": [
+    {
+      "name": "Fizzy Pink Sangria Drink Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dry white wine",
+      "quantity": "1 bottle (750 ml)",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "club soda",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "18 min",
+  "servings": "4 ½ cups",
+  "preparation": [
+    "In a large pitcher, stir drink mix with wine until sugar dissolves. Steep 15 min, or refrigerate for up to 3 days.",
+    "Before serving, add club soda.",
+    "Pour into glasses over ice. Garnish with lemon slices or fruit, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "epic_life_beverages",
+      "name": "Beverages"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "¾ cup",
+    "calories": 130,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 10,
+    "carbohydrate": 11,
+    "fiber": 0,
+    "sugars": 7,
+    "protein": 0.2
+  },
+  "tips": [
+    "Swap dry red wine or rosé for white wine.",
+    "MIMOSA: Stir 1 cup orange juice into prepared sangria.",
+    "MOCKTAIL: Combine drink mix with 1 1&frasl;2 cups white grape or apple juice. Steep 15 min. Before serving, add 3 cups club soda. Serve over ice. Add fresh lemon juice, to taste."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Fizzy-Pink-Sangria-1036x583.jpg",
+  "thumbnail": "Fizzy-Pink-Sangria-1036x583.webp",
+  "products": []
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Really Simple Pink Lady Herbal Blossom Tea infused Syrup",
+  "slug": "really-simple-pink-lady-herbal-blossom-tea-infused-syrup",
+  "description": "Simple syrup is a solution of dissolved sugar and water, so no need to worry about the sugar settling to the bottom of your cocktail as you sip.",
+  "ingredients": [
+    {
+      "name": "sugar",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pink Lady Tea",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "12 min",
+  "servings": "2 cups",
+  "preparation": [
+    "Whisk all ingredients in a Multipurpose pot - 8 cup with a Piano Wire Whisk.",
+    "Cook over medium heat until reduced by about half, and syrup coats the back of a spoon. Strain and refrigerate up to 10 days until ready to serve."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1/4 cup",
+    "calories": 90,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 1,
+    "carbohydrate": 27,
+    "fiber": 0,
+    "sugars": 27,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Really-Simple-Pink-Lady-Herbal-Blossom-Tea-infused-Syrup-Main.jpg",
+  "thumbnail": "Really-Simple-Pink-Lady-Herbal-Blossom-Tea-infused-Syrup-Main.webp",
+  "products": [
+    {
+      "slug": "multipurpose_pot___8_c",
+      "name": "Multipurpose Pot - 8 Cup",
+      "summary": [
+        "An 8 cup, multi-use, stainless-steel cooking pot with a lid made of glass, steel &amp; silicone rubber."
+      ]
+    }
+  ]
+}

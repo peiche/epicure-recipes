@@ -1,0 +1,99 @@
+{
+  "name": "Salmon Florentine Mac & Cheese",
+  "slug": "salmon-florentine-mac-cheese",
+  "description": "Think of this mac & cheese as grown-up sophistication. You’ve got creamy & comforting pasta with Florentine-style veggies mixed in and a perfectly cooked piece of salmon.  Most of this meal is prepared in the Multipurpose Steamer which means it cooks quickly and more nutrients are retained.  A dish that’s wholesome, elevated, and delicious, what more could you need?",
+  "ingredients": [
+    {
+      "name": "bite-sized pasta",
+      "quantity": "2 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "frozen spinach",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": "thawed"
+    },
+    {
+      "name": "sliced mushrooms",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "skinless salmon fillets",
+      "quantity": "4 (4.5 oz/130 g each)",
+      "additionalInstruction": "about 1\" thick"
+    },
+    {
+      "name": "Greek Dressing Mix or Dijon Tarragon Dressing Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Mac & Cheese Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "13 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Cook pasta in Multipurpose Pot according to package directions. Drain.",
+    "Meanwhile, place spinach and mushrooms in Multipurpose Steamer. Cover and microwave on high for 4 min. Place salmon on steamer tray and season with dressing mix; set aside.",
+    "Remove steamer from microwave; place tray with salmon on top. Cover and microwave on high for 3 min. Let rest for 1 min before opening lid. Remove tray and strain any excess liquid from steamer to prevent a runny sauce.",
+    "Add cooked pasted to steamer with seasoning, milk, and butter, if using. Stir to evenly mix.",
+    "Divide into 4 bowls and top each bowl with 1 salmon fillet."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 450,
+    "fat": 12,
+    "saturatedFat": 3.5,
+    "transFat": 0.2,
+    "cholesterol": 75,
+    "sodium": 440,
+    "carbohydrate": 47,
+    "fiber": 4,
+    "sugars": 5,
+    "protein": 36
+  },
+  "tips": [
+    "A resealable bag of frozen spinach is a great staple to have in your freezer for when you need to add extra veggies to a dish. Spinach is frozen at its peak of freshness and, unlike fresh leaves, it won’t wilt before you have a chance to use it all up!"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup steamed veggies.",
+  "image": "salmon_fllorentine_mac_cheese_1036x583.jpg",
+  "thumbnail": "salmon_fllorentine_mac_cheese_1036x583.webp",
+  "products": [
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    },
+    {
+      "slug": "mac___cheese_seasoning__pkg_of_3_",
+      "name": "Mac & Cheese Seasoning (Pack of 3)",
+      "summary": [
+        "An all-time best-seller, this is the Mac &amp; Cheese you’ve been craving – and that your kids will LOVE to eat! Creamy, cheesy, and super comforting, it’s free of unnecessary additives and packed with flavour thanks to real cheddar cheese. Take it from the stovetop (or microwave) to the table in under 10 minutes and dig in!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

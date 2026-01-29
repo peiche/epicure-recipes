@@ -1,0 +1,94 @@
+{
+  "name": "Paris Bistro Bocconcini",
+  "slug": "paris-bistro-bocconcini",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "container mini bocconcini balls",
+      "quantity": "7 oz (200 g)",
+      "additionalInstruction": "drained, about 20 pieces"
+    },
+    {
+      "name": "Paris Bistro Finishing Sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Paris Bistro Finishing Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "shake jar before use"
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste, optional"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste, optional"
+    }
+  ],
+  "totalTime": "1 hr 5 min",
+  "servings": "10 servings",
+  "preparation": [
+    "In bowl, combine bocconcini and finishing sauce. Season with salt and pepper, if desired.",
+    "Marinate at room temperature at least 1 hour. Serve with crackers or crostini."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 balls",
+    "calories": 30,
+    "fat": 3,
+    "saturatedFat": 0.4,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 30,
+    "carbohydrate": 1,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 0.2
+  },
+  "tips": [
+    "Layer in heat by sprinkling with chili flakes."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1599751118684-recipeMainImagePath.jpg",
+  "thumbnail": "1599751118684-recipeMainImagePath.webp",
+  "products": []
+}

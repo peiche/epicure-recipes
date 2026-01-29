@@ -1,0 +1,176 @@
+{
+  "name": "Speedy Chicken Pot Pie",
+  "slug": "speedy-chicken-pot-pie",
+  "description": "Imagine the comfort of chicken pot pie in less than 20 minutes.",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts, cut into 1/2\" pieces",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Fajita or Souvlaki Seasoning",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> cups prepared",
+      "additionalInstruction": "or broth of your choice"
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "potatoes, diced",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green peas and carrots blend, fresh or frozen",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "flour or corn starch",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "warm water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "sheets phyllo",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil, for brushing phyllo",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 425˚ F.",
+    "In a Multipurpose Steamer, place chicken, Fajita Seasoning, Vegetable Broth, potatoes, and veggies. Microwave on high for 5–6 min.",
+    "In a small mixing bowl, combine corn starch and water. Stir into chicken mixture. Microwave for 1–2 min.",
+    "Top with sheets of phyllo, using a basting brush to lightly brush with oil between layers. Bake for 3–5 min until phyllo is golden brown. Serve."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 230,
+    "fat": 5,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 230,
+    "carbohydrate": 18,
+    "fiber": 2,
+    "sugars": 0,
+    "protein": 26
+  },
+  "tips": [
+    "Make It Vegetarian: Replace chicken with tofu."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup steamed veggies and 2 tbsp prepared Epicure Dip.",
+  "image": "Speedy-Chicken-Pot-Pie_1036x583.jpg",
+  "thumbnail": "Speedy-Chicken-Pot-Pie_1036x583.webp",
+  "products": [
+    {
+      "slug": "fajita_seasoning_ceb100c",
+      "name": "Fajita Seasoning",
+      "summary": [
+        "A lively, mild blend for seasoning beef, chicken, or fish fajitas &amp; enchiladas."
+      ]
+    },
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

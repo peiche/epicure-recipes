@@ -1,0 +1,128 @@
+{
+  "name": "Tuscan Chicken Meatballs",
+  "slug": "tuscan-chicken-meatballs",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "ground chicken or lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Tuscan Chicken Burger Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light sour cream",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sweet & Spicy Organic Mustard",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In large bowl, using a fork, combine ground meat, seasoning, and water. Form into 16 meatballs (about a scant 2 tbsp each).",
+    "Arrange in a single layer in Multipurpose Steamer (it’s OK if they touch). Cover and microwave on high, for 4 min or until cooked. Uncover; let sit about 1 min before serving.",
+    "Meanwhile, prepare sauce. In a small bowl, whisk together sour cream and mustard.",
+    "When meatballs are cooked, carefully drain off liquid from bottom of steamer, reserving 2 tbsp juices. Stir into sauce in bowl. Pour one quarter over meatballs (in steamer); gently stir to coat.",
+    "Serve meatballs with remaining sauce for dipping. Shake on topper, if using."
+  ],
+  "tags": [
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "4 meatballs",
+    "calories": 200,
+    "fat": 11,
+    "saturatedFat": 3.5,
+    "transFat": 0.1,
+    "cholesterol": 105,
+    "sodium": 170,
+    "carbohydrate": 5,
+    "fiber": 1,
+    "sugars": 2,
+    "protein": 21
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup rice and 1 cup steamed vegetables.",
+  "image": "6851_Tuscan_Chicken_Meatballs_1036x583.jpg",
+  "thumbnail": "6851_Tuscan_Chicken_Meatballs_1036x583.webp",
+  "products": [
+    {
+      "slug": "tuscan_chicken_burger_seasoning_7586315",
+      "name": "Tuscan Chicken Burger Seasoning",
+      "summary": [
+        "Fresh Mediterranean&nbsp;flavors—you'll want to try this blend on everything!"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

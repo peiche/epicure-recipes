@@ -1,0 +1,105 @@
+{
+  "name": "Shortbread Cookies",
+  "slug": "shortbread-cookies",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Shortbread Cookie Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "water",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "26 min",
+  "servings": "12 cookies",
+  "preparation": [
+    "Preheat oven to 375°F. Line Sheet Pan with Sheet Pan Liner.",
+    "Using a stand mixer (with paddle attachment) or hand mixer, on medium speed, beat mix with butter and water for 2–3 min or until a soft, uniform dough forms. It should not look crumbly.",
+    "Scoop or roll dough into 12 balls.",
+    "Arrange on pan, spacing 1” apart. Gently press to flatten slightly. Sprinkle with salt, if desired.",
+    "Bake 14–16 min or until edges are light golden. Let cool on pan completely before removing."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cookie",
+    "calories": 130,
+    "fat": 8,
+    "saturatedFat": 5,
+    "transFat": 0.4,
+    "cholesterol": 20,
+    "sodium": 40,
+    "carbohydrate": 14,
+    "fiber": 1,
+    "sugars": 4,
+    "protein": 1
+  },
+  "tips": [
+    "Make it vegan— swap butter for unsalted margarine or vegan butter sticks.",
+    "For perfectly even cookies, use Prep Pro Scoop (2 tbsp) and scrape scoop to level on the side of the bowl."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Shortbread Cookie Lg..jpg",
+  "thumbnail": "Shortbread Cookie Lg.webp",
+  "products": [
+    {
+      "slug": "shortbread_cookies_mix__2pk_",
+      "name": "Shortbread Cookie Mix (2pk)",
+      "summary": [
+        "We’re taking Shortbread Cookies beyond the holiday season and making them an everyday delight because they are just too good to only be enjoyed once a year! Our gluten free baking mix is a dream to work with. Just add butter and water (and salt, if you like) and stir it up! It’s super easy to work with and a great way to get kids involved in baking without a ton of mess — and the cookies turn out perfectly each and every time.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

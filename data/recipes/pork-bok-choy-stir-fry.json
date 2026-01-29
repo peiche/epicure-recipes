@@ -1,0 +1,176 @@
+{
+  "name": "Pork & Bok Choy Stir Fry",
+  "slug": "pork-bok-choy-stir-fry",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sweet & Sour Stir-Fry Seasoning or Yaki Udon Stir-Fry Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "broth",
+      "quantity": "1 cup",
+      "additionalInstruction": "your choice, divided"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground pork",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium carrots",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced mushrooms",
+      "quantity": "1 pkg (8 oz/227 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small head bok choy",
+      "quantity": "1  ",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "17 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place rice in Multipurpose Steamer. Stir in hot water. Cover; microwave on high until tender and water has absorbed, 15 min.",
+    "In a bowl, whisk together seasoning, 3&frasl;4 cups broth and soy sauce. Set aside.",
+    "Meanwhile, heat oil in a wok over medium-high heat. Add pork; stir-fry for 5 min.",
+    "Meanwhile, peel carrots; slice diagonally. Trim and discard bok choy stem ends. Cut bok choy into bite-sized pieces.",
+    "Remove pork from wok and set aside. Reduce heat to medium, add carrots and mushrooms; sauté until carrots are tender-crisp, 3 min.",
+    "Add seasoning mixture, bok choy, pork, and remaining 1&frasl;4 cup broth to wok. Stir fry until bok choy is just wilted. Serve over rice and sprinkle with topper, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 540,
+    "fat": 20,
+    "saturatedFat": 7,
+    "transFat": 0.2,
+    "cholesterol": 75,
+    "sodium": 450,
+    "carbohydrate": 59,
+    "fiber": 7,
+    "sugars": 9,
+    "protein": 32
+  },
+  "tips": [
+    "Replace bok choy with another dark green vegetable—kale, Napa cabbage, spinach, or broccoli.",
+    "Slash prep time by purchasing shredded carrots, look for them in the produce aisle of the grocery store.",
+    "Use soy ground round or lentils for a delicious vegetarian option."
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "6750_pork_bok_choy_stir-fry_1036x583.jpg",
+  "thumbnail": "6750_pork_bok_choy_stir-fry_1036x583.webp",
+  "products": [
+    {
+      "slug": "sweet___sour_stir_fry_seasoning__pkg_of_3__6383458",
+      "name": "Sweet & Sour Stir-Fry Seasoning (Pack of 3)",
+      "summary": [
+        "Enjoy flavours of chives, garlic, ginger &amp; sweet pineapple in this stir-fry that takes just 20 minutes to make.&nbsp;"
+      ]
+    },
+    {
+      "slug": "chicken_yaki_udon_seasoning__pack_of_3_",
+      "name": "Yaki Udon Stir-Fry Seasoning (Pack of 3)",
+      "summary": [
+        "An Epicure take on Japanese street food that the whole family will love!"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "name": "Pesto Crispy Chicken",
+  "slug": "pesto-crispy-chicken",
+  "description": "If you love herbaceous greens, you probably already have Pesto Sauce or Paris Bistro Sauce on your weekly meal prep to-do list. Make sure to double it up the week you plan on making this recipe.  It’s incredibly simple to make, but with restaurant quality flavour.",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Crispy & Crunchy Coating Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "SPG Seasoning or Herb & Garlic Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "prepared Pesto Sauce or Paris Bistro Sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pesto Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pine nuts or pistachio nuts",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Paris Bistro Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "shake jar before use"
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings ",
+  "preparation": [
+    "Preheat oven to 400° F. Line Sheet Pan with Sheet Pan Liner.",
+    "Gently pound chicken between sheets of plastic wrap to even thickness.",
+    "Combine mix with seasoning, salt, and pepper until well-combined, and place crumb mixture on a plate.",
+    "Rub each chicken breast with 1–2 tbsp prepared sauce, and press in the crumbs to thoroughly coat. Arrange chicken on pan and bake, approximately 20 minutes turning once, or until chicken is cooked."
+  ],
+  "tags": [
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 350,
+    "fat": 10,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 210,
+    "carbohydrate": 32,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 31
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup mashed potatoes and 1 cup steamed veggies.",
+  "image": "Paris-Bistro-Crispy-Chicken-Main.jpg",
+  "thumbnail": "Paris-Bistro-Crispy-Chicken-Main.webp",
+  "products": [
+    {
+      "slug": "crispy___crunchy_coating__pkg_of_3_",
+      "name": "Crispy & Crunchy Coating (Pkg of 3)",
+      "summary": [
+        "Craving the crunch? Add a crispy gluten free coating – that’s never soggy or bland – to protein and veggies and bake them in the oven. You’ll get all the taste of your fave fried foods without a trace of greasiness, so you can enjoy them whenever the craving strikes!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "spg_seasoning_5edecfd",
+      "name": "SPG Seasoning",
+      "summary": [
+        "Salt. Pepper. Garlic. Your go-to for chicken, fish, seafood, roasted potatoes, veggies, &amp; even popcorn!"
+      ]
+    },
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, onion &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    },
+    {
+      "slug": "paris_bistro_finishing_sauce_mix_97c8cf5",
+      "name": "Paris Bistro Finishing Sauce Mix",
+      "summary": [
+        "Garlic &amp; parsley finishing sauce is back for a limited-time only. Pairs with fish, chicken &amp; steak. &nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

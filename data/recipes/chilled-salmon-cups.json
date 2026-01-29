@@ -1,0 +1,97 @@
+{
+  "name": "Chilled Salmon Cups",
+  "slug": "chilled-salmon-cups",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "salmon or tuna",
+      "quantity": "1 can (8 oz/213 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small bell pepper",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "diced cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sesame Ginger Dressing Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "2-3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter lettuce or iceberg lettuce",
+      "quantity": "1 head",
+      "additionalInstruction": "intact leaves separated into lettuce ‘cups’"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "16 servings",
+  "preparation": [
+    "Drain canned fish, then crumble into a large bowl. Add pepper, cucumber, dressing mix, and mayo; toss to mix.",
+    "Spoon onto lettuce leaves to make cups and garnish each with a small spoonful of Red Pepper Jelly or Roasted Garlic Aioli, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 salmon cup",
+    "calories": 35,
+    "fat": 2,
+    "saturatedFat": 0.4,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 20,
+    "carbohydrate": 1,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 3
+  },
+  "tips": [
+    "Fancy it up with canned shrimp or crab."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Chilled-Salmon-Cups-Main.jpg",
+  "thumbnail": "Chilled-Salmon-Cups-Main.webp",
+  "products": []
+}

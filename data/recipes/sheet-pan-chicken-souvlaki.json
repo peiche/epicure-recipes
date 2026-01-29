@@ -1,0 +1,125 @@
+{
+  "name": "Sheet Pan Chicken Souvlaki",
+  "slug": "sheet-pan-chicken-souvlaki",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts, pork, or lamb, cut into strips",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (690 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Souvlaki Seasoning",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pitas",
+      "quantity": "8",
+      "additionalInstruction": "warmed"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 400° F. Line a Sheet Pan with a Sheet Pan Liner.",
+    "Meanwhile, slice chicken into strips.",
+    "Slice pepper into thin strips.",
+    "Place chicken and peppers in a bowl; add seasoning and oil. Using the 2-in-1 Citrus Press squeeze in 2 tbsp juice from lemon. Stir to mix.",
+    "Spread out on prepared pan. Roast until chicken is cooked through and peppers are tender, 15 min.",
+    "Serve in warm pitas with Classic Greek Salad and Dillicious Tzatziki."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 pita",
+    "calories": 290,
+    "fat": 9,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 70,
+    "sodium": 290,
+    "carbohydrate": 21,
+    "fiber": 3,
+    "sugars": 3,
+    "protein": 30
+  },
+  "tips": [
+    "Wrap pita bread in foil; warm in the oven for last 7–10 min of roasting."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup baby spinach or seasonal, mixed veggies, or 2 tbsp prepared Dillicious Tzatziki and 1 serving prepared Classic Greek Salad.",
+  "image": "6263_Sheet_Pan_Chicken_Souvlaki_1036x583.jpg",
+  "thumbnail": "6263_Sheet_Pan_Chicken_Souvlaki_1036x583.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

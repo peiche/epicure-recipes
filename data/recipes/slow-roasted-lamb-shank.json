@@ -1,0 +1,130 @@
+{
+  "name": "Slow Roasted Lamb Shank",
+  "slug": "slow-roasted-lamb-shank",
+  "description": "Thank you, Connie Kibyuk Cribb, for this recipe!",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herbed Garlic Sea Salt Blend or Butcher's Block Sea Salt Blend",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Rosemary Garlic Seasoning or Herb & Garlic Dip Mix",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Nourish Broth",
+      "quantity": "1 cup prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "3 hours",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven 450° F.",
+    "Place shanks in a roasting pan just large enough to fit them in one layer and rub with oil.",
+    "Season generously with salt and pepper.",
+    "Roast for 20 min until nicely browned. Remove from the oven and decrease temperature to 325° F. Sprinkle with seasoning, to taste.",
+    "Wrap pan very tightly with several layers of heavy-duty aluminum foil. Try to get as tight a seal as possible. Return to the oven.",
+    "Roast the lamb for an additional 2 hrs. Resist the temptation to open the foil and check on it until the 2 hrs are up, otherwise, the meat might get tough.",
+    "Remove foil; pour in broth, increase heat up to 400° F. Roast 15 min, remove from oven.",
+    "The shanks are done when they are nicely browned and fork-tender.",
+    "Transfer to a serving platter and spoon over the juices."
+  ],
+  "tags": [
+    {
+      "slug": "community_recipe",
+      "name": "Community Recipe"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "slow_cooker",
+      "name": "Slow Cookers & Roasts"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 10,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 80,
+    "sodium": 720,
+    "carbohydrate": 2,
+    "fiber": 1,
+    "sugars": 0,
+    "protein": 26
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup cooked grains and 2 cups leafy greens with 1 tbsp Epicure Dressing.",
+  "image": "Slow_Roasted_Lamb_Shank_1036x583.jpg",
+  "thumbnail": "Slow_Roasted_Lamb_Shank_1036x583.webp",
+  "products": [
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavors on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    },
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    }
+  ]
+}

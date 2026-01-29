@@ -1,0 +1,156 @@
+{
+  "name": "Cook-off Chili",
+  "slug": "cook-off-chili",
+  "description": "We haven’t officially won any awards for this chili, but we called it cook-off chili for a reason. It’s pretty darn good. If you’re making this ahead of time (aka you’re not in a dinner rush) let it simmer low and slow to let the flavours meld together.",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ground pork",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium red onion",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium black beans",
+      "quantity": "1 can (540 ml/18 oz)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen corn",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium crushed tomatoes",
+      "quantity": "1 can (796 ml/27 oz)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chili Seasoning or  Chipotle Aioli Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Cook beef and pork in Sauté Pan over medium-high heat for 10 min until browned and cooked through. Remove from pan and set aside.",
+    "Meanwhile, dice peppers and onion. Drain and rinse black beans.",
+    "Once the meat has been removed, add peppers, onion, beans, and corn to pan. Cover and cook for 3–4 min, or until veggies start to soften.",
+    "Add meat back to the pan, along with crushed tomatoes and seasoning. Stir to combine. Bring to a simmer and cook, stirring often, about 5 min.",
+    "Serve with toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 340,
+    "fat": 13,
+    "saturatedFat": 4.5,
+    "transFat": 0.3,
+    "cholesterol": 65,
+    "sodium": 310,
+    "carbohydrate": 29,
+    "fiber": 8,
+    "sugars": 7,
+    "protein": 29
+  },
+  "tips": [
+    "This recipe is raw-to-ready in 20 minutes; if you have a little extra time on your hands, cover the pan and let the chili simmer on low for 30–40 min to intensify the flavours!"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with a slice of toasted Cheddar & Jalapeño Cornbread.",
+  "image": "chili_cookoff_1036x583.jpg",
+  "thumbnail": "chili_cookoff_1036x583.webp",
+  "products": [
+    {
+      "slug": "chili_seasoning",
+      "name": "Chili Seasoning (1001136)",
+      "summary": [
+        "Make classic, restaurant-quality chili at home with better-for-you ingredients."
+      ]
+    },
+    {
+      "slug": "chipotle_aioli_mix",
+      "name": "Chipotle Aioli Mix",
+      "summary": [
+        "Medium-spicy Southwestern flavor with noteworthy chipotle chili and smoked paprika. A crowd-pleasing condiment for your burgers, fries, fish tacos, burritos and anything else that needs a little extra kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    }
+  ]
+}

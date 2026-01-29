@@ -1,0 +1,120 @@
+{
+  "name": "Pappardelle Pasta with Creamy Alfredo Sauce",
+  "slug": "pappardelle-pasta-with-creamy-alfredo-sauce",
+  "description": "A velvety smooth Alfredo sauce with a not-so-secret ingredient: cottage cheese! Packed with protein and calcium, cottage cheese is transformed into a luxurious sauce that clings to every strand of pasta. A simple way to pack in the protein, without having to cook any meat.",
+  "ingredients": [
+    {
+      "name": "Pappardelle pasta",
+      "quantity": "1 pkg (225 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% cottage cheese",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% milk",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Alfredo Sauce Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing Mix or Italian Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach or kale",
+      "quantity": "4 cups",
+      "additionalInstruction": "shredded"
+    },
+    {
+      "name": "mushrooms",
+      "quantity": "2 cups",
+      "additionalInstruction": "chopped"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a large pot, cook pasta according to package directions.",
+    "While pasta is cooking, combine cottage cheese and milk in a blender.",
+    "Add Alfredo Sauce Mix and Balsamic Vinaigrette Dressing Mix to blender and blend.",
+    "Drain pasta and set aside. Add blender sauce mix, shredded kale, and chopped mushrooms to empty pasta pot; cook for approximately 2–3 min. Add pasta and heat for 2–3 min. Serve and enjoy!"
+  ],
+  "tags": [
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 410,
+    "fat": 7,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 25,
+    "sodium": 730,
+    "carbohydrate": 59,
+    "fiber": 4,
+    "sugars": 8,
+    "protein": 26
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "paradelle-pasta-with-creamy-alfredo-sauce_1036x583.jpg",
+  "thumbnail": "paradelle-pasta-with-creamy-alfredo-sauce_1036x583.webp",
+  "products": [
+    {
+      "slug": "alfredo_sauce_mix__pkg_of_3_",
+      "name": "Alfredo Sauce Mix (Pack of 3)",
+      "summary": [
+        "Luxurious, creamy sauce for pasta, seafood, fish, and chicken."
+      ]
+    },
+    {
+      "slug": "balsamic_vinaigrette_dressing_mix",
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "summary": [
+        "Fresh, bright &amp; bold blend of Mediterranean herbs with notes of garlic &amp; rosemary. Our most versatile dressing."
+      ]
+    },
+    {
+      "slug": "italian_seasoning",
+      "name": "Italian Seasoning",
+      "summary": [
+        "A robust Italian blend perfect for pizza, bread dough, pasta or flatbreads.&nbsp;"
+      ]
+    }
+  ]
+}

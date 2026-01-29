@@ -1,0 +1,127 @@
+{
+  "name": "Jambalaya",
+  "slug": "jambalaya",
+  "description": "A traditional New Orleans dish, perfect for weekend entertaining. Make it easily at home!",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "cubed"
+    },
+    {
+      "name": "andouille or Italian sausage, or cured ham",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz / 796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Jambalaya Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shrimp",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "45 - 55 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 350° F.",
+    "Heat a large pot over medium-high heat and brown chicken and Italian sausage in oil.",
+    "Stir in rice, tomatoes, seasoning, and water. Bring to a boil, stir, cover, and bake in the oven for 35–40 min.",
+    "Top with shrimp during last 5 min of cooking, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 270,
+    "fat": 11,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 70,
+    "sodium": 560,
+    "carbohydrate": 34,
+    "fiber": 2,
+    "sugars": 4,
+    "protein": 24
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup dark leafy greens or steamed veggies and 1&frasl;2 tbsp Epicure Salad Dressing",
+  "image": "Jambalaya-Main.jpg",
+  "thumbnail": "Jambalaya-Main.webp",
+  "products": []
+}

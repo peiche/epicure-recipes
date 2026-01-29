@@ -1,0 +1,114 @@
+{
+  "name": "Lemon Arugula Linguini with Sauce",
+  "slug": "lemon-arugula-linguini-with-sauce",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "linguini or gluten free pasta",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "El Greco Finishing Sauce",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": "or sauce of your choice"
+    },
+    {
+      "name": "cherry tomates",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "juice and rind of 1 lemon",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh arugula",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "freshly grated Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 - 6 servings",
+  "preparation": [
+    "In a Multipurpose Pot, cook pasta according to package directions. Drain, reserving some of the pasta water.",
+    "Toss pasta with the prepared finishing sauce, lemon juice, rind, and arugula. Add a little pasta water to moisten if required.",
+    "Sprinkle with Parmesan, season, and serve."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 230,
+    "fat": 8,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 90,
+    "carbohydrate": 33,
+    "fiber": 2,
+    "sugars": 4,
+    "protein": 8
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Lemon-Arugula-Linguini-with-El-Greco-Sauce-Main.jpg",
+  "thumbnail": "Lemon-Arugula-Linguini-with-El-Greco-Sauce-Main.webp",
+  "products": []
+}

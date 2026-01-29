@@ -1,0 +1,149 @@
+{
+  "name": "Easy Souvlaki",
+  "slug": "easy-souvlaki",
+  "description": "This is Greek fast food at its best! Use the Multipurpose Steamer to mix and microwave the chicken. Food cooks faster, stays juicer and there’s minimal mess to clean up!",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken or pork tenderloin",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chicken Souvlaki Seasoning or Donair Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% plain Greek yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pitas",
+      "quantity": "4",
+      "additionalInstruction": "warmed"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Thinly slice chicken and peppers. Place in a Multipurpose Steamer; stir in seasoning. Cover and microwave on high for 3−5 min.",
+    "Meanwhile, grate cucumber; wrap in kitchen towel and squeeze out excess liquid.",
+    "In a bowl, stir together cucumber, yogurt, and dip mix.",
+    "Spread sauce over warm pitas and top with chicken mixture."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 260,
+    "fat": 4.5,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 320,
+    "carbohydrate": 24,
+    "fiber": 4,
+    "sugars": 5,
+    "protein": 32
+  },
+  "tips": [
+    "Make it vegetarian by swapping meat for 4 cups beans or lentils."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 serving preapared Classic Greek Salad.",
+  "image": "5077_Easy_Souvlaki_1036x583.jpg",
+  "thumbnail": "5077_Easy_Souvlaki_1036x583.webp",
+  "products": [
+    {
+      "slug": "chicken_souvlaki_seasoning__pkg_of_3_",
+      "name": "Chicken Souvlaki Seasoning (Pkg of 3)",
+      "summary": [
+        "A Greek-inspired meal, souvlaki is marinated meat grilled on a skewer, often served with warm pita bread and tzatziki. No grill? No problem. Skip the skewers and put your Sheet Pan to work to make equally tasty Chicken Souvlaki in 20 minutes in the oven.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "donair_seasoning__pkg_of_3_",
+      "name": "Donair Seasoning (Pack of 3)",
+      "summary": [
+        "Any way you name it – <em>gyro, shawarma, donair, or doner kebab </em>– our Donair Seasoning is what you’re looking for. You won’t believe how easy it is to make the street food staple at home in minutes with this blend and a few simple ingredients. Just add the seasoning to ground beef, press it into a <a href=\"https://epicure.com/product/rectangular-steamer\">Rectangular Steamer</a> and cook it in the microwave for 10 minutes or the oven for 60. Slice thinly and serve on a pita with fresh veggies and tzatziki – dinner is done!&nbsp;"
+      ]
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

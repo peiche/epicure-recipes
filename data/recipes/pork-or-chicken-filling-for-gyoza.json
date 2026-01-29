@@ -1,0 +1,185 @@
+{
+  "name": "Pork or Chicken Filling for Gyoza",
+  "slug": "pork-or-chicken-filling-for-gyoza",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium carrot",
+      "quantity": "1",
+      "additionalInstruction": "grated"
+    },
+    {
+      "name": "garlic cloves",
+      "quantity": "2",
+      "additionalInstruction": "crushed"
+    },
+    {
+      "name": "shredded Chinese cabbage or Bok Choy",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Asian Stir-fry Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green onions",
+      "quantity": "4",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "ground pork or ground chicken",
+      "quantity": "8 oz (225 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg white",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sweet and Spicy Asian Dipping Sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Asian Stir-Fry Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Red Pepper Jelly",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sesame oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "soy sauce",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "or gluten free soy sauce"
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice vinegar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed chilies",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "Fills approximately 36 Gyoza for 4 servings",
+  "preparation": [
+    "Heat vegetable oil in a Wok or a frying pan over medium-high heat. Add carrot, garlic, cabbage, Thai or Asian Stir-fry Seasoning and half the onions. Stir-fry for 5 minutes, tossing frequently.",
+    "In a mixing bowl, combine raw meat with remaining onions, egg white, dipping sauce and stir-fried vegetables.",
+    "Use to fill Epicure Gyoza - Steamed Dumplings or Potstickers"
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 180,
+    "fat": 12,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 45,
+    "sodium": 80,
+    "carbohydrate": 4,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 13
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Pork-or-Chicken-Filling-for-Gyoza-Main.jpg",
+  "thumbnail": "Pork-or-Chicken-Filling-for-Gyoza-Main.webp",
+  "products": [
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice and noodle dish."
+      ]
+    },
+    {
+      "slug": "red_pepper_jelly",
+      "name": "Red Pepper Jelly (new)",
+      "summary": [
+        "A sweet red pepper flavor with a mild heat from cayenne.&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

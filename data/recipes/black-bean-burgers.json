@@ -1,0 +1,117 @@
+{
+  "name": "Black Bean Burgers",
+  "slug": "black-bean-burgers",
+  "description": "A grillable vegetarian delight!",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "quantity": "2 cans (19 oz/450 ml)",
+      "additionalInstruction": "drained and rinsed, divided"
+    },
+    {
+      "name": "whole-wheat breadcrumbs",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Burger Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh cilantro, parsley or 2 green onions",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "chopped – optional"
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Blend half the beans with breadcrumbs, mayonnaise, Poco Picante Salsa Mix and Burger Seasoning in a food processor until mixed but still chunky. Turn into a bowl and stir in remaining beans and cilantro.",
+    "Wet hands to prevent sticking and form mixture into 6 patties.",
+    "Coat a large frying pan with oil and set over medium-high heat. When hot, reduce heat to medium and add patties.",
+    "Cook for 5 minutes, then carefully and gently flip and continue cooking for about 5 more minutes, until warmed through."
+  ],
+  "tags": [
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 150,
+    "fat": 4.5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 590,
+    "carbohydrate": 26,
+    "fiber": 8,
+    "sugars": 2,
+    "protein": 7
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Black-Bean-Burgers-Main.jpg",
+  "thumbnail": "Black-Bean-Burgers-Main.webp",
+  "products": [
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "Vibrant flavors of cayenne, chillies, and garlic come together to create a mouth-watering salsa mix with a bit of a kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "burger_seasoning_5d205ac",
+      "name": "Burger Seasoning",
+      "summary": [
+        "A classic blend that pairs well with any type of protein."
+      ]
+    }
+  ]
+}

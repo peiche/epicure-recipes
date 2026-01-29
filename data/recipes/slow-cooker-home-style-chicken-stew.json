@@ -1,0 +1,127 @@
+{
+  "name": "Slow Cooker Home-Style Chicken Stew",
+  "slug": "slow-cooker-home-style-chicken-stew",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts or thighs",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "celery stalks",
+      "quantity": "3",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium carrots",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium potatoes",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Home-Style Chicken Stew Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen peas",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "3 hrs & 20 min (3 hrs slow cook time)",
+  "servings": "8 servings",
+  "preparation": [
+    "In a large pan, heat oil over medium-high heat. Meanwhile, cut chicken into bite-sized pieces. Add to pan. Stir-fry until golden on some sides. Transfer to a 6-quart slow cooker.",
+    "Dice celery and carrots. You should have about 1 cup each. Cube potatoes. You should have about 2 cups. Add celery, carrots, potatoes, water, and seasoning to slow cooker.",
+    "Cover and cook on high 3 hours. Veggies should be tender, and chicken cooked through.",
+    "Stir in frozen peas. Cover to let peas warm through, about 1 min."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "slow_cooker",
+      "name": "Slow Cookers & Roasts"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "about 1 cup",
+    "calories": 170,
+    "fat": 4.5,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 35,
+    "sodium": 240,
+    "carbohydrate": 17,
+    "fiber": 3,
+    "sugars": 3,
+    "protein": 16
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Enjoy 2 cups stew and serve with 1 1&frasl;2 cups veggies.",
+  "image": "1591028478876-recipeMainImagePath.jpg.tn.jpg",
+  "thumbnail": "1591028478876-recipeMainImagePath.webp",
+  "products": []
+}

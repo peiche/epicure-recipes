@@ -1,0 +1,120 @@
+{
+  "name": "Bagel Bennies",
+  "slug": "bagel-bennies",
+  "description": "The kind of breakfast sandwich you eat with a knife and fork. These are one-egg bennies—for a hungrier crowd, use two. The foolproof sauce can be made in the microwave or stovetop. It makes about 1 1&frasl;2 cups of sauce.",
+  "ingredients": [
+    {
+      "name": "water",
+      "quantity": "4 cups",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "eggs",
+      "quantity": "6",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Hollandaise Sauce Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomatoes",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small bagels",
+      "quantity": "6",
+      "additionalInstruction": "split & toasted"
+    },
+    {
+      "name": "of low-sodium turkey or ham",
+      "quantity": "6 slices (1 oz/28 g each)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Fill six Prep Bowls with 1&frasl;2 cup cold water each. Crack one egg into each bowl. Partially cover each bowl with lid. If your microwave is equipped with a turntable, place bowls on the edge of the turntable; avoid crowding the middle for even cooking. Microwave until yolk is set to your liking, about 3 min for a medium poach or jammy yolk. Carefully remove bowls from microwave. Using a spoon, place eggs on a plate lined with paper towel or kitchen towel.",
+    "In a 4-Cup Prep Bowl, melt butter, uncovered, on high, 40–60 sec. Whisk in sauce mix and 1 cup water until well combined. Microwave, uncovered, on high for 2 1&frasl;2 min, stirring halfway through.",
+    "To serve, thickly slice tomatoes. Place bagels on plates. Divide tomatoes, turkey, and spinach on bottom halves of bagels. Place one egg on each bagel half. Drizzle at least 2 tbsp sauce over top. Sprinkle with pinches dip mix, if desired, and cover with top halves of bagels."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "with 2 tbsp sauce",
+    "calories": 340,
+    "fat": 15,
+    "saturatedFat": 7,
+    "transFat": 0.2,
+    "cholesterol": 285,
+    "sodium": 720,
+    "carbohydrate": 34,
+    "fiber": 3,
+    "sugars": 6,
+    "protein": 20
+  },
+  "tips": [
+    "Feeding a crowd? Poach eggs using the Muffin Maker. It’s hands off, the eggs are ready at the same time, and it frees up the stovetop. Preheat oven to 350° F. Place two Muffin Maker trays on two separate Sheet Pans. Fill each well with about 1 tbsp water; crack 1 egg into each well. Bake, rotating halfway through, until whites are set and yolks are still a little jiggly, about 20 min. Remove from oven and let stand 1–2 min to finish setting. Using a spoon, gently loosen eggs and remove from wells, tilting to drain excess water.",
+    "Have extra time? Have some fun with DIY bagels and make Perfectly Portioned Bagels topped with Everything Bagel Topper.",
+    "This breakfast is a bit higher in sodium, something to be mindful about as you plan the rest of your meals for the day."
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "bagel_bennies_1036x583.jpg",
+  "thumbnail": "bagel_bennies_1036x583.webp",
+  "products": [
+    {
+      "slug": "hollandaise_sauce_mix__3pk_",
+      "name": "Hollandaise Sauce Mix (3pk)",
+      "summary": [
+        "A healthier &amp; lighter alternative to hollandaise sauce—skip the mess &amp; complicated steps with this no-fail recipe.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n4_cup_prep_bowl_a951863",
+      "name": "4-Cup Prep Bowl",
+      "summary": [
+        "Meal prep like a pro with this multipurpose, glass bowl &amp; silicone lid.&nbsp;"
+      ]
+    },
+    {
+      "slug": "prep_bowls__set_of_4__f30391c",
+      "name": "Prep Bowls (Set of 4)",
+      "summary": [
+        "Prep, serve, &amp; store—a kitchen essential!"
+      ]
+    }
+  ]
+}

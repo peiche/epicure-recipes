@@ -1,0 +1,193 @@
+{
+  "name": "Open-faced Hot Turkey Sandwiches",
+  "slug": "open-faced-hot-turkey-sandwiches",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "whole-wheat bread",
+      "quantity": "4 slices",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cranberry sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sage & Apple Stuffing",
+      "quantity": "1 cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "celery stalks",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small apple",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cubed day-old bread",
+      "quantity": "6 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sage & Apple Stuffing Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth or Vegetable Broth",
+      "quantity": "1 cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Savoury Herb Gravy",
+      "quantity": "1 cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Savory Herb Gravy Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cold water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "portions leftover turkey",
+      "quantity": "4 - (3 oz/90 g)",
+      "additionalInstruction": "reheated"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place one slice of bread on each plate.",
+    "Top with 1 tbsp cranberry sauce, 1&frasl;4 cup Sage & Apple Stuffing, 3 oz (90 g) turkey, and 1&frasl;4 cup Gravy.",
+    "Serve."
+  ],
+  "tags": [
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 310,
+    "fat": 2.5,
+    "saturatedFat": 0.5,
+    "transFat": 0.2,
+    "cholesterol": 75,
+    "sodium": 390,
+    "carbohydrate": 37,
+    "fiber": 4,
+    "sugars": 14,
+    "protein": 33
+  },
+  "tips": [
+    "Using whole-grain bread is a great way to increase fibre intake - important for heart health and weight maintenance."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with a side salad and prepared Epicure’s Dressing.",
+  "image": "Open-faced-Hot-Turkey-Sandwiches-Main.jpg",
+  "thumbnail": "Open-faced-Hot-Turkey-Sandwiches-Main.webp",
+  "products": [
+    {
+      "slug": "sage___apple_stuffing_seasoning_32d0fa0",
+      "name": "Sage & Apple Stuffing Seasoning",
+      "summary": [
+        "Prepare to wow your guests with this simple yet show-stopping Sage &amp; Apple Stuffing. It’s a holiday must-have!&nbsp;"
+      ]
+    },
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "savory_herb_gravy_mix__1701172_",
+      "name": "Savoury Herb Gravy Mix",
+      "summary": [
+        "This better-for-you gravy mix is sure to be a hit at Thanksgiving dinner! A vegan, low-sodium blend that’s still packed with flavor. &nbsp;"
+      ]
+    }
+  ]
+}

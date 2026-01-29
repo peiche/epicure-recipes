@@ -1,0 +1,143 @@
+{
+  "name": "Spanakorizo Rice",
+  "slug": "spanakorizo-rice",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Nourish Broth or Vegetable Broth",
+      "quantity": "3 cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Spinach Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "long-grain rice",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen spinach",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "juice of 1 lemon",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "El Greco Sauce",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": "or sauce of your choice"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 - 6 servings",
+  "preparation": [
+    "Place Broth, rice and Spinach Dip Mix in a Multipurpose Pot. Bring to a boil. Reduce heat to low and simmer, covered, for 15–20 minutes, until all the liquid is absorbed.",
+    "Transfer to a serving bowl. Fold in spinach and lemon juice. Serve with a dollop of sauce. Season to taste."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 130,
+    "fat": 6,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 170,
+    "carbohydrate": 18,
+    "fiber": 3,
+    "sugars": 1,
+    "protein": 5
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Spanakorizo-Rice-Main.jpg",
+  "thumbnail": "Spanakorizo-Rice-Main.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavour as making it from scratch—just add water!"
+      ]
+    },
+    {
+      "slug": "spinach_dip_mix_6ea8908",
+      "name": "Spinach Dip Mix",
+      "summary": [
+        "Punchy blend with onion &amp; sweet bell pepper."
+      ]
+    }
+  ]
+}

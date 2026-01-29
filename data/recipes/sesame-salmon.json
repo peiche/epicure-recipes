@@ -1,0 +1,166 @@
+{
+  "name": "Sesame Salmon",
+  "slug": "sesame-salmon",
+  "description": "Salmon is a super source of heart-healthy omega-3 fats and Vitamin D.",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced mushrooms",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "asparagus",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "trimmed"
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Asian Stir-Fry Seasoning",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hoisin sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sesame oil",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice vinegar",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "about 1” thick",
+      "quantity": "4-4 oz (113 g) salmon fillets",
+      "additionalInstruction": null
+    },
+    {
+      "name": "toasted sesame seeds",
+      "quantity": "1-2 tbsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "15 - 17 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 425° F. Line Sheet Pan with Sheet Pan Liner.",
+    "In Sauté Pan, heat oil over medium-high heat. Add mushrooms and asparagus; cook 3-4 min.",
+    "Meanwhile, in a bowl, whisk together dip mix, seasoning, water, soy sauce, hoisin sauce, sesame oil, and vinegar. Once veggies have softened, add sauce to pan, reduce heat and simmer 30 sec.",
+    "Place salmon and veggies on pan in a single layer.  Spoon leftover sauce in Sauté Pan over salmon. Bake 10 min, or until salmon is cooked through.",
+    "Sprinkle with sesame seeds, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 13,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 70,
+    "sodium": 270,
+    "carbohydrate": 10,
+    "fiber": 3,
+    "sugars": 4,
+    "protein": 30
+  },
+  "tips": [
+    "Try using chicken instead of salmon."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup rice.",
+  "image": "Sesame-Salmon_1036x583.jpg",
+  "thumbnail": "Sesame-Salmon_1036x583.webp",
+  "products": [
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice and noodle dish."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    }
+  ]
+}

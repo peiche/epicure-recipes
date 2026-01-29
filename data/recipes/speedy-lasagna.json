@@ -1,0 +1,144 @@
+{
+  "name": "Speedy Lasagna ",
+  "slug": "speedy-lasagna",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Speedy Lasagna Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (14 oz/398 ml) ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ricotta, about 2 cups",
+      "quantity": "1 pkg (500 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oven-ready lasagna noodles",
+      "quantity": "9 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded mozzarella",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In bowl, stir seasoning with crushed tomatoes and water to make sauce",
+    "In separate large bowl, whisk eggs. Stir in ricotta and baby spinach.",
+    "To assemble, spread 1&frasl;2 cup tomato sauce on bottom of Multipurpose Steamer. Top with three noodles, breaking to fit, if necessary.",
+    "Add half the spinach mixture and 1&frasl;2 cup sauce. Add another layer of three noodles, and remaining spinach mixture.",
+    "Top with last three noodles and remaining sauce.",
+    "Cover; microwave on high for 15 min. Uncover and sprinkle with cheese. If desired, cover and let rest for 3–5 min so lasagna can set before cutting and serving."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 380,
+    "fat": 18,
+    "saturatedFat": 10,
+    "transFat": 0,
+    "cholesterol": 120,
+    "sodium": 290,
+    "carbohydrate": 33,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 22
+  },
+  "tips": [
+    "Make it your way! Use gluten-free or classic noodles. Add cooked ground meat or shredded chicken.",
+    "Can’t find ricotta? Swap in 2 cups cottage cheese."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy green salad with 2 tsp Epicure dressing.",
+  "image": "6695_Speedy-Lasagna_1036x583.jpg",
+  "thumbnail": "6695_Speedy-Lasagna_1036x583.webp",
+  "products": [
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

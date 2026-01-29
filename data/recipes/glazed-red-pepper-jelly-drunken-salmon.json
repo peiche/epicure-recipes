@@ -1,0 +1,125 @@
+{
+  "name": "Glazed Red Pepper Jelly Drunken Salmon",
+  "slug": "glazed-red-pepper-jelly-drunken-salmon",
+  "description": "What a sweet and sassy dish! Shines as a dinner for 4-6, or cut into 16 savoury bites for a tapas buffet.",
+  "ingredients": [
+    {
+      "name": "Red Pepper Jelly",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bourbon, whiskey, or rum",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "melted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime or lemon juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "skinless salmon fillets (or 1 whole fillet)",
+      "quantity": "4 - 6 (8 oz/227 g)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "45 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "In a small bowl, combine all marinade ingredients, and spread over salmon. Marinate 10 minutes.",
+    "Place salmon in a heat-proof serving dish.",
+    "Cover and bake 15–20 minutes, depending on the thickness of the salmon, basting once or twice.",
+    "Cut each fillet into bite-size pieces and arrange on a platter."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 260,
+    "fat": 15,
+    "saturatedFat": 6,
+    "transFat": 0.2,
+    "cholesterol": 80,
+    "sodium": 50,
+    "carbohydrate": 5,
+    "fiber": 0,
+    "sugars": 5,
+    "protein": 22
+  },
+  "tips": [
+    "Serve with extra wedges of lime or lemon and extra Red Pepper Jelly on the side.",
+    "Save time on clean-up; make, bake, and serve in Epicure Baker."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Glazed-Red-Pepper-Jelly-Drunken-Salmon-Main.jpg",
+  "thumbnail": "Glazed-Red-Pepper-Jelly-Drunken-Salmon-Main.webp",
+  "products": [
+    {
+      "slug": "red_pepper_jelly",
+      "name": "Red Pepper Jelly (new)",
+      "summary": [
+        "A sweet red pepper flavour with a mild heat from cayenne.&nbsp;"
+      ]
+    }
+  ]
+}

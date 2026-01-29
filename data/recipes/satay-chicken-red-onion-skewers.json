@@ -1,0 +1,110 @@
+{
+  "name": "Satay Chicken & Red Onion Skewers",
+  "slug": "satay-chicken-red-onion-skewers",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "cubed boneless, skinless chicken breasts",
+      "quantity": "8 oz (227 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Asian Stir-Fry Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red onion",
+      "quantity": "1",
+      "additionalInstruction": "cut into small chunks"
+    },
+    {
+      "name": "Satay Sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "prepared"
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Coat chicken with oil and seasoning.",
+    "Skewer chicken and onions.",
+    "Nestle skewers into slots of a skewer maker; stack layers. If making ahead, cover with lid and refrigerate overnight.",
+    "Microwave on high until cooked through, about 3–4 min, depending on thickness of ingredients. Serve with sauce for dipping."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 170,
+    "fat": 13,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 200,
+    "carbohydrate": 7,
+    "fiber": 1,
+    "sugars": 3,
+    "protein": 10
+  },
+  "tips": [
+    "Use up any leftovers as a pizza or salad topper."
+  ],
+  "perfectlyBalanceYourPlate": "Enjoy 2 skewers each. Wrap them up in 1 tortilla, 1&frasl;2 cup cooked rice, 1 cup dark leafy greens and 2 Tbsp of Guacamole for a complete meal.",
+  "image": "1599751873750-recipeMainImagePath.jpg",
+  "thumbnail": "1599751873750-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice and noodle dish."
+      ]
+    }
+  ]
+}

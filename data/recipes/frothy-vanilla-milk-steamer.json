@@ -1,0 +1,58 @@
+{
+  "name": "Frothy Vanilla Milk Steamer",
+  "slug": "frothy-vanilla-milk-steamer",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "milk (2%, skim or whole)",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sweetened whipped cream",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 - 20 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Combine milk, sugar and vanilla extract in Multipurpose Pot - 8 cup. Bring to a simmer over medium-high heat. Do not boil.",
+    "Froth hot milk in a milk frother in 2 batches.",
+    "Pour into heated mugs and top with whipped cream."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 180,
+    "fat": 8,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 35,
+    "sodium": 115,
+    "carbohydrate": 19,
+    "fiber": 0,
+    "sugars": 19,
+    "protein": 9
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Frothy-Vanilla-Milk-Steamer-Main.jpg",
+  "thumbnail": "Frothy-Vanilla-Milk-Steamer-Main.webp",
+  "products": []
+}

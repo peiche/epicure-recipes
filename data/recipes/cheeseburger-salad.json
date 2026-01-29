@@ -1,0 +1,82 @@
+{
+  "name": "Cheeseburger Salad",
+  "slug": "cheeseburger-salad",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Classic Meatloaf Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "iceberg lettuce",
+      "quantity": "1 head",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomatoes",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dill pickle",
+      "quantity": "1",
+      "additionalInstruction": "reduced sodium"
+    },
+    {
+      "name": "small red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "your choice"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Heat oil in a large fry pan over medium-high heat.",
+    "Add beef. Reduce heat to medium; cook, breaking into chunks, until beef is browned, about 4 min. Stir in seasoning and water. Stir often, until most of the water has been absorbed, 2 min.",
+    "Meanwhile, cut lettuce into quarters. Discard stem and chop leaves. Chop tomatoes. Dice pickle. Slice onion into rings.",
+    "Divide lettuce among four plates. Top evenly with meat, tomatoes, onion, pickle, and cheese."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 330,
+    "fat": 18,
+    "saturatedFat": 8,
+    "transFat": 0.4,
+    "cholesterol": 75,
+    "sodium": 440,
+    "carbohydrate": 15,
+    "fiber": 4,
+    "sugars": 7,
+    "protein": 29
+  },
+  "tips": [
+    "Slash prep time and purchase pre-chopped romaine lettuce.",
+    "Make it vegetarian—swap ground meat with lentils or veggie ground round."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 small bun.",
+  "image": "Cheeseburger-Salad_1036x583.jpg",
+  "thumbnail": "Cheeseburger-Salad_1036x583.webp",
+  "products": []
+}

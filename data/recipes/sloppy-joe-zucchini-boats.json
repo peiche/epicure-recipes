@@ -1,0 +1,137 @@
+{
+  "name": "Sloppy Joe Zucchini Boats",
+  "slug": "sloppy-joe-zucchini-boats",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "medium zucchinis",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lentils",
+      "quantity": "1 can (19 oz/540 ml) ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chili Seasoning or Fajita Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomato paste",
+      "quantity": "1 can (5.5. oz/156 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "avocado",
+      "quantity": "1",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 400° F.",
+    "Slice each zucchini in half, lengthwise. Using the tip of a spoon, gently scrape out centres of zucchini halves, leaving 1&frasl;4” thick shell on each half. Chop zucchini centres; set aside.",
+    "Place zucchini shells in Multipurpose Steamer (they will be stacked). Cover; microwave on high 4 min, or just until tender. Tuck zucchini halves in bottom of a large baking dish; it’s OK if they touch.",
+    "Drain and rinse lentils. In Multipurpose Steamer (don’t wash), combine lentils, chopped zucchini centres, seasoning, water, and tomato paste. Cover; microwave on high 3–5 min, until warmed through.",
+    "Generously fill zucchini hollows with mixture; press in to pack down as best you can. Sprinkle cheese on top.",
+    "Loosely cover dish with foil; roast until cheese melts, about 5–6 min.",
+    "Meanwhile, dice avocado. Top prepared boats with avocados and additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 boats",
+    "calories": 390,
+    "fat": 14,
+    "saturatedFat": 4,
+    "transFat": 0.1,
+    "cholesterol": 15,
+    "sodium": 540,
+    "carbohydrate": 52,
+    "fiber": 21,
+    "sugars": 6,
+    "protein": 22
+  },
+  "tips": [
+    "There’s lots of filling to fill these zucchini boats—depending on the size of your zucchini, your filling might overflow out of the hollowed out centre and that’s OK! Pile on the goodness!"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup rice or corn.",
+  "image": "6897_Zucchini_Boats_1036x583.jpg",
+  "thumbnail": "6897_Zucchini_Boats_1036x583.webp",
+  "products": [
+    {
+      "slug": "chili_seasoning",
+      "name": "Chili Seasoning (1001136)",
+      "summary": [
+        "Make classic, restaurant-quality chili at home with better-for-you ingredients."
+      ]
+    },
+    {
+      "slug": "fajita_seasoning_ceb100c",
+      "name": "Fajita Seasoning",
+      "summary": [
+        "A lively, mild blend for seasoning beef, chicken, or fish fajitas &amp; enchiladas."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

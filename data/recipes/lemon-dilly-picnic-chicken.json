@@ -1,0 +1,79 @@
+{
+  "name": "Lemon Dilly Picnic Chicken",
+  "slug": "lemon-dilly-picnic-chicken",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Lemon Dilly Dip",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "panko or fine dry breadcrumbs",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "chicken pieces, such as drumsticks and bone-in thighs",
+      "quantity": "15",
+      "additionalInstruction": "skinless"
+    }
+  ],
+  "totalTime": "55 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 400° F (200° C). Spoon prepared Lemon Dilly Dip into a bowl.",
+    "In a plastic bag, mix panko with Lemon Dilly Dip Mix, Sea Salt and Pepper.",
+    "Working with one piece of chicken at a time, coat with dip, then add to bag. Shake to evenly coat. Place on a rack on a parchment-lined Sheet Pan. Repeat with remaining chicken.",
+    "Roast in oven until coating is golden and crispy and chicken is cooked through, about 40–50 minutes. Great warm, or refrigerate and serve cold as “classic” picnic chicken the next day."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 300,
+    "fat": 12,
+    "saturatedFat": 3,
+    "transFat": 0.2,
+    "cholesterol": 105,
+    "sodium": 360,
+    "carbohydrate": 17,
+    "fiber": 1,
+    "sugars": 2,
+    "protein": 29
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Lemon-Dilly-Picnic-Chicken-Main.jpg",
+  "thumbnail": "Lemon-Dilly-Picnic-Chicken-Main.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

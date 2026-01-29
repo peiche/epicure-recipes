@@ -1,0 +1,130 @@
+{
+  "name": "Easy Chef's Salad",
+  "slug": "easy-chef-s-salad",
+  "description": "Perfect for a picnic or a barbecue!",
+  "ingredients": [
+    {
+      "name": "chopped iceberg lettuce",
+      "quantity": "6 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ham",
+      "quantity": "6 slices",
+      "additionalInstruction": "cut in strips"
+    },
+    {
+      "name": "eggs",
+      "quantity": "4",
+      "additionalInstruction": "hardboiled, cut in wedges"
+    },
+    {
+      "name": "tomatoes",
+      "quantity": "3",
+      "additionalInstruction": "cut in wedges"
+    },
+    {
+      "name": "cheddar cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": "cubed or shredded"
+    },
+    {
+      "name": "Caesar Dressing",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": "or your choice"
+    },
+    {
+      "name": "Caesar Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise or Greek yogurt",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk, your choice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed garlic cloves",
+      "quantity": "2",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Divide lettuce between salad plates.",
+    "Top each salad with ham, egg wedge and tomatoes.",
+    "Divide cheddar cheese over each salad. Drizzle with Salad Dressing."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 330,
+    "fat": 21,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 235,
+    "sodium": 790,
+    "carbohydrate": 17,
+    "fiber": 3,
+    "sugars": 10,
+    "protein": 20
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Easy-Chef-s-Salad-Main.jpg",
+  "thumbnail": "Easy-Chef-s-Salad-Main.webp",
+  "products": []
+}

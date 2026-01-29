@@ -1,0 +1,87 @@
+{
+  "name": "Don’t Be a Grinch Smoothie",
+  "slug": "don-t-be-a-grinch-smoothie",
+  "description": "Irresistible perfectly balanced smoothie—just blend and go!",
+  "ingredients": [
+    {
+      "name": "baby spinach",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "molasses, your choice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced frozen bananas",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "almond milk",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Power Up Vanilla Protein Blend",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 serving",
+  "preparation": [
+    "In a blender, combine all ingredients. If you like it thicker, add ice cubes; for a thinner consistency, add water. Blend until smooth and pour into a tall glass or Shaker."
+  ],
+  "tags": [
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 340,
+    "fat": 5,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 280,
+    "carbohydrate": 57,
+    "fiber": 8,
+    "sugars": 33,
+    "protein": 22
+  },
+  "tips": [
+    "Always have frozen bananas handy and ready to go. When they start to brown, peel and slice bananas, then toss in your freezer and enjoy in your smoothies."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Don-t-Be-a-Grinch-Smoothie-Main.jpg",
+  "thumbnail": "Don-t-Be-a-Grinch-Smoothie-Main.webp",
+  "products": [
+    {
+      "slug": "cinnamon__ground___1701145_",
+      "name": "Cinnamon (Ground)",
+      "summary": [
+        "A simple blend of organic cinnamon that brings the flavour. Great for baking, desserts, egg nog, or enhancing the taste of Middle Eastern and Indian dishes.&nbsp;"
+      ]
+    },
+    {
+      "slug": "power_up_vanilla_protein_blend__pouch_",
+      "name": "Power Up Vanilla Protein Blend (Pouch)",
+      "summary": [
+        "Fuel up first thing and stay fuller longer with rich smooth-tasting vanilla blend. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    }
+  ]
+}

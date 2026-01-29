@@ -1,0 +1,107 @@
+{
+  "name": "Garlicky Spinach & Feta Egg Bites",
+  "slug": "garlicky-spinach-feta-egg-bites",
+  "description": "Start your day with some herby, garlicky deliciousness! These 4-ingredient bites are made in the microwave for easy mornings, and are part of a light yet filling breakfast that will have you feeling great all morning. Or, add a couple egg bites to salads to get an extra boost of protein at lunchtime. Egg whites provide the protein you want from eggs but are lower in calories, fat, and cholesterol.",
+  "ingredients": [
+    {
+      "name": "baby spinach",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "feta cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "crumbled"
+    },
+    {
+      "name": "Herb & Garlic Dip Mix or Roasted Garlic Aioli Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg whites",
+      "quantity": "1 carton (500 ml/20 oz)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Chop spinach. Divide spinach and feta between Muffin Maker cavities. Sprinkle 1&frasl;4 tsp dip mix into each well.",
+    "Divide egg whites between cavities. Gently press the spinach down.",
+    "Microwave one Muffin Maker at a time on high for 3–4 min, or until eggs are set.",
+    "Rest 3 min, then pop out egg bites. If making ahead, refrigerate for up to 5 days, or freeze up to 1 month."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 egg bites",
+    "calories": 70,
+    "fat": 1.5,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 240,
+    "carbohydrate": 3,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 10
+  },
+  "tips": [
+    "If storing in the freezer, reheat by first defrosting in the fridge overnight, and then microwaving for 20 sec on high until warmed through. Or, place in a toaster oven and bake at 350° F for 10 min."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup berries and 2 slices of whole grain toast with 2 tsp nut butter.",
+  "image": "Garlicky-Spinach-Feta-Egg--Bites_1036x583.jpg",
+  "thumbnail": "Garlicky-Spinach-Feta-Egg--Bites_1036x583.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, onion &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "roasted_garlic_aioli_mix",
+      "name": "Roasted Garlic Aioli Mix",
+      "summary": [
+        "A creamy roasted garlic condiment for your burger, sandwich or use as a dip for fries or veg.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "muffin_maker__2pk_",
+      "name": "Muffin Maker (Set of 2)",
+      "summary": [
+        "Make perfect portions of your favorite sweet or savory cupcakes, muffins, frittatas, meatloaves, &amp; more!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "name": "Spinach & Artichoke Pull-Apart Bread ",
+  "slug": "spinach-artichoke-pull-apart-bread",
+  "description": "Heading into the holiday season, it’s time to indulge in a little foodie fun. This isn’t your everyday appy; it’s a cozy and gooey party starter that screams, “Let’s have a good time!” Prep the dip ahead and store in the fridge or freezer; when it’s time to entertain, this’ll be a breeze to put together.",
+  "ingredients": [
+    {
+      "name": "artichoke hearts",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "Spinach & Artichoke Hot Dip Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cream cheese",
+      "quantity": "1 brick (8 oz/250 g)",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bread",
+      "quantity": "1 loaf (1 lb/450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "melted, divided"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Preheat oven to 400° F. Line Sheet Pan with Sheet Pan Liner.",
+    "Finely chop artichoke hearts. In a bowl, combine chopped artichoke hearts, hot dip mix, cream cheese, and mayonnaise.",
+    "Cut bread into a grid pattern without cutting all the way through the loaf; leave about an inch uncut at the bottom.",
+    "Pry apart bread squares; brush 3 tbsp butter into the crevices and on top of bread. Spoon dip into the crevices so they are very full. Drizzle or brush remaining 1 tbsp butter on top of loaf.",
+    "Bake 15–20 min, until golden. Sprinkle on parsley, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "easter",
+      "name": "Easter"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 350,
+    "fat": 25,
+    "saturatedFat": 9,
+    "transFat": 0.2,
+    "cholesterol": 40,
+    "sodium": 490,
+    "carbohydrate": 25,
+    "fiber": 3,
+    "sugars": 3,
+    "protein": 7
+  },
+  "tips": [
+    "Swap in 2–3 tbsp of your favourite Epicure Dip Mixes, such as 3 Onion Dip Mix or Guacamole Dip Mix, for Spinach & Artichoke Hot Dip Mix."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "spinach_artichoke_pull_apart_bread_1036x583.jpg",
+  "thumbnail": "spinach_artichoke_pull_apart_bread_1036x583.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "guacamole_dip_mix_dc7efdb",
+      "name": "Guacamole Dip Mix",
+      "summary": [
+        "An all-natural blend of sweet peppers, garlic, and chilies comes together to create the perfect guacamole––minus the sodium and additives! &nbsp;"
+      ]
+    }
+  ]
+}

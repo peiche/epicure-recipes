@@ -1,0 +1,104 @@
+{
+  "name": "Slice of Spinach Pizza",
+  "slug": "slice-of-spinach-pizza",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Spinach Dip",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Spinach Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light sour cream or yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen spinach",
+      "quantity": "1 pkg (10 oz/300g)",
+      "additionalInstruction": "thawed, chopped and drained"
+    },
+    {
+      "name": "crumbled feta cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen square puff pastry",
+      "quantity": "1 pkg (8 oz/250 g)",
+      "additionalInstruction": "defrosted"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "10 large slices",
+  "preparation": [
+    "Preheat oven to 425° F (220° C).",
+    "Roll puff pastry into a thin 10.5” (26 cm) square. Gently flip onto large side of an appy maker. Using a rolling pin, firmly roll over to cut pastry.",
+    "Gently remove each triangle from the appy maker and place on a Sheet Pan lined with a Sheet Pan Liner.",
+    "Spread 3 tbsp of dip on each triangle and sprinkle with feta.",
+    "Bake for 15 min or until the pastry is golden brown. Cool on a wire rack and enjoy!"
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 100,
+    "fat": 7,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 105,
+    "carbohydrate": 7,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 2
+  },
+  "tips": [
+    "Fun for kids to add their own toppings for a personalized slice of pizza."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Slice-of-Spinach-Pizza-Main.jpg",
+  "thumbnail": "Slice-of-Spinach-Pizza-Main.webp",
+  "products": [
+    {
+      "slug": "spinach_dip_mix_6ea8908",
+      "name": "Spinach Dip Mix",
+      "summary": [
+        "Punchy blend with onion &amp; sweet bell pepper."
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

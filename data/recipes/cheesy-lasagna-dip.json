@@ -1,0 +1,121 @@
+{
+  "name": "Cheesy Lasagna Dip",
+  "slug": "cheesy-lasagna-dip",
+  "description": "Serve with a fresh crusty baguette or warm pitas for dunking.",
+  "ingredients": [
+    {
+      "name": "light cream cheese, at room temperature",
+      "quantity": "1 block  (8 oz/250 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Rosemary Garlic Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "or your favourite Epicure seasoning or dip mix"
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Speedy Lasagna Seasoning",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded mozzarella",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "3 cups for 12 servings",
+  "preparation": [
+    "In a bowl, stir together cream cheese and Rosemary Garlic Seasoning. Set aside.",
+    "In Multipurpose Steamer, combine ground beef and Speedy Lasagna Seasoning. Cover; microwave on high at 1 min intervals, using the Ground Meat Separator to break apart large chunks, until cooked through, 2 min.",
+    "Stir in crushed tomatoes and cream cheese mixture. Cover; microwave on high at 1 min intervals, stirring well in between, until cheese melts and dip is hot, 2 - 3 min.",
+    "Sprinkle with mozzarella; microwave, uncovered, for 1 min or until cheese melts."
+  ],
+  "tags": [
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1/4 cup",
+    "calories": 140,
+    "fat": 8,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 35,
+    "sodium": 220,
+    "carbohydrate": 6,
+    "fiber": 1,
+    "sugars": 3,
+    "protein": 10
+  },
+  "tips": [
+    "For an upscale presentation, prepare dip without mozzarella topping. Turn into an oven-safe serving dish, then top with mozzarella. Place on a Sheet Pan. Broil until cheese melts and starts to brown."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Speedy Lasagna Dip_scoop out_1036x583.jpg",
+  "thumbnail": "Speedy Lasagna Dip_scoop out_1036x583.webp",
+  "products": [
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavors on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

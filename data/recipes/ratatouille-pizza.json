@@ -1,0 +1,193 @@
+{
+  "name": "Ratatouille Pizza",
+  "slug": "ratatouille-pizza",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "thin whole-grain or Gluten Free pizza shell",
+      "quantity": "1— (12”)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Easy Ratatouille",
+      "quantity": "2 servings",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (14 oz/398 ml) ",
+      "additionalInstruction": "drained"
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2 ",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "small zucchini",
+      "quantity": "1 ",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "eggplant",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pesto Sauce Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "partly-skimmed mozzarella cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 450° F (230° C).",
+    "Place pizza shell on perforated pizza pan. Top with Marinara Sauce, Ratatouille and sprinkle with mozzarella. Bake for approximately 15 minutes until crust is golden and cheese is melted.",
+    "Preheat barbecue to medium-high.",
+    "Grill pizza on perforated pizza pan for 3-5 minutes, until warm and cheese is melted."
+  ],
+  "tags": [
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 270,
+    "fat": 7,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 400,
+    "carbohydrate": 40,
+    "fiber": 4,
+    "sugars": 6,
+    "protein": 11
+  },
+  "tips": [
+    "Look for low-fat cheese that has a milk fat percentage (M.F.%) of less than 20%. A great way to reduce intake of artery-clogging saturated fat."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with seasonal greens and Epicure's Dressing.",
+  "image": "1612560630742-recipeMainImagePath.jpg",
+  "thumbnail": "1612560630742-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A robust garlic, herb, &amp; black pepper blend with notes of fennel &amp; oregano."
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "A savory medley of robust onion and herbs. Made with 3 different types of onions: chives, onion, and scallions."
+      ]
+    },
+    {
+      "slug": "pesto_sauce_mix",
+      "name": "Pesto Sauce Mix",
+      "summary": [
+        "Classic pesto blend; bold basil, garlic &amp; parsley"
+      ]
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "Customizable ceramic grinder adjusts to coarse or fine grind."
+      ]
+    }
+  ]
+}

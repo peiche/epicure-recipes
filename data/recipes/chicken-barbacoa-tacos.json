@@ -1,0 +1,155 @@
+{
+  "name": "Chicken Barbacoa Tacos",
+  "slug": "chicken-barbacoa-tacos",
+  "description": "Looking to spice up your next taco night? Bursting with bold flavours of chili, tomato and aromatic spices, these tacos are great for pool parties, birthdays, or just a regular Tuesday. Get ahead of the game by preparing a big batch of barbacoa in your slow cooker or pressure cooker and freeze until it’s taco time.",
+  "ingredients": [
+    {
+      "name": "Chicken Barbacoa",
+      "quantity": "2 cups prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chicken Barbacoa Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>–1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomato paste",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken",
+      "quantity": "3 lbs (1.5 kg)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "corn tortillas or taco shells",
+      "quantity": "12",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Divide chicken between tortillas. Add additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "programmable_pressure_cooker",
+      "name": "Programmable Pressure Cooker"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "cook_the_catalogue",
+      "name": "Cook The Catalogue"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "slow_cooker",
+      "name": "Slow Cookers & Roasts"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tacos",
+    "calories": 220,
+    "fat": 5,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 55,
+    "sodium": 230,
+    "carbohydrate": 24,
+    "fiber": 4,
+    "sugars": 1,
+    "protein": 20
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy greens with 1 tbsp Epicure Dressing.",
+  "image": "Chicken-Barbacoa-Tacos_1036x583.jpg",
+  "thumbnail": "Chicken-Barbacoa-Tacos_1036x583.webp",
+  "products": [
+    {
+      "slug": "chicken_barbacoa_seasoning__pack_of_3_",
+      "name": "Chicken Barbacoa Seasoning (Pack of 3)",
+      "summary": [
+        "Your new go-to for tasty tacos, enchiladas, and burritos! Chicken Barbacoa is for those who like a smoky mild-medium heat. This one checks all the boxes: it’s big batch-friendly, a one-pot meal, crowd-pleasing, and easy to customize.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

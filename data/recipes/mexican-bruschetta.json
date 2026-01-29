@@ -1,0 +1,108 @@
+{
+  "name": "Mexican Bruschetta",
+  "slug": "mexican-bruschetta",
+  "description": "Salsa is an easy “go to” for quick snacks and dishes. Use it as a topper for nacho chips, crackers, or even chicken or fish.",
+  "ingredients": [
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "1 - 2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "avocado",
+      "quantity": "1",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "fresh lime juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "tortilla chips",
+      "quantity": "2.25 oz (65 g)",
+      "additionalInstruction": "or crackers"
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "2 - 4  servings",
+  "preparation": [
+    "In a bowl, stir tomatoes with Poco Picante Salsa Mix. Gently fold in avocado and stir in lime juice, if you wish.",
+    "Dish up with tortilla chips or crackers."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 180,
+    "fat": 12,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 220,
+    "carbohydrate": 19,
+    "fiber": 5,
+    "sugars": 3,
+    "protein": 3
+  },
+  "tips": [
+    "Make it a meal by adding cooked chicken or low-sodium tuna. Wrap and roll in a tortilla."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Mexican-Bruschetta-Main.jpg",
+  "thumbnail": "Mexican-Bruschetta-Main.webp",
+  "products": [
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chilies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    }
+  ]
+}

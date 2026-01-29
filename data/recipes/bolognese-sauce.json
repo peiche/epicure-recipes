@@ -1,0 +1,111 @@
+{
+  "name": "Bolognese Sauce",
+  "slug": "bolognese-sauce",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "cooked lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (14 oz /398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (14 oz /398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cream",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "beef broth or red wine",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Combine first 4 ingredients in a Multipurpose Pot and simmer 15 minutes.",
+    "Stir in cream and bouillon and cook 2 more minutes."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 220,
+    "fat": 7,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 70,
+    "sodium": 220,
+    "carbohydrate": 16,
+    "fiber": 4,
+    "sugars": 4,
+    "protein": 25
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Bolognese-Sauce-Main.jpg",
+  "thumbnail": "Bolognese-Sauce-Main.webp",
+  "products": [
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavor of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Golden Latte",
+  "slug": "golden-latte",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Golden Latte Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "your choice"
+    }
+  ],
+  "totalTime": "2 min",
+  "servings": "1 serving",
+  "preparation": [
+    "In a cup or mug, stir latte mix with hot water until dissolved.",
+    "Pour milk into a large, microwave-safe measuring cup. Microwave on high 1 min, or until milk starts to bubble. Using Air Wand or whisk, beat until frothy.",
+    "Pour frothed milk into cup containing latte mixture. Sprinkle with cinnamon, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 110,
+    "fat": 3.5,
+    "saturatedFat": 2.5,
+    "transFat": 0.1,
+    "cholesterol": 10,
+    "sodium": 65,
+    "carbohydrate": 15,
+    "fiber": 1,
+    "sugars": 11,
+    "protein": 4
+  },
+  "tips": [
+    "Try it iced! Stir 1 heaping tbsp of latte mix into 1&frasl;2 cup hot water to dissolve. Add 1&frasl;2 cup cold milk and pour over ice. Serve blended, if desired."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Golden-Latte_1036x583.jpg",
+  "thumbnail": "Golden-Latte_1036x583.webp",
+  "products": [
+    {
+      "slug": "golden_latte_mix",
+      "name": "Golden Latte Latte Mix",
+      "summary": [
+        "Skip pricey coffee shop drinks and make your own Golden Latte – an Indian-inspired hot beverage – at home. One tin makes up to 12 servings for $1.14 each!&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Ham and Cheese Pasta Salad",
+  "slug": "ham-and-cheese-pasta-salad",
+  "description": "A delicious side salad, or a perfect stand-alone meal for take-to-work lunches, picnics, or a quick, light, satisfying dinner.",
+  "ingredients": [
+    {
+      "name": "Greek Dressing",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red wine vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cooked bite-sized pasta",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced cheddar cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced lean ham",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh or frozen peas",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced or diced celery",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "8 cups",
+  "preparation": [
+    "Combine all ingredients in a mixing bowl.",
+    "Serve immediately or store, covered, in refrigerator for up to 2 days."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1/2 cup",
+    "calories": 170,
+    "fat": 10,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 55,
+    "carbohydrate": 15,
+    "fiber": 1,
+    "sugars": 2,
+    "protein": 5
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Ham-and-Cheese-Pasta-Salad-Main.jpg",
+  "thumbnail": "Ham-and-Cheese-Pasta-Salad-Main.webp",
+  "products": [
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    }
+  ]
+}

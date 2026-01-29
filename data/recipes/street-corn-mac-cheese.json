@@ -1,0 +1,138 @@
+{
+  "name": "Street Corn Mac & Cheese",
+  "slug": "street-corn-mac-cheese",
+  "description": "Not to be too corny but we’re loving this smoky, Tex-Mex twist on classic mac. It’s like a cheesy fiesta in every bite. This mac & cheese boasts 18 grams of protein—serve it alongside a veggie that has a couple of grams of protein for a complete meal, like broccoli or Brussels sprouts.",
+  "ingredients": [
+    {
+      "name": "macaroni or bite-size pasta",
+      "quantity": "2 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Mexican Street Corn Dip Hot Dip Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "corn kernels",
+      "quantity": "1 cup",
+      "additionalInstruction": "fresh, canned, or frozen"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sour cream",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "12 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Cook pasta in a large pot according to package directions. Drain and return to pot.",
+    "Stir in dip mix, corn, cheese, sour cream, milk, and butter. Stir until cheese is melted and pasta is evenly coated.",
+    "Serve with toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 480,
+    "fat": 20,
+    "saturatedFat": 11,
+    "transFat": 0.5,
+    "cholesterol": 50,
+    "sodium": 330,
+    "carbohydrate": 58,
+    "fiber": 4,
+    "sugars": 5,
+    "protein": 18
+  },
+  "tips": [
+    "Swap 1 pkg Mac & Cheese Seasoning for shredded cheddar cheese."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup roasted veggies, such as broccoli.",
+  "image": "Street-Corn-Mac-and-Cheese_2160x1860.jpg",
+  "thumbnail": "Street-Corn-Mac-and-Cheese_2160x1860.webp",
+  "products": [
+    {
+      "slug": "mexican_street_corn_dip_hot_dip_mix__pack_of_3_",
+      "name": "Mexican Street Corn Dip Hot Dip Mix (Pack of 2)",
+      "summary": [
+        "A delightful variation on Mexican street corn, or “elote,” this is a creamy, zesty, and oh-so-addictive appetizer that'll have everyone coming back for more. With warming spices and chiles, complemented by bursts of corn, it’s the perfect addition to game days, streaming binges, and happy hours!&nbsp;"
+      ]
+    },
+    {
+      "slug": "mac___cheese_seasoning__pkg_of_3_",
+      "name": "Mac & Cheese Seasoning (Pack of 3)",
+      "summary": [
+        "An all-time best-seller, this is the Mac &amp; Cheese you’ve been craving – and that your kids will LOVE to eat! Creamy, cheesy, and super comforting, it’s free of unnecessary additives and packed with flavour thanks to real cheddar cheese. Take it from the stovetop (or microwave) to the table in under 10 minutes and dig in!&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Almond Latte",
+  "slug": "almond-latte",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "milk",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "almond extract",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dark roast coffee",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "or espresso"
+    }
+  ],
+  "totalTime": "15 - 20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Combine milk and almond extract in Multipurpose Pot - 8 cup and scald over medium heat. Stir constantly, until steaming.",
+    "Froth hot milk in a milk frother in 2 batches.",
+    "Pour hot coffee into heated mugs and divide frothed milk among each."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "epic_life_beverages",
+      "name": "Beverages"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 60,
+    "fat": 1,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 55,
+    "carbohydrate": 6,
+    "fiber": 0,
+    "sugars": 6,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Almond-Latte-Main.jpg",
+  "thumbnail": "Almond-Latte-Main.webp",
+  "products": []
+}

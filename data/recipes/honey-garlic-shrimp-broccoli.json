@@ -1,0 +1,109 @@
+{
+  "name": "Honey Garlic Shrimp & Broccoli ",
+  "slug": "honey-garlic-shrimp-broccoli",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Honey Garlic Meatball Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 tbsp ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "broccoli florets",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "panko breadcrumbs",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen uncooked peeled shrimp",
+      "quantity": "1 bag (340 g) ",
+      "additionalInstruction": "defrosted"
+    }
+  ],
+  "totalTime": "18 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 425° F. Line two 1&frasl;4 Sheet Pans with 1&frasl;4 Sheet Pan Liners.",
+    "In a large bowl, whisk together half the seasoning (about 1&frasl;3 cup), oil, and water. It will be thick. Add broccoli and toss to coat.  Place on one pan, bake 18 min, or until tender crisp.",
+    "Meanwhile, in a bowl, whisk egg. In another bowl, combine remaining seasoning and breadcrumbs.",
+    "Working in batches, dip shrimp into egg, then dredge in breadcrumbs, pressing firmly.",
+    "Spread out on remaining pan; bake 10 min until coating is golden and shrimp are cooked."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 300,
+    "fat": 9,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 185,
+    "sodium": 600,
+    "carbohydrate": 36,
+    "fiber": 3,
+    "sugars": 17,
+    "protein": 20
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup baked fries and 2 tbsp of your favourite Epicure dip.",
+  "image": "Honey_Garlic_Shrimp_Broccoli-1036x583.jpg",
+  "thumbnail": "Honey_Garlic_Shrimp_Broccoli-1036x583.webp",
+  "products": [
+    {
+      "slug": "honey_garlic_meatball_seasoning__pkg_of_3_",
+      "name": "Honey Garlic Meatball Seasoning (Pack of 3)",
+      "summary": [
+        "Who doesn't love a saucy meatball!? This protein-packed, family-friendly meal comes together in just 15 minutes with simple pantry ingredients.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_liner__set_of_2___1711227_",
+      "name": "1/4 Sheet Pan Liner (Set of 2)",
+      "summary": [
+        "Easy to clean, nonstick, silicone mat with raised edges.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_7a23ca1",
+      "name": "1/4 Sheet Pan (Set of 2)",
+      "summary": [
+        "Smaller size than a standard sheet pan for easy handling."
+      ]
+    }
+  ]
+}

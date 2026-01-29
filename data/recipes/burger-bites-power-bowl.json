@@ -1,0 +1,201 @@
+{
+  "name": "Burger Bites Power Bowl",
+  "slug": "burger-bites-power-bowl",
+  "description": "Tight on time but craving a burger? Ditch the grill and grab a steamer; mini burgs are ready in 5 minutes in the microwave. Turn burger toppings into a nutrient-dense salad to get your daily dose of veggies all in one, delicious bowl. The best part? This recipe is totally gluten free!",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cheesy Fries Seasoning or Lemon Pepper Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "beefsteak tomatoes",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cucumber",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "leafy greens",
+      "quantity": "6 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated cheddar cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Big Burger Sauce or Ranch Dressing",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Big Burger Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ketchup",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "relish",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Ranch Dip",
+      "quantity": "1 cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Creamy Ranch Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light sour cream",
+      "quantity": "1 cup",
+      "additionalInstruction": "or yogurt"
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a large bowl, combine beef and seasoning. Form into 12 equal balls and place in Multipurpose Steamer. Slightly flatten each ball. Cover and microwave on high 5 min.",
+    "Meanwhile, chop tomatoes and cucumber. Divide veggies and greens between four bowls.",
+    "When burger bites are cooked, top steamer with Multipurpose Tray and strain excess liquid.",
+    "Top each bowl with three burger bites, cheese, and 1 tbsp sauce. Add additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 16,
+    "saturatedFat": 6,
+    "transFat": 0.5,
+    "cholesterol": 70,
+    "sodium": 410,
+    "carbohydrate": 12,
+    "fiber": 3,
+    "sugars": 6,
+    "protein": 23
+  },
+  "tips": [
+    "Streamline prep and skip the burger bites—just crumble ground meat into a steamer and cook as directed above. Pro tip: use Ground Meat Separator to break up meat halfway through cooking.",
+    "Prep a double batch of Big Burger Sauce and refrigerate up to 1 week—it’s a crowd-pleaser!"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup fries or 1 small multigrain roll.",
+  "image": "Burger-Bites-Power-Bowl_1036x583.jpg",
+  "thumbnail": "Burger-Bites-Power-Bowl_1036x583.webp",
+  "products": [
+    {
+      "slug": "roasted_garlic_parmesan_fries_seasoning",
+      "name": "Cheesy Fries Seasoning",
+      "summary": [
+        "Who can resist restaurant-style cheesy fries? They’re even better when we bake them at home. Made with aromatic garlic, real Parmesan, and premium quality spices, this versatile seasoning is low in sodium, and free from gluten, artificial flavours, colours, and preservatives. Simply sprinkle it on fries, popcorn, pasta, or veggies for a healthy, cheesy family favorite.&nbsp;"
+      ]
+    },
+    {
+      "slug": "creamy_ranch_dip_mix_7cfe081",
+      "name": "Creamy Ranch Dip Mix",
+      "summary": [
+        "Go beyond your classic ranch dressing and create spreads, dips, or seasonings with this versatile blend!&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

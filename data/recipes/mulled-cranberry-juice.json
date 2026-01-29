@@ -1,0 +1,53 @@
+{
+  "name": "Mulled Cranberry Juice",
+  "slug": "mulled-cranberry-juice",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Mulling Spices",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cranberry juice",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cinnamon sticks",
+      "quantity": "4",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Bring mulling spices and cranberry juice to a simmer.",
+    "Cover and simmer for 1&frasl;2 an hour.",
+    "Sweeten to taste and serve with a cinnamon stick, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cup",
+    "calories": 140,
+    "fat": 0.5,
+    "saturatedFat": 0.1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 5,
+    "carbohydrate": 36,
+    "fiber": 1,
+    "sugars": 30,
+    "protein": 0.2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Mulled-Cranberry-Juice-Main.jpg",
+  "thumbnail": "Mulled-Cranberry-Juice-Main.webp",
+  "products": []
+}

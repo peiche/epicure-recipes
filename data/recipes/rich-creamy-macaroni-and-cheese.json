@@ -1,0 +1,97 @@
+{
+  "name": "Rich, Creamy Macaroni and Cheese",
+  "slug": "rich-creamy-macaroni-and-cheese",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "all-purpose flour",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% milk",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "CCB Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated low-fat cheddar cheese",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cayenne pepper",
+      "quantity": " 1 pinch",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "17 - 20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Cook macaroni according to package directions.",
+    "Preheat Multipurpose Pot over medium heat. Add oil and butter.",
+    "When butter melts into oil, whisk in flour. Cook for 3 minutes, stirring constantly.",
+    "Slowly add milk, whisking to combine. Stir in CCB Dip Mix. Bring to a simmer.",
+    "Using a wooden spoon, stir in cheddar, one cup at a time. Season to taste with cayenne pepper, Salt and Pepper.",
+    "Add cooked pasta to pot. Stir to combine."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 740,
+    "fat": 20,
+    "saturatedFat": 9,
+    "transFat": 0.2,
+    "cholesterol": 40,
+    "sodium": 680,
+    "carbohydrate": 97,
+    "fiber": 6,
+    "sugars": 2,
+    "protein": 41
+  },
+  "tips": [
+    "Serve with a crisp green salad."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Rich-Creamy-Macaroni-and-Cheese-Main.jpg",
+  "thumbnail": "Rich-Creamy-Macaroni-and-Cheese-Main.webp",
+  "products": [
+    {
+      "slug": "ccb_dip_mix_b61a530",
+      "name": "CCB Dip Mix",
+      "summary": [
+        "<strong>Cheese. Chives. Bacon. </strong>How's that for a totally irresistible trio? Our very own smoky vegetarian bacon, made from pinto beans, is the secret star of this oh-so-yummy dip.",
+        "This blend is all about versatility and we recommend taking it way beyond the dip bowl—use CCB in any dish that could use a little levelling up.&nbsp;"
+      ]
+    }
+  ]
+}

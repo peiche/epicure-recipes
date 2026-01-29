@@ -1,0 +1,79 @@
+{
+  "name": "Mojito Pops",
+  "slug": "mojito-pops",
+  "description": "Greet guests with an instant drink – no measuring and mixing required! A fun summertime twist on everyone’s favourite cocktails – retro fun and refreshing!",
+  "ingredients": [
+    {
+      "name": "mojito rim trimmer",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light rum",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon-lime soda",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ice cubes",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "4 hours",
+  "servings": "4 — 2 oz ice pops",
+  "preparation": [
+    "Combine all ingredients in a blender.",
+    "Blend for 1 minute until smooth.",
+    "Pour into ice pop molds and freeze for 4 hours."
+  ],
+  "tags": [
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 ice pop",
+    "calories": 50,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 10,
+    "carbohydrate": 4,
+    "fiber": 3,
+    "sugars": 3,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Mojito-Pops-Main.jpg",
+  "thumbnail": "Mojito-Pops-Main.webp",
+  "products": []
+}

@@ -1,0 +1,117 @@
+{
+  "name": "Turkey Quesadillas",
+  "slug": "turkey-quesadillas",
+  "description": "An easy, delicious way to transform turkey leftovers into another crowd-pleasing meal.",
+  "ingredients": [
+    {
+      "name": "shredded, cooked turkey",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red pepper",
+      "quantity": "1",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "green pepper",
+      "quantity": "1",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "grated Monterey Jack or cheddar cheese",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Fajita Seasoning",
+      "quantity": "2 tsp",
+      "additionalInstruction": "or Taco Seasoning"
+    },
+    {
+      "name": "8” flour tortillas",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 - 35 min",
+  "servings": "4 - 6 servings",
+  "preparation": [
+    "Preheat oven to 400 °F (205 °C).",
+    "Combine turkey, peppers, cheese and Fajita Seasoning.",
+    "Place half the tortillas on a Sheet Pan lined with a Sheet Pan Liner. Divide filling among tortillas. Top each with second tortilla.",
+    "Bake 8 minutes, turn over and bake an additional 8 minutes, or until lightly golden and cheese is melted."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 530,
+    "fat": 23,
+    "saturatedFat": 12,
+    "transFat": 0,
+    "cholesterol": 110,
+    "sodium": 800,
+    "carbohydrate": 35,
+    "fiber": 2,
+    "sugars": 3,
+    "protein": 40
+  },
+  "tips": [
+    "Serve with prepared Epicure Poco Picante Salsa, Epicure Guacamole and sour cream."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Turkey-Quesadillas-Main.jpg",
+  "thumbnail": "Turkey-Quesadillas-Main.webp",
+  "products": [
+    {
+      "slug": "fajita_seasoning_ceb100c",
+      "name": "Fajita Seasoning",
+      "summary": [
+        "A lively, mild blend for seasoning beef, chicken, or fish fajitas &amp; enchiladas."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

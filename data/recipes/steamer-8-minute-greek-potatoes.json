@@ -1,0 +1,135 @@
+{
+  "name": "Steamer 8-Minute Greek Potatoes",
+  "slug": "steamer-8-minute-greek-potatoes",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "baby red potatoes",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (675 g)",
+      "additionalInstruction": "washed and halved"
+    },
+    {
+      "name": "Chicken Souvlaki Seasoning or Lemon Dilly Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "8 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Toss potatoes with seasoning and lemon juice.",
+    "Place in a Rectangular Steamer and microwave, covered, for 6–8 minutes.",
+    "Season to taste."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 160,
+    "fat": 0.3,
+    "saturatedFat": 0.1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 15,
+    "carbohydrate": 37,
+    "fiber": 4,
+    "sugars": 2,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Steamer-8-Minute-Greek-Potatoes-Main.jpg",
+  "thumbnail": "Steamer-8-Minute-Greek-Potatoes-Main.webp",
+  "products": [
+    {
+      "slug": "chicken_souvlaki_seasoning__pkg_of_3_",
+      "name": "Chicken Souvlaki Seasoning (Pkg of 3)",
+      "summary": [
+        "A Greek-inspired meal, souvlaki is marinated meat grilled on a skewer, often served with warm pita bread and tzatziki. No grill? No problem. Skip the skewers and put your Sheet Pan to work to make equally tasty Chicken Souvlaki in 20 minutes in the oven.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    },
+    {
+      "slug": "rectangular_steamer_efd7225",
+      "name": "Rectangular Steamer",
+      "summary": [
+        "Easy to clean. Easy to serve. Rectangular, silicone steamer is perfect for side dishes &amp; desserts."
+      ]
+    }
+  ]
+}

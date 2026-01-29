@@ -1,0 +1,103 @@
+{
+  "name": "Egg Muffin in Muffin Pan",
+  "slug": "egg-muffin-in-muffin-pan",
+  "description": "Make a big batch and freeze for easy breakfasts.",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": null,
+      "additionalInstruction": "for greasing"
+    },
+    {
+      "name": "large eggs",
+      "quantity": "12",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English muffins",
+      "quantity": "12",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated cheese",
+      "quantity": "3 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Better Than Bacon Topper",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "20 - 25 min",
+  "servings": "12 sandwiches",
+  "preparation": [
+    "Preheat oven to 400° F (200° C) and lightly brush a Muffin Maker with oil.",
+    "Crack an egg in each mold and top with Better Than Bacon Toppe, if desired. Bake for 10–15 minutes to desired doneness.",
+    "Meanwhile, slice the English muffins in half and toast in the oven for 10 minutes.",
+    "Place an egg and grated cheese on one muffin half and top with other half.",
+    "If eating right away, melt the cheese by heating prepared sandwiches in the oven for another 5 minutes. Serve."
+  ],
+  "tags": [
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 270,
+    "fat": 9,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 250,
+    "sodium": 460,
+    "carbohydrate": 27,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 19
+  },
+  "tips": [
+    "Egg and cheese is the classic formula, but you can also add a protein of your choice, your favourite veggies, and aioli.",
+    "To portion and freeze, place all sandwiches on a Sheet Pan and put in the freezer until they are frozen, about an hour. Then, wrap sandwiches individually in plastic or foil and store in a freezer-safe bag in the freezer."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups veggies.",
+  "image": "egg_muffin_1036x583.jpg",
+  "thumbnail": "egg_muffin_1036x583.webp",
+  "products": [
+    {
+      "slug": "better_than_bacon_topper__1701207_",
+      "name": "Better Than Bacon Topper",
+      "summary": [
+        "Ok, bacon lovers; we see you. We know that bacon made from ‘pinto beans’ has you feeling a kind of way: skeptical. But trust us, this fan fave does not disappoint and it’s so easy to use. No need to grab a frying pan — just pop the top and shake on the taste of bacon with way less sodium, zero cholesterol, and no artificial flavors or colors (unlike popular brands).&nbsp;These crunchy bites are layered with smoky bacon flavor and are an amazing addition to salads, potatoes, eggs, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "muffin_maker__2pk_",
+      "name": "Muffin Maker (Set of 2)",
+      "summary": [
+        "Make perfect portions of your favourite sweet or savoury cupcakes, muffins, frittatas, meatloaves, &amp; more!"
+      ]
+    }
+  ]
+}

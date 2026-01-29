@@ -1,0 +1,145 @@
+{
+  "name": "Shakshouka",
+  "slug": "shakshouka",
+  "description": "An Israeli dish of tomatoes, onions, pepper, spices, and eggs that you’ll have on the table in less than 25 minutes.",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "onion",
+      "quantity": "1",
+      "additionalInstruction": "diced small"
+    },
+    {
+      "name": "bell pepper",
+      "quantity": "1",
+      "additionalInstruction": "diced medium"
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot sauce",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "diced tomato",
+      "quantity": "1 can (14 oz /398 ml)",
+      "additionalInstruction": "including liquid"
+    },
+    {
+      "name": "Vegetable Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light feta",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "crumbled, optional"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Heat oil in a fry pan over medium-high heat. Add onions, peppers, Minced Garlic, and hot sauce. Sauté, stirring occasionally, for approximately 5 minutes, until vegetables soften.",
+    "Add tomatoes with liquid and seasoning. Reduce heat and simmer for 15 minutes or until mixture is slightly thickened.",
+    "Crack eggs over sauce. Cover with lid and simmer for a further 5 minutes or until eggs are set.",
+    "Garnish with feta, and season to taste."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 170,
+    "fat": 9,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 245,
+    "sodium": 160,
+    "carbohydrate": 11,
+    "fiber": 2,
+    "sugars": 6,
+    "protein": 9
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Enjoy with warm pita.",
+  "image": "Shakshouka-Main.jpg",
+  "thumbnail": "Shakshouka-Main.webp",
+  "products": [
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    },
+    {
+      "slug": "vegetable_seasoning__1701330_",
+      "name": "Vegetable Seasoning",
+      "summary": [
+        "All-in-one herby meal helper. Less measuring &amp; more flavor!"
+      ]
+    }
+  ]
+}

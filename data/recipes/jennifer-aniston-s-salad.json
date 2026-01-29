@@ -1,0 +1,123 @@
+{
+  "name": "Jennifer Aniston’s Salad",
+  "slug": "jennifer-aniston-s-salad",
+  "description": "When life gives you lemons, make Jennifer Aniston’s iconic salad—with a few Epicure adjustments, of course! Our Dressing Mixes already have mint and oregano in the blend, so you can skip the fresh herbs. Plus, we’ve swapped in quinoa for an easy-to-prepare, high-fibre grain.",
+  "ingredients": [
+    {
+      "name": "uncooked quinoa",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "SPG Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small red onion",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "2 lemons or <sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Dressing Mix or Balsamic Vinaigrette Dressing Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chickpeas, drained and rinsed",
+      "quantity": "2 cans (14 oz/398 ml each)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crumbled feta cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped pistachios or slivered almonds",
+      "quantity": "Toppings (optional):",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 minutes",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Steamer, combine quinoa, water, and seasoning. Cover and microwave on high 12 min, or until tender. Fluff with a fork.",
+    "Meanwhile, dice cucumber and red onion.",
+    "In a large bowl, squeeze in lemon juice and whisk with oil and dressing mix. Add cooked quinoa, diced veggies, chickpeas, and spinach; toss to combine. Top with feta.",
+    "Serve immediately or store for up to 5 days in an air-tight container in the fridge."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 510,
+    "fat": 21,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 520,
+    "carbohydrate": 65,
+    "fiber": 13,
+    "sugars": 9,
+    "protein": 19
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "Jennifer-Anistons-Salad_1036x583.jpg",
+  "thumbnail": "Jennifer-Anistons-Salad_1036x583.webp",
+  "products": [
+    {
+      "slug": "balsamic_vinaigrette_dressing_mix",
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "summary": [
+        "A classic for a reason, this dressing mix is full of flavour and uber versatile. Use it as salad or nourish bowl dressing, marinade protein including chicken and beef, or glaze grilled veggies and fresh fruit. Any way you serve it, it’s sure to be a hit!&nbsp;"
+      ]
+    },
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "spg_seasoning_5edecfd",
+      "name": "SPG Seasoning",
+      "summary": [
+        "Salt. Pepper. Garlic. Your go-to for chicken, fish, seafood, roasted potatoes, veggies, &amp; even popcorn!"
+      ]
+    }
+  ]
+}

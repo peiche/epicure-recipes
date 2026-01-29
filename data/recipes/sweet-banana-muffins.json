@@ -1,0 +1,102 @@
+{
+  "name": "Sweet Banana Muffins",
+  "slug": "sweet-banana-muffins",
+  "description": "Go bananas for these low sugar, gluten free muffins! Bust out your Muffin Maker on Sunday evenings and become a meal prep pro. These muffins are perfect for on-the-go, healthy breakfasts or packed lunches throughout the week, and they beat takeout muffins by a landslide—those can have upwards of 30 grams of sugar per muffin!",
+  "ingredients": [
+    {
+      "name": "ripe medium bananas",
+      "quantity": "2",
+      "additionalInstruction": "peeled"
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil + more for oiling",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sweet Banana Bread & Muffin Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Using a basting brush, generously oil two Muffin Makers.",
+    "In a large bowl, mash bananas; they should measure about 3&frasl;4 cup. Add eggs and oil; whisk to mix. Stir in mix.",
+    "Divide batter evenly into pans filling cavities.",
+    "In two batches, microwave on high for 3 min. Rest in pan for 5 min; invert onto wire rack to cool. Or bake in preheated 375°F oven, 15–18 min. Cool in pan 10 min; unmold."
+  ],
+  "tags": [
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 muffin",
+    "calories": 130,
+    "fat": 7,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 40,
+    "sodium": 190,
+    "carbohydrate": 16,
+    "fiber": 0,
+    "sugars": 8,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "6816_sweet-banana-muffins_1036x583.jpg",
+  "thumbnail": "6816_sweet-banana-muffins_1036x583.webp",
+  "products": [
+    {
+      "slug": "sweet_banana_bread___muffin_mix__pkg_of_2_",
+      "name": "Sweet Banana Bread & Muffin Mix (Pack of 2)",
+      "summary": [
+        "Perfectly sweet – not sugary – banana bread is ready in minutes with this delicious gluten free batter. Just add three ingredients – eggs (or an egg replacement), oil, and ripe mashed bananas – to make a fluffy, moist loaf, muffins, or <a href=\"https://epicure.com/product/perfect-petites\">Perfect Petites</a>.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "muffin_maker__2pk_",
+      "name": "Muffin Maker (Set of 2)",
+      "summary": [
+        "Make perfect portions of your favorite sweet or savory cupcakes, muffins, frittatas, meatloaves, &amp; more!"
+      ]
+    }
+  ]
+}

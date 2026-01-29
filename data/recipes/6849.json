@@ -1,0 +1,85 @@
+{
+  "name": "Italian Whipped Coffee",
+  "slug": "italian-whipped-coffee",
+  "description": "Otherwise knowns as Dalgona coffee (a Korean beverage), this version takes an Italian twist. While the original is made with instant coffee, water and sugar, why not swap in Vanilla Bean Panna Cotta Mix instead? Make it a refreshing chilled coffee with ice cubes and cold milk (works well with any type of milk), or warm up your morning routine and stir the fully whipped topping into piping hot milk.",
+  "ingredients": [
+    {
+      "name": "Ice cubes",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsweetened soy or nut milk",
+      "quantity": "3 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Vanilla Bean Panna Cotta Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "instant coffee",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "6 servings",
+  "preparation": [],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "gfrr_drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 90,
+    "fat": 2,
+    "saturatedFat": 0.3,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 45,
+    "carbohydrate": 15,
+    "fiber": 0,
+    "sugars": 12,
+    "protein": 4
+  },
+  "tips": [
+    "No mixer? Whip the coffee mixture by hand using the Piano Wire Whisk. This may take a few minutes, so get your arms ready for a workout!"
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "6849_Italian_Whipped_Coffee_1036x583.jpg",
+  "thumbnail": "6849_Italian_Whipped_Coffee_1036x583.webp",
+  "products": []
+}

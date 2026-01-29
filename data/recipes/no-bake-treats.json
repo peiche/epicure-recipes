@@ -1,0 +1,140 @@
+{
+  "name": "No Bake Treats",
+  "slug": "no-bake-treats",
+  "description": "Thank you, Tracey Van Der Valk, for this plant-based recipe.",
+  "ingredients": [
+    {
+      "name": "unsweetened shredded coconut ",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "almond flour",
+      "quantity": "1 cup + 2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large lime",
+      "quantity": "1",
+      "additionalInstruction": "juiced"
+    },
+    {
+      "name": "maple syrup",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "melted coconut oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chocolate Instant Pudding Mix",
+      "quantity": "1 pack prepared",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "30 servings",
+  "preparation": [
+    "In 4-Cup Prep Bowl, add coconut, flour, lime juice, maple syrup, coconut oil, and sweet dip mix. Using 3-in-1 Spatula, mix to combine.",
+    "Roll into small balls. Place on Sheet Pan lined with a Sheet Pan Liner. Press down slightly to flatten.",
+    "Top with a dollop of pudding and additional toppings, if desired.",
+    "Place in freezer to set and store until it’s time to eat!"
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "community_recipe",
+      "name": "Community Recipe"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 110,
+    "fat": 9,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 25,
+    "carbohydrate": 9,
+    "fiber": 2,
+    "sugars": 5,
+    "protein": 2
+  },
+  "tips": [
+    "Prepare Chocolate Instant Pudding Mix with plant-based milk and whip in blender for extra creaminess and thickness."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "No 36.jfif",
+  "thumbnail": "No 36.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    },
+    {
+      "slug": "chocolate_instant_pudding_mix__pack_of_3___caldic__bc2ef56",
+      "name": "Chocolate Instant Pudding Mix (Pack of 2)",
+      "summary": [
+        "Spoon after delicious spoon, satisfy your sweet tooth with a low-calorie chocolate pudding that’s decadent and oh-so-good.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    },
+    {
+      "slug": "chocolate_instant_pudding_mix__pack_of_3___caldic__bc2ef56",
+      "name": "Chocolate Instant Pudding Mix (Pack of 2)",
+      "summary": [
+        "Spoon after delicious spoon, satisfy your sweet tooth with a low-calorie chocolate pudding that’s decadent and oh-so-good.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "name": "Banana-Berry Breakfast Shake",
+  "slug": "banana-berry-breakfast-shake",
+  "description": "This recipe takes less than 5 minutes to make. Simply blend and take to-go in a travel mug.",
+  "ingredients": [
+    {
+      "name": "low-fat vanilla yogurt",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix",
+      "quantity": "1-2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium bananas",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen berries – your choice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "orange juice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a blender, blend all ingredients until smooth and frothy.",
+    "Pour into glasses and serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 160,
+    "fat": 0.5,
+    "saturatedFat": 0.2,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 95,
+    "carbohydrate": 31,
+    "fiber": 3,
+    "sugars": 17,
+    "protein": 6
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Banana-Berry-Breakfast-Shake-Main.jpg",
+  "thumbnail": "Banana-Berry-Breakfast-Shake-Main.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "name": "Chocolate Caramel Temptation Cake",
+  "slug": "chocolate-caramel-temptation-cake",
+  "description": "The ultimate celebration cake! Wow family and friends at birthday parties or get-togethers.",
+  "ingredients": [
+    {
+      "name": "milk",
+      "quantity": "2 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "oil + more for oiling",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chocolaty Temptation Cupcake Mix",
+      "quantity": "2 pkgs",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Caramel Sauce Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whipping cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brick light cream cheese",
+      "quantity": "1 pkg (8 oz/250 g)",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "flaked salt or Kosher",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 20 min",
+  "servings": "16 servings",
+  "preparation": [
+    "Lightly oil two 8\" Round Cake Pans.",
+    "In a large bowl, whisk together milk, oil, vinegar, and mix. Divide batter between pans and smooth top.",
+    "Microwave one cake at a time on high, 5 min. Rest in pan 6 min; invert onto wire rack to cool. Or, bake both cakes, at the same time, in preheated 350° F oven for 24–26 min. Cool in pan 10 min before unmolding onto racks.",
+    "Let cakes cool completely while preparing icing. You can place them in the fridge to speed up the process.",
+    "In a Multipurpose Pot, whisk sauce mix with cream and butter. Bring to a boil over high heat, whisking often. Reduce heat to medium; simmer and whisk frequently for 3–4 min. Cool completely (refrigerate to speed up time). If making ahead, cover and refrigerate up to 3 days.",
+    "Place cream cheese in a bowl. Using an electric mixer, beat on high until smooth, scraping down sides occasionally. Add cold caramel sauce and salt; beat until light and fluffy.",
+    "To assemble, spread a spoonful of icing in centre of a cake plate or pedestal. Place cake on top. Spread half the icing over top of the cake. Gently place remaining cake on top. Spread remaining icing over top of cake, just to the edges. There will be leftover icing—if you wish, you can ice the whole cake or freeze it for another day."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 slice",
+    "calories": 320,
+    "fat": 21,
+    "saturatedFat": 8,
+    "transFat": 0.1,
+    "cholesterol": 35,
+    "sodium": 400,
+    "carbohydrate": 31,
+    "fiber": 1,
+    "sugars": 19,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "chocolate_caramel_temptation_cake_1036x583.jpg",
+  "thumbnail": "chocolate_caramel_temptation_cake_1036x583.webp",
+  "products": [
+    {
+      "slug": "multipurpose_pot___12_c",
+      "name": "Multipurpose Pot - 12 Cup",
+      "summary": [
+        "A 12 cup, multi-use, stainless-steel cooking pot with a lid made of glass, steel &amp; silicone rubber."
+      ]
+    }
+  ]
+}

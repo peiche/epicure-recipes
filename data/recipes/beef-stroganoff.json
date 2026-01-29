@@ -1,0 +1,135 @@
+{
+  "name": "Beef Stroganoff",
+  "slug": "beef-stroganoff",
+  "description": "This year is all about cozy nostalgia, and what better way to indulge that than to throw it back with this beef stroganoff? One pot, loads of comfort, and a whole lot of flavour make this classic dish one for the books.",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Beef Stroganoff Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "soy sauce",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced mushrooms",
+      "quantity": "1 package (8 oz/227 g)",
+      "additionalInstruction": "about 2½ cups"
+    },
+    {
+      "name": "water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light sour cream",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cooked egg noodles or pasta of your choice",
+      "quantity": "6 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In a large bowl, combine beef with 1 tbsp each seasoning, oil, soy sauce, and Worcestershire sauce. Toss to combine and set aside.",
+    "In Sauté Pan, heat remaining 2 tbsp oil over medium-high heat; add mushrooms. Sauté until softened, 3–4 min. Add seasoned beef to pan and sauté until browned, about 2–3 min.",
+    "Stir in remaining seasoning and soy sauce, and water. Bring to a boil, then reduce heat to medium. Stir in sour cream. Cover and simmer 3 min.",
+    "Serve over cooked egg noodles or pasta."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 440,
+    "fat": 14,
+    "saturatedFat": 3,
+    "transFat": 0.1,
+    "cholesterol": 90,
+    "sodium": 540,
+    "carbohydrate": 52,
+    "fiber": 4,
+    "sugars": 5,
+    "protein": 26
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup steamed veggies.",
+  "image": "Beef-Stroganoff-on-pack_2160x1860.jpg",
+  "thumbnail": "Beef-Stroganoff-on-pack_2160x1860.webp",
+  "products": [
+    {
+      "slug": "beef_stroganoff_seasoning__new___pack_of_3__f6fd2ba",
+      "name": "Beef Stroganoff Seasoning (New)(Pack of 3)",
+      "summary": [
+        "Get a taste of nostalgia with this classic, quick-to-make meal. Tender beef strips are sautéed with mushrooms and onions and then in a rich, creamy sauce. Served over tender egg noodles (or your preferred pasta), this dish is ready in under 20 minutes—all in one pot!&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    }
+  ]
+}

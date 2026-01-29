@@ -1,0 +1,122 @@
+{
+  "name": "Overnight Oatmeal",
+  "slug": "overnight-oatmeal",
+  "description": "Make this portable recipe tonight for an easy, on-the-go breakfast. Serve warm or cold. Keeps up to three days in the fridge.",
+  "ingredients": [
+    {
+      "name": "2% plain Greek yogurt",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% milk or dairy-free alternative",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "quick oats",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chia seeds, or ground flaxseed",
+      "quantity": "1 tbsp",
+      "additionalInstruction": ""
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": "or any sweet dip mix, your choice"
+    },
+    {
+      "name": "Apple Pie Spice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "65 min (60 min chill time)",
+  "servings": "2 servings",
+  "preparation": [
+    "In a bowl, combine yogurt, milk, oats, seeds, dip mix, and Apple Pie Spice, if desired. Cover and leave overnight. The oats will soak up the milk and be ready by morning."
+  ],
+  "tags": [
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 250,
+    "fat": 7,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 65,
+    "carbohydrate": 34,
+    "fiber": 5,
+    "sugars": 6,
+    "protein": 15
+  },
+  "tips": [
+    "Go vegan by using dairy-free yogurt. Remember it will have less protein, so be sure to stir in a scoop of Power Up Vanilla Protein Blend."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup 2% plain Greek yogurt, 2 tbsp nuts, and 1 cup mixed berries.",
+  "image": "Overnight oatmeal_Lg.jpg",
+  "thumbnail": "Overnight oatmeal_Lg.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    },
+    {
+      "slug": "apple_pie_spice",
+      "name": "Apple Pie Spice",
+      "summary": [
+        "Move over pumpkin spice; it's time for Apple Pie Spice to shine! Perfect for leveling up the taste of fall-inspired baking, it's also great on top of oatmeal, in a frothy late or smoothie – or anywhere you want a punch of apple pie flavour.&nbsp;"
+      ]
+    },
+    {
+      "slug": "power_up_vanilla_protein_blend__pouch_",
+      "name": "Power Up Vanilla Protein Blend (Pouch)",
+      "summary": [
+        "Fuel up first thing and stay fuller longer with rich smooth-tasting vanilla blend. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    }
+  ]
+}

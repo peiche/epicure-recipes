@@ -1,0 +1,104 @@
+{
+  "name": "Provençal Lamb Chops",
+  "slug": "provencal-lamb-chops",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "vinegar or white wine vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herbes Provençales",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "garlic cloves",
+      "quantity": "2 ",
+      "additionalInstruction": "crushed"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "",
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "lamb loin chops (or 4 sirloin steaks, 4 pork chops or 4 chicken breasts)",
+      "quantity": "8 ",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 10 min - 4 hrs",
+  "servings": "4 servings",
+  "preparation": [
+    "Whisk together vinegar, Herbes Provençales, crushed garlic, olive oil and Sea Salt and Pepper. Add lamb chops, turning to coat.",
+    "Marinate for up to 4 hours. Grill over medium heat, turning once and basting during cooking. Cook 6 minutes on each side for medium rare."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 260,
+    "fat": 16,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 85,
+    "sodium": 110,
+    "carbohydrate": 1,
+    "fiber": 1,
+    "sugars": 0,
+    "protein": 28
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Provencal-Lamb-Chops_1036x583.jpg",
+  "thumbnail": "Provencal-Lamb-Chops_1036x583.webp",
+  "products": []
+}

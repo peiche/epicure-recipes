@@ -1,0 +1,101 @@
+{
+  "name": "White Sauce",
+  "slug": "white-sauce",
+  "description": "A quick white sauce, with real food ingredients—no need for added oils or preservatives here.",
+  "ingredients": [
+    {
+      "name": "Savory Herb Gravy Mix or Nourish Broth Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cold milk",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Minced Garlic or Rosemary Garlic Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "1 cup",
+  "preparation": [
+    "In a microwave-safe bowl, whisk gravy mix and milk.",
+    "Cook 2 minutes on high, stir, then cook 2 more minutes.",
+    "Stir in Minced Garlic and season, if desired.",
+    "In a saucepan, whisk gravy and milk.",
+    "Bring to a boil, whisking constantly, until thickened.",
+    "Stir in Minced Garlic and season, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 30,
+    "fat": 1,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 40,
+    "carbohydrate": 4,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 2
+  },
+  "tips": [
+    "Make it vegan: Use almond, soy, or rice milk."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "white_sauce_1036x583.jpg",
+  "thumbnail": "white_sauce_1036x583.webp",
+  "products": [
+    {
+      "slug": "savory_herb_gravy_mix__1701172_",
+      "name": "Savoury Herb Gravy Mix",
+      "summary": [
+        "This better-for-you gravy mix is sure to be a hit at Thanksgiving dinner! A vegan, low-sodium blend that’s still packed with flavor. &nbsp;"
+      ]
+    },
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavours of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    },
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavours on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    }
+  ]
+}

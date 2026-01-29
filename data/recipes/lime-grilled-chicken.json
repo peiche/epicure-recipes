@@ -1,0 +1,118 @@
+{
+  "name": "Lime Grilled Chicken",
+  "slug": "lime-grilled-chicken",
+  "description": "In a word: zesty! And super-fast on the grill.",
+  "ingredients": [
+    {
+      "name": "lime juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herb & Garlic Dip Mix or Italian Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "4",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "2 1/2 hrs",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 375° F (190° C).",
+    "In a large mixing bowl, whisk together first 4 ingredients.",
+    "Marinate chicken in lime mixture in fridge for 30 minutes to 2 hours.",
+    "Place chicken in frying pan and cook 15–20 minutes, basting with pan juices during cooking.",
+    "In a large mixing bowl, whisk together first 4 ingredients.",
+    "Marinate chicken in lime mixture in fridge for 30 minutes to 2 hours.",
+    "Grill for 4 minutes each side."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 300,
+    "fat": 17,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 75,
+    "carbohydrate": 12,
+    "fiber": 0,
+    "sugars": 9,
+    "protein": 27
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1608576365459-recipeMainImagePath.jpg",
+  "thumbnail": "1608576365459-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "italian_seasoning",
+      "name": "Italian Seasoning",
+      "summary": [
+        "A robust Italian blend perfect for pizza, bread dough, pasta or flatbreads.&nbsp;"
+      ]
+    }
+  ]
+}

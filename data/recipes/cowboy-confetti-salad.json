@@ -1,0 +1,179 @@
+{
+  "name": "Cowboy Confetti Salad",
+  "slug": "cowboy-confetti-salad",
+  "description": "This is a salad that serves as a meal! Perfect for work or school lunches. The longer it sits, the more the flavours have a chance to blend.",
+  "ingredients": [
+    {
+      "name": "lime",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dijon mustard",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "white rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water or broth",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low sodium black beans or black-eyed peas",
+      "quantity": "2 cans (14 oz/398 ml each)",
+      "additionalInstruction": "or a mix of both"
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2 large",
+      "additionalInstruction": "one green and one yellow, preferably"
+    },
+    {
+      "name": "large tomato",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small red onion",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "jalapeño",
+      "quantity": "1",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Round Steamer, combine rice and water. Microwave, uncovered, on high for 15 min or until tender.",
+    "Meanwhile, prepare dressing. Zest lime, you should have about 1 tsp. Place in small bowl. Slice lime in half. Using 2-in-1 Citrus Press, squeeze in juice. Add oil, dip mix, mustard, and sugar. Whisk to combine. Set aside.",
+    "Drain and rinse beans. Dice peppers, tomato, and onion. If using, slice jalapeño in half, discard seeds; mince.",
+    "Once rice is cooked, gently fluff with a fork. Fold in beans and veggies. Add topping, if desired. Serve at room temperature or chilled."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 460,
+    "fat": 11,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 300,
+    "carbohydrate": 75,
+    "fiber": 17,
+    "sugars": 5,
+    "protein": 17
+  },
+  "tips": [
+    "No Epicure Steamer? No problem! Simply prepare rice on the stovetop. Then, combine all salad ingredients in a large bowl."
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "cowboy_confetti_salad_1036x583.jpg",
+  "thumbnail": "cowboy_confetti_salad_1036x583.webp",
+  "products": [
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "A savory medley of robust onion and herbs. Made with 3 different types of onions: chives, onion, and scallions."
+      ]
+    },
+    {
+      "slug": "n2_in_1_citrus_press_329bead",
+      "name": "2-in-1 Citrus Press",
+      "summary": [
+        "Easily squeeze the juice from small citrus fruits like lemons, limes, clementines, &amp; tangerines."
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

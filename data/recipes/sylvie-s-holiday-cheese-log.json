@@ -1,0 +1,99 @@
+{
+  "name": "Sylvie's Holiday Cheese Log",
+  "slug": "sylvie-s-holiday-cheese-log",
+  "description": "Holiday Cheese Logs are easily made ahead and ready in the fridge for unexpected guests or holiday invitations.",
+  "ingredients": [
+    {
+      "name": "Cran & Apple Cinnamon Cheese Ball",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cranapple Cinnamon Sweet Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brick light cream cheese",
+      "quantity": "1 pkg (8 oz/ 250)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced almonds",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped pecans",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dried cranberries",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "or cherries & berries"
+    },
+    {
+      "name": "Hot Buttered Rum Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "23 - 30 min",
+  "servings": "1 cheese log (approximately 14 servings)",
+  "preparation": [
+    "Wrap Cran & Apple Cinnamon Cheese Ball mixture in plastic film. Then roll back and forth to form a log shape. Twist both ends of the plastic tightly and tuck under. Refrigerate until firm.",
+    "Toast pecans in frying pan for 3-5 minutes, until fragrant.",
+    "Add Hot Buttered Rum and stir for 1-2 minutes, until coated and bubbly. Set aside to cool completely. When cooled use your fingers to crumble.",
+    "Using your hands, mix pecans and dried cranberries. Roll cheese log in the mixture, pressing the mix into the log.",
+    "Rewrap in plastic film and chill until ready to serve."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 90,
+    "fat": 4.5,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 85,
+    "carbohydrate": 11,
+    "fiber": 0,
+    "sugars": 10,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sylvies-Holiday-Cheese-Log_1036x583.jpg",
+  "thumbnail": "Sylvies-Holiday-Cheese-Log_1036x583.webp",
+  "products": []
+}

@@ -1,0 +1,111 @@
+{
+  "name": "Honey Garlic Chicken Wings",
+  "slug": "honey-garlic-chicken-wings",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "honey",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low sodium soy sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pineapple juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Asian Stir-Fry Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "garlic cloves",
+      "quantity": "2 ",
+      "additionalInstruction": "crushed"
+    },
+    {
+      "name": "chicken wings",
+      "quantity": "2 lb (1 kg)",
+      "additionalInstruction": "wing tips removed, and wings split"
+    }
+  ],
+  "totalTime": "45 min",
+  "servings": "3 dozen",
+  "preparation": [
+    "Whisk together honey, soy sauce, pineapple juice, spices and crushed garlic.",
+    "Pour honey-garlic marinade over wings in an oven proof dish.",
+    "Bake at 400° F (205° C) for 20 minutes. Turn wings over and continue cooking for additional 20 minutes.",
+    "After cooking, sprinkle chicken wings with 1 tbsp sesame seeds, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 600,
+    "fat": 37,
+    "saturatedFat": 10,
+    "transFat": 0,
+    "cholesterol": 175,
+    "sodium": 560,
+    "carbohydrate": 22,
+    "fiber": 0,
+    "sugars": 18,
+    "protein": 43
+  },
+  "tips": [
+    "If you do not use all the marinade, it may be stored in fridge for up to 1 month. Use in stir-fries or on Asian noodles."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Honey-Garlic-Chicken-Wings-Main.jpg",
+  "thumbnail": "Honey-Garlic-Chicken-Wings-Main.webp",
+  "products": [
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice &amp; noodle dish."
+      ]
+    }
+  ]
+}

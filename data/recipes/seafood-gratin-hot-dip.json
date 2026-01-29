@@ -1,0 +1,86 @@
+{
+  "name": "Seafood Gratin Hot Dip",
+  "slug": "seafood-gratin-hot-dip",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Seafood Gratin Hot Dip Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cream cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": "at room temperature"
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "white wine",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coarsely chopped cooked shrimp, lobster, or crab",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "breadcrumbs",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "2 1/2 cups",
+  "preparation": [
+    "In a bowl, combine dip mix with cream cheese and mayonnaise. Stir in wine. Gently fold in shrimp. Scrape into a heat-safe dish.",
+    "In a small bowl, combine Parmesan cheese and breadcrumbs. Sprinkle over shrimp mixture. Microwave, uncovered, on medium 3–5 min or until warm. Or bake in preheated 375° F oven 15–20 min or until warm and bubbly."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 100,
+    "fat": 10,
+    "saturatedFat": 8,
+    "transFat": 3,
+    "cholesterol": 30,
+    "sodium": 150,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 3
+  },
+  "tips": [
+    "Swap breadcrumbs for crushed crackers."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1598975571440-recipeMainImagePath.jpg",
+  "thumbnail": "1598975571440-recipeMainImagePath.webp",
+  "products": []
+}

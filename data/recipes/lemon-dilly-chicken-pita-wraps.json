@@ -1,0 +1,141 @@
+{
+  "name": "Lemon Dilly Chicken Pita Wraps",
+  "slug": "lemon-dilly-chicken-pita-wraps",
+  "description": "Bye-bye, bland chicken! This sandwich comes alive with Greek flavours of lemon, dill and garlic, plus a cheesy spread made with olives and feta. Lean chicken is a healthy source of muscle-building protein.",
+  "ingredients": [
+    {
+      "name": "chicken breast fillets",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "*1 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "pitted green olives",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "feta cheese",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small tomato",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "arugula",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pitas",
+      "quantity": "4",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Round Steamer, place chicken in an even layer. Season both sides with 1&frasl;2 tbsp dip mix, salt and pepper. Cover; microwave on high, 2 min 30 sec. Using tongs, flip chicken. Microwave another 2 min 30 sec or until cooked through. Let rest in steamer 1-2 min, drain liquid.",
+    "Meanwhile, in a food processor, add olives, cheese, oil, and remaining 1&frasl;2 tbsp dip mix. Pulse a few times until a coarse paste forms.",
+    "Dice tomato and cucumber.",
+    "Add olive mixture and arugula to steamer. Gently stir to combine. Divide between four pitas. Top with cucumber and tomato. Add additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 pita",
+    "calories": 400,
+    "fat": 13,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 590,
+    "carbohydrate": 40,
+    "fiber": 6,
+    "sugars": 3,
+    "protein": 31
+  },
+  "tips": [
+    "*or 1 tbsp Lemon Pepper Seasoning",
+    "If you can find them at your local grocery store, these would be fantastic served in pita pockets! Look for them in the deli section or bread aisle.",
+    "No Epicure Steamer? Simply pan-fry chicken on the stovetop, then place in a large bowl to combine with olive mixture and arugula."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup fresh veggies, your choice.",
+  "image": "lemon_dilly_chicken_pita_wraps_1036x583.jpg",
+  "thumbnail": "lemon_dilly_chicken_pita_wraps_1036x583.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

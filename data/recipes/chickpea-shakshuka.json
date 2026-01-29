@@ -1,0 +1,143 @@
+{
+  "name": "Chickpea Shakshuka",
+  "slug": "chickpea-shakshuka",
+  "description": "Shakshuka is a Mediterranean, one-pot breakfast—perfect for camping. Adding a can of chickpeas helps keep you fuller longer and bumps up your protein intake to fuel those fun adventures outdoors!",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen mixed vegetables",
+      "quantity": "1 pkg (26 oz/750 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted chickpeas",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "Marinara Sauce",
+      "quantity": "3 <sup>1</sup>&frasl;<sub>2</sub> cups prepared",
+      "additionalInstruction": "or 1 can (28 oz/796 ml) crushed tomatoes"
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": " Italian Seasoning or Marinara Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "4",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Heat oil in Sauté Pan over medium-high heat. Add frozen vegetables and cook until warmed, about 3 min. Add chickpeas to pan and cook 1 min.",
+    "Stir in sauce and sauce mix; bring to a simmer, about 3 min, stirring often.",
+    "Use the back of a spoon to form 4 shallow wells in the mixture. Crack an egg into each well. Reduce heat to medium-low and cover; simmer 7–8 min, or until eggs are just set."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 440,
+    "fat": 14,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 185,
+    "sodium": 220,
+    "carbohydrate": 59,
+    "fiber": 15,
+    "sugars": 16,
+    "protein": 21
+  },
+  "tips": [
+    "Simmer for an additional 2–3 min if you like your eggs hard-cooked."
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "Chickpea-Shakshuka_1036x583.jpg",
+  "thumbnail": "Chickpea-Shakshuka_1036x583.webp",
+  "products": [
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavour of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "italian_seasoning",
+      "name": "Italian Seasoning",
+      "summary": [
+        "A robust Italian blend perfect for pizza, bread dough, pasta or flatbreads.&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    }
+  ]
+}

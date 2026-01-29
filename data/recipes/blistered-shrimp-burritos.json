@@ -1,0 +1,155 @@
+{
+  "name": "Blistered Shrimp Burritos",
+  "slug": "blistered-shrimp-burritos",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Big Burger Sauce Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ketchup",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "relish",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "uncooked white rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water or broth",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large shrimp",
+      "quantity": "1 bag (340 g)",
+      "additionalInstruction": "raw, peeled, and deveined"
+    },
+    {
+      "name": "West Coast Burger Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coleslaw mix",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large tortillas",
+      "quantity": "4",
+      "additionalInstruction": "preferably whole wheat"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "For the sauce, in a bowl combine mayonnaise with sauce mix, ketchup, and relish. Set aside.",
+    "In a Multipurpose Steamer, combine rice and water or broth. Top with tray; microwave uncovered, on high for 16–18 min or until tender. Portion out 2 cups cooked rice and stir in burger sauce. Refrigerate remaining rice (about 1 cup) for use another day.",
+    "While rice cooks, heat oil in Wok set over medium-high heat. Pat shrimp dry, then coat with seasoning. Add to wok; stir-fry until cooked through, about 3–4 min.",
+    "To assemble burritos, divide rice, shrimp, and coleslaw among tortillas; fold in sides and tightly roll. Serve with toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 burrito with 1/2 cup rice",
+    "calories": 360,
+    "fat": 7,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 130,
+    "sodium": 460,
+    "carbohydrate": 53,
+    "fiber": 5,
+    "sugars": 4,
+    "protein": 21
+  },
+  "tips": [
+    "Grill shrimp on the barbecue. For best results, use a barbecue grill pan to prevent shrimp from falling through the grate.",
+    "Place burritos back in Multipurpose Steamer. Sprinkle with 1 cup grated cheese. Cover; microwave on high for 1 min or until cheese melts."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced fresh veggies of your choice.",
+  "image": "blistered_shrimp_tostados_1036x583.jpg",
+  "thumbnail": "blistered_shrimp_tostados_1036x583.webp",
+  "products": [
+    {
+      "slug": "west_coast_burger_seasoning",
+      "name": "West Coast Burger Seasoning",
+      "summary": [
+        "A West Coast-inspired blend that's perfect for making salmon burgers after a full day in the sun!&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

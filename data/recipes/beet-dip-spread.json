@@ -1,0 +1,92 @@
+{
+  "name": "Beet Dip & Spread",
+  "slug": "beet-dip-spread",
+  "description": "Can’t beet this dip! It will delight taste buds and its vibrant purple hue will dazzle guests.",
+  "ingredients": [
+    {
+      "name": "beets",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": "drained"
+    },
+    {
+      "name": "2% Greek yogurt",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "walnuts",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 cup",
+  "preparation": [
+    "In food processor, blend all ingredients, including salt and pepper, if desired.",
+    "Spoon into serving dish, cover, and chill."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 tbsp",
+    "calories": 20,
+    "fat": 1.5,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 35,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 2,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Beet-Dip-Spread-Main.jpg",
+  "thumbnail": "Beet-Dip-Spread-Main.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

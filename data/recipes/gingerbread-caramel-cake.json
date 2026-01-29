@@ -1,0 +1,124 @@
+{
+  "name": "Gingerbread Caramel Cake",
+  "slug": "gingerbread-caramel-cake",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light brown sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Gingerbread Spices or Cinnamon (ground)",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "powdered sugar",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fancy molasses",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Gingerbread Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "50 min",
+  "servings": "12 pieces",
+  "preparation": [
+    "In a small saucepan, melt butter with brown sugar, milk and spices over low heat. Increase to medium heat and bring mixture to a boil, stirring often. Once boiling, remove from heat and transfer to another bowl. Let cool to room temperature. Add mixture to powdered sugar; stir to combine. If the icing is too thick, add a splash of milk.",
+    "Meanwhile, generously oil Epicure’s 8\" silicone Round Cake Pan.",
+    "In a large bowl, whisk eggs with oil and molasses. Stir in mix; scrape into pan and smooth.",
+    "Microwave on high for 4 min. Rest in pan for 6 min; invert onto wire rack to cool. Or bake in preheated 350° F oven for 28–30 min or until a toothpick inserted in centre of loaf comes out clean. Cool 10 min before unmolding.",
+    "Remove chilled sauce from fridge. Using a hand mixer, beat until light and fluffy.",
+    "To assemble, place cake on a large cake stand or plate. Spread top with icing, smoothing to edge. Garnish with toppings, as desired."
+  ],
+  "tags": [
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 310,
+    "fat": 21,
+    "saturatedFat": 8,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 190,
+    "carbohydrate": 28,
+    "fiber": 1,
+    "sugars": 21,
+    "protein": 3
+  },
+  "tips": [
+    "Make-Ahead Tip: Bake cake, wrap, and refrigerate overnight or freeze up to five days. Refrigerate caramel icing up to three days; bring to room temperature before using."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1598982547958-recipeMainImagePath.jpg",
+  "thumbnail": "1598982547958-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "cinnamon__ground___1701145_",
+      "name": "Cinnamon (Ground)",
+      "summary": [
+        "A simple blend of organic cinnamon that brings the flavour. Great for baking, desserts, egg nog, or enhancing the taste of Middle Eastern and Indian dishes.&nbsp;"
+      ]
+    }
+  ]
+}

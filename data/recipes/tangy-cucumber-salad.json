@@ -1,0 +1,69 @@
+{
+  "name": "Tangy Cucumber Salad",
+  "slug": "tangy-cucumber-salad",
+  "description": "Cool as a what?! Bursting with tang and herbs and a dash of sweetness, this salad is a perfect way to cool down on a hot summer day or add a zesty twist to any meal. This no-fuss recipe is a breeze to prepare, making it the perfect go-to option for busy days or impromptu get-togethers.",
+  "ingredients": [
+    {
+      "name": "vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Coleslaw Dressing Mix or Greek Dressing Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumbers",
+      "quantity": "3",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In large bowl, whisk vinegar, oil, and dressing mix.",
+    "Thinly slice cucumbers and onion. Place in bowl with dressing; toss to combine.",
+    "If making ahead, refrigerate in a sealed container until ready to serve."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 100,
+    "fat": 7,
+    "saturatedFat": 1,
+    "transFat": 3,
+    "cholesterol": 0,
+    "sodium": 35,
+    "carbohydrate": 7,
+    "fiber": 1,
+    "sugars": 3,
+    "protein": 1
+  },
+  "tips": [
+    "Use 4-in-1 Mandoline to make preparation a breeze. Slice your cucumbers and onion paper thin to get the perfect texture and consistency.",
+    "For an extra crispy cucumber crunch, thoroughly toss sliced cucumbers with 1 tsp salt and leave uncovered in the fridge for 1 hr to release excess water. Remove liquid from cucumbers before adding remaining ingredients."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein and a baked potato.",
+  "image": "tangy_cucumber_salad_1036x583.jpg",
+  "thumbnail": "tangy_cucumber_salad_1036x583.webp",
+  "products": [
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    }
+  ]
+}

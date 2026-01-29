@@ -1,0 +1,140 @@
+{
+  "name": "Quinoa Salad with Jalapeño Honey Vinaigrette",
+  "slug": "quinoa-salad-with-jalapeno-honey-vinaigrette",
+  "description": "Reach for something spicy when you need to cook quinoa or rice. Cup for cup, you get twice the protein and more fibre with quinoa than you do with rice. Kickin' Jalapeño Burger Seasoning brings the heat without having to chop a fresh jalapeño. No more burning or stinging hands. That's hot!",
+  "ingredients": [
+    {
+      "name": "uncooked quinoa",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Kickin’ Jalapeño Burger Seasoning",
+      "quantity": "1 tsp + 1 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey or maple syrup",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Steamer, combine quinoa, water, and 1 tsp seasoning. Cover and microwave on high 12 min, or until tender.",
+    "Meanwhile, in a small bowl, whisk oil with honey or maple syrup, lime juice, and remaining 1 tbsp seasoning to make dressing. Set aside.",
+    "Dice cucumber and slice tomatoes in half. Stir into steamer with cooked quinoa and toss with dressing. Add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 320,
+    "fat": 13,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 130,
+    "carbohydrate": 45,
+    "fiber": 5,
+    "sugars": 12,
+    "protein": 8
+  },
+  "tips": [
+    "Choose quinoa when you need a bump of protein. While technically a seed, it's often used in place of rice or pasta. It's a complete protein and contains all nine essential amino acids—what a workhorse!"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein, such as chicken breast.",
+  "image": "Quinoa-Salad-Jalapeno-Honey-Vinaigrette_1036x583.jpg",
+  "thumbnail": "Quinoa-Salad-Jalapeno-Honey-Vinaigrette_1036x583.webp",
+  "products": [
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

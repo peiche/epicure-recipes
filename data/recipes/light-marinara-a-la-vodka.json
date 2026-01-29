@@ -1,0 +1,108 @@
+{
+  "name": "Light Marinara à la Vodka",
+  "slug": "light-marinara-a-la-vodka",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vodka",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "evaporated milk 2%",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Cook pasta in Multipurpose Pot according to package directions. Drain.",
+    "Simmer Marinara Sauce with vodka and milk in a Multipurpose Pot - 8 cup for 10 minutes to let flavours blend. Stir in Parmesan.",
+    "Toss with hot pasta and serve."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 450,
+    "fat": 7,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 610,
+    "carbohydrate": 70,
+    "fiber": 5,
+    "sugars": 13,
+    "protein": 23
+  },
+  "tips": [
+    "Partly skimmed milk is a great substitute for heavy cream."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Light-Marinara-a-la-Vodka-Main.jpg",
+  "thumbnail": "Light-Marinara-a-la-Vodka-Main.webp",
+  "products": [
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavour of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

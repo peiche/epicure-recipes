@@ -1,0 +1,119 @@
+{
+  "name": "Spiced Clementines",
+  "slug": "spiced-clementines",
+  "description": "Dish clementines over yogurt, use to garnish cakes, or serve with dense chocolate brownies. Add syrup to warm drinks or cocktails, or drizzle over fruit salad.",
+  "ingredients": [
+    {
+      "name": "water",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pieces crystallized ginger",
+      "quantity": "6",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cardamom",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "star anise",
+      "quantity": "3 - 5 pieces",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cinnamon stick",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "clementines",
+      "quantity": "12 - 14",
+      "additionalInstruction": null
+    },
+    {
+      "name": "yogurt, chopped pistachios and pomegranate seeds – optional",
+      "quantity": null,
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "35 min",
+  "servings": "12 servings",
+  "preparation": [
+    "In Multipurpose Pot - 8 cup set over medium-high heat, bring water and sugar to a boil, stirring often to dissolve sugar, 6–8 minutes. Stir in crystallized ginger, cardamom, star anise and broken cinnamon stick.",
+    "Cover and turn off heat. Let stand 15–20 minutes to meld flavours, then strain. Discard solids. Refrigerate syrup for at least 2 hours, until well chilled. Syrup will keep for at least 1 month in the refrigerator.",
+    "Using a sharp knife, cut peel and pith from clementines, then cut into thick rounds. Place in a large bowl and pour syrup overtop. Refrigerate until ready to use.",
+    "Dish up over yogurt and sprinkle with chopped pistachios and pomegranate seeds, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 130,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 0,
+    "carbohydrate": 37,
+    "fiber": 1,
+    "sugars": 34,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Spiced-Clementines-Main.jpg",
+  "thumbnail": "Spiced-Clementines-Main.webp",
+  "products": []
+}

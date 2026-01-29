@@ -1,0 +1,119 @@
+{
+  "name": "Grilled Salmon",
+  "slug": "grilled-salmon",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Salmon Rub",
+      "quantity": "2 - 3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "side of salmon",
+      "quantity": "3 <sup>1</sup>&frasl;<sub>2</sub> lb (1 <sup>1</sup>&frasl;<sub>2</sub> - 2 kg)",
+      "additionalInstruction": "pin bones removed"
+    },
+    {
+      "name": "juice of 1/2 lemon",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "8 - 10 servings",
+  "preparation": [
+    "Stir Salmon Rub with oil, then rub on top of salmon.",
+    "For easier grilling, place in a grilling pan or on a large piece of extra-strength aluminum foil.",
+    "Place on grill over medium heat. Close lid and grill until salmon is cooked through, approximately 15–20 minutes. TIP: To test for doneness, insert a knife tip in thickest part of fish and hold for a few seconds. Remove and test knife temperature. If the knife tip is warm, fish is cooked.",
+    "Carefully remove fish to a cutting board. To serve without skin, insert 2 spatulas between skin and flesh. Gently lift fish and place on a platter. Squeeze lemon juice overtop and season with Sea Salt, if you wish."
+  ],
+  "tags": [
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 410,
+    "fat": 22,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 140,
+    "sodium": 135,
+    "carbohydrate": 0,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 50
+  },
+  "tips": [
+    "Pairs perfectly with Orzo Greek Salad",
+    "A side of salmon can vary dramatically in size and thickness. A good rule of thumb for cooking is 10 minutes per every 1” of thickness. Be sure to grill extra salmon tonight for an easy dinner tomorrow."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1610055826714-recipeMainImagePath.jpg",
+  "thumbnail": "1610055826714-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "salmon_rub",
+      "name": "Salmon Rub",
+      "summary": [
+        "Say good-bye to dry, boring salmon and seafood. Salmon Rub amps up the flavour—a must-have summer grilling essential.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

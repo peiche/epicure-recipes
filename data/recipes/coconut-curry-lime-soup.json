@@ -1,0 +1,151 @@
+{
+  "name": "Coconut Curry Lime Soup",
+  "slug": "coconut-curry-lime-soup",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "low-sodium broth",
+      "quantity": "3 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "bell pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium sweet potato",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cannellini beans",
+      "quantity": "2 cans (14 oz/398 ml each)",
+      "additionalInstruction": "or white beans of your choice"
+    },
+    {
+      "name": "Coconut Curry Mussels Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light coconut milk",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "spinach",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In 12-Cup Multipurpose Pot set over high heat, add broth and cover.",
+    "Meanwhile, dice pepper and sweet potato. Drain and rinse beans.",
+    "To pot, add pepper, sweet potato, beans, seasoning, and coconut milk. Cover, bring to a simmer, and let cook for 10 min, or until sweet potatoes are tender.",
+    "Meanwhile, dice cucumber.",
+    "Remove pot from heat. Stir in spinach, one cup at a time, until wilted. Using 2-in-1 Citrus Press, squeeze in juice from lime.",
+    "Ladle into bowls; serve with diced cucumber on top."
+  ],
+  "tags": [
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 380,
+    "fat": 9,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 260,
+    "carbohydrate": 57,
+    "fiber": 15,
+    "sugars": 9,
+    "protein": 21
+  },
+  "tips": [
+    "Try prepared Nourish or Vegetable Broth for a tasty, sodium conscious base for this soup."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy greens and 1 tbsp Epicure Salad Dressing, your choice.",
+  "image": "june_coconut_curry_lime_soup_1036x583.jpg",
+  "thumbnail": "june_coconut_curry_lime_soup_1036x583.webp",
+  "products": [
+    {
+      "slug": "coconut_curry_mussel_seasoning__pack_of_3_",
+      "name": "Coconut Curry Mussels Seasoning (Pack of 3)",
+      "summary": [
+        "A mild Indian-inspired spiced coconut madras curry broth with onion and garlic."
+      ]
+    },
+    {
+      "slug": "n2_in_1_citrus_press_329bead",
+      "name": "2-in-1 Citrus Press",
+      "summary": [
+        "Easily squeeze the juice from small citrus fruits like lemons, limes, clementines &amp; tangerines."
+      ]
+    }
+  ]
+}

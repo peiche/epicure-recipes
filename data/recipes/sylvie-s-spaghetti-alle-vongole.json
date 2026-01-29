@@ -1,0 +1,113 @@
+{
+  "name": "Sylvie’s Spaghetti alle Vongole",
+  "slug": "sylvie-s-spaghetti-alle-vongole",
+  "description": "Spaghetti alle Vongole is a classic Italian pasta dish that translates to “spaghetti with clams.” Clams are an excellent ingredient to elevate a simple meal into something special. And did we mention their amazing health benefits? Clams are high in iron and Vitamin B12, important for keeping those energy levels high, and healthy fats like omega 3's, critical for heart health. The lemony seasoning is the perfect pairing for seafood, too—you'll surprise yourself when you see how easy it is to whip up this show-stopping, pasta-tively delicious dish!",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "garlic cloves",
+      "quantity": "2",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "Crushed chilies",
+      "quantity": null,
+      "additionalInstruction": "to taste (optional)"
+    },
+    {
+      "name": "anchovy fillets",
+      "quantity": "4–5",
+      "additionalInstruction": "chopped (optional)"
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "8–10",
+      "additionalInstruction": "halved"
+    },
+    {
+      "name": "dry white wine, Sambuca or Pernod",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh clams",
+      "quantity": "2 lbs (900 g)",
+      "additionalInstruction": "cleaned"
+    },
+    {
+      "name": "Seafood & Fish Seasoning or Lemon Chicken Orzo Seasoning",
+      "quantity": "1–2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In a Multipurpose Pot, cook spaghetti according to package directions.",
+    "Meanwhile, heat oil in a frying pan on medium-high heat. Add garlic and chili, if using. Stir often, until garlic is soft, 1 to 2 minutes.",
+    "If using, stir in anchovies and let simmer until dissolved, about 1 minute.",
+    "Stir in tomatoes. Reduce heat to medium and simmer, crushing tomatoes with the back of a spoon until they break down. Remove from heat and let rest so flavours can blend, 2 to 5 minutes.",
+    "Return frying pan to burner over high heat. When boiling, stir in wine. Stir often until wine has reduced by half, about 2 minutes.",
+    "Add clams and seasoning. Cover pan with lid and cook until clams open, 1 to 2 minutes.",
+    "Drain pasta, then divide between 6 bowls. Spoon clams and sauce overtop. Discard any clams that haven’t opened."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 380,
+    "fat": 6,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 170,
+    "carbohydrate": 60,
+    "fiber": 3,
+    "sugars": 3,
+    "protein": 14
+  },
+  "tips": [
+    "Chef Tip: To clean fresh clams, soak in a large bowl of salted water. Let stand 1 hour to remove any sand or debris, then lift them out with your hands and rinse under cold running water."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy greens and 1 tbsp prepared Epicure Dressing.",
+  "image": "Sylvies-Spaghetti-alle-Vongole_1036x583.jpg",
+  "thumbnail": "Sylvies-Spaghetti-alle-Vongole_1036x583.webp",
+  "products": []
+}

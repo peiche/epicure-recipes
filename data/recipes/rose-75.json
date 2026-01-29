@@ -1,0 +1,73 @@
+{
+  "name": "Rose 75",
+  "slug": "rose-75",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "ice",
+      "quantity": null,
+      "additionalInstruction": "(for 1 cocktail)"
+    },
+    {
+      "name": "Pink Lady tea or Rose tea",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "strong brewed"
+    },
+    {
+      "name": "gin",
+      "quantity": "1 oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar cube",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sparkling wine, Prosecco or Champagne",
+      "quantity": "2 oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon twist",
+      "quantity": null,
+      "additionalInstruction": "for garnish"
+    }
+  ],
+  "totalTime": "2 min",
+  "servings": "1 serving",
+  "preparation": [
+    "In a cocktail shaker, shake first five ingredients and strain into a champagne flute.",
+    "Top with sparkling wine and garnish with lemon.",
+    "Make it a Mocktail: Replace the spirits with club soda."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 120,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 3,
+    "carbohydrate": 4,
+    "fiber": 0,
+    "sugars": 4,
+    "protein": 0.1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Rose-75-Main.jpg",
+  "thumbnail": "Rose-75-Main.webp",
+  "products": []
+}

@@ -1,0 +1,132 @@
+{
+  "name": "Greek Salad with a Hint of Mint",
+  "slug": "greek-salad-with-a-hint-of-mint",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "red onion",
+      "quantity": "1 small",
+      "additionalInstruction": "cut in half, then sliced"
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "1 ",
+      "additionalInstruction": "cut in quarters lengthwise and sliced in 1\" cubes"
+    },
+    {
+      "name": "red pepper",
+      "quantity": "1 ",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "green pepper",
+      "quantity": "1 ",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "yellow pepper",
+      "quantity": "1 ",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "tomatoes",
+      "quantity": "4 ",
+      "additionalInstruction": "cut in wedges"
+    },
+    {
+      "name": "Greek olives",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crumbled Feta cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice or red wine vinegar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "garlic clove",
+      "quantity": "1 ",
+      "additionalInstruction": "crushed"
+    },
+    {
+      "name": "Greek Dressing Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dried mint",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt - Grinder",
+      "quantity": "",
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper - Grinder",
+      "quantity": "",
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Whisk together all dressing ingredients.",
+    "Add all vegetables, Greek olives and Feta cheese, toss gently and serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 500,
+    "fat": 45,
+    "saturatedFat": 10,
+    "transFat": 0,
+    "cholesterol": 35,
+    "sodium": 980,
+    "carbohydrate": 20,
+    "fiber": 4,
+    "sugars": 10,
+    "protein": 9
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Greek-Salad-with-a-Hint-of-Mint-Main.jpg",
+  "thumbnail": "Greek-Salad-with-a-Hint-of-Mint-Main.webp",
+  "products": [
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    }
+  ]
+}

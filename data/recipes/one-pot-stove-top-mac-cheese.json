@@ -1,0 +1,201 @@
+{
+  "name": "One Pot Stove Top Mac & Cheese",
+  "slug": "one-pot-stove-top-mac-cheese",
+  "description": "Thank you, Dianna Lynne, for this recipe!",
+  "ingredients": [
+    {
+      "name": "large skinless boneless chicken breasts",
+      "quantity": "2",
+      "additionalInstruction": "sliced into 4 fillets"
+    },
+    {
+      "name": "Tuscan Chicken Burger Seasoning",
+      "quantity": "1 tbsp + 2 tsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": "or 1 small onion chopped, or both"
+    },
+    {
+      "name": "Herb & Garlic Dip Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": "or 2 tsp garlic, or both"
+    },
+    {
+      "name": "white wine",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "flour",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chicken broth",
+      "quantity": "2 cups",
+      "additionalInstruction": "preferably low-sodium"
+    },
+    {
+      "name": "milk, half & half, or light cream",
+      "quantity": "3 cups",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "uncooked elbow macaroni",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach leaves",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh grated cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Mac & Cheese Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Season chicken with 1 tbsp Tuscan Chicken Burger Seasoning and 2 tsp oil. Heat the remaining oil in a large pot or pan over medium heat. Add the chicken and sear on both sides until golden brown, cooked through and no longer pink in the middle. Transfer to a warm plate, tent with foil and set aside.",
+    "To the same pan (don’t wash) add the butter and fry the onion and garlic until the onion becomes transparent, stirring occasionally, about 2 min.",
+    "Pour in the white wine, if using. Add 3 Onion Dip Mix and Herb & Garlic Dip Mix, if desired. Simmer 5 min or until reduction beginnings.",
+    "Stir in flour; allow to cook 1 min. Add broth, 21&frasl;2 cups milk, remaining 2 tsp Tuscan Chicken Burger Seasoning and bring to a low simmer.",
+    "Add macaroni and stir occasionally as it comes to a simmer. Reduce heat down to medium low and stir regularly while it cooks, about 9–10 min, or until the sauce thickens and the macaroni is just cooked; tender but still firm. Add the spinach and stir until wilted.",
+    "Take the pan off the stove and stir in the cheese and the Mac & Cheese Seasoning quickly while the pasta is still hot. If the sauce is too thick add the remaining 1&frasl;2 cup milk, as needed. The sauce will continue to thicken as it cools.",
+    "Slice chicken into strips and combine with the pasta. Pour any juice left from the cooked chicken plate into the pan.",
+    "Serve immediately. Add topping, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "community_recipe",
+      "name": "Community Recipe"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 410,
+    "fat": 16,
+    "saturatedFat": 8,
+    "transFat": 0.2,
+    "cholesterol": 55,
+    "sodium": 390,
+    "carbohydrate": 42,
+    "fiber": 3,
+    "sugars": 3,
+    "protein": 23
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "One_Pot_Tusc_Mac_Community_Recipe_1036x583.jpg",
+  "thumbnail": "One_Pot_Tusc_Mac_Community_Recipe_1036x583.webp",
+  "products": [
+    {
+      "slug": "tuscan_chicken_burger_seasoning_7586315",
+      "name": "Tuscan Chicken Burger Seasoning",
+      "summary": [
+        "Fresh Mediterranean&nbsp;flavors—you'll want to try this blend on everything!"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "A savory medley of robust onion and herbs. Made with 3 different types of onions: chives, onion, and scallions."
+      ]
+    },
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, onion &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "mac___cheese_seasoning__pkg_of_3_",
+      "name": "Mac & Cheese Seasoning (Pack of 3)",
+      "summary": [
+        "Creamy &amp; comforting, made with real cheddar cheese, no artificial colors or flavors.&nbsp;"
+      ]
+    },
+    {
+      "slug": "mac___cheese_seasoning__single_",
+      "name": "Mac & Cheese Seasoning (Single)",
+      "summary": [
+        "Make this kitchen staple healthier. Creamy and comforting, made with real cheddar cheese, and no synthetic colors or artificial flavors. &nbsp;"
+      ]
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    }
+  ]
+}

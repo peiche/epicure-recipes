@@ -1,0 +1,100 @@
+{
+  "name": "Mozzarella and Tomato Antipasti",
+  "slug": "mozzarella-and-tomato-antipasti",
+  "description": "This is great as an appetizer, a salad, or can be served in a crusty roll as a delicious sandwich.",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pesto Sauce Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large tomatoes",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mozzarella cheese or bocconcini cheese",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> lb (340 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Whisk together olive oil and sauce mix and allow to sit for at least 10 min.",
+    "Carefully slice tomatoes and mozzarella cheese into approximately 1&frasl;4\" thick slices.",
+    "On a decorative platter, alternate overlapping slices of tomato with mozzarella cheese. Drizzle prepared olive oil mixture over top and season with salt and pepper. Serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 260,
+    "fat": 21,
+    "saturatedFat": 10,
+    "transFat": 0,
+    "cholesterol": 50,
+    "sodium": 260,
+    "carbohydrate": 5,
+    "fiber": 1,
+    "sugars": 3,
+    "protein": 13
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1576086491799-recipeMainImagePath.jpg",
+  "thumbnail": "1576086491799-recipeMainImagePath.webp",
+  "products": []
+}

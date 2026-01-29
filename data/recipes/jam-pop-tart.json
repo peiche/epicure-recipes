@@ -1,0 +1,121 @@
+{
+  "name": "Jam Pop Tart",
+  "slug": "jam-pop-tart",
+  "description": "Go with whole wheat to make a better-for-you pop tart.",
+  "ingredients": [
+    {
+      "name": "whole-wheat flour",
+      "quantity": "1 <sup>3</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "cold and cut into chunks"
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "ice cold "
+    },
+    {
+      "name": "jam",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "vanilla bean sugar",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "45 - 50 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 375° F (190° C) and line a Sheet Pan with a Sheet Pan Liner.",
+    "Add flour, salt, cinnamon, and butter to a food processor. Pulse to combine, until it resembles coarse meal. Drizzle water over the mixture and pulse until it starts to form a ball.",
+    "Turn onto a floured surface. Roll into a rectangle, and then cut into 16 rectangles. Dollop 8 rectangles with 2 tsp Jam each. Wet edges and cover with another rectangle.",
+    "Press edges with a fork to seal. Poke each centre with a couple of holes and sprinkle with Vanilla Bean Sugar, if desired.",
+    "Transfer to Sheet Pan and bake for 20–25 minutes.",
+    "Store in freezer and toast to serve."
+  ],
+  "tags": [
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 250,
+    "fat": 16,
+    "saturatedFat": 10,
+    "transFat": 0,
+    "cholesterol": 40,
+    "sodium": 75,
+    "carbohydrate": 24,
+    "fiber": 3,
+    "sugars": 4,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Chia-Jam-Pop-Tart-Main.jpg",
+  "thumbnail": "Chia-Jam-Pop-Tart-Main.webp",
+  "products": [
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "cinnamon__ground___1701145_",
+      "name": "Cinnamon (Ground)",
+      "summary": [
+        "A simple blend of organic cinnamon that brings the flavor. Great for baking, desserts, egg nog, or enhancing the taste of Middle Eastern and Indian dishes.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

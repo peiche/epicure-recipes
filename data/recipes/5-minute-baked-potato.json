@@ -1,0 +1,127 @@
+{
+  "name": "5-Minute Baked Potato",
+  "slug": "5-minute-baked-potato",
+  "description": "Looking for a quick and easy meal that melts in your mouth? Try this delicious, no-mess and no-fuss “baked” potato made in just minutes in your steamer. Top with generous amounts of our vegan and gluten-free Better Than Bacon Topper to get that smoky, satisfying bacon flavour that pairs perfectly with the spud. Use plain Greek yogurt instead of mayo for a creamy, low-fat dip to dollop on your potato.",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "CCB Dip Mix or 3 Onion Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "plain 2% Greek yogurt or mayonnaise ",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sour cream",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Better Than Bacon Topper or 3 Onion Dip Mix",
+      "quantity": "Toppings (optional):",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "8 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Scrub potatoes and pierce several times with a fork. Place in Multipurpose Steamer and microwave for 5–7 min, until easily pierced with a fork.",
+    "Combine dip mix with yogurt or mayonnaise and sour cream.",
+    "Slice potato across the top and add a dollop of prepared dip and your favourite toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "st__patrick_s_day",
+      "name": "St. Patrick’s Day"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 260,
+    "fat": 5,
+    "saturatedFat": 3,
+    "transFat": 0.1,
+    "cholesterol": 10,
+    "sodium": 85,
+    "carbohydrate": 43,
+    "fiber": 5,
+    "sugars": 3,
+    "protein": 10
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein and 2 cups leafy greens with 1 tbsp Epicure Dressing.",
+  "image": "baked_potato_1036x583.jpg",
+  "thumbnail": "baked_potato_1036x583.webp",
+  "products": [
+    {
+      "slug": "ccb_dip_mix_b61a530",
+      "name": "CCB Dip Mix",
+      "summary": [
+        "<strong>Cheese. Chives. Bacon. </strong>How's that for a totally irresistible trio? Our very own smoky vegetarian bacon, made from pinto beans, is the secret star of this oh-so-yummy dip.",
+        "This blend is all about versatility and we recommend taking it way beyond the dip bowl—use CCB in any dish that could use a little levelling up.&nbsp;",
+        "<br>"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "better_than_bacon_topper__1701207_",
+      "name": "Better Than Bacon Topper",
+      "summary": [
+        "Ok, bacon lovers; we see you. We know that bacon made from ‘pinto beans’ has you feeling a kind of way: Skeptical. But trust us, this fan fave does not disappoint and it’s so easy to use. No need to grab a frying pan — just pop the top and shake on the taste of bacon with way less sodium, zero cholesterol, and no artificial flavours or colours (unlike popular brands).&nbsp;These crunchy bites are layered with smoky bacon flavor and are an amazing addition to salads, potatoes, eggs, and more!&nbsp;"
+      ]
+    }
+  ]
+}

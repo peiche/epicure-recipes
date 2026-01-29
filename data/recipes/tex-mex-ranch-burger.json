@@ -1,0 +1,132 @@
+{
+  "name": "Tex Mex Ranch Burger",
+  "slug": "tex-mex-ranch-burger",
+  "description": "The long weekend is calling and it’s time to grill up some burgers! Sink your teeth into this saucy ranch burger and make sure to load up on the fresh toppings. This one is a little spicy, so if you’re not keen on spicy food, decrease the amount of dressing mix in the patties by about 1 tbsp for a milder, family-friendly version.",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Southwest Ranch Dressing Mix",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "cheese",
+      "quantity": "4 slices",
+      "additionalInstruction": "such as cheddar or provolone"
+    },
+    {
+      "name": "each mayo and sour cream ",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "burger buns",
+      "quantity": "4",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat grill to medium-high heat. Lightly brush with oil.",
+    "In a large bowl, combine beef and 2 tbsp dressing mix. Using a fork or your hands, mix until well blended. Form into four patties.",
+    "Grill with lid closed 3–4 min per side, or until cooked through. Add a cheese slice to each patty during the final minute of cooking.",
+    "To make sauce, whisk together mayo, sour cream, milk, and remaining 1&frasl;2 tbsp dressing mix.",
+    "Toast buns, if desired. Spread sauce on bottom bun, place patty on top. Add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 410,
+    "fat": 22,
+    "saturatedFat": 9,
+    "transFat": 0.5,
+    "cholesterol": 85,
+    "sodium": 460,
+    "carbohydrate": 27,
+    "fiber": 4,
+    "sugars": 4,
+    "protein": 28
+  },
+  "tips": [
+    "For an equally delicious, lower-fat option, swap mayo and sour cream for plain 2% Greek yogurt."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced veggies, your choice.",
+  "image": "tex_mex_ranch_burger_1036x583.jpg",
+  "thumbnail": "tex_mex_ranch_burger_1036x583.webp",
+  "products": [
+    {
+      "slug": "southwest_ranch_dressing_mix",
+      "name": "Southwest Ranch Dressing Mix",
+      "summary": [
+        "A smoky dressing mix infused with mildly spicy chipotle and classic tangy ranch. Only 3 ingredients needed— mayo, sour cream, and&nbsp; milk.&nbsp;"
+      ]
+    }
+  ]
+}

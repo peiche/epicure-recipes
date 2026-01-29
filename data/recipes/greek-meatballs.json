@@ -1,0 +1,156 @@
+{
+  "name": "Greek Meatballs",
+  "slug": "greek-meatballs",
+  "description": "Send your taste buds straight to the Mediterranean! Packed with fragrant herbs and spices, these juicy meatballs are not only a delight for your taste buds, but they also come with a host of health benefits that make them a smart choice for a wholesome meal. Ground beef is an excellent source of high-quality protein, and essential vitamins and minerals like iron and zinc.",
+  "ingredients": [
+    {
+      "name": "white bread",
+      "quantity": "4 slices",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium onion",
+      "quantity": "1",
+      "additionalInstruction": "finely chopped"
+    },
+    {
+      "name": "crumbled Feta cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Dressing Mix or Chicken Souvlaki Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "",
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": "",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 375° F (190° C).",
+    "In a mixing bowl, soak bread in milk. Add remaining ingredients, combining well by hand.",
+    "Form into 16 meatballs. Place on Sheet Pan lined with Sheet Pan Liner.",
+    "Bake for 20 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 300,
+    "fat": 15,
+    "saturatedFat": 6,
+    "transFat": 0.4,
+    "cholesterol": 115,
+    "sodium": 280,
+    "carbohydrate": 18,
+    "fiber": 2,
+    "sugars": 5,
+    "protein": 24
+  },
+  "tips": [
+    "Serve atop whole-grain pasta with prepared Marinara Sauce.",
+    "Serve in a pita pocket or whole-grain submarine rolls with shredded lettuce, sliced tomatoes, cucumbers and prepared Dillicious Tzatziki.",
+    "Serve as an appetizer — make meatballs bite-sized, place on skewers and serve with prepared Epicure Dip."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup cooked pasta and 1 cup steamed veggies.",
+  "image": "Greek-Meatballs-Main.jpg",
+  "thumbnail": "Greek-Meatballs-Main.webp",
+  "products": [
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    },
+    {
+      "slug": "chicken_souvlaki_seasoning__pkg_of_3_",
+      "name": "Chicken Souvlaki Seasoning (Pkg of 3)",
+      "summary": [
+        "A Greek-inspired meal, souvlaki is marinated meat grilled on a skewer, often served with warm pita bread and tzatziki. No grill? No problem. Skip the skewers and put your Sheet Pan to work to make equally tasty Chicken Souvlaki in 20 minutes in the oven.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

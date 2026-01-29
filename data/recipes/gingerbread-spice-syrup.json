@@ -1,0 +1,64 @@
+{
+  "name": "Gingerbread Spice Syrup",
+  "slug": "gingerbread-spice-syrup",
+  "description": "Be ready to make lattes in an instant by making syrup in advance. Store in a Cruet and refrigerate up to 10 days. Makes a wonderful foodie gift!",
+  "ingredients": [
+    {
+      "name": "water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Gingerbread Spices",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "12 min",
+  "servings": "1 cup",
+  "preparation": [
+    "Whisk all ingredients in a Multipurpose Pot - 8 cup with a Piano Wire Whisk.",
+    "Cook over medium heat until reduced by about half, and syrup coats the back of a spoon. Store in a Cruet and refrigerate up to 10 days until ready to serve."
+  ],
+  "tags": [
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 tbsp",
+    "calories": 40,
+    "fat": 0.1,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 1,
+    "carbohydrate": 12,
+    "fiber": 0,
+    "sugars": 12,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Gingerbread-Spice-Syrup-Main.jpg",
+  "thumbnail": "Gingerbread-Spice-Syrup-Main.webp",
+  "products": [
+    {
+      "slug": "multipurpose_pot___8_c",
+      "name": "Multipurpose Pot - 8 Cup",
+      "summary": [
+        "An 8 cup, multi-use, stainless-steel cooking pot with a lid made of glass, steel &amp; silicone rubber."
+      ]
+    }
+  ]
+}

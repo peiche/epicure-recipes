@@ -1,0 +1,76 @@
+{
+  "name": "Roasted Red Pepper Feta & Walnut Spread",
+  "slug": "roasted-red-pepper-feta-walnut-spread",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Roasted Red Pepper Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cream cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "feta cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "walnuts",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 1/2 cups",
+  "preparation": [
+    "Blend all ingredients together. Spoon into serving dish, cover and chill."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 tbsp",
+    "calories": 45,
+    "fat": 4.5,
+    "saturatedFat": 2,
+    "transFat": 0.1,
+    "cholesterol": 10,
+    "sodium": 50,
+    "carbohydrate": 1,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1600794025550-recipeMainImagePath.jpg",
+  "thumbnail": "1600794025550-recipeMainImagePath.webp",
+  "products": []
+}

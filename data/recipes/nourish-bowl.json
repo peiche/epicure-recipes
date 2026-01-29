@@ -1,0 +1,148 @@
+{
+  "name": "Nourish Bowl",
+  "slug": "nourish-bowl",
+  "description": "A fresh and delish raw bowl of nourishment. Perfect on those days where you want a little of everything.",
+  "ingredients": [
+    {
+      "name": "large sweet potato",
+      "quantity": "1",
+      "additionalInstruction": "diced, cooked"
+    },
+    {
+      "name": "cooked quinoa",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "broccoli, carrot, or cabbage slaw",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mixed greens",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Garlic Hummus",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chickpeas",
+      "quantity": "1 can (19 oz/540 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Garlic Hummus Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "about 1 lemon"
+    },
+    {
+      "name": "tahini",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "low-fat cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": "cubed"
+    },
+    {
+      "name": "Pesto Sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pesto Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pine nuts or pistachio nuts",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Arrange first six ingredients amongst four bowls. Drizzle each with sauce. Serve."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 470,
+    "fat": 20,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 490,
+    "carbohydrate": 57,
+    "fiber": 11,
+    "sugars": 7,
+    "protein": 20
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1603208534293-recipeMainImagePath.jpg",
+  "thumbnail": "1603208534293-recipeMainImagePath.webp",
+  "products": []
+}

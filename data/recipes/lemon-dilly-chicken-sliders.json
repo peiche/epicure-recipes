@@ -1,0 +1,161 @@
+{
+  "name": "Lemon Dilly Chicken Sliders",
+  "slug": "lemon-dilly-chicken-sliders",
+  "description": "Bring these tasty sliders to your next gathering! Customize to your crowd: keep half the sliders basic for the kiddos and add fresh veggie toppings to the rest for the adults to enjoy. You can even swap in your favourite Dip Mix to change up the flavour. For a lower-fat dip, prepare dip with Greek yogurt instead of sour cream.",
+  "ingredients": [
+    {
+      "name": "lean ground chicken",
+      "quantity": "1 lb (450g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix or Creamy Ranch Dip Mix",
+      "quantity": "1 <sup>3</sup>&frasl;<sub>4</sub> tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "slider buns or pull-apart dinner rolls",
+      "quantity": "12",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated cheddar cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "plain 2% Greek yogurt or sour cream",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded lettuce, pickles, sliced tomato",
+      "quantity": "Toppings (optional):",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 minutes",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 400° F. Line 1&frasl;4 Sheet Pan with 1&frasl;4 Sheet Pan Liner.",
+    "In a large bowl, combine chicken and 1 tbsp dip mix. Turn onto pan; press down to flatten to the edges and evenly fill pan. Bake 9–11 min, or until cooked through.",
+    "Meanwhile, without separating rolls, slice them in half lengthwise to form a top and a bottom sheet of bun halves. Place on Sheet Pan, cut side up, and sprinkle cheese over the top half. Bake 5 min, or until slightly toasted and cheese is melted.",
+    "In a medium bowl, combine remaining 3&frasl;4 tbsp dip mix with mayonnaise and yogurt.",
+    "Spread prepared dip over bottom sheet of bun halves. Carefully cover with cooked chicken and additional toppings, if using. Cover with top sheet of bun halves. Slice along sides of each bun to portion into individual sliders, or serve on a tray to be pulled apart."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "cook_the_catalogue",
+      "name": "Cook The Catalogue"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 sliders",
+    "calories": 400,
+    "fat": 20,
+    "saturatedFat": 7,
+    "transFat": 0.2,
+    "cholesterol": 110,
+    "sodium": 380,
+    "carbohydrate": 31,
+    "fiber": 0,
+    "sugars": 10,
+    "protein": 22
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup chopped veggies.",
+  "image": "Lemon-Dilly-Chicken-Sliders_1036x583.jpg",
+  "thumbnail": "Lemon-Dilly-Chicken-Sliders_1036x583.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "creamy_ranch_dip_mix_7cfe081",
+      "name": "Creamy Ranch Dip Mix",
+      "summary": [
+        "Go beyond your classic ranch dressing and create spreads, dips, or seasonings with this versatile blend!&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

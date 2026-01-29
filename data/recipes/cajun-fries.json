@@ -1,0 +1,138 @@
+{
+  "name": "Cajun Fries",
+  "slug": "cajun-fries",
+  "description": "Gourmet fries made at home with a little Southern Louisiana inspired flair. Spicy & fragrant, cajun seasoning packs a punch – a little goes a long way! Pair with your fave dip. We love Creamy Ranch Dip or Garlic Aioli.",
+  "ingredients": [
+    {
+      "name": "unsalted frozen shoestring fries or sweet potato fries",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg (2 lbs/900 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cajun Fries Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "divided"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Line Sheet Pan with Sheet Pan Liner.",
+    "Arrange fries on pan and sprinkle with 1 tbsp seasoning; toss to coat.",
+    "Cook fries according to package directions. Sprinkle cooked fries with remaining seasoning before serving."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 7,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 490,
+    "carbohydrate": 35,
+    "fiber": 5,
+    "sugars": 1,
+    "protein": 3
+  },
+  "tips": [
+    "Got extra time? Make your own fries—try Rosemary Garlic Oven Fries but swap in Cheesy Fries Seasoning or Kickin’ Jalapeño Burger Seasoning."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein and 2 cups leafy greens with 1 tbsp prepared Epicure Dressing.",
+  "image": "cajun_fries_1036x583.jpg",
+  "thumbnail": "cajun_fries_1036x583.webp",
+  "products": [
+    {
+      "slug": "cajun_fries_seasoning",
+      "name": "Cajun Fries Seasoning",
+      "summary": [
+        "We love to make our taste buds dance with this <strong>Cajun Fries Seasoning</strong>. This blend of premium herbs and spices creates an earthy, piquant flavour that tastes great and packs a punch. It's perfect for anyone who wants to add excitement and heat to their favourite snack. Sprinkle as much or as little as you like over your spuds for a healthy alternative to restaurant fries with added seasonings.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    },
+    {
+      "slug": "spicy_jalapeno_burger_seasoning",
+      "name": "Kickin’ Jalapeño Burger Seasoning",
+      "summary": [
+        "Bring some zing to your burgers with our <strong>Kickin' Jalapeño Burger Seasoning</strong>, made with select spices and real jalapeño peppers. We made this versatile seasoning to bring spicy umami flavor (with a hint of lime) to anything and everything that we could throw on the BBQ. It's a spicy blend but you can add as much or as little heat as you want to cater to your tastes. Simply combine with your burger meat (or sprinkle on vegetables that have been lightly oiled) for an impressive, healthy alternative to takeout burgers.&nbsp;"
+      ]
+    },
+    {
+      "slug": "roasted_garlic_parmesan_fries_seasoning",
+      "name": "Cheesy Fries Seasoning",
+      "summary": [
+        "Who can resist restaurant-style cheesy fries? They’re even better when we bake them at home. Made with aromatic garlic, real Parmesan, and premium quality spices, this versatile seasoning is low in sodium, and free from gluten, artificial flavours, colours, and preservatives. Simply sprinkle it on fries, popcorn, pasta, or veggies for a healthy, cheesy family favorite.&nbsp;"
+      ]
+    }
+  ]
+}

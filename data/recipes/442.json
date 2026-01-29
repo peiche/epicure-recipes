@@ -1,0 +1,174 @@
+{
+  "name": "Turkey Burger",
+  "slug": "turkey-burger",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "egg",
+      "quantity": "1 ",
+      "additionalInstruction": "beaten"
+    },
+    {
+      "name": "water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon or lime juice",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Burger Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Taco Seasoning ",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground turkey",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "gluten-free breadcrumbs",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": "freshly ground"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": "freshly ground"
+    },
+    {
+      "name": "Guacamole",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "ripe avocados",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Guacamole Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice, optional",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "gluten-free Buns",
+      "quantity": "4",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Whisk first 5 ingredients together in a large mixing bowl.",
+    "Mix in turkey and gluten-free breadcrumbs. Season with Salt and Pepper.",
+    "Form into 4 — 1&frasl;2” thick patties.",
+    "Lightly oil, and preheat grill to medium heat. Cook for 5 minutes lid closed, flip, and cook for an additional 5 minutes, or until instant read thermometer indicates a Food Safe internal temperature of 175° F (80° C).",
+    "Serve bun-less, or on gluten-free buns with shredded lettuce, tomatoes and a dollop of prepared Guacamole."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 330,
+    "fat": 13,
+    "saturatedFat": 0,
+    "transFat": 125,
+    "cholesterol": 125,
+    "sodium": 390,
+    "carbohydrate": 28,
+    "fiber": 5,
+    "sugars": 4,
+    "protein": 29
+  },
+  "tips": [
+    "Ensure an instant-read thermometer indicates a Food Safe internal temperature of 165° F (74° C) for ground chicken or turkey. Hold the cooked patty with a pair of tongs. Insert the thermometer sideways and wait 30 seconds before reading."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Turkey-Burger-Main.jpg",
+  "thumbnail": "Turkey-Burger-Main.webp",
+  "products": [
+    {
+      "slug": "burger_seasoning_5d205ac",
+      "name": "Burger Seasoning",
+      "summary": [
+        "Tired of bland burgers? Level up with one simple seasoning that’s packed with the robust flavours of onion, garlic, and red bell pepper, and a mild paprika kick. Just combine the seasoning with ground beef, chicken, pork, or turkey for mouth-watering burgers every single time.&nbsp;"
+      ]
+    },
+    {
+      "slug": "taco_seasoning__1701317_",
+      "name": "Taco Seasoning (Jar)",
+      "summary": [
+        "Classic Tex-Mex flavour with medium heat."
+      ]
+    },
+    {
+      "slug": "guacamole_dip_mix_dc7efdb",
+      "name": "Guacamole Dip Mix",
+      "summary": [
+        "An all-natural blend of sweet peppers, garlic, and chilies comes together to create the perfect guacamole––minus the sodium and additives! &nbsp;"
+      ]
+    }
+  ]
+}

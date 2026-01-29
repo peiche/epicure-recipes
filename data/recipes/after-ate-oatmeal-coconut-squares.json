@@ -1,0 +1,129 @@
+{
+  "name": "After Ate Oatmeal Coconut Squares",
+  "slug": "after-ate-oatmeal-coconut-squares",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "butter",
+      "quantity": "1 cup",
+      "additionalInstruction": "room temperature"
+    },
+    {
+      "name": "After Ate Rooibos Tea",
+      "quantity": "4 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "granulated sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "all-purpose flour",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "or gluten-free flour"
+    },
+    {
+      "name": "old-fashioned rolled oats",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded, un-sweetened coconut",
+      "quantity": "1 cup",
+      "additionalInstruction": "lightly toasted"
+    },
+    {
+      "name": "dark chocolate sprinkles",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "1 hr",
+  "servings": "15–20 servings",
+  "preparation": [
+    "Preheat oven to 350° F (175°C).",
+    "Line a Sheet Pan with a Sheet Pan Liner, or a lightly greased 9 by 13-inch dish.",
+    "In a large bowl, beat butter, After Ate Tea, both sugars, salt, and vanilla with an electric mixer on medium speed until very well-blended and creamy.",
+    "Gently incorporate the flour, and then fold in the rolled oats and coconut.",
+    "Form ingredients into a ball on the Sheet Pan Liner, then press gently and work it into about a 10 by 12-inch rectangle, and approximately 3&frasl;4 of an inch thick. Sprinkle top with dark chocolate sprinkles, if desired.",
+    "Bake 20–30 minutes, until golden-brown and firm in the middle.",
+    "Remove from oven and transfer to a wire rack; let cool 5–10 minutes. Cut into squares."
+  ],
+  "tags": [
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 190,
+    "fat": 12,
+    "saturatedFat": 8,
+    "transFat": 0,
+    "cholesterol": 25,
+    "sodium": 90,
+    "carbohydrate": 19,
+    "fiber": 1,
+    "sugars": 8,
+    "protein": 2
+  },
+  "tips": [
+    "Store in an airtight jar, or make a big batch and freeze for up to 2 months."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "After-Ate-Oatmeal-Coconut-Squares-Main.jpg",
+  "thumbnail": "After-Ate-Oatmeal-Coconut-Squares-Main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

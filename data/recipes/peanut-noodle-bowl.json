@@ -1,0 +1,168 @@
+{
+  "name": "Peanut Noodle Bowl",
+  "slug": "peanut-noodle-bowl",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "rice noodles (250 g)",
+      "quantity": "4 cups",
+      "additionalInstruction": "cooked"
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "2",
+      "additionalInstruction": "chopped, or 1 block (454 g) firm tofu"
+    },
+    {
+      "name": "sesame oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "creamy all-natural peanut butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water or more as needed",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low sodium soy sauce",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chili garlic paste (optional)",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Asian Stir Fry Seasoning",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "matchstick carrots",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coleslaw mix",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced green onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Boil water and cover rice noodles according to package directions.",
+    "Meanwhile, in a wok over medium-high heat, add chicken or tofu and sesame oil. Stir fry for 5-6 min.",
+    "In a small bowl combine peanut butter, water, soy sauce, lime juice, chili paste, brown sugar and Asian Stir Fry Seasoning. Set it aside.",
+    "Drain noodles. Add noodles and sauce mixture to the wok with chicken and stir fry for 2-3 min until coated.",
+    "Place noodles in bowls and top with carrots, coleslaw mix, and green onion."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 460,
+    "fat": 17,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 45,
+    "sodium": 400,
+    "carbohydrate": 57,
+    "fiber": 3,
+    "sugars": 6,
+    "protein": 21
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "asian-inspired-peanut-noodle-bowl_1036x583.jpg",
+  "thumbnail": "asian-inspired-peanut-noodle-bowl_1036x583.webp",
+  "products": [
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice and noodle dish."
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

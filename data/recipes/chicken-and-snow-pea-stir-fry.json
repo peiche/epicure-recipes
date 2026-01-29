@@ -1,0 +1,160 @@
+{
+  "name": "Chicken and Snow Pea Stir-fry",
+  "slug": "chicken-and-snow-pea-stir-fry",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken",
+      "quantity": "16 oz (450 g)",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Asian Stir-Fry Seasoning",
+      "quantity": "1 - 2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth or Vegetable Broth",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "snow peas",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sesame seeds",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "17 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Mix chicken with oil and Asian Stir-fry Seasoning.",
+    "Heat Wok to medium and add chicken. Stir-fry for about 5 minutes, add Broth and bring to a gentle simmer.",
+    "Add snow peas and cook until tender and liquid is reduced by about half. Sprinkle with sesame seeds and serve."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 260,
+    "fat": 9,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 95,
+    "sodium": 90,
+    "carbohydrate": 6,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 37
+  },
+  "tips": [
+    "Make this a sweet and sour stir-fry by adding chunks of canned pineapple and a generous drizzle of white or cider vinegar towards the end of cooking.",
+    "This recipe can be easily made with shrimp or a combination of shrimp and chicken."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Chicken-and-Snow-Pea-Stir-fry-Main.jpg",
+  "thumbnail": "Chicken-and-Snow-Pea-Stir-fry-Main.webp",
+  "products": [
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice and noodle dish."
+      ]
+    },
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavours of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

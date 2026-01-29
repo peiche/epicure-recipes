@@ -1,0 +1,199 @@
+{
+  "name": "White Bean and Zucchini Soup",
+  "slug": "white-bean-and-zucchini-soup",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "zucchinis",
+      "quantity": "2",
+      "additionalInstruction": "cut into 3\" pieces"
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "balsamic vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Nourish Broth or Vegetable Broth\r",
+      "quantity": "4 cups prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "white beans",
+      "quantity": "2 cans (396 ml/14 oz)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped onions",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped celery",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Turn the zucchini into noodles with a Spiral Slicer. Toss with dressing and set aside.",
+    "Combine remaining ingredients in a Multipurpose Steamer.",
+    "Microwave with lid on for 8 minutes on high.",
+    "Carefully remove from microwave, stir in zucchini noodles, and serve.",
+    "Turn zucchini into noodles with a Spiral Slicer. Toss with dressing and set aside.",
+    "Place the remaining ingredients in a Multipurpose Pot and bring to a boil.",
+    "Reduce to a simmer for 10–12 minutes.",
+    "Stir in zucchini noodles and serve."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 cups",
+    "calories": 260,
+    "fat": 9,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 260,
+    "carbohydrate": 34,
+    "fiber": 10,
+    "sugars": 3,
+    "protein": 13
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with (or add to soup) 1&frasl;2 cup each baby spinach and cooked edamame. Enjoy with a toasted whole-wheat bun.",
+  "image": "White-Bean-&-Zucchini-Soup_1036x583.jpg",
+  "thumbnail": "White-Bean-&-Zucchini-Soup_1036x583.webp",
+  "products": [
+    {
+      "slug": "balsamic_vinaigrette_dressing_mix",
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "summary": [
+        "Fresh, bright &amp; bold blend of Mediterranean herbs with notes of garlic &amp; rosemary. Our most versatile dressing."
+      ]
+    },
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavours of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

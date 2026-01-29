@@ -1,0 +1,138 @@
+{
+  "name": "Spicy Black Bean Soup",
+  "slug": "spicy-black-bean-soup",
+  "description": "A high-fibre vegetarian soup that is simple to make, and simply delicious.",
+  "ingredients": [
+    {
+      "name": "(19 oz/540 ml) black beans",
+      "quantity": "2 cans",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh lime juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh chopped cilantro",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Jerk Chicken Wing Seasoning or Cajun Fries Seasoning",
+      "quantity": "1-2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth ",
+      "quantity": "4 cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "",
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Blend all ingredients in food processor.",
+    "Simmer in a Multipurpose Pot for 15 minutes and serve."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 160,
+    "fat": 5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 460,
+    "carbohydrate": 28,
+    "fiber": 10,
+    "sugars": 2,
+    "protein": 8
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Cuban-Black-Bean-Soup-Main.jpg",
+  "thumbnail": "Cuban-Black-Bean-Soup-Main.webp",
+  "products": [
+    {
+      "slug": "cajun_fries_seasoning",
+      "name": "Cajun Fries Seasoning",
+      "summary": [
+        "We love to make our taste buds dance with this <strong>Cajun Fries Seasoning</strong>. This blend of premium herbs and spices creates an earthy, piquant flavour that tastes great and packs a punch. It's perfect for anyone who wants to add excitement and heat to their favourite snack. Sprinkle as much or as little as you like over your spuds for a healthy alternative to restaurant fries with added seasonings.&nbsp;"
+      ]
+    },
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    }
+  ]
+}

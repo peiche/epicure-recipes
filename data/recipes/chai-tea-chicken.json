@@ -1,0 +1,71 @@
+{
+  "name": "Chai Tea Chicken",
+  "slug": "chai-tea-chicken",
+  "description": "Black tea, such as chai tea, contains important antioxidants called polyphenols, which may offer cardio and cancer protection.",
+  "ingredients": [
+    {
+      "name": "chai tea",
+      "quantity": "2 cups",
+      "additionalInstruction": "strongly brewed"
+    },
+    {
+      "name": "nutmeg",
+      "quantity": "<sup>1</sup>&frasl;<sub>8</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "juniper berries",
+      "quantity": "2 tsp",
+      "additionalInstruction": "cracked"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "boneless skinless chicken breasts",
+      "quantity": "4",
+      "additionalInstruction": "pounded 1/4” thin"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a large bowl, combine all ingredients (except chicken) and stir.",
+    "Add chicken. Cover and marinate for at least 60 minutes prior to cooking.",
+    "Grill chicken over medium-high heat for approximately 5-6 minutes on each side. Serve."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 160,
+    "fat": 3,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 70,
+    "carbohydrate": 3,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 27
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with rice and prepared Epicure Salsa.",
+  "image": "Chai-Tea-Chicken_1036x583.jpg",
+  "thumbnail": "Chai-Tea-Chicken_1036x583.webp",
+  "products": [
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    }
+  ]
+}

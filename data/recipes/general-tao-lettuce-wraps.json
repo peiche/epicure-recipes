@@ -1,0 +1,125 @@
+{
+  "name": "General Tao Lettuce Wraps",
+  "slug": "general-tao-lettuce-wraps",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "General Tao Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "each soy sauce and ketchup",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "cubed"
+    },
+    {
+      "name": "corn starch",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "butter or iceberg lettuce",
+      "quantity": "16 leaves",
+      "additionalInstruction": null
+    },
+    {
+      "name": "carrot and zucchini",
+      "quantity": "1 each",
+      "additionalInstruction": "julienned"
+    }
+  ],
+  "totalTime": "26 - 30 min",
+  "servings": "16 servings",
+  "preparation": [
+    "In a bowl, whisk together seasoning, water, soy sauce, and ketchup. Set aside.",
+    "Toss chicken with corn starch.",
+    "Preheat Wok over high heat, then swirl in oil; stir-fry chicken in batches until golden, about 5-8 min. Remove pieces as done; set aside.",
+    "Add pepper to Wok; stir-fry 1 - 2 min. Return chicken to pan. Add sauce, stirring to coat.",
+    "Spoon chicken into lettuce leaves; top with julienned veggies, serve warm."
+  ],
+  "tags": [
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 80,
+    "fat": 3.5,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 140,
+    "carbohydrate": 6,
+    "fiber": 1,
+    "sugars": 2,
+    "protein": 7
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1599762578328-recipeMainImagePath.jpg",
+  "thumbnail": "1599762578328-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "general_tao_seasoning__pkg_3_",
+      "name": "General Tao Seasoning (Pack of 3)",
+      "summary": [
+        "A restaurant favorite at home made with less sugar &amp; sodium. Stir fried, not deep fried.&nbsp;"
+      ]
+    }
+  ]
+}

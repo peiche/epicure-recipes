@@ -1,0 +1,91 @@
+{
+  "name": "Pink Scones",
+  "slug": "pink-scones",
+  "description": "No-fail, make-ahead scones even a novice can ace! Crisp on the outside, perfectly sweet and buttery on the inside.",
+  "ingredients": [
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "cold"
+    },
+    {
+      "name": "Quick Biscuit Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen strawberries",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 425° F. Line Sheet Pan with Sheet Pan Liner.",
+    "In a small bowl, whisk egg with milk. Set aside.",
+    "Cube butter and place in a large bowl with biscuit mix. Using a fork or pastry blender, cut butter until it’s the size of small peas. Add egg mixture and stir until a dough forms.",
+    "Place strawberries in Prep Bowl. Microwave, uncovered, 1 min or until hot. Mash until liquid and stir into batter until evenly mixed.",
+    "Gently knead dough to form a ball; press out into 8\" circle. Using a sharp knife, cut into 8 wedges. Use spatula to carefully transfer wedges to pan. Bake 17 min, or until golden.",
+    "If desired, pipe pink icing glaze on warm scones."
+  ],
+  "tags": [
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 250,
+    "fat": 13,
+    "saturatedFat": 8,
+    "transFat": 0.5,
+    "cholesterol": 55,
+    "sodium": 330,
+    "carbohydrate": 31,
+    "fiber": 2,
+    "sugars": 4,
+    "protein": 3
+  },
+  "tips": [
+    "To make pink icing glaze, microwave 2 tbsp frozen strawberries in Prep Bowl on high for 30 sec; mash berries. In 4-Cup Prep Bowl, whisk 1&frasl;2 cup powdered sugar with 1&frasl;2 tbsp each milk and mashed strawberries. Transfer to piping bag or plastic bag with one corner snipped. Pipe onto cooled scones.",
+    "Don’t like strawberries? Frozen raspberries, cherries, or cranberries will work, too! This might affect the moisture content, so adjust with milk as necessary."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "valentines_day_scones_1036x583.jpg",
+  "thumbnail": "valentines_day_scones_1036x583.webp",
+  "products": [
+    {
+      "slug": "quick_biscuit_mix__pack_of_2_",
+      "name": "Quick Biscuit Mix (Pack of 2)",
+      "summary": [
+        "Save money and make your own restaurant-quality biscuits right at home with this Quick Biscuit Mix! The perfect side to any soup, stew, or chili dish."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

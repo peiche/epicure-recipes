@@ -1,0 +1,131 @@
+{
+  "name": "Not Your Mom’s Macaroni Salad",
+  "slug": "not-your-mom-s-macaroni-salad",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "uncooked macaroni noodles",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pesto Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "2 - 3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "celery stalks",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted tuna",
+      "quantity": "2 cans (170 g each)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen peas",
+      "quantity": "1 cup",
+      "additionalInstruction": "defrosted"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In Multipurpose Steamer, add noodles and water. Cover; microwave on high until tender, 7–8 min.",
+    "Meanwhile, in a large bowl, whisk together mix, mayonnaise, and lemon juice. Set aside.",
+    "Dice peppers and celery. Place in bowl with dressing.",
+    "When pasta is cooked, drain and rinse with cold water. Drain tuna. Add pasta, tuna, and peas to bowl; stir to mix. Taste and season with pepper and fresh lemon juice, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 360,
+    "fat": 15,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 160,
+    "carbohydrate": 34,
+    "fiber": 4,
+    "sugars": 3,
+    "protein": 22
+  },
+  "tips": [
+    "Prep this salad up to 3 days ahead—best served cold."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy greens—try arugula or spinach!",
+  "image": "not_your_moms_macaroni_salad_1036x583.jpg",
+  "thumbnail": "not_your_moms_macaroni_salad_1036x583.webp",
+  "products": [
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

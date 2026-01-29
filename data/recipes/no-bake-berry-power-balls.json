@@ -1,0 +1,129 @@
+{
+  "name": "No Bake Berry Power Balls",
+  "slug": "no-bake-berry-power-balls",
+  "description": "Roll into lunchtime with a lunchbox snack that your kids will love! These power balls are allergen-friendly: nut-free, dairy free, and gluten free (make sure to use certified gluten-free oats).  Made with 5 simple ingredients, this recipe makes a big batch, so pop leftovers in the freezer for an easy grab-and-go snack to keep you or your kids energized, any day of the week.",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dried cranberries",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "or your choice of dried fruit"
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix ",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sunflower seed butter ",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey or maple syrup ",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "24 balls",
+  "preparation": [
+    "In a large bowl, combine oats, cranberries, and dip mix. Stir in seed butter and honey until evenly combined (using your hands works best).",
+    "Using your hands and using 1 heaping tbsp as a guide, form mixture into 24 balls. Press the balls firmly in your hands while forming them. This will help them keep their shape.",
+    "If you have time, chill 20 min until firm. Store in refrigerator up to one week in a sealed container. Or, wrap individually and freeze for up to one month."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 balls",
+    "calories": 250,
+    "fat": 13,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 1,
+    "carbohydrate": 28,
+    "fiber": 3,
+    "sugars": 14,
+    "protein": 6
+  },
+  "tips": [
+    "Add additional mix-ins: try chia seeds, hemp seeds, chocolate chips, or shredded coconut. You may have to increase the amount of liquid sweetener if you find the mix too dry to form balls after adding in more mix-ins."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "no_bake_berry_power_rolls_1036x583.jpg",
+  "thumbnail": "no_bake_berry_power_rolls_1036x583.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    }
+  ]
+}

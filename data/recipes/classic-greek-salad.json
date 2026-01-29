@@ -1,0 +1,186 @@
+{
+  "name": "Classic Greek Salad",
+  "slug": "classic-greek-salad",
+  "description": "Enjoy the wonderful flavours of Greece in one colorful bowl! Packed with fresh vegetables and healthy fats, this Mediterranean wonder is a quick, easy and delicious way to get essential nutrients into your diet.",
+  "ingredients": [
+    {
+      "name": "English cucumbers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "1 pint",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pitted Kalamata olives",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crumbled low-fat feta cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Dressing or Balsamic Vinaigrette",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Greek Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red wine vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "balsamic vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red wine vinegar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Coarsely chop cucumbers, peppers, and onion. Cut tomatoes in half. Place in a large bowl; add olives and cheese.",
+    "In a Cruet, combine dressing mix with oil and red wine vinegar. Shake to mix.",
+    "Pour dressing over veggies; gently stir to mix. Serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 19,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 660,
+    "carbohydrate": 16,
+    "fiber": 4,
+    "sugars": 8,
+    "protein": 8
+  },
+  "tips": [
+    "Pour dressing in the bottom of a salad bowl. Add prepared salad. Cover with a damp cloth and refrigerate up to 3 hours. Toss just before serving."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein and 1 pita.",
+  "image": "1638_Classic_Greek_Salad_1036x583.jpg",
+  "thumbnail": "1638_Classic_Greek_Salad_1036x583.webp",
+  "products": [
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    },
+    {
+      "slug": "balsamic_vinaigrette_dressing_mix",
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "summary": [
+        "Fresh, bright &amp; bold blend of Mediterranean herbs with notes of garlic &amp; rosemary. Our most versatile dressing."
+      ]
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    }
+  ]
+}

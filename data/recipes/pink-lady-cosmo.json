@@ -1,0 +1,92 @@
+{
+  "name": "Pink Lady Cosmo",
+  "slug": "pink-lady-cosmo",
+  "description": "Sip, savor, and indulge! Bursting with sweet, zesty flavors, this drink uses syrup made with herbal tea so it’s perfect for those looking for a skinnier option for their happy hour.",
+  "ingredients": [
+    {
+      "name": "ice cubes",
+      "quantity": null,
+      "additionalInstruction": "to fill shaker"
+    },
+    {
+      "name": "vodka",
+      "quantity": "2 oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "triple sec",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Really Simple Pink Lemonade Herbal Tea infused Syrup",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pink Lemonade Herbal Tea Blend",
+      "quantity": "4 bags",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh lime juice, to taste",
+      "quantity": "2 - 3 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2-inch orange or lime peel/twist",
+      "quantity": null,
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "2 - 3 min",
+  "servings": "1 serving",
+  "preparation": [
+    "Fill a cocktail shaker with ice, then add vodka, triple sec, syrup, and lime juice.",
+    "Shake well, strain, and pour into prepared glasses. Garnish with orange or lime peel/twist."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 0,
+    "carbohydrate": 28,
+    "fiber": 0,
+    "sugars": 27,
+    "protein": 0
+  },
+  "tips": [
+    "Use infused vodka as well as syrup for that extra punch!"
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Pink-Lady-Cosmo-Main.jpg",
+  "thumbnail": "Pink-Lady-Cosmo-Main.webp",
+  "products": [
+    {
+      "slug": "pink_lemonade_herbal_tea_blend",
+      "name": "Pink Lemonade Herbal Tea Blend",
+      "summary": [
+        "A versatile sipper reminiscent of old-time lemonade and packed with thirst-busting citrusy flavour!"
+      ]
+    }
+  ]
+}

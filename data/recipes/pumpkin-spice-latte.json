@@ -1,0 +1,68 @@
+{
+  "name": "Pumpkin Spice Latte",
+  "slug": "pumpkin-spice-latte",
+  "description": "You can now make this favourite, wintry beverage at home for a fraction of the cost of a take-out latte!",
+  "ingredients": [
+    {
+      "name": "Pumpkin Spice Latte Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "2 min",
+  "servings": "1 serving",
+  "preparation": [
+    "In a cup or mug, stir mix with hot water until dissolved.",
+    "Pour milk into a large, microwave-safe measuring cup. Microwave on high 1 min, or until milk starts to bubble. Using Milk Frother or Mini Whisk, beat until frothy.",
+    "Pour frothed milk into cup. Sprinkle with cinnamon, if using."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "halloween",
+      "name": "Halloween"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 90,
+    "fat": 2.5,
+    "saturatedFat": 1.5,
+    "transFat": 0.1,
+    "cholesterol": 10,
+    "sodium": 65,
+    "carbohydrate": 12,
+    "fiber": 0,
+    "sugars": 9,
+    "protein": 4
+  },
+  "tips": [
+    "To make an iced latte, add ice to mug of mix dissolved in hot water and pour 1&frasl;2 cup cold milk over ice. Serve blended, if desired."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "pumpkinspicelatte.Lg.jpg",
+  "thumbnail": "pumpkinspicelatte.webp",
+  "products": []
+}

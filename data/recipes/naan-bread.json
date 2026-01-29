@@ -1,0 +1,128 @@
+{
+  "name": "Naan Bread",
+  "slug": "naan-bread",
+  "description": "Make delicious naan bread easily at home without the added preservatives or additives of store-bought.",
+  "ingredients": [
+    {
+      "name": "warm water",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "quick-rise instant active yeast",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "flour",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salt",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": " Roasted Garlic Aioli Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "plain yogurt",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "melted butter",
+      "quantity": "1-2 tbsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In a bowl, combine water, yeast, and sugar. Stir gently to dissolve sugar. Set aside for 10 minutes.",
+    "Meanwhile, in a large bowl, combine flour, salt, and aioli mix.",
+    "Add oil, yogurt, and yeast mixture.",
+    "Work with your hands to make dough smooth and knead until the dough pulls away from the bowl.",
+    "Turn the dough out onto a floured surface, and begin kneading the dough for 5 more minutes or until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover and set aside in a warm place. Let it rise for about 2 hours, or until it has doubled in size.",
+    "Punch the dough down and cut into 6 pieces. Roll each until they are about 1&frasl;4 inch thick. Set aside.",
+    "Heat a lightly oiled frying pan over medium heat. Place the rolled out dough onto the hot pan and cook 2–3 minutes until the underside is golden brown and large bubbles have formed on the top surface (bubbles will occur only if the pan is kept hot).",
+    "Flip the dough and cook the other side until golden brown as well. Brush with butter, if desired, and serve warm."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 200,
+    "fat": 4.5,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 390,
+    "carbohydrate": 34,
+    "fiber": 2,
+    "sugars": 1,
+    "protein": 5
+  },
+  "tips": [
+    "This bread freezes well, so go ahead and make a big batch and freeze for later.",
+    "Naan is great served with butter chicken, or use for flatbread pizzas and sandwiches."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Naan-Bread-Main.jpg",
+  "thumbnail": "Naan-Bread-Main.webp",
+  "products": [
+    {
+      "slug": "roasted_garlic_aioli_mix",
+      "name": "Roasted Garlic Aioli Mix",
+      "summary": [
+        "A creamy roasted garlic condiment for your burger, sandwich or use as a dip for fries or veg.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

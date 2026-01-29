@@ -1,0 +1,142 @@
+{
+  "name": "No Bake Queso Nachos",
+  "slug": "no-bake-queso-nachos",
+  "description": "When you want queso nachos fast, without using the jarred stuff, try this recipe! These nachos are next level thanks to the Ooey Gooey Queso Hot Dip. We like to think of it as liquid gold, but it’s simply an addictive cheesy sauce with chunks of bell peppers and a bit of kick form chilies and paprika. And the best part? It’s made in the microwave in 5 min.",
+  "ingredients": [
+    {
+      "name": "Ooey Gooey Queso Hot Dip Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium black beans",
+      "quantity": "1 can (398 ml/13 oz)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "beefsteak tomato",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green bell pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tortilla chips",
+      "quantity": "1 bag (275g/10oz)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "12 min",
+  "servings": "8 servings",
+  "preparation": [
+    "In 4-Cup Prep Bowl, whisk dip mix with milk. Microwave uncovered on high 5 min, or until thickened, whisking halfway through. Stir in cheese until melted.",
+    "Meanwhile, drain and rinse black beans. Dice tomato and pepper.",
+    "Lay half the tortilla chips on Sheet Pan. Pour half the queso mixture over chips, and top with half the drained beans and diced veggies. Repeat with remaining ingredients to make a second layer. Serve with toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 340,
+    "fat": 17,
+    "saturatedFat": 6,
+    "transFat": 0.3,
+    "cholesterol": 25,
+    "sodium": 570,
+    "carbohydrate": 37,
+    "fiber": 6,
+    "sugars": 6,
+    "protein": 12
+  },
+  "tips": [
+    "There are no rules to nacho toppings; try switching up your toppings to discover something new!"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup cooked grains and 1 cup chopped veggies.",
+  "image": "No-Bake-Queso-Nachos_1036x583.jpg",
+  "thumbnail": "No-Bake-Queso-Nachos_1036x583.webp",
+  "products": [
+    {
+      "slug": "ooey_gooey_queso_dip_mix__pkg_of_3___1501147_",
+      "name": "Ooey Gooey Queso Dip Mix (Pack of 3)",
+      "summary": [
+        "Just say no to fake cheese and whip up this amazing hot dip for your next get-together or taco night. With a blend of Tex-Mex spices, this real food blend creates a silky-smooth hot dip that’s packed with flavor.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

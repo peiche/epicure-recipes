@@ -1,0 +1,78 @@
+{
+  "name": "Chocolate Pudding",
+  "slug": "chocolate-pudding",
+  "description": "Indulge in pure chocolate bliss with our quickest dessert that will win everyone over, not just the kids! What’s even better? It has less sugar than some store-bought varieties, simple & wholesome ingredients, and it’s customizable. Make it dairy-free by using your choice of plant-based milk.",
+  "ingredients": [
+    {
+      "name": "Chocolate Instant Pudding Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "2 cups",
+      "additionalInstruction": "your choice"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "3 cups",
+  "preparation": [
+    "In a bowl or using an electric mixer on low, beat pudding mix with milk for 2 min.",
+    "Cover and let chill for 10 min before serving. Serve with fresh berries, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1/2 cup",
+    "calories": 100,
+    "fat": 2.5,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 100,
+    "carbohydrate": 18,
+    "fiber": 1,
+    "sugars": 8,
+    "protein": 3
+  },
+  "tips": [
+    "Try with your choice of non-dairy milk. Top with fruit, layer in parfaits, or use in frozen desserts.",
+    "Mexican Chocolate Pudding: Add 1&frasl;2 tsp Cinnamon and a pinch of Chipotle Chili before mixing.",
+    "Mocha Pudding: Replace 1 cup milk with 1 cup chilled coffee."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Chocolate Pudding Lg.jpg",
+  "thumbnail": "Chocolate Pudding Lg.webp",
+  "products": [
+    {
+      "slug": "chocolate_instant_pudding_mix__pack_of_3___caldic__bc2ef56",
+      "name": "Chocolate Instant Pudding Mix (Pack of 2)",
+      "summary": [
+        "Spoon after delicious spoon, satisfy your sweet tooth with a low-calorie chocolate pudding that’s decadent and oh-so-good.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "cinnamon__ground___1701145_",
+      "name": "Cinnamon (Ground)",
+      "summary": [
+        "A simple blend of organic cinnamon that brings the flavor. Great for baking, desserts, egg nog, or enhancing the taste of Middle Eastern and Indian dishes.&nbsp;"
+      ]
+    }
+  ]
+}

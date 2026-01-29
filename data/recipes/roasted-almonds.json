@@ -1,0 +1,81 @@
+{
+  "name": "Roasted Almonds",
+  "slug": "roasted-almonds",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "whole blanched almonds",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Red Garlic Topper Blend or Butcher's Block Sea Salt Blend",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "18 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 350° F.",
+    "Place almonds and olive oil in an ovenproof dish.",
+    "Add topper blend. Toss to coat and bake 15 min, stirring once."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 230,
+    "fat": 21,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 125,
+    "carbohydrate": 7,
+    "fiber": 4,
+    "sugars": 2,
+    "protein": 8
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Butcher-Block-Roasted-Almonds-Main.jpg",
+  "thumbnail": "Butcher-Block-Roasted-Almonds-Main.webp",
+  "products": [
+    {
+      "slug": "red_garlic_topper_blend_c226e69",
+      "name": "Red Garlic Topper Blend",
+      "summary": [
+        "A salt-free, flavorful blend of garlic, red bell pepper, onions, &amp; herbs."
+      ]
+    }
+  ]
+}

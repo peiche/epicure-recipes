@@ -1,0 +1,85 @@
+{
+  "name": "Mexican Salsa Bites",
+  "slug": "mexican-salsa-bites",
+  "description": "A Mexican twist on the classic bruschetta. Perfect for a Mexican fiesta or potluck.",
+  "ingredients": [
+    {
+      "name": "French baguette",
+      "quantity": "12 slices",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup",
+      "additionalInstruction": "drained"
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "shredded"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "12 pieces",
+  "preparation": [
+    "Preheat oven to broil. Lay baguette slices on Sheet Pan lined with Sheet Pan Liner, and lightly spray with olive oil. Broil 2 minutes per side, or until golden.",
+    "Combine tomatoes and Salsa Mix.",
+    "Spoon 1 tbsp onto baguette slices and top with Monterey Jack cheese."
+  ],
+  "tags": [
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 slice",
+    "calories": 110,
+    "fat": 3,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 250,
+    "carbohydrate": 18,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1600807952762-recipeMainImagePath.jpg",
+  "thumbnail": "1600807952762-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chilies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

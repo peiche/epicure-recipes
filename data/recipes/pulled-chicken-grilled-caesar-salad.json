@@ -1,0 +1,142 @@
+{
+  "name": "Pulled Chicken Grilled Caesar Salad",
+  "slug": "pulled-chicken-grilled-caesar-salad",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Pulled Chicken",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> recipe prepared",
+      "additionalInstruction": "about 3 cups"
+    },
+    {
+      "name": "Pulled Chicken Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ketchup",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken",
+      "quantity": "3 lbs (1.5 kg)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "romaine lettuce",
+      "quantity": "4 heads",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "4 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "SPG Seasoning",
+      "quantity": "4 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat grill to medium-high.",
+    "Place pulled chicken in Multipurpose Steamer. Cover and microwave on medium until warmed through, 5–7 min.",
+    "Meanwhile, slice romaine in half lengthwise. Drizzle cut-sides with oil; sprinkle with seasoning.",
+    "Place lettuce on grill, cut-sides down. Cover and grill until lightly charred and slightly wilted, 2 min.",
+    "Place half romaine head on each plate and divide chicken over top. Serve with Parmesan and other toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 220,
+    "fat": 11,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 50,
+    "sodium": 440,
+    "carbohydrate": 11,
+    "fiber": 1,
+    "sugars": 9,
+    "protein": 19
+  },
+  "tips": [
+    "Roast chickpeas until crisp and add them in as “croutons.”"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 slice garlic bread and 1 cup mixed veggies.",
+  "image": "1578004366934-recipeMainImagePath.jpg",
+  "thumbnail": "1578004366934-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "spg_seasoning_5edecfd",
+      "name": "SPG Seasoning",
+      "summary": [
+        "Salt. Pepper. Garlic. Your go-to for chicken, fish, seafood, roasted potatoes, veggies, &amp; even popcorn!"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

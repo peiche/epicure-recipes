@@ -1,0 +1,94 @@
+{
+  "name": "4-Minute Steamer Peanut Butter & Chocolate Popcorn Bars",
+  "slug": "4-minute-steamer-peanut-butter-chocolate-popcorn-bars",
+  "description": "Make ahead for great on-the-go bars.",
+  "ingredients": [
+    {
+      "name": "popcorn kernels",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "almond, peanut or cashew butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> - <sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "1 - 2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "9 bars",
+  "preparation": [
+    "Place popcorn in a Rectangular Steamer, cover with lid, and microwave on high for 2–3 minutes.",
+    "In a bowl, combine nut butter with cocoa powder and honey. Microwave until melted, 30–50 seconds, stirring halfway through.",
+    "Turn popcorn into a bowl and drizzle melted nut butter mixture overtop. Scrape into Rectangular Steamer and press to flatten. Cool completely, then flip out and cut into popcorn bars."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 bar",
+    "calories": 140,
+    "fat": 8,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 5,
+    "carbohydrate": 16,
+    "fiber": 2,
+    "sugars": 9,
+    "protein": 5
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "4-Minute-Silicone-Steamer-Peanut-Butter-Chocolate-Popcorn-Bars-Main.jpg",
+  "thumbnail": "4-Minute-Silicone-Steamer-Peanut-Butter-Chocolate-Popcorn-Bars-Main.webp",
+  "products": []
+}

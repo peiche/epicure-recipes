@@ -1,0 +1,168 @@
+{
+  "name": "Lemon Prawn Risotto ",
+  "slug": "lemon-prawn-risotto",
+  "description": "Join our risotto revolution! Say goodbye to endless stirring and stovetop chaos because today, we're making a creamy and dreamy risotto right in the microwave. In just a few simple steps, you'll be wondering why you ever bothered with the stovetop.",
+  "ingredients": [
+    {
+      "name": "Lemon Orzo Chicken Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth",
+      "quantity": "4 cups prepared",
+      "additionalInstruction": "warmed"
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "arborio rice ",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "uncooked, frozen peeled prawns",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> lb (340 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen peas",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sour cream",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Place seasoning, broth, rice, and butter in Round or Multipurpose Steamer; stir to combine. Cover; microwave on high 8 min.",
+    "Remove from microwave; stir in prawns. Cover; microwave on high for 8 min.",
+    "Remove from microwave; stir in peas. Cover; microwave on high 6 min.",
+    "Fold in sour cream. Top with Parmesan, if desired. Serve warm; risotto will continue to thicken as it cools."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "easter",
+      "name": "Easter"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 400,
+    "fat": 8,
+    "saturatedFat": 5,
+    "transFat": 0.2,
+    "cholesterol": 110,
+    "sodium": 240,
+    "carbohydrate": 60,
+    "fiber": 4,
+    "sugars": 4,
+    "protein": 20
+  },
+  "tips": [
+    "Enjoy risotto hot and fresh—the rice will continue to absorb liquid as it cools so it’s best to serve it immediately."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy greens and 1 tbsp Epicure Dressing.",
+  "image": "lemon-prawn-risotto_1036x583.jpg",
+  "thumbnail": "lemon-prawn-risotto_1036x583.webp",
+  "products": [
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

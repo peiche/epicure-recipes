@@ -1,0 +1,108 @@
+{
+  "name": "Chocolaty Butterfinger Bites",
+  "slug": "chocolaty-butterfinger-bites",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "all-natural peanut butter",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "molasses",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "maple syrup",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vanilla or Chocolate Power Up Protein Blend",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bran flakes",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "crushed"
+    },
+    {
+      "name": "chocolate chips",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "all-natural peanut butter",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "15 min + 1 hour chill time",
+  "servings": "24 servings",
+  "preparation": [
+    "In a large bowl, combine all bar ingredients and shape into little mini bites.",
+    "Freeze on a 1&frasl;4 Sheet Pan lined with 1&frasl;4 Sheet Pan Liner for 30 min, or until firm.",
+    "In a microwave safe bowl, combine chocolate and peanut butter. Cook on low heat at 30-second intervals in the microwave until melted. Dip the chilled bars into the chocolate to coat or drizzle. Top with sea salt, if desired. Refrigerate until firm, 30 min. Keep refrigerated until ready to serve."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 bite",
+    "calories": 110,
+    "fat": 6,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 50,
+    "carbohydrate": 11,
+    "fiber": 2,
+    "sugars": 6,
+    "protein": 4
+  },
+  "tips": [
+    "Can store in the freezer until desired."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "chocolate-butterfinger-bites_1036x583.jpg",
+  "thumbnail": "chocolate-butterfinger-bites_1036x583.webp",
+  "products": [
+    {
+      "slug": "n1_4_sheet_pan_liner__set_of_2___1711227_",
+      "name": "1/4 Sheet Pan Liner (Set of 2)",
+      "summary": [
+        "Easy to clean, nonstick, silicone mat with raised edges.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_7a23ca1",
+      "name": "1/4 Sheet Pan (Set of 2)",
+      "summary": [
+        "Smaller size than a standard sheet pan for easy handling."
+      ]
+    }
+  ]
+}

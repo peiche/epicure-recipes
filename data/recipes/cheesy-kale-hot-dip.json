@@ -1,0 +1,115 @@
+{
+  "name": "Cheesy Kale Hot Dip",
+  "slug": "cheesy-kale-hot-dip",
+  "description": "Transform kale into an irresistible dip.",
+  "ingredients": [
+    {
+      "name": "kale",
+      "quantity": "6 cups",
+      "additionalInstruction": "finely chopped, or baby kale"
+    },
+    {
+      "name": "Spinach Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% plain Greek yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Parmesan or Asiago",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "grated"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "3 cups",
+  "preparation": [
+    "Preheat oven to 400° F (205° C).",
+    "Place kale in a Multipurpose Steamer. Sprinkle with dip mixes, cover, and microwave on high for 3 minutes, or until kale is wilted.",
+    "Using a blender, blend kale with remaining ingredients.",
+    "Spoon into a heat-proof serving dish. Bake for 15 minutes, or until melty and bubbling on the edges."
+  ],
+  "tags": [
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 60,
+    "fat": 4,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 100,
+    "carbohydrate": 3,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Cheesy-Kale-Hot-Dip-Main.jpg",
+  "thumbnail": "Cheesy-Kale-Hot-Dip-Main.webp",
+  "products": [
+    {
+      "slug": "spinach_dip_mix_6ea8908",
+      "name": "Spinach Dip Mix",
+      "summary": [
+        "Punchy blend with onion &amp; sweet bell pepper."
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

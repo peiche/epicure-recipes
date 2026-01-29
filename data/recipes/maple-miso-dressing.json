@@ -1,0 +1,99 @@
+{
+  "name": "Maple Miso Dressing",
+  "slug": "maple-miso-dressing",
+  "description": "This magic sauce will take your salads, grilled veggies, and meats to the next level! Sweet maple and earthy miso unite to create a delish balance of flavours that’s versatile enough to be used as a dressing, dip or marinade. A key ingredient in this dressing is tahini, a smooth paste made from ground sesame seeds. Find it in the international aisle or natural foods section of most grocery stores. Thank you, Jocelyn Schmelter, for this recipe!",
+  "ingredients": [
+    {
+      "name": "tahini",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Maple Miso Marinade Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice vinegar",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "maple syrup",
+      "quantity": "1 - 2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sesame oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "3 minutes",
+  "servings": "4 servings",
+  "preparation": [
+    "In small bowl, combine tahini, marinade mix, rice vinegar, maple syrup, and sesame oil."
+  ],
+  "tags": [
+    {
+      "slug": "community_recipe",
+      "name": "Community Recipe"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 120,
+    "fat": 9,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 50,
+    "carbohydrate": 7,
+    "fiber": 2,
+    "sugars": 4,
+    "protein": 3
+  },
+  "tips": [
+    "This dressing is delicious poured over chicken or salad."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "maple_miso_dressing_1036x583.jpg",
+  "thumbnail": "maple_miso_dressing_1036x583.webp",
+  "products": [
+    {
+      "slug": "sweet___salty_marinade_mix",
+      "name": "Maple Miso Marinade Mix",
+      "summary": [
+        "Where sweet maple meets earthy miso for a sweet and salty blend you'll want to use on everything!"
+      ]
+    }
+  ]
+}

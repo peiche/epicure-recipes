@@ -1,0 +1,137 @@
+{
+  "name": "Teriyaki Chicken Kebabs",
+  "slug": "teriyaki-chicken-kebabs",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 lb (450 g) ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Teriyaki Dry Glaze or Montreal Steak Rub",
+      "quantity": "4 tbsp ",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp ",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "yellow peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small onion",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Red Pepper Jelly",
+      "quantity": "2 tbsp ",
+      "additionalInstruction": "honey, or maple syrup"
+    },
+    {
+      "name": "low sodium soy sauce",
+      "quantity": "2 tbsp ",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat grill to medium-high.",
+    "Cut chicken into cubes. In bowl, combine 2 tbsp dry glaze and 1 tbsp oil. Add chicken; stir to evenly coat.",
+    "Cut peppers and onion into 1” cubes. Thread meat and vegetables onto skewers.",
+    "Place skewers on grill; rotate often until lightly charred and chicken is cooked through, 8–10 min.",
+    "Meanwhile, in a bowl stir together 2 tbsp dry glaze, jelly, soy sauce, and 1 tbsp oil.",
+    "Place skewers onto a large platter; drizzle with sauce."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 11,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 85,
+    "sodium": 410,
+    "carbohydrate": 17,
+    "fiber": 2,
+    "sugars": 11,
+    "protein": 28
+  },
+  "tips": [
+    "Double this recipe and use leftovers for meal prepping."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup mixed greens and 1&frasl;2 cup cooked grain.",
+  "image": "thumbnail.jpg",
+  "thumbnail": "thumbnail.webp",
+  "products": [
+    {
+      "slug": "red_pepper_jelly",
+      "name": "Red Pepper Jelly (new)",
+      "summary": [
+        "A sweet red pepper flavor with a mild heat from cayenne.&nbsp;"
+      ]
+    },
+    {
+      "slug": "grill_boss_skewers__set_of_6___1701226_",
+      "name": "Grill Boss Skewers (Set of 6)",
+      "summary": [
+        "Start grilling up praise-worthy meals&nbsp;this season with these made-to-last reusable skewers!"
+      ]
+    }
+  ]
+}

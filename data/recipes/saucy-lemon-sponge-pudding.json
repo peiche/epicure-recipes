@@ -1,0 +1,82 @@
+{
+  "name": "Saucy Lemon Sponge Pudding",
+  "slug": "saucy-lemon-sponge-pudding",
+  "description": "This is the English-style pudding, not the American style. Light sponge on top with a delicious custardy sauce underneath.",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "quantity": "3",
+      "additionalInstruction": null
+    },
+    {
+      "name": "granulated sugar",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemons",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "at room temperature"
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk, or cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "all-purpose flour",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salt",
+      "quantity": "<sup>1</sup>&frasl;<sub>8</sub> tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "45 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 350˚ F (180˚ C). Butter Prep Bowls.",
+    "Place egg whites in a large bowl. Using an electric mixer, beat whites until foamy. While mixing, gradually add 2 tbsp sugar and beat until stiff peaks form. Set aside.",
+    "Finely grate 1 tbsp peel from lemons, then squeeze 1&frasl;3 cup juice. Set aside.",
+    "In another bowl, using an electric mixer, beat butter with remaining sugar until light and fluffy. Beat in egg yolks, one at a time, then beat in vanilla extract and lemon peel.",
+    "Add flour and salt and beat just until mixed. Then gradually beat in lemon juice and milk.",
+    "Stir one quarter of egg whites into batter, then gently fold in remaining egg whites until no streaks remain. Divide batter between Prep Bowls and fill right to rims.",
+    "Place Prep Bows in a baking dish. Pour in enough hot water to halfway up sides of Bowls. Bake until golden and puffy, about 30–35 minutes. Carefully remove Prep Bowls from water. Serve warm."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 350,
+    "fat": 16,
+    "saturatedFat": 9,
+    "transFat": 0.4,
+    "cholesterol": 175,
+    "sodium": 85,
+    "carbohydrate": 49,
+    "fiber": 0,
+    "sugars": 37,
+    "protein": 8
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Saucy-Lemon-Sponge-Pudding-Main.jpg",
+  "thumbnail": "Saucy-Lemon-Sponge-Pudding-Main.webp",
+  "products": []
+}

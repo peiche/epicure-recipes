@@ -1,0 +1,76 @@
+{
+  "name": "Tuscan Herb Risotto",
+  "slug": "tuscan-herb-risotto",
+  "description": "Risotto gets a bad rap for being a tedious and tricky side dish. We’re here to say, “No more!” All you need are a few ingredients, 20 minutes, and a microwave—no culinary skills required. This mix swaps out traditional Arborio rice for whole grain, tricolour quinoa, packing in extra fibre to keep you fuller for longer.",
+  "ingredients": [
+    {
+      "name": "Tuscan Herb Risotto Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen peas",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter or olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "21 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Round or Multipurpose Steamer, stir mix with hot water. Cover; microwave on high 17 min, or until tender.",
+    "Remove from microwave; stir in peas and butter. Cover; let stand 3 min, or until excess liquid is absorbed."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "1⁄2 cup",
+    "calories": 170,
+    "fat": 6,
+    "saturatedFat": 2.5,
+    "transFat": 0.2,
+    "cholesterol": 10,
+    "sodium": 230,
+    "carbohydrate": 25,
+    "fiber": null,
+    "sugars": 3,
+    "protein": 6
+  },
+  "tips": [
+    "To make on the stovetop, add Tuscan Herb Risotto Mix and 2 cups hot water to a medium saucepan. Cover; bring to a boil, then reduce the heat to low. Simmer until quinoa is tender, about 30 min. Stir in peas and butter. Let stand, uncovered, for 5 min."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein, and 2 cups leafy greens with 1 tbsp Epicure Dressing.",
+  "image": "tuscan_herb_risotto_1036x583.jpg",
+  "thumbnail": "tuscan_herb_risotto_1036x583.webp",
+  "products": [
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "tuscan_herb_risotto_mix__pack_of_2_",
+      "name": "Tuscan Herb Risotto Mix (Pack of 3)",
+      "summary": [
+        "Everyone has one dish that they find daunting to make, and for many, that’s risotto. It’s easy to overcook or undercook it and end up with a disaster on your plate – until now. Master your Italian cooking skills by cooking rich and creamy risotto in the microwave – no pot to watch or constant stirring here! – in less than 20 minutes! Perfect for a date night at home or anytime you want to level up a weeknight dinner.&nbsp;"
+      ]
+    }
+  ]
+}

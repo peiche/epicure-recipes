@@ -1,0 +1,115 @@
+{
+  "name": "Witch Finger Cookies",
+  "slug": "witch-finger-cookies",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Shortbread Cookies Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "water",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Red Pepper Jelly",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "slivered almonds",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Preheat oven to 375° F. Line Sheet Pan with Sheet Pan Liner.",
+    "Using a stand mixer (with paddle attachment) or hand mixer, beat mix with butter and water on medium speed for 2–3 min or until a soft, uniform dough forms. It should not look crumbly.",
+    "Scoop dough into 12 equal portions. Roll each cookie out into a finger shape and arrange on pan 1\" apart. Use the edge of a silicone spatula to make two sets of knuckle indents on each. Using your finger, press down on one end to make a small indent. Spread red pepper jelly on the indent and place an almond sliver ‘fingernail’ on top.",
+    "Bake 15–16 min or until edges are light golden. Let cool on pan completely before carefully removing with silicone spatula."
+  ],
+  "tags": [
+    {
+      "slug": "halloween",
+      "name": "Halloween"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cookie",
+    "calories": 130,
+    "fat": 8,
+    "saturatedFat": 5,
+    "transFat": 0.4,
+    "cholesterol": 20,
+    "sodium": 40,
+    "carbohydrate": 14,
+    "fiber": 1,
+    "sugars": 5,
+    "protein": 1
+  },
+  "tips": [
+    "The almonds might slip off during baking. Using a spoon or spatula, carefully push them back into place while the cookies cool."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Witch Finger Cookies_1036x583.jpg",
+  "thumbnail": "Witch Finger Cookies_1036x583.webp",
+  "products": [
+    {
+      "slug": "shortbread_cookies_mix__2pk_",
+      "name": "Shortbread Cookie Mix (2pk)",
+      "summary": [
+        "We’re taking Shortbread Cookies beyond the holiday season and making them an everyday delight because they are just too good to only be enjoyed once a year! Our gluten free baking mix is a dream to work with. Just add butter and water (and salt, if you like) and stir it up! It’s super easy to work with and a great way to get kids involved in baking without a ton of mess — and the cookies turn out perfectly each and every time.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "red_pepper_jelly",
+      "name": "Red Pepper Jelly (new)",
+      "summary": [
+        "A sweet red pepper flavor with a mild heat from cayenne.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

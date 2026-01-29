@@ -1,0 +1,155 @@
+{
+  "name": "Coconut Lime Soup",
+  "slug": "coconut-lime-soup",
+  "description": "You don’t normally think of hot soup as refreshing, but this one ticks that box! It’s tangy, a little creamy, and filled with nutrient-packed veggies & healthy beans.",
+  "ingredients": [
+    {
+      "name": "low-sodium broth",
+      "quantity": "3 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "bell pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium sweet potato",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cannellini beans",
+      "quantity": "2 cans (14 oz/398 ml each)",
+      "additionalInstruction": "or white beans of your choice"
+    },
+    {
+      "name": "Crispy & Crunchy Lettuce Wrap Seasoning or Chicken Fried Rice Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light coconut milk",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "spinach",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Pot set over high heat, add broth and cover.",
+    "Meanwhile, dice pepper and sweet potato. Drain and rinse beans.",
+    "To pot, add pepper, sweet potato, beans, seasoning, and coconut milk. Cover, bring to a simmer, and let cook for 10 min, or until sweet potatoes are tender.",
+    "Meanwhile, dice cucumber.",
+    "Remove pot from heat. Stir in spinach, one cup at a time, until wilted. Using 2-in-1 Citrus Press, squeeze in juice from lime.",
+    "Ladle into bowls; serve with diced cucumber on top."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 380,
+    "fat": 9,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 260,
+    "carbohydrate": 57,
+    "fiber": 15,
+    "sugars": 9,
+    "protein": 21
+  },
+  "tips": [
+    "Try prepared Nourish or Vegetable Broth for a tasty, sodium conscious base for this soup."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy greens and 1 tbsp Epicure Salad Dressing, your choice.",
+  "image": "june_coconut_curry_lime_soup_1036x583.jpg",
+  "thumbnail": "june_coconut_curry_lime_soup_1036x583.webp",
+  "products": [
+    {
+      "slug": "ginger_pork_lettuce_wrap_seasoning__pkg_of_3_",
+      "name": "Crispy & Crunchy Lettuce Wrap Seasoning (Pack of 3)",
+      "summary": [
+        "Enjoy a garlic &amp; ginger taste with your choice of protein. Makes 8 sets of 2 stacked lettuce leaves.&nbsp;"
+      ]
+    },
+    {
+      "slug": "chicken_fried_rice_seasoning__pkg_of_3_",
+      "name": "Chicken Fried Rice Seasoning (Pkg of 3)",
+      "summary": [
+        "Plain white rice has its place at the table, but when it’s time to kick dinner up a notch, Chicken Fried Rice is the answer. Make a mountain of crispy fragrant rice – with notes of garlic, ginger, chives, and chillies – packed with protein and amplified by crunchy coleslaw.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Maple Eggnog Latte",
+  "slug": "maple-eggnog-latte",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "organic cane or palm sugar",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Eggnog Spice",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Eggnog Syrup",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "freshly brewed coffee or 2 shots espresso",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sweet Maple Topper",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "2 servings",
+  "preparation": [
+    "In Multipurpose Pot - 8 cup, bring water to a boil. Stir in sugar until dissolved, then stir in spice. Reduce heat to medium; simmer for 7 min. Syrup will thicken as it cools. Makes about 2&frasl;3 cup syrup. If making ahead, cover and refrigerate up to 1 week.",
+    "Pour milk and 1 tbsp syrup into Multipurpose Pot; bring to a boil over high heat. Using a whisk or frother, froth milk until foamy.",
+    "Divide hot coffee between warm mugs or thick-walled glasses; top with frothed milk. Shake on topper, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "epic_life_beverages",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 40,
+    "fat": 1,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 35,
+    "carbohydrate": 5,
+    "fiber": 0,
+    "sugars": 2,
+    "protein": 2
+  },
+  "tips": [
+    "Make-Ahead Tip: Prepare syrup, then cool and refrigerate up to 1 week."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1598973124886-recipeMainImagePath.jpg",
+  "thumbnail": "1598973124886-recipeMainImagePath.webp",
+  "products": []
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Iced Latte",
+  "slug": "iced-latte",
+  "description": "When an iced coffee craving happens, you will be ready. Make coffee in a French Press and freeze into ice cubes in an Iceberg Mold for 4 hours.",
+  "ingredients": [
+    {
+      "name": "unsweetened coconut milk",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coffee ice cubes",
+      "quantity": "2",
+      "additionalInstruction": "made in the Iceberg Mold (large cubes)"
+    },
+    {
+      "name": "Cocoa Crunch Whole Food Topper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "11 min",
+  "servings": "1 serving",
+  "preparation": [
+    "Heat milk in the microwave for 1 minute. Froth in a milk frother.",
+    "Place coffee ice cubes in a tall glass. Pour frothed milk on top.",
+    "Top with whole food sprinkle to taste and enjoy!"
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 160,
+    "fat": 16,
+    "saturatedFat": 14,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 45,
+    "carbohydrate": 5,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Iced-Latte-Main.jpg",
+  "thumbnail": "Iced-Latte-Main.webp",
+  "products": []
+}

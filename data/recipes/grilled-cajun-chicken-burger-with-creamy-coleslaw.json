@@ -1,0 +1,151 @@
+{
+  "name": "Grilled Cajun Chicken Burger with Creamy Coleslaw",
+  "slug": "grilled-cajun-chicken-burger-with-creamy-coleslaw",
+  "description": "Southwestern Cajun-spiced grilled chicken burgers loaded with crispy coleslaw are sure to be a Friday night favourite. Made with a handful of ingredients in less than 15 minutes. We love the healthy convenience of coleslaw mix. Low-carb, high-fibre cabbage adds crunch and keeps you fuller longer.",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (675 g)",
+      "additionalInstruction": "about 3"
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cajun Fries Seasoning or Chipotle Aioli Mix",
+      "quantity": "1 tbsp + 1 tsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "coleslaw mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg (397 g/14 oz)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise or plain 2% Greek yogurt",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "burger buns",
+      "quantity": "6",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat grill to medium-high heat. Lightly brush with oil.",
+    "Place one hand on one chicken breast and press down firmly. Curve fingers up slightly for safety. Using other hand, carefully slice meat horizontally. Repeat with remaining chicken. You should have six pieces in total.",
+    "Place chicken in a large bowl. Add oil and 1 tbsp seasoning; toss to evenly coat.",
+    "Grill chicken with lid closed, 3–4 min per side, or until cooked through.",
+    "Meanwhile, in a large bowl, toss coleslaw with remaining seasoning, mayonnaise, and vinegar.",
+    "Toast buns, if desired. Tuck chicken into buns; top with coleslaw and additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 350,
+    "fat": 11,
+    "saturatedFat": 1.5,
+    "transFat": 0.1,
+    "cholesterol": 85,
+    "sodium": 500,
+    "carbohydrate": 29,
+    "fiber": 2,
+    "sugars": 5,
+    "protein": 26
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup chopped veggies and 1 1&frasl;4 cup prepared Guacamole.",
+  "image": "cajun_chicken_burger_coleslaw_1036x583.jpg",
+  "thumbnail": "cajun_chicken_burger_coleslaw_1036x583.webp",
+  "products": [
+    {
+      "slug": "cajun_fries_seasoning",
+      "name": "Cajun Fries Seasoning",
+      "summary": [
+        "We love to make our taste buds dance with this <strong>Cajun Fries Seasoning</strong>. This blend of premium herbs and spices creates an earthy, piquant flavour that tastes great and packs a punch. It's perfect for anyone who wants to add excitement and heat to their favourite snack. Sprinkle as much or as little as you like over your spuds for a healthy alternative to restaurant fries with added seasonings.&nbsp;"
+      ]
+    },
+    {
+      "slug": "chipotle_aioli_mix",
+      "name": "Chipotle Aioli Mix",
+      "summary": [
+        "Medium-spicy Southwestern flavor with noteworthy chipotle chili and smoked paprika. A crowd-pleasing condiment for your burgers, fries, fish tacos, burritos and anything else that needs a little extra kick.&nbsp;"
+      ]
+    }
+  ]
+}

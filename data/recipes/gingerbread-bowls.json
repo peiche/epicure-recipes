@@ -1,0 +1,129 @@
+{
+  "name": "Gingerbread Bowls  ",
+  "slug": "gingerbread-bowls",
+  "description": "Thank you, Jenn Nguyen, for this recipe. Make your next party fa-la-la-la-fabulous with these individual dessert bowls! Gingerbread cookies have a special place in our holiday hearts, but we’re taking it up a notch this year with a delightful twist on tradition. Plus, these are totally gluten- and nut- free so more people can enjoy the merry magic. It’s the most wonderful time of the year!",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fancy molasses",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Gingerbread Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whipping cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "icing sugar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Gingerbread Spices",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "45 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 350° F. Line 1&frasl;4 Sheet Pan with 1&frasl;4 Sheet Pan Liner.",
+    "In a large bowl, whisk eggs. Whisk in oil and molasses. Stir in mix. Scrape batter onto pan.",
+    "Bake 15 min, or until golden brown and cooked through. Let cool 10 min, then flip cake onto Cooling Rack. Freeze 10 min.",
+    "Meanwhile, using a hand mixer on medium-high, beat whipping cream, sugar, vanilla, and spices in a large bowl until fluffy.",
+    "Remove cake from the freezer. Using a small gingerbread man cookie cutter, cut out 8 gingerbread shapes.",
+    "Divide cake scraps between 8 bowls. Top with whipped cream and toasted pecans, if desired. Place a gingerbread cutout on each bowl. Add a sprinkle of icing sugar and more pecans, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 390,
+    "fat": 26,
+    "saturatedFat": 8,
+    "transFat": 0,
+    "cholesterol": 80,
+    "sodium": 270,
+    "carbohydrate": 26,
+    "fiber": 2,
+    "sugars": 20,
+    "protein": 5
+  },
+  "tips": [
+    "To toast pecans, heat a small pan over medium-high heat. Add 3&frasl;4 cup pecans to pan and spread them evenly over the surface. Stir every 10 sec until nuts are fragrant, about 3–4 min. Set aside; let cool slightly."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "gingerbread_bowls_1036x583.jpg",
+  "thumbnail": "gingerbread_bowls_1036x583.webp",
+  "products": [
+    {
+      "slug": "n1_4_sheet_pan_liner__set_of_2___1711227_",
+      "name": "1/4 Sheet Pan Liner (Set of 2)",
+      "summary": [
+        "Easy to clean, nonstick, silicone mat with raised edges.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_7a23ca1",
+      "name": "1/4 Sheet Pan (Set of 2)",
+      "summary": [
+        "Smaller size than a standard sheet pan for easy handling."
+      ]
+    },
+    {
+      "slug": "cooling_rack__set_of_2___1701277_",
+      "name": "Cooling Rack (Set of 2)",
+      "summary": [
+        "These space-saving cooling racks are an absolute must-have for every at-home baker or chef.&nbsp;"
+      ]
+    }
+  ]
+}

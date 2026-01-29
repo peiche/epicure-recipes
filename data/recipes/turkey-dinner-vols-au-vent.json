@@ -1,0 +1,117 @@
+{
+  "name": "Turkey Dinner Vols-au-vent",
+  "slug": "turkey-dinner-vols-au-vent",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "frozen Tenderflake Patty Shells (6 shells)",
+      "quantity": "1 box (300 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "packed leftover stuffing",
+      "quantity": "1 cup",
+      "additionalInstruction": "warmed"
+    },
+    {
+      "name": "frozen peas, cooked, or leftover diced cooked vegetables",
+      "quantity": "1 cup",
+      "additionalInstruction": "warmed"
+    },
+    {
+      "name": "diced cooked turkey",
+      "quantity": "2 cups",
+      "additionalInstruction": "warmed"
+    },
+    {
+      "name": "cranberry sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Savoury Herb Gravy",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Savoury Herb Gravy Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cold water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "23 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Place vol-au-vents (patty shells) on a Sheet Pan and bake according to package directions.",
+    "Divide stuffing between vol-au-vents. Divide and spoon in peas and turkey.",
+    "Place on plates, spoon cranberry sauce overtop and drizzle with prepared Gravy."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 400,
+    "fat": 20,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 40,
+    "sodium": 280,
+    "carbohydrate": 34,
+    "fiber": 2,
+    "sugars": 6,
+    "protein": 20
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Turkey-Dinner-Vols-au-vent-Main.jpg",
+  "thumbnail": "Turkey-Dinner-Vols-au-vent-Main.webp",
+  "products": [
+    {
+      "slug": "savory_herb_gravy_mix__1701172_",
+      "name": "Savoury Herb Gravy Mix",
+      "summary": [
+        "This better-for-you gravy mix is sure to be a hit at Thanksgiving dinner! A vegan, low-sodium blend that’s still packed with flavour. &nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

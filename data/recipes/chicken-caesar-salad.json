@@ -1,0 +1,154 @@
+{
+  "name": "Chicken Caesar Salad",
+  "slug": "chicken-caesar-salad",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Rotisserie Chicken",
+      "quantity": "2 cups",
+      "additionalInstruction": "cooked, or 2-19 oz cans white navy beans"
+    },
+    {
+      "name": "whole chicken",
+      "quantity": "3 lbs (1.36 kg)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Rotisserie Chicken Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Caesar Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise or Greek yogurt",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "romaine lettuce",
+      "quantity": "8 cups",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "cucumber",
+      "quantity": "2 cups",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "whole grain or gluten-free croutons",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon",
+      "quantity": "1",
+      "additionalInstruction": "cut into wedges"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Chop cooked Rotisserie Chicken and set it aside.",
+    "In a small mixing bowl, combine salad dressing ingredients and set aside.",
+    "In a large serving bowl, combine chopped chicken, lettuce, chopped cucumber, dressing, and croutons.",
+    "Top with lemon or lime wedges and serve."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 430,
+    "fat": 26,
+    "saturatedFat": 6,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 440,
+    "carbohydrate": 22,
+    "fiber": 5,
+    "sugars": 4,
+    "protein": 27
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Chicken-Caesar-Salad_1036x583.jpg",
+  "thumbnail": "Chicken-Caesar-Salad_1036x583.webp",
+  "products": [
+    {
+      "slug": "rotissiere_chicken_seasoning__pkg_of_3_",
+      "name": "Rotisserie Chicken Seasoning (Pack of 3)",
+      "summary": [
+        "The days&nbsp;of dry oven-roasted chicken that takes forever to&nbsp;make&nbsp;are over!&nbsp;There’s&nbsp;a&nbsp;better way, and&nbsp;it’s&nbsp;quick,&nbsp;juicy, and oh-so-tasty&nbsp;with&nbsp;Rotisserie Chicken&nbsp;Seasoning.&nbsp;In&nbsp;20&nbsp;minutes, you&nbsp;can cook a&nbsp;whole&nbsp;chicken&nbsp;in the microwave&nbsp;using the&nbsp;<a data-item-id=\"38e9c45d-465e-4a8b-8c16-5f437f361347\" href=\"\">Round&nbsp;Steamer</a>.&nbsp;With&nbsp;a&nbsp;flavour&nbsp;that outshines the store-bought kin —free of unnecessary&nbsp;additives and&nbsp;too&nbsp;much sodium—Rotisserie Chicken is so fast and easy it’s perfect for any night of the week!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "caesar_dressing_mix_e72947d",
+      "name": "Caesar Dressing Mix",
+      "summary": [
+        "This dressing is a little bit of magic: It’s rich, creamy, full of flavor, and it has zero sodium! Take it far beyond Caesar salad and use it as a sauce for pizza, a dip for veggies, chicken fingers, and zucchini fries, or mix it in your white pasta sauce.&nbsp;Simply mix the blend with mayo or Greek yogurt, lemon juice, olive oil, and milk, and it’s ready for anything!&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

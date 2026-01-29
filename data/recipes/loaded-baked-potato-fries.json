@@ -1,0 +1,166 @@
+{
+  "name": "Loaded Baked Potato Fries",
+  "slug": "loaded-baked-potato-fries",
+  "description": "It's going to be messy and delicious.",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "quantity": "4 - 6",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "sour cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Ranch Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "SPG or CCB Dip Mix",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "green onions",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "55 min",
+  "servings": "6 servings ",
+  "preparation": [
+    "Preheat oven to 400° F (200° C).",
+    "Cut potatoes into thick steak-cut slices. Place on a Sheet Pan lined with a Sheet Pan Liner.",
+    "Drizzle with olive oil and lightly toss using a Grip & Grab. Sprinkle with salt and pepper, to taste.",
+    "Bake for 40 minutes or until crispy.",
+    "In a bowl, whisk sour cream, milk, and Creamy Ranch Dip Mix. Drizzle on potatoes.",
+    "Sprinkle with toppings.",
+    "Set oven to broil. Place loaded fries under the broiler for a few seconds to melt cheese."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 430,
+    "fat": 20,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 25,
+    "sodium": 380,
+    "carbohydrate": 48,
+    "fiber": 5,
+    "sugars": 5,
+    "protein": 15
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Loaded-Baked-Potato-Fries-Main.jpg",
+  "thumbnail": "Loaded-Baked-Potato-Fries-Main.webp",
+  "products": [
+    {
+      "slug": "creamy_ranch_dip_mix_7cfe081",
+      "name": "Creamy Ranch Dip Mix",
+      "summary": [
+        "Go beyond your classic ranch dressing and create spreads, dips, or seasonings with this versatile blend!&nbsp;"
+      ]
+    },
+    {
+      "slug": "spg_seasoning_5edecfd",
+      "name": "SPG Seasoning",
+      "summary": [
+        "Salt. Pepper. Garlic. Your go-to for chicken, fish, seafood, roasted potatoes, veggies, &amp; even popcorn!"
+      ]
+    },
+    {
+      "slug": "ccb_dip_mix_b61a530",
+      "name": "CCB Dip Mix",
+      "summary": [
+        "Irresistible flavors of smoky bacon (plant-based), real Parmesan &amp; chives.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

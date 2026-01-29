@@ -1,0 +1,144 @@
+{
+  "name": "Chicken Mac & Cheese",
+  "slug": "chicken-mac-cheese",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "bite-sized pasta",
+      "quantity": "2 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "chopped broccoli florets",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": " boneless, skinless chicken",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": "cut into strips"
+    },
+    {
+      "name": "3 Onion Dip Mix or Herb & Garlic Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Mac & Cheese Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "14 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Pot, cook pasta according to package directions. Stir in broccoli for last 1 min of cooking.",
+    "While pasta is cooking, combine chicken and dip mix in a Rectangular Steamer. Cover and microwave on high for 4–6 min, or until cooked through.",
+    "Drain pasta and broccoli; return to pot. Stir in milk, seasoning, butter and chicken. Stir to coat."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 330,
+    "fat": 12,
+    "saturatedFat": 6,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 470,
+    "carbohydrate": 26,
+    "fiber": 1,
+    "sugars": 4,
+    "protein": 26
+  },
+  "tips": [
+    "Swap broccoli for cauliflower florets or frozen peas."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup each mixed greens and veggies with 2 tsp Epicure salad dressing.",
+  "image": "6601_Chicken_Mac_&_Cheese_1036x583.jpg",
+  "thumbnail": "6601_Chicken_Mac_&_Cheese_1036x583.webp",
+  "products": [
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, onion &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "mac___cheese_seasoning__pkg_of_3_",
+      "name": "Mac & Cheese Seasoning (Pack of 3)",
+      "summary": [
+        "An all-time best-seller, this is the Mac &amp; Cheese you’ve been craving – and that your kids will LOVE to eat! Creamy, cheesy, and super comforting, it’s free of unnecessary additives and packed with flavour thanks to real cheddar cheese. Take it from the stovetop (or microwave) to the table in under 10 minutes and dig in!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "rectangular_steamer_efd7225",
+      "name": "Rectangular Steamer",
+      "summary": [
+        "Easy to clean. Easy to serve. Rectangular, silicone steamer is perfect for side dishes &amp; desserts."
+      ]
+    }
+  ]
+}

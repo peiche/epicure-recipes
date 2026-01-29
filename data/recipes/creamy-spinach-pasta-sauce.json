@@ -1,0 +1,117 @@
+{
+  "name": "Creamy Spinach Pasta Sauce",
+  "slug": "creamy-spinach-pasta-sauce",
+  "description": "Creamy, rich, and delicious! This sauce is brimming with heart-healthy spinach so you can feel good about having a little more. Try on all of your favourite pastas, chicken, or fish dishes, or even as a base for soup!",
+  "ingredients": [
+    {
+      "name": "Vegetable Broth",
+      "quantity": "1 cup",
+      "additionalInstruction": "or your choice, prepared"
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen spinach",
+      "quantity": "1 pkg (10 oz/284g)",
+      "additionalInstruction": "thawed, chopped and drained"
+    },
+    {
+      "name": "Herb & Garlic Dip Mix or Spinach Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat cream cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "evaporated milk",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "10 - 15 min",
+  "servings": "2 1/2 cups",
+  "preparation": [
+    "Bring broth to a boil in Multipurpose Pot - 8 Cup. Stir in spinach and dip mix. Bring to a simmer.",
+    "Add cream cheese and milk, stirring until smooth.",
+    "Remove from heat. Add Parmesan and stir until melted.",
+    "Season with Black Pepper."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1/4 cup",
+    "calories": 80,
+    "fat": 3.5,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 190,
+    "carbohydrate": 8,
+    "fiber": 1,
+    "sugars": 3,
+    "protein": 5
+  },
+  "tips": [
+    "Using partly-skimmed evaporated milk instead of whipping cream is a great way to reduce fat in recipes."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Creamy-Spinach-Pasta-Sauce-Main.jpg",
+  "thumbnail": "Creamy-Spinach-Pasta-Sauce-Main.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, onion &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "spinach_dip_mix_6ea8908",
+      "name": "Spinach Dip Mix",
+      "summary": [
+        "Punchy blend with onion &amp; sweet bell pepper."
+      ]
+    }
+  ]
+}

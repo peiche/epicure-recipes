@@ -1,0 +1,167 @@
+{
+  "name": "Classic Turkey Noodle Soup",
+  "slug": "classic-turkey-noodle-soup",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Vegetable Broth or Nourish Broth",
+      "quantity": "6 cups",
+      "additionalInstruction": ""
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "celery",
+      "quantity": "1 cup",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "carrot",
+      "quantity": "1 cup",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "broken noodles",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cubed, cooked turkey",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste "
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste "
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a Multipurpose Pot, bring 6 cups prepared broth to a boil over high heat. Reduce heat to medium; stir 1 cup each chopped celery, carrots, cooked turkey, and about 1&frasl;2 cup broken spaghetti noodles. Partially cover and simmer for 10 min."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 190,
+    "fat": 3.5,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 200,
+    "carbohydrate": 18,
+    "fiber": 5,
+    "sugars": 7,
+    "protein": 24
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1597784249628-recipeMainImagePath.jpg",
+  "thumbnail": "1597784249628-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    },
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    },
+    {
+      "slug": "multipurpose_pot___12_c",
+      "name": "Multipurpose Pot - 12 Cup",
+      "summary": [
+        "A 12 cup, multi-use, stainless-steel cooking pot with a lid made of glass, steel &amp; silicone rubber."
+      ]
+    }
+  ]
+}

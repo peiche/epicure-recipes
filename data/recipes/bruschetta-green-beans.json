@@ -1,0 +1,153 @@
+{
+  "name": "Bruschetta Green Beans",
+  "slug": "bruschetta-green-beans",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "fresh green beans",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (675 g)",
+      "additionalInstruction": "trimmed, about 6 cups"
+    },
+    {
+      "name": "large tomato",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Bruschetta Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Place beans in Multipurpose Steamer. Cover; microwave on high 7 min, tossing halfway through.",
+    "Meanwhile, dice tomato; place in a bowl. Stir in seasoning and oil.",
+    "To serve, top beans with bruschetta. Season with salt and pepper, to taste."
+  ],
+  "tags": [
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 60,
+    "fat": 2.5,
+    "saturatedFat": 0.4,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 10,
+    "carbohydrate": 10,
+    "fiber": 4,
+    "sugars": 5,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein and 1&frasl;2 – 1 cup mashed potatoes.",
+  "image": "brushcetta_green_beans_1036x583.jpg",
+  "thumbnail": "brushcetta_green_beans_1036x583.webp",
+  "products": [
+    {
+      "slug": "bruschetta_seasoning",
+      "name": "Bruschetta Seasoning",
+      "summary": [
+        "An aromatic blend of basil, garlic and parsley."
+      ]
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

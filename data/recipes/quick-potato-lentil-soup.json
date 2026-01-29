@@ -1,0 +1,154 @@
+{
+  "name": "Quick Potato Lentil Soup",
+  "slug": "quick-potato-lentil-soup",
+  "description": "Each serving provides one third of your daily fibre requirement, beneficial for heart health, and a whopping 27 g of body-building protein!",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Toasted Onion",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "peeled, diced potatoes",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "celery stalks, chopped",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red lentils",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roasted Red Pepper Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "CCB Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth",
+      "quantity": "8 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "35 - 45 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Combine first 8 ingredients in a Multipurpose Pot. Bring to a boil, reduce heat and simmer over medium-low heat for 20 minutes.",
+    "Season with Salt and Pepper."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 350,
+    "fat": 6,
+    "saturatedFat": 0.4,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 150,
+    "carbohydrate": 54,
+    "fiber": 12,
+    "sugars": 3,
+    "protein": 21
+  },
+  "tips": [
+    "Serve with freshly baked Epicure Focaccia Bread or Epicure Cheddar Herb and Garlic Biscuits."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Quick-Potato-Lentil-Soup-Main.jpg",
+  "thumbnail": "Quick-Potato-Lentil-Soup-Main.webp",
+  "products": [
+    {
+      "slug": "toasted_onion",
+      "name": "Toasted Onion",
+      "summary": [
+        "Sweet flavour of lightly toasted onion."
+      ]
+    },
+    {
+      "slug": "ccb_dip_mix_b61a530",
+      "name": "CCB Dip Mix",
+      "summary": [
+        "<strong>Cheese. Chives. Bacon. </strong>How's that for a totally irresistible trio? Our very own smoky vegetarian bacon, made from pinto beans, is the secret star of this oh-so-yummy dip.",
+        "This blend is all about versatility and we recommend taking it way beyond the dip bowl—use CCB in any dish that could use a little levelling up.&nbsp;"
+      ]
+    },
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    }
+  ]
+}

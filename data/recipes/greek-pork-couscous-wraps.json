@@ -1,0 +1,171 @@
+{
+  "name": "Greek Pork & Couscous Wraps",
+  "slug": "greek-pork-couscous-wraps",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "plain 2% Greek yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": " Lemon Dilly Dip Mix or Greek Dressing Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "uncooked couscous",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "2 cups",
+      "additionalInstruction": "plus more if needed"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herbed Garlic Sea Salt Blend or sea salt",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Roasted Pork Chops",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": "cooked and cut into bite-sized pieces"
+    },
+    {
+      "name": "pork chops",
+      "quantity": "4 (4 oz/112 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Dressing",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "prepared, divided"
+    },
+    {
+      "name": "Greek Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red wine vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium tomatoes",
+      "quantity": "2",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> medium",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "whole-wheat pitas",
+      "quantity": "4",
+      "additionalInstruction": "warmed"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a mixing bowl, using Piano Wire Whisk, whisk Tzatziki ingredients. Store in fridge.",
+    "In a heat-safe bowl, stir couscous with boiling water. Cover and let couscous absorb water, approximately 5 min. Fluff with a fork, and check couscous is cooked to taste. If needed, add another 1&frasl;2 cup boiling water, and allow to absorb. Season with oil and sea salt.",
+    "In a heat-safe dish, reheat pork for approximately 10 minutes in a 350° F oven, or microwave on medium for 5 min.",
+    "To assemble, divide and top each pita with couscous, pork, tomatoes, cucumber, and Tzatziki. Roll up or serve open-faced."
+  ],
+  "tags": [
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 720,
+    "fat": 32,
+    "saturatedFat": 6,
+    "transFat": 0,
+    "cholesterol": 50,
+    "sodium": 660,
+    "carbohydrate": 77,
+    "fiber": 9,
+    "sugars": 6,
+    "protein": 32
+  },
+  "tips": [
+    "If pitas are full to bursting, you may need a knife and fork!",
+    "Gluten-free tip: Swap out couscous for quinoa and gluten-free corn tortillas for pitas."
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "Greek-Pork-Couscous-Wraps-Main.jpg",
+  "thumbnail": "Greek-Pork-Couscous-Wraps-Main.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    },
+    {
+      "slug": "herbed_garlic_sea_salt_blend__grinder_",
+      "name": "Herbed Garlic Sea Salt Blend (Grinder)",
+      "summary": [
+        "Blend of garlic, parsley &amp; sea salt."
+      ]
+    },
+    {
+      "slug": "piano_wire_whisk__1707512_",
+      "name": "Piano Wire Whisk",
+      "summary": [
+        "&nbsp;Whisking and whipping made easy with the <strong>Piano Wire Whisk</strong>.&nbsp;"
+      ]
+    }
+  ]
+}

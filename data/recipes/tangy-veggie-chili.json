@@ -1,0 +1,122 @@
+{
+  "name": "Tangy Veggie Chili",
+  "slug": "tangy-veggie-chili",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced mushrooms",
+      "quantity": "1 pkg (7 oz/200 g) ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red or green pepper",
+      "quantity": "1",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "frozen corn kernels",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low sodium black kidney beans",
+      "quantity": "1 can (19 oz/540 ml)",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "chickpeas",
+      "quantity": "1 can (19 oz/540 ml)",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sundried tomatoes packed in oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "coarsely chopped"
+    },
+    {
+      "name": "Cha Cha Chili Seasoning or Pulled Pork Seasoning",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Heat oil in a fry pan over medium-high; add mushrooms. Cook, stirring frequently 5 min.",
+    "Stir in seasoning, pepper, corn, beans, chickpeas, tomatoes and water; simmer for 10 min or until veggies are tender.",
+    "Spoon into bowls and garnish with toppings, if desired."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 400,
+    "fat": 4.5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 890,
+    "carbohydrate": 72,
+    "fiber": 19,
+    "sugars": 17,
+    "protein": 22
+  },
+  "tips": [
+    "Prep ahead with a double batch of chili; portion and freeze. Defrost in the microwave using a Multipurpose Steamer.",
+    "Swap Cha Cha Chili Seasoning for Chili or Pulled Pork Seasoning."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup mixed greens and 1 tsp Epicure salad dressing.",
+  "image": "6603_Tangy_Veggie_Chili_1036x583.jpg",
+  "thumbnail": "6603_Tangy_Veggie_Chili_1036x583.webp",
+  "products": [
+    {
+      "slug": "chili_seasoning",
+      "name": "Chili Seasoning (1001136)",
+      "summary": [
+        "Make classic, restaurant-quality chili at home with better-for-you ingredients."
+      ]
+    },
+    {
+      "slug": "guacamole_dip_mix_dc7efdb",
+      "name": "Guacamole Dip Mix",
+      "summary": [
+        "An all-natural blend of sweet peppers, garlic, and chilies comes together to create the perfect guacamole––minus the sodium and additives! &nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chillies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "pulled_pork_seasoning__pkg_of_3_",
+      "name": "Pulled Pork Seasoning (Pack of 3)",
+      "summary": [
+        "This seasoning is a shortcut to the south when you’re in the mood for some BBQ! Grab a slow cooker and let the pork slowly infuse with notes of deep, sweet ‘n tangy barbecue and a hint of smokiness. So good!&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

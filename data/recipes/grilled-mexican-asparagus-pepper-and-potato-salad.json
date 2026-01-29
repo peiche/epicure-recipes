@@ -1,0 +1,131 @@
+{
+  "name": "Grilled Mexican Asparagus, Pepper and Potato Salad",
+  "slug": "grilled-mexican-asparagus-pepper-and-potato-salad",
+  "description": "A Mexican-inspired vegetable side dish perfect any night of the week.",
+  "ingredients": [
+    {
+      "name": "Yukon Gold potatoes",
+      "quantity": "2",
+      "additionalInstruction": "cut into wedges"
+    },
+    {
+      "name": "asparagus",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "trimmed and cut into small spears"
+    },
+    {
+      "name": "colourful sweet peppers",
+      "quantity": "2",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Fajita Seasoning or Taco Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Seasoning",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Fill frying pan with water and bring to a boil.",
+    "Add potatoes and boil for 5 minutes, then add asparagus. Pan will be full. Bring back to a boil, then carefully drain.",
+    "Place potatoes, asparagus and peppers in a large bowl. Drizzle with oil and sprinkle with Fajita Seasoning and Vegetable Seasoning. Toss to coat.",
+    "Turn into rectangular mesh grilling pan. Place on barbecue and grill for 3–5 minutes, shaking pan often, until vegetables are lightly charred."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 130,
+    "fat": 4,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 10,
+    "carbohydrate": 21,
+    "fiber": 4,
+    "sugars": 4,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Grilled-Mexican-Asparagus-Pepper-and-Potato-Salad_1036x583.jpg",
+  "thumbnail": "Grilled-Mexican-Asparagus-Pepper-and-Potato-Salad_1036x583.webp",
+  "products": [
+    {
+      "slug": "fajita_seasoning_ceb100c",
+      "name": "Fajita Seasoning",
+      "summary": [
+        "A lively, mild blend for seasoning beef, chicken, or fish fajitas &amp; enchiladas."
+      ]
+    },
+    {
+      "slug": "taco_seasoning__1701317_",
+      "name": "Taco Seasoning (Jar)",
+      "summary": [
+        "Classic Tex-Mex flavor with medium heat."
+      ]
+    },
+    {
+      "slug": "vegetable_seasoning__1701330_",
+      "name": "Vegetable Seasoning",
+      "summary": [
+        "All-in-one herby meal helper. Less measuring &amp; more flavor!"
+      ]
+    }
+  ]
+}

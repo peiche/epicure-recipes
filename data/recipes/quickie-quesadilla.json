@@ -1,0 +1,139 @@
+{
+  "name": "Quickie Quesadilla",
+  "slug": "quickie-quesadilla",
+  "description": "There isn’t much that’s easier to make on a weeknight than quesadillas. Spread your favourite Epicure dip on the tortillas, top with cheese and beans, fold and bake until warm and gooey. Leftovers are great in lunchboxes. Kids love cold pizza, so they’ll love cold quesadillas if they don’t have the option to heat them up at school. Get dunkin’ and serve with Guacamole and Salsa.",
+  "ingredients": [
+    {
+      "name": "flour or corn tortillas, 6\"",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sour cream or plain yogurt",
+      "quantity": "1 cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "1 cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "black beans",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat cheddar cheese",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 400° F (205° C). Arrange tortillas on a Sheet Pan lined with a Sheet Pan Liner.",
+    "Spread dip on half of each of the tortillas. Top with beans and cheese, then fold tortillas over filling.",
+    "Bake for 10 minutes or until cheese has melted and tortillas are starting to turn brown. Cut each quesadilla into wedges and serve."
+  ],
+  "tags": [
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 quesadilla",
+    "calories": 300,
+    "fat": 12,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 740,
+    "carbohydrate": 28,
+    "fiber": 6,
+    "sugars": 1,
+    "protein": 21
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup salsa, 1 cup veggies and 2 tbsp prepared Epicure dip.",
+  "image": "1603139901423-recipeMainImagePath.jpg",
+  "thumbnail": "1603139901423-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

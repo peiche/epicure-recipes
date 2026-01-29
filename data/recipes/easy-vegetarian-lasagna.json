@@ -1,0 +1,137 @@
+{
+  "name": "Easy Vegetarian Lasagna",
+  "slug": "easy-vegetarian-lasagna",
+  "description": "Welcome dinner guests with this deliciously easy, veggie-friendly lasagna.",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "quantity": "4 large",
+      "additionalInstruction": "beaten"
+    },
+    {
+      "name": "low-fat ricotta or cottage cheese",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pizza Seasoning",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce",
+      "quantity": "6 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pre-cooked, oven-ready lasagna noodles",
+      "quantity": "24 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated, partly-skimmed mozzarella cheese",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 10 min",
+  "servings": "16 servings",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Combine eggs, ricotta or cottage cheese, Parmesan and Pizza Seasoning in a large mixing bowl. Set aside.",
+    "In another bowl, mix Marinara Sauce with water – thinning sauce ensures proper re-hydration of pre-cooked noodles during cooking.",
+    "Lightly grease 2 – 9\" x 13\" baking dishes and spread 1&frasl;2 cup sauce in the bottom of each. Layer with 3 lasagna noodles.",
+    "Top with 3&frasl;4 cup sauce and 1&frasl;3 ricotta cheese mixture. Repeat with two more layers of noodles, sauce and cheese mixture.",
+    "Add a final layer of noodles and sauce and top with mozzarella.",
+    "Bake, covered, for 40 minutes, or until mozzarella is melted and sauce is bubbling. Uncover and bake an additional 5 minutes, or until mozzarella is lightly browned.",
+    "Let rest on counter 5 minutes before slicing and serving."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 290,
+    "fat": 8,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 95,
+    "sodium": 490,
+    "carbohydrate": 34,
+    "fiber": 3,
+    "sugars": 5,
+    "protein": 20
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Easy-Vegetarian-Lasagna-Main.jpg",
+  "thumbnail": "Easy-Vegetarian-Lasagna-Main.webp",
+  "products": [
+    {
+      "slug": "pizza_seasoning_2308099",
+      "name": "Pizza Seasoning (1002291)",
+      "summary": [
+        "In a world of complex gastronomy, pizza is a testament to the simple pleasures we all crave. Now you can get it by the spoonful! This blend delivers the nostalgic flavours and feeling of eating pizza, with notes of basil, oregano, garlic, tomato, and green bell peppers with loads of Parmesan. And yes, there is a mild whisper of chilli, too!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavor of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

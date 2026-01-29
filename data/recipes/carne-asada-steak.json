@@ -1,0 +1,111 @@
+{
+  "name": " \nCarne Asada Steak",
+  "slug": "carne-asada-steak",
+  "description": "Carne Asada is Mexican-style grilled steak that has been marinated with the robust flavours of cumin, chipotle peppers, and a whole lotta citrus. These flavours taste even better with a hot char from the grill, so fire it up! Thinly slice and then wrap steak slices in tacos or burritos, make sandwiches in crusty buns with Roasted Garlic Aioli, or lay slices across a bed of spinach with creamy Caesar Dressing. Our Carne Asada Marinade Mix is a hot, fiery blend, so kiddos may want to tame the heat with Guacamole or Greek yogurt.",
+  "ingredients": [
+    {
+      "name": "lean flank or skirt steak ",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub>–2 lbs (675–900 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "orange juice",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Carne Asada Marinade Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil + more for brushing",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 20 mins (includes 1 hour marination)",
+  "servings": "8 servings",
+  "preparation": [
+    "In Multipurpose Steamer, combine orange juice, mix, lime juice, and oil.",
+    "Add steak to steamer; flip to coat. Cover and refrigerate at least 1 hr or marinate overnight. Discard excess marinade before grilling.",
+    "Preheat grill to medium-high. Lightly brush with oil to prevent sticking.",
+    "Grill steak, with lid closed, 6–8 min per side for medium-rare. Let rest 3 min before thinly slicing."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 160,
+    "fat": 9,
+    "saturatedFat": 3,
+    "transFat": 0.2,
+    "cholesterol": 40,
+    "sodium": 125,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 19
+  },
+  "tips": [
+    "Sliced steak can be used in tacos, burritos, salads, rice bowls, and steak sandwiches.",
+    "Marinate your choice of protein, or make it vegan by swapping extra-firm tofu, zucchini, eggplant, or mushrooms for steak."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with multigrain dinner roll and 2 cups leafy greens with 1 tbsp Epicure Dressing.",
+  "image": "Carne-Asada-Steak_1036x583.jpg",
+  "thumbnail": "Carne-Asada-Steak_1036x583.webp",
+  "products": [
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

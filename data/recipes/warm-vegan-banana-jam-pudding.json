@@ -1,0 +1,62 @@
+{
+  "name": "Warm Vegan Banana Jam Pudding",
+  "slug": "warm-vegan-banana-jam-pudding",
+  "description": "A quick and simple healthier dessert.",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "quantity": "4",
+      "additionalInstruction": "cut into chunks"
+    },
+    {
+      "name": "almond milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "raspberry jam",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": "or your choice"
+    },
+    {
+      "name": "Cocoa Crunch Whole Food Topper",
+      "quantity": null,
+      "additionalInstruction": "for garnish"
+    }
+  ],
+  "totalTime": "7 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place first four ingredients in a Rectangular Steamer. Microwave, with lid on, for 2 minutes.",
+    "Remove from microwave and mash with a fork.",
+    "Divide mixture between serving bowls or cups and garnish generously with whole food topper."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 130,
+    "fat": 1.5,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 25,
+    "carbohydrate": 31,
+    "fiber": 4,
+    "sugars": 17,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Warm-Vegan-Banana-Chia-Pudding-Main.jpg",
+  "thumbnail": "Warm-Vegan-Banana-Chia-Pudding-Main.webp",
+  "products": []
+}

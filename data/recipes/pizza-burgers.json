@@ -1,0 +1,145 @@
+{
+  "name": "Pizza Burgers ",
+  "slug": "pizza-burgers",
+  "description": "Pizza? Burger? Why choose! Satisfy two comfort food cravings at once! Whether you’re gearing up for a party or just looking to stock your freezer with some handy dinner options, these Pizza Burgers are the way to go. Not into burgs? Check out the Tip for some other ways to “pizzafy” your dinner.",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "quantity": "3 lbs (1.3 kg)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pizza Seasoning",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cheddar cheese slices",
+      "quantity": "12",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomatoes",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lettuce leaves",
+      "quantity": "12",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced mushrooms",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "burger buns",
+      "quantity": "12",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Preheat grill to medium-high heat. Lightly brush with oil.",
+    "In a large bowl, combine ground beef and seasoning. Using a form or your hands, mix until well blended. Form into 12 equal patties.",
+    "Grill patties with lid closed 3–4 min per side, until cooked through. Add a slice of cheese to each patty for the last 1 min of grilling to melt. If making ahead, freeze cooked patties for up to 1 month.",
+    "Meanwhile, thinly slice tomatoes. If desired, sauté mushrooms in Sauté Pan with 1 tbsp oil over medium-high heat until softened, about 5 min.",
+    "Divide lettuce leaves between buns. Tuck burgers into buns and top with tomatoes and mushrooms."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 440,
+    "fat": 20,
+    "saturatedFat": 9,
+    "transFat": 0.5,
+    "cholesterol": 85,
+    "sodium": 400,
+    "carbohydrate": 30,
+    "fiber": 3,
+    "sugars": 6,
+    "protein": 28
+  },
+  "tips": [
+    "Instead of burger patties, try meatballs or meatloaf:",
+    "PIZZA MEATBALLS: Form ground beef mixture into 36 meatballs (about 2 tbsp each). Bake on two lined Sheet Pans in preheated 425° F oven for 12–15 min, or until cooked through.",
+    "PIZZA MEATLOAF: Working in three batches, press 1&frasl;3 of the ground beef mixture into Rectangular Steamer or 8\" X 4\" silicone loaf pan. Cover and microwave on high 6 min or until internal temperature reaches 160° F. Or, place steamer on Sheet Pan. Bake in preheated 350° F oven for 35–40 min. Repeat two more times with remaining ground beef."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced veggies.",
+  "image": "pizza_burgers_1036x583.jpg",
+  "thumbnail": "pizza_burgers_1036x583.webp",
+  "products": [
+    {
+      "slug": "pizza_seasoning_2308099",
+      "name": "Pizza Seasoning (1002291)",
+      "summary": [
+        "In a world of complex gastronomy, pizza is a testament to the simple pleasures we all crave. Now you can get it by the spoonful! This blend delivers the nostalgic flavors and feeling of eating pizza, with notes of basil, oregano, garlic, tomato, and green bell peppers with loads of Parmesan. And yes, there is a mild whisper of chilli, too!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "rectangular_steamer_efd7225",
+      "name": "Rectangular Steamer",
+      "summary": [
+        "Easy to clean. Easy to serve. Rectangular, silicone steamer is perfect for side dishes &amp; desserts."
+      ]
+    }
+  ]
+}

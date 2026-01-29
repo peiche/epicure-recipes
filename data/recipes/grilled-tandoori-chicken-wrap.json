@@ -1,0 +1,120 @@
+{
+  "name": "Grilled Tandoori Chicken Wrap",
+  "slug": "grilled-tandoori-chicken-wrap",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Tandoori Chicken Curry Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% plain yogurt",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "lime",
+      "quantity": "1",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "about 2 breasts"
+    },
+    {
+      "name": "tomatoes",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small naans",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped romaine lettuce",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat grill to medium-high.",
+    "In a bowl, combine seasoning and 1&frasl;4 cup yogurt. Slice lime in half. Using 2-in-1 Citrus Press, squeeze in juice from half the lime. Squeeze in juice from the other half into another small bowl; set aside.",
+    "Cover chicken with plastic or parchment paper. Using a rolling pin, give the thickest parts of the chicken a few firm whacks. The chicken should have an even thickness from end to end, about 1&frasl;2“ thick. This will help it cook quickly and evenly. Place chicken in bowl with yogurt mixture. Coat well. If you have time, let stand for 10 min to marinate.",
+    "Place on grill. Grill with lid closed for 5–7 min per side. Meanwhile, add remaining 1&frasl;2 cup yogurt to bowl with reserved lime juice. Stir to combine. Dice tomatoes. Slice onion into rings.",
+    "Once chicken is cooked, remove from grill. Lightly brush naan with oil. Grill until lightly charred, about 1–2 min per side.",
+    "Slice chicken. Spread yogurt sauce over naan; divide chicken, tomatoes, onion, and lettuce between each naan. Fold and enjoy!"
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 410,
+    "fat": 9,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 90,
+    "sodium": 430,
+    "carbohydrate": 46,
+    "fiber": 8,
+    "sugars": 7,
+    "protein": 36
+  },
+  "tips": [
+    "Cooking time may vary depending on thickness of your chicken and your grill. To test chicken for doneness, insert an instant read thermometer inserted into the thickest part of the meat. It should register at 165° F."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced veggies.",
+  "image": "5a613ada-cca3-4263-8f86-d99627adfac9_Grilled_Tandoori_Wrap_1036x583.jpg",
+  "thumbnail": "5a613ada-cca3-4263-8f86-d99627adfac9_Grilled_Tandoori_Wrap_1036x583.webp",
+  "products": []
+}

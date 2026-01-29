@@ -1,0 +1,121 @@
+{
+  "name": "Italian Wedding Soup",
+  "slug": "italian-wedding-soup",
+  "description": "This recipe’s name comes from the Italian phrase \"minestra maritata,\" meaning \"married soup.\" Enjoy the perfect pairing of meat and spinach in this easy, delicious soup served at traditional Italian weddings. Buon appetito!",
+  "ingredients": [
+    {
+      "name": "beef broth",
+      "quantity": "8 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bay leaf",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Classic Meatloaf Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef, chicken or turkey",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dry breadcrumbs",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen chopped spinach",
+      "quantity": "1 package (10 oz/300 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "orzo or other bite-sized pasta",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "35-40 min",
+  "servings": "8 cups (8 servings)",
+  "preparation": [
+    "Simmer broth with bay leaf in a Multipurpose Pot - 8 cup.",
+    "While broth is simmering, prepare mini meatballs. Whisk egg and Classic Meatloaf Seasoning. Add meat and breadcrumbs. Roll scant teaspoons of mixture into grape-sized meatballs.",
+    "Drop meatballs into broth, along with spinach and pasta.",
+    "Simmer 10 minutes, or until meatballs are cooked through.",
+    "Sprinkle in Parmesan, gently stir and serve hot."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 90,
+    "fat": 3.5,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 30,
+    "sodium": 110,
+    "carbohydrate": 8,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 8
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Italian-Wedding-Soup-Main.jpg",
+  "thumbnail": "Italian-Wedding-Soup-Main.webp",
+  "products": [
+    {
+      "slug": "classic_meatloaf_seasoning__pkg_of_3_",
+      "name": "Classic Meatloaf Seasoning (Pack of 3)",
+      "summary": [
+        "Traditional home-style meatloaf. Deeply rich beef flavour, dressed up with a tangy, sweet sauce."
+      ]
+    }
+  ]
+}

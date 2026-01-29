@@ -1,0 +1,159 @@
+{
+  "name": "Plant-Based Crispy & Crunchy Lettuce Wraps",
+  "slug": "plant-based-crispy-crunchy-lettuce-wraps",
+  "description": "Thank you, Tracey Van Der Valk, for this plant-based recipe!",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 cups + 1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth Mix or Vegetable Broth Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Crispy & Crunchy Lettuce Wrap Seasoning or Chicken Fried Rice Seasoning",
+      "quantity": "1 pack",
+      "additionalInstruction": null
+    },
+    {
+      "name": "plant-based meat substitute",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced bell peppers",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced frozen mangoes",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sesame oil",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large head iceberg lettuce",
+      "quantity": "1",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Steamer, place rice, 2 cups water and broth mix; cover. Microwave 6 min, then set aside in a separate bowl.",
+    "In Multipurpose Steamer, place seasoning, meat substitute, peppers, mangoes, remaining 1 tbsp water, sesame oil, and soy sauce. Gently mix to combine. Microwave, 6 min.",
+    "Meanwhile, cut lettuce into four wedges, remove stem ends and gently peel the wedge leaves off two at a time to create strong, sturdy, crunchy boats for your filling.",
+    "Layer rice, then protein mixture on lettuce. Top with extra toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "community_recipe",
+      "name": "Community Recipe"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 420,
+    "fat": 3,
+    "saturatedFat": 0.3,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 810,
+    "carbohydrate": 73,
+    "fiber": 9,
+    "sugars": 14,
+    "protein": 28
+  },
+  "tips": [
+    "Swap plant-based meat substitute with 1 can (19 oz/540 ml) chickpeas, drained and rinsed."
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate",
+  "image": "crispy 36.jfif",
+  "thumbnail": "crispy 36.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    },
+    {
+      "slug": "ginger_pork_lettuce_wrap_seasoning__pkg_of_3_",
+      "name": "Crispy & Crunchy Lettuce Wrap Seasoning (Pack of 3)",
+      "summary": [
+        "Enjoy a garlic &amp; ginger taste with your choice of protein. Makes 8 sets of 2 stacked lettuce leaves.&nbsp;"
+      ]
+    },
+    {
+      "slug": "chicken_fried_rice_seasoning__pkg_of_3_",
+      "name": "Chicken Fried Rice Seasoning (Pkg of 3)",
+      "summary": [
+        "Plain white rice has its place at the table, but when it’s time to kick dinner up a notch, Chicken Fried Rice is the answer. Make a mountain of crispy fragrant rice – with notes of garlic, ginger, chives, and chillies – packed with protein and amplified by crunchy coleslaw.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

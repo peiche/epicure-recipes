@@ -1,0 +1,75 @@
+{
+  "name": "Peaches with Spiced Vanilla Syrup",
+  "slug": "peaches-with-spiced-vanilla-syrup",
+  "description": "A great dessert when peaches are in season, or use frozen peach slices to enjoy this recipe year-round.",
+  "ingredients": [
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Apple Pie Spice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large, ripe peaches, halved and pitted",
+      "quantity": "4",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Combine water, sugar, and Apple Pie Spice in a Multipurpose Pot. Bring to a boil over medium heat and simmer until sugar dissolves. Remove from heat and add vanilla extract.",
+    "While syrup is reducing, arrange peaches in a Multipurpose Steamer. Cook on high for 5–7 min.",
+    "Place two peach halves on each dessert plate, drizzle with syrup, and serve."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 90,
+    "fat": 0.2,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 1,
+    "carbohydrate": 22,
+    "fiber": 1,
+    "sugars": 21,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Peaches-with-Spiced-Vanilla-Syrup_1036x583.jpg",
+  "thumbnail": "Peaches-with-Spiced-Vanilla-Syrup_1036x583.webp",
+  "products": [
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

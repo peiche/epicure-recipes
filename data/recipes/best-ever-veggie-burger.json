@@ -1,0 +1,165 @@
+{
+  "name": "Best Ever Veggie Burger",
+  "slug": "best-ever-veggie-burger",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "chickpeas, drained and rinsed",
+      "quantity": "1 can (19 oz/540 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small zucchini",
+      "quantity": "1",
+      "additionalInstruction": "grated"
+    },
+    {
+      "name": "slices sandwich bread",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crunchy peanut or almond butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Big Burger Sauce",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Big Burger Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ketchup",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "relish",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Burger Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "for grilling"
+    },
+    {
+      "name": "buns",
+      "quantity": "4",
+      "additionalInstruction": "split"
+    },
+    {
+      "name": "Poco Picante Salsa",
+      "quantity": " 1 recipe",
+      "additionalInstruction": "prepared, optional"
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "cilantro",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a food processor, or with a masher, combine first six ingredients. Pulse until roughly chopped.",
+    "Form the mixture into four patties. Patties can be stored in the refrigerator for up to two days.",
+    "Heat oil in a frying pan on medium, and pan-fry patties for approximately 5 minutes per side, until crisp and brown on the outside and warmed through.",
+    "Place on bottom halves of buns, then divide sauce over top. Add toppings and top of buns and serve."
+  ],
+  "tags": [
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 450,
+    "fat": 14,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 820,
+    "carbohydrate": 67,
+    "fiber": 13,
+    "sugars": 6,
+    "protein": 18
+  },
+  "tips": [
+    "Draining and rinsing your chickpeas can cut your sodium content by almost half."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Best-Ever-Veggie-Burger-Main.jpg",
+  "thumbnail": "Best-Ever-Veggie-Burger-Main.webp",
+  "products": [
+    {
+      "slug": "burger_seasoning_5d205ac",
+      "name": "Burger Seasoning",
+      "summary": [
+        "A classic blend that pairs well with any type of protein."
+      ]
+    },
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "Vibrant flavors of cayenne, chillies, and garlic come together to create a mouth-watering salsa mix with a bit of a kick.&nbsp;"
+      ]
+    }
+  ]
+}

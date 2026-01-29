@@ -1,0 +1,137 @@
+{
+  "name": "Grown Up Chicken Strips & Matchstick Fries",
+  "slug": "grown-up-chicken-strips-matchstick-fries",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "large russet potato",
+      "quantity": "1",
+      "additionalInstruction": "scrubbed "
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "divided, plus more for brushing"
+    },
+    {
+      "name": "Southern Baked Gluten Free Crumb Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg",
+      "additionalInstruction": "about 1/4 cup"
+    },
+    {
+      "name": "shredded Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breast fillets",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 425° F. Line two 1&frasl;4 Sheet Pans each with a 1&frasl;4 Sheet Pan Liner. Place a Cooling Rack on each pan. Lightly brush with oil.",
+    "Using 4-in-1 Mandoline fitted with the 6.6 mm julienne plate, julienne potato into matchsticks. Pat dry with a kitchen towel; place in a large bowl. Add 1 tbsp oil and toss.",
+    "In another bowl, combine crumb mix and cheese. Sprinkle about 2 tbsp over the potatoes; toss to coat. Spread out in a single layer on one rack as best you can. Place in oven.",
+    "Place chicken in bowl used for potatoes; add remaining 1 tbsp oil and toss. In batches, place chicken in the remaining crumb mixture, tossing to coat and pressing if necessary to cover all sides. Spread out on second rack. Try not to crowd—be sure they have a bit of space between each other.",
+    "Bake until chicken is cooked through and fries are crisp, about 18–25 min."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 320,
+    "fat": 12,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 85,
+    "sodium": 380,
+    "carbohydrate": 22,
+    "fiber": 5,
+    "sugars": 1,
+    "protein": 30
+  },
+  "tips": [
+    "For extra-crispy fries, place cut potato in a large bowl and cover with cold water. Allow to soak for at least 30 min or overnight. This removes excess starch, which helps the potatoes crisp during cooking. Drain, rinse, and pat dry with a kitchen towel before using.",
+    "For extra flavour, coat chicken in prepared Greek Dressing (instead of oil) and then toss in crumb mixture."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced veggies and 2 tbsp 3 Onion Dip.",
+  "image": "Grown-Up-Chicken-Strips-1036x583.jpg",
+  "thumbnail": "Grown-Up-Chicken-Strips-1036x583.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_7a23ca1",
+      "name": "1/4 Sheet Pan (Set of 2)",
+      "summary": [
+        "Smaller size than a standard sheet pan for easy handling."
+      ]
+    },
+    {
+      "slug": "n4_in_1_mandoline_97d6780",
+      "name": "4-in-1 Mandoline",
+      "summary": [
+        "Perfect for cutting thin slices &amp; shredding veggies. 4 slicer settings: 2 slice &amp; 2 julienne options."
+      ]
+    },
+    {
+      "slug": "cooling_rack__set_of_2___1701277_",
+      "name": "Cooling Rack (Set of 2)",
+      "summary": [
+        "These space-saving cooling racks are an absolute must-have for every at-home baker or chef."
+      ]
+    }
+  ]
+}

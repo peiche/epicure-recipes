@@ -1,0 +1,138 @@
+{
+  "name": "Slider Sloppy Joes",
+  "slug": "slider-sloppy-joes",
+  "description": "Small Sloppy Joes are irresistible to both kids and adults.",
+  "ingredients": [
+    {
+      "name": "lean ground beef, turkey, chicken, or soy",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium onion",
+      "quantity": "1",
+      "additionalInstruction": "coarsely chopped"
+    },
+    {
+      "name": "Burger Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomato pasta sauce – your choice",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vinegar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "slider hamburger buns",
+      "quantity": "8",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a frying pan, cook meat and onion over medium-high heat for 5 minutes, stirring frequently.",
+    "Stir in Burger Seasoning, pasta sauce, vinegar, and brown sugar. Reduce heat to medium. Cover and simmer to let flavours blend, approximately 8–10 minutes.",
+    "Place bottoms of buns on plates, then spoon mixture overtop. Cover with top buns."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 330,
+    "fat": 6,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 60,
+    "sodium": 360,
+    "carbohydrate": 39,
+    "fiber": 4,
+    "sugars": 14,
+    "protein": 29
+  },
+  "tips": [
+    "Flavour Changer: Try Epicure Beef & Steak Seasoning, or give it a Mexican twist with Epicure Taco or Fajita Seasoning, instead of Burger Seasoning.",
+    "Serving Suggestion: Joes go great with baked Epicure Oven Fries or our Diner-Style Wedge Salad."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Slider-Sloppy-Joes-Main.jpg",
+  "thumbnail": "Slider-Sloppy-Joes-Main.webp",
+  "products": [
+    {
+      "slug": "fajita_seasoning_ceb100c",
+      "name": "Fajita Seasoning",
+      "summary": [
+        "A lively, mild blend for seasoning beef, chicken, or fish fajitas &amp; enchiladas."
+      ]
+    },
+    {
+      "slug": "beef___steak_seasoning",
+      "name": "Beef & Steak Seasoning",
+      "summary": [
+        "Take simple grilled steaks and oven-roasted beef up a notch! Sprinkle this sodium-free blend liberally to complement the taste of the meat.&nbsp;"
+      ]
+    },
+    {
+      "slug": "taco_seasoning__1701317_",
+      "name": "Taco Seasoning (Jar)",
+      "summary": [
+        "Classic Tex-Mex flavour with medium heat."
+      ]
+    }
+  ]
+}

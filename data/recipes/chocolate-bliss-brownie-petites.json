@@ -1,0 +1,103 @@
+{
+  "name": "Chocolate Bliss Brownie Petites",
+  "slug": "chocolate-bliss-brownie-petites",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "oil, for greasing pan",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chocolate Bliss Brownie Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "30 petites",
+  "preparation": [
+    "Preheat oven to 350° F.",
+    "Place Perfect Petites on a Sheet Pan. Using a basting brush, generously brush with oil.",
+    "In a bowl, whisk eggs with oil. Stir in mix; evenly divide batter in perfect petites.",
+    "Bake for 15–18 min. Cool in pan 5 min, then pop out."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "halloween",
+      "name": "Halloween"
+    },
+    {
+      "slug": "gfrr_desserts",
+      "name": "Desserts"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 petite",
+    "calories": 70,
+    "fat": 4.5,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 70,
+    "carbohydrate": 6,
+    "fiber": 1,
+    "sugars": 4,
+    "protein": 1
+  },
+  "tips": [
+    "Top cooled brownie bites with prepared Chocolate Fudge Sauce (icing version) and sprinkle with Cocoa Crunch Whole Food Topper ."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "thumbnail (3).jpg",
+  "thumbnail": "thumbnail (3).webp",
+  "products": [
+    {
+      "slug": "chocolate_bliss_brownie_mix__pkg_of_2_",
+      "name": "Chocolate Bliss Brownie Mix (Pack of 2)",
+      "summary": [
+        "Decadent, rich chocolate flavour &amp; smooth fudgy texture. Made with wholesome organic cocoa powder, organic cane sugar, and chickpea flour.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "perfect_petites_a4d39ed",
+      "name": "Perfect Petites",
+      "summary": [
+        "No more cutting. No more waste.&nbsp;Use this cookware item to create 30 individual, perfect portions—both sweet &amp; savoury.&nbsp;"
+      ]
+    }
+  ]
+}

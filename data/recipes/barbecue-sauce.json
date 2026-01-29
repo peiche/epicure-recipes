@@ -1,0 +1,101 @@
+{
+  "name": "Barbecue Sauce",
+  "slug": "barbecue-sauce",
+  "description": "This Barbecue sauce has a nice hearty flavour that is great with spareribs, and perfect on pork chops. It can also be used on chicken, steaks and shrimp skewers.",
+  "ingredients": [
+    {
+      "name": "tomato ketchup",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "molasses",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "malt vinegar or cider vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dijon-style mustard",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sriracha Sauce Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Fajita Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "2 1/2 cups",
+  "preparation": [
+    "Combine all ingredients and mix."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 50,
+    "fat": 0.1,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 320,
+    "carbohydrate": 12,
+    "fiber": 0,
+    "sugars": 11,
+    "protein": 0.4
+  },
+  "tips": [
+    "For a change, try Peach Barbecue Sauce. Just add 3&frasl;4 cup pureed fresh or frozen peaches to the Barbecue Sauce recipe."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Barbecue-Sauce-Main.jpg",
+  "thumbnail": "Barbecue-Sauce-Main.webp",
+  "products": [
+    {
+      "slug": "fajita_seasoning_ceb100c",
+      "name": "Fajita Seasoning",
+      "summary": [
+        "A lively, mild blend for seasoning beef, chicken, or fish fajitas &amp; enchiladas."
+      ]
+    }
+  ]
+}

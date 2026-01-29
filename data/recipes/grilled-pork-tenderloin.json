@@ -1,0 +1,116 @@
+{
+  "name": "Grilled Pork Tenderloin",
+  "slug": "grilled-pork-tenderloin",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Cuban Mojo Marinade Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "orange juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil + more for brushing",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pork tenderloin",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr & 20 min (includes 1 hr marination)",
+  "servings": "4 servings",
+  "preparation": [
+    "In Round or Multipurpose Steamer, whisk together marinade mix, juice, and oil.",
+    "Add pork to steamer; flip to coat. Cover; marinate at least 1 hour or overnight, up to 24 hr. Discard marinade.",
+    "Preheat grill to medium heat. Lightly brush grill with oil to prevent sticking. Grill for 15 min, turning once, or until instant read thermometer reads 160° F."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 200,
+    "fat": 9,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 160,
+    "carbohydrate": 5,
+    "fiber": 1,
+    "sugars": 2,
+    "protein": 24
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup rice and 1 cup grilled veggies.",
+  "image": "Grilled-Cuban-Pork_1036x583.jpg",
+  "thumbnail": "Grilled-Cuban-Pork_1036x583.webp",
+  "products": [
+    {
+      "slug": "untitled_content_item_095d909",
+      "name": "Cuban Mojo Marinade Mix",
+      "summary": [
+        "Bring the island flavors of Cuba home this season with this Cuban-inspired marinade that's sure to impress!"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "Easy to serve. Easy to clean. Round, silicone steamer is ideal for making soups, chowders, &amp; stews.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

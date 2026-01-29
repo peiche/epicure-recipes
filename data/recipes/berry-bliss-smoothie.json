@@ -1,0 +1,76 @@
+{
+  "name": "Berry Bliss Smoothie",
+  "slug": "berry-bliss-smoothie",
+  "description": "Bright, tart, and refreshing, this smoothie is a great way to kickstart the day! Switch out your flavour of Power Up Protein Blends for your personal favourite, and try different berries for different flavour combinations. There’s no wrong answer here, only protein-filled smoothie goodness!",
+  "ingredients": [
+    {
+      "name": "berries",
+      "quantity": "1 cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "chopped kale",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "prepared herbal tea or unsweetened coconut water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Power Up Vanilla Protein Blend",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 serving",
+  "preparation": [
+    "In a blender, combine all ingredients. If you like it thicker, add ice cubes; for a thinner consistency, add water. Blend until smooth and pour into a tall glass."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 260,
+    "fat": 2.5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 380,
+    "carbohydrate": 39,
+    "fiber": 8,
+    "sugars": 24,
+    "protein": 25
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 slice whole-grain bread and 2 tsp nut butter.",
+  "image": "berry_bliss_smoothie_1036x583.jpg",
+  "thumbnail": "berry_bliss_smoothie_1036x583.webp",
+  "products": [
+    {
+      "slug": "power_up_vanilla_protein_blend__pouch_",
+      "name": "Power Up Vanilla Protein Blend (Pouch)",
+      "summary": [
+        "Fuel up first thing and stay fuller longer with rich smooth-tasting vanilla blend. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    }
+  ]
+}

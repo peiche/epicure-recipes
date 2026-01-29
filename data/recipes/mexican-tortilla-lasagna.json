@@ -1,0 +1,138 @@
+{
+  "name": "Mexican Tortilla Lasagna",
+  "slug": "mexican-tortilla-lasagna",
+  "description": "Italy meets Mexico meets North America in this fuss-free tortilla lasagna casserole. Perfect for freezing, too.",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (675 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Taco Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "kidney or black beans",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "small corn or whole-wheat tortillas",
+      "quantity": "9",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Pueblo Bean Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cottage cheese",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": "beaten"
+    },
+    {
+      "name": "grated low-fat cheese (cheddar, Monterrey Jack, partly-skimmed mozzarella)",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr",
+  "servings": "10 servings",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "In a frying pan, brown beef over medium heat.",
+    "Add next 3 ingredients, and simmer for 5 minutes. Add beans, and set aside.",
+    "Line a 9” x 13” casserole dish with 3 tortillas. Add beef mixture, and top with 3 more tortillas. Set aside.",
+    "In a mixing bowl, combine Pueblo Bean Dip Mix with cottage cheese and egg. Spoon over lasagna, and top with last 3 tortillas.",
+    "Sprinkle with cheese, and bake for 30 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 290,
+    "fat": 7,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 520,
+    "carbohydrate": 27,
+    "fiber": 4,
+    "sugars": 5,
+    "protein": 28
+  },
+  "tips": [
+    "Flavour Changer: Try Epicure Fajita Seasoning instead of Taco Seasoning.",
+    "Gluten-free Tip: Simply use gluten-free corn tortillas.",
+    "Cut cooking time with leftover cooked ground beef."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Mexican-Tortilla-Lasagna-Main.jpg",
+  "thumbnail": "Mexican-Tortilla-Lasagna-Main.webp",
+  "products": [
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chilies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "taco_seasoning__1701317_",
+      "name": "Taco Seasoning (Jar)",
+      "summary": [
+        "Classic Tex-Mex flavor with medium heat."
+      ]
+    }
+  ]
+}

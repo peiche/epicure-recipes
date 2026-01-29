@@ -1,0 +1,147 @@
+{
+  "name": "Cheesy Meatloaf Pie",
+  "slug": "cheesy-meatloaf-pie",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "bread",
+      "quantity": "1 slice",
+      "additionalInstruction": "preferably whole-wheat"
+    },
+    {
+      "name": "milk",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large tomatoes",
+      "quantity": "2",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "ground beef, chicken or turkey",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Classic Meatloaf Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green onion",
+      "quantity": "1",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "grated cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Taco Seasoning",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "38 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 375° F (190° C).",
+    "Tear bread into small pieces and place in a bowl. Pour in milk and, using a fork, mash together.",
+    "Line bottom and sides of a 9” pie plate with tomatoes and season with Sea Salt and Pepper. In a bowl, combine beef with Meatloaf Seasoning, green onion and bread.",
+    "Spoon over tomatoes and gently press to pack. Bake for 25 minutes.",
+    "Toss cheese with Taco Seasoning. Sprinkle over pie and continue baking for 10–15 minutes, until melted and bubbly. Note that the pie will be very juicy and saucy, as the tomatoes will release a lot of liquid. Let stand 5–7 minutes before slicing so some of the juices may be reabsorbed."
+  ],
+  "tags": [
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 140,
+    "fat": 3.5,
+    "saturatedFat": 1,
+    "transFat": 0.4,
+    "cholesterol": 45,
+    "sodium": 210,
+    "carbohydrate": 6,
+    "fiber": 1,
+    "sugars": 2,
+    "protein": 22
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Cheesy-Meatloaf-Pie_1036x583.jpg",
+  "thumbnail": "Cheesy-Meatloaf-Pie_1036x583.webp",
+  "products": [
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    },
+    {
+      "slug": "classic_meatloaf_seasoning__pkg_of_3_",
+      "name": "Classic Meatloaf Seasoning (Pack of 3)",
+      "summary": [
+        "Traditional home-style meatloaf. Deeply rich beef flavour, dressed up with a tangy, sweet sauce."
+      ]
+    },
+    {
+      "slug": "taco_seasoning__1701317_",
+      "name": "Taco Seasoning (Jar)",
+      "summary": [
+        "Classic Tex-Mex flavor with medium heat."
+      ]
+    }
+  ]
+}

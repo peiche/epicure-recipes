@@ -1,0 +1,121 @@
+{
+  "name": "Mango Curry Chicken Soup",
+  "slug": "mango-curry-chicken-soup",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "broccoli florets",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Mango Curry Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium broth",
+      "quantity": "2 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "light coconut milk",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen mango chunks",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Wok, heat oil over medium-high heat. Meanwhile, cut chicken into bite-sized pieces; add to wok.",
+    "Stir-fry 5 min or until the sides start to turn white. The chicken won’t be fully cooked yet and that’s OK. Add broccoli; sprinkle with dip mix and stir to coat.",
+    "Add broth, coconut milk, and mango. Increase to high heat and cover until the soup begins to boil. Once the soup is boiling, stir. Decrease heat and simmer about 3–4 min, covered, to allow flavours to combine. Spoon into bowls, add toppings if desired, and serve."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "about 2 cups",
+    "calories": 360,
+    "fat": 14,
+    "saturatedFat": 7,
+    "transFat": 0,
+    "cholesterol": 85,
+    "sodium": 180,
+    "carbohydrate": 29,
+    "fiber": 4,
+    "sugars": 14,
+    "protein": 31
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 dinner roll or 1&frasl;2 cup rice (try adding it to the soup!).",
+  "image": "TFG_Mango_Chicken_Curry_Soup-1036x583.jpg",
+  "thumbnail": "TFG_Mango_Chicken_Curry_Soup-1036x583.webp",
+  "products": [
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

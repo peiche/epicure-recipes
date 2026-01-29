@@ -1,0 +1,128 @@
+{
+  "name": "Summer Fresh Mac & Cheese",
+  "slug": "summer-fresh-mac-cheese",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "uncooked macaroni ",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mixed cherry tomatoes",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Mac & Cheese Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced black olives",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Pot set over high heat, boil macaroni until tender, about 6–8 min.",
+    "Meanwhile, dice peppers and cut tomatoes in half.",
+    "Add peppers to boiling pasta mixture for last 1 min of cooking.",
+    "Carefully drain, then return noodles and peppers to pot. Add milk and seasoning. Stir until evenly mixed. Fold in tomatoes and olives, if using.",
+    "Spoon into bowls and add topping, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 290,
+    "fat": 5,
+    "saturatedFat": 2.5,
+    "transFat": 0.2,
+    "cholesterol": 15,
+    "sodium": 340,
+    "carbohydrate": 49,
+    "fiber": 4,
+    "sugars": 6,
+    "protein": 12
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein such as canned tuna or salmon, grilled chopped chicken, beef, or pork, or tofu.",
+  "image": "summer_fresh_mac_cheese_1036x583.jpg",
+  "thumbnail": "summer_fresh_mac_cheese_1036x583.webp",
+  "products": [
+    {
+      "slug": "mac___cheese_seasoning__pkg_of_3_",
+      "name": "Mac & Cheese Seasoning (Pack of 3)",
+      "summary": [
+        "Creamy &amp; comforting, made with real cheddar cheese, no artificial colors or flavors.&nbsp;"
+      ]
+    },
+    {
+      "slug": "mac___cheese_seasoning__single_",
+      "name": "Mac & Cheese Seasoning (Single)",
+      "summary": [
+        "Make this kitchen staple healthier. Creamy and comforting, made with real cheddar cheese, and no synthetic colors or artificial flavors. &nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_pot___12_c",
+      "name": "Multipurpose Pot - 12 Cup",
+      "summary": [
+        "A 12 cup, multi-use, stainless-steel cooking pot with a lid made of glass, steel &amp; silicone rubber."
+      ]
+    }
+  ]
+}

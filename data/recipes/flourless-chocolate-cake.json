@@ -1,0 +1,88 @@
+{
+  "name": "Flourless Chocolate Cake",
+  "slug": "flourless-chocolate-cake",
+  "description": "A little time and effort pays off with this decadent dessert, with its light crust and a moist, 'fudgy' centre.",
+  "ingredients": [
+    {
+      "name": "butter",
+      "quantity": "6 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dark chocolate chips",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "6 large",
+      "additionalInstruction": "separated"
+    },
+    {
+      "name": "sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "or icing sugar, for dusting"
+    }
+  ],
+  "totalTime": "1 hr 30 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 325° F (160° C).",
+    "Lightly butter a 9\" springform pan and set aside.",
+    "Combine butter and dark Belgian chocolate in microwaveable bowl. Microwave in 30-second intervals, stirring each time until melted. Cool slightly.",
+    "Whisk egg yolks into chocolate mixture. In a second bowl, whisk egg whites with sugar and vanilla. Beat until stiff and glossy.",
+    "Fold 1&frasl;4 of beaten egg whites into chocolate mixture. Take this mixture, and using a spatula, gently fold into remaining egg whites.",
+    "Spoon into prepared springform pan and smooth top. Bake until cake comes away from the sides, approximately 25-30 minutes. Cool cake in pan on a rack for 5 minutes before running a knife around the outside edge. Remove collar of pan and let cake cool completely. The centre will fall during baking, making it moist and 'fudgy' in the centre.",
+    "Dust with cocoa powder or icing sugar."
+  ],
+  "tags": [
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 450,
+    "fat": 27,
+    "saturatedFat": 15,
+    "transFat": 0.3,
+    "cholesterol": 205,
+    "sodium": 125,
+    "carbohydrate": 39,
+    "fiber": 4,
+    "sugars": 33,
+    "protein": 8
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Flourless-Chocolate-Cake-Main.jpg",
+  "thumbnail": "Flourless-Chocolate-Cake-Main.webp",
+  "products": []
+}

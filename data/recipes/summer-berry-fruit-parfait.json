@@ -1,0 +1,124 @@
+{
+  "name": "Summer Berry Fruit Parfait",
+  "slug": "summer-berry-fruit-parfait",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "plain low-fat yogurt",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh or frozen raspberries or blueberries",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "prepared Epicure Crunchy 'Apple Pie' Granola ",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rolled oats",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced almonds",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsweetened coconut",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sunflower seeds",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Apple Pie Spice",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "berries",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Whisk yogurt and Summer Berry Fruit Dip Mix together in a large mixing bowl.",
+    "Spoon 1&frasl;3 cup prepared Summer berry Fruit Dip into 4 — 1 1&frasl;2 cup glasses. Add 1&frasl;4 cup berries and 1&frasl;4 cup Crunchy 'Apple Pie' granola.",
+    "Add another 1&frasl;3 cup Summer Berry Fruit Dip and top with berries."
+  ],
+  "tags": [
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 6,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 130,
+    "carbohydrate": 46,
+    "fiber": 6,
+    "sugars": 36,
+    "protein": 11
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Summer-Berry-Fruit-Parfait-Main.jpg",
+  "thumbnail": "Summer-Berry-Fruit-Parfait-Main.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    },
+    {
+      "slug": "apple_pie_spice",
+      "name": "Apple Pie Spice",
+      "summary": [
+        "Move over pumpkin spice; it's time for Apple Pie Spice to shine! Perfect for leveling up the taste of fall-inspired baking, it's also great on top of oatmeal, in a frothy late or smoothie – or anywhere you want a punch of apple pie flavour.&nbsp;"
+      ]
+    }
+  ]
+}

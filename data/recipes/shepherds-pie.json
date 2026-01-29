@@ -1,0 +1,94 @@
+{
+  "name": "Shepherds Pie",
+  "slug": "shepherds-pie",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Shepherd's Pie Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>4</sub> cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "potatoes",
+      "quantity": "2 lbs (900 g)",
+      "additionalInstruction": "Russet or Yukon Gold"
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced mixed vegetables",
+      "quantity": "2 cups",
+      "additionalInstruction": "fresh or frozen"
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "your choice"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [],
+  "tags": [
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 500,
+    "fat": 13,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 60,
+    "sodium": 540,
+    "carbohydrate": 64,
+    "fiber": 3,
+    "sugars": 3,
+    "protein": 32
+  },
+  "tips": [
+    "Switch it up and top pie with mashed cauliflower or sweet potatoes. For a crispy crust, broil until golden."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy green salad with fresh lemon wedge.",
+  "image": "shepherds_pie_1036x583.jpg",
+  "thumbnail": "shepherds_pie_1036x583.webp",
+  "products": []
+}

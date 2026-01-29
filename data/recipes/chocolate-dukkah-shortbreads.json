@@ -1,0 +1,115 @@
+{
+  "name": "Chocolate Dukkah Shortbreads",
+  "slug": "chocolate-dukkah-shortbreads",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Dukkah",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chocolate Shortbread",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": "unbaked"
+    },
+    {
+      "name": "cold unsalted butter",
+      "quantity": "1 cup",
+      "additionalInstruction": "cubed"
+    },
+    {
+      "name": "all-purpose flour",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "icing sugar",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cold water",
+      "quantity": "2 - 3 tbsp",
+      "additionalInstruction": "or less as needed"
+    },
+    {
+      "name": "Chocolate Fudge Sauce",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Chocolate Fudge Sauce Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whipping cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dark Belgian chocolate",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 - 35 min",
+  "servings": "18 small or 10 large",
+  "preparation": [
+    "Turn oven up to 375° F (190° C).",
+    "On a Sheet Pan Liner, roll shortbread dough into a 10.5” square. Gently flip onto an appy maker. Using a rolling pin, firmly roll over to cut pastry.",
+    "Place on Sheet Pan lined with Sheet Pan Liner. Bake until light golden: 10–11 minutes for small, 12–14 minutes for large",
+    "In a double boiler or microwave, gently melt dark Belgian chocolate, stirring well.",
+    "Remove shortbread from oven. Drizzle generously with melted Belgian dark chocolate, then sprinkle with Dukkah."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 small triangle",
+    "calories": 280,
+    "fat": 20,
+    "saturatedFat": 10,
+    "transFat": 0.6,
+    "cholesterol": 30,
+    "sodium": 150,
+    "carbohydrate": 16,
+    "fiber": 3,
+    "sugars": 13,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Chocolate-Dukkah-Shortbreads-Main.jpg",
+  "thumbnail": "Chocolate-Dukkah-Shortbreads-Main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

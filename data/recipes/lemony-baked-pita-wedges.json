@@ -1,0 +1,127 @@
+{
+  "name": "Lemony Baked Pita Wedges",
+  "slug": "lemony-baked-pita-wedges",
+  "description": "Make your own version of pita chips at home, in 10 minutes! Healthier than store-bought, these wedges are delicious dunked in your favourite dip. Sprinkle with Lemon Dilly Dip Mix and serve with Dillicous Tzatziki for a tasty side for a Greek-inspired themed meal.",
+  "ingredients": [
+    {
+      "name": "Lemon Chicken Orzo Seasoning or Lemon Garlic Chicken Seasoning",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pita breads (6\")",
+      "quantity": "4",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 425° F. Place Cooling Racks on a Sheet Pan.",
+    "In a Prep Bowl, whisk seasoning with oil. Using a Basting Brush, brush each pita with seasoning mixture. Slice pitas into quarters and arrange on cooling racks.",
+    "Bake 7 min, or until slightly browned and crispy."
+  ],
+  "tags": [
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1/2 pita",
+    "calories": 170,
+    "fat": 2,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 267,
+    "carbohydrate": 25,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 4
+  },
+  "tips": [
+    "Use Prep Pro Scissors to cut pitas.",
+    "Swap in 2 tbsp Lemon Dilly Dip Mix."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein, 2 cups chopped veggies and 2 tbsp Epicure Dip.",
+  "image": "Lemon Garlic Pita Wedges.jpg",
+  "thumbnail": "Lemon Garlic Pita Wedges.webp",
+  "products": [
+    {
+      "slug": "lemon_garlic_herb_chicken_seasoning__3pk_",
+      "name": "Lemon Garlic Chicken Seasoning (3pk)",
+      "summary": [
+        "With just the right amount of garlic and a citrus squeeze, this seasoning makes it easy to cook a whole juicy chicken in the microwave in just 20 minutes using a <a href=\"https://epicure.com/en-us/product/multipurpose-steamer\" data-new-window=\"true\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Multipurpose Steamer</strong></a>. This is one of those ‘set it and forget it’ meals that works well for a weeknight dinner or a dinner party.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "basting_brush_5175217",
+      "name": "Basting Brush (1006236)",
+      "summary": [
+        "This silicone brush is perfect for grilling, roasting &amp; baking.&nbsp;"
+      ]
+    },
+    {
+      "slug": "cooling_rack__set_of_2___1701277_",
+      "name": "Cooling Rack (Set of 2)",
+      "summary": [
+        "These space-saving cooling racks are an absolute must-have for every at-home baker or chef."
+      ]
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "prep_pro_scissors__1701279_",
+      "name": "Prep Pro Scissors",
+      "summary": [
+        "A multipurpose kitchen necessity ideal for food and meal prep."
+      ]
+    }
+  ]
+}

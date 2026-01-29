@@ -1,0 +1,121 @@
+{
+  "name": "Popcorn Veggie Pakoras",
+  "slug": "popcorn-veggie-pakoras",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Pakora Mix ",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small cauliflower florets",
+      "quantity": "1 cup",
+      "additionalInstruction": "steamed"
+    },
+    {
+      "name": "small broccoli florets",
+      "quantity": "1 cup",
+      "additionalInstruction": "steamed"
+    },
+    {
+      "name": "frozen peas",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lentils",
+      "quantity": "1 can (19 oz/540 ml)",
+      "additionalInstruction": "drained & rinsed"
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In a large bowl, combine mix with hot water and lemon juice. Let stand 5 min.",
+    "Meanwhile, chop and measure cauliflower and broccoli; place in Multipurpose Steamer. Cover and microwave on high for 2 min.",
+    "Fold steamed veggies into pakora batter along with frozen peas and lentils.",
+    "Preheat frying pan over medium heat; add half the oil. Using half the batter, drop by tablespoon into the pan; flatten slightly. Cook until golden on both sides, about 5–7 min. Repeat with remaining oil and batter."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "3 pakoras",
+    "calories": 280,
+    "fat": 9,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 530,
+    "carbohydrate": 36,
+    "fiber": 12,
+    "sugars": 7,
+    "protein": 15
+  },
+  "tips": [
+    "Serve with tartar sauce by combining 1&frasl;4 cup plain Greek yogurt with 1&frasl;2 cup mayo, 2 tbsp green relish, 2 tsp Lemon Dilly Dip Mix and 1-2 tsp lemon juice."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;4 cup tzatziki and 1&frasl;2 cup fries.",
+  "image": "1599578089835-recipeMainImagePath.jpg",
+  "thumbnail": "1599578089835-recipeMainImagePath.webp",
+  "products": []
+}

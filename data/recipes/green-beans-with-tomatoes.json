@@ -1,0 +1,100 @@
+{
+  "name": "Green Beans with Tomatoes",
+  "slug": "green-beans-with-tomatoes",
+  "description": "Bring the freshness of the summer garden to your table with green beans cooked tender-crisp.",
+  "ingredients": [
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup",
+      "additionalInstruction": "canned and drained, or freshly chopped"
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water ",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green beans",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "washed and trimmed"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "11 - 13 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Add tomatoes, Marinara Sauce Mix and water to Multipurpose Pot, and bring to a simmer.",
+    "Add beans, cover and cook until beans are tender-crisp, approximately 6-8 minutes.",
+    "Season with Sea Salt and Black Pepper before serving."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 30,
+    "fat": 0.2,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 105,
+    "carbohydrate": 7,
+    "fiber": 3,
+    "sugars": 2,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1600785954517-recipeMainImagePath.jpg",
+  "thumbnail": "1600785954517-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavour of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

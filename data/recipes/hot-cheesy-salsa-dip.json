@@ -1,0 +1,99 @@
+{
+  "name": "Hot Cheesy Salsa Dip",
+  "slug": "hot-cheesy-salsa-dip",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "cream cheese",
+      "quantity": "1 pkg (8 oz/250 g)",
+      "additionalInstruction": "cubed"
+    },
+    {
+      "name": "Poco Picante Salsa",
+      "quantity": "1 cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "cilantro",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "7 - 8 min",
+  "servings": "2 1/2 cups",
+  "preparation": [
+    "In a heat-safe serving bowl, combine cream cheese and Salsa.",
+    "Heat until cheese is melted and dip is heated through, approximately 2–3 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 30,
+    "fat": 2,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 100,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Hot-Cheesy-Salsa-Dip-Main.jpg",
+  "thumbnail": "Hot-Cheesy-Salsa-Dip-Main.webp",
+  "products": [
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chilies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    }
+  ]
+}

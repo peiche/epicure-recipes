@@ -1,0 +1,141 @@
+{
+  "name": "Oven-roasted Tomato Bruschetta ",
+  "slug": "oven-roasted-tomato-bruschetta",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "baguette",
+      "quantity": "1",
+      "additionalInstruction": "sliced 1/4\" thick into 18 pieces"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Bruschetta Seasoning or Rosemary Garlic Seasoning",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "cut in half"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herb & Garlic Dip or 3 Onion Dip",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sour cream or yogurt ",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herb & Garlic Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sour cream or plain yogurt",
+      "quantity": "1 cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "1 cup ",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 - 33 min",
+  "servings": "18 pieces",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Place baguette slices on parchment-lined Sheet Pan. Brush with 1 tbsp oil mixed with Seasoning. Bake for 5–8 minutes, turning once, until lightly toasted.",
+    "Spread tomatoes in a single layer on a separate parchment-lined Sheet Pan. Season with Salt and Pepper. Drizzle with remaining oil.",
+    "Bake for 20 minutes, until soft and slightly shriveled. Set aside to cool.",
+    "Spread Herb & Garlic Dip over each toast. Top with tomatoes and serve warm or at room temperature"
+  ],
+  "tags": [
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 piece",
+    "calories": 190,
+    "fat": 10,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 350,
+    "carbohydrate": 22,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Hot-Artichoke-Dip-and-Oven-roasted-Tomato-Bruschetta-Main.jpg",
+  "thumbnail": "Hot-Artichoke-Dip-and-Oven-roasted-Tomato-Bruschetta-Main.webp",
+  "products": [
+    {
+      "slug": "bruschetta_seasoning",
+      "name": "Bruschetta Seasoning",
+      "summary": [
+        "An aromatic blend of basil, garlic and parsley."
+      ]
+    },
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavours on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    },
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

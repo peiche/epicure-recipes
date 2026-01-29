@@ -1,0 +1,112 @@
+{
+  "name": "Teriyaki Beef with Asian Coleslaw for Verrines",
+  "slug": "teriyaki-beef-with-asian-coleslaw-for-verrines",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "finely shredded cabbage",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red bell pepper flakes",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "beef steak",
+      "quantity": "1 - (4 oz/120 g)",
+      "additionalInstruction": "cut into 2” strips"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Teriyaki Dry Glaze",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light soy sauce",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vinegar",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sesame seeds",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green onion",
+      "quantity": "1",
+      "additionalInstruction": "thinly sliced"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "6 verrines",
+  "preparation": [
+    "Gently toss cabbage with red bell pepper. Divide between 6 verrines.",
+    "Season steak with Sea Salt and Pepper. Quickly stir-fry in a preheated frying pan over medium-high heat. Remove and set aside.",
+    "Whisk together Teriyaki Dry Glaze, sugar, soy sauce and vinegar. Pour into hot pan and bring to a boil. Immediately remove from heat. Return beef to pan, stirring to coat.",
+    "Divide beef strips and sauce over cabbage.",
+    "Sprinkle with sesame seeds and green onions."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 0,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 0,
+    "carbohydrate": 0,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Teriyaki-Beef-with-Asian-Coleslaw-for-Verrines-Main.jpg",
+  "thumbnail": "Teriyaki-Beef-with-Asian-Coleslaw-for-Verrines-Main.webp",
+  "products": [
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    },
+    {
+      "slug": "teriyaki_dry_glaze_8be7254",
+      "name": "Teriyaki Dry Glaze",
+      "summary": [
+        "A versatile blend with notes of garlic, ginger, and soy that works both as a glaze for grilling or a sauce!"
+      ]
+    }
+  ]
+}

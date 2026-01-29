@@ -1,0 +1,84 @@
+{
+  "name": "New Potatoes with Herb Butter",
+  "slug": "new-potatoes-with-herb-butter",
+  "description": "Keeping potato peels on helps meet a daily fibre intake goal of 25 – 35 g.",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (675 g)",
+      "additionalInstruction": "unpeeled, scrubbed and halved"
+    },
+    {
+      "name": "soft butter",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Fines Herbes",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "15 - 20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Add potatoes to a Multipurpose Pot of cold salted water. Place over high heat and cook uncovered until potatoes are fork-tender.",
+    "Meanwhile, cream together butter, oil, Fines Herbes, Sea Salt and Black Pepper.",
+    "Drain potatoes, toss with prepared butter mixture and serve."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 240,
+    "fat": 12,
+    "saturatedFat": 6,
+    "transFat": 0.3,
+    "cholesterol": 25,
+    "sodium": 320,
+    "carbohydrate": 30,
+    "fiber": 3,
+    "sugars": 2,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "New-Potatoes-with-Herb-Butter_1036x583.jpg",
+  "thumbnail": "New-Potatoes-with-Herb-Butter_1036x583.webp",
+  "products": []
+}

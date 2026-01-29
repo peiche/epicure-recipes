@@ -1,0 +1,76 @@
+{
+  "name": "Spicy Asian Dipping Sauce",
+  "slug": "spicy-asian-dipping-sauce",
+  "description": "Excellent with steamed dumplings, egg rolls and stir-fried vegetables.",
+  "ingredients": [
+    {
+      "name": "rice vinegar or white wine vinegar",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce or gluten free soy sauce",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "peanut oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Red Pepper Jelly",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Asian Stir-Fry Seasoning",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed chilies",
+      "quantity": "",
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "1/2 cup",
+  "preparation": [
+    "Whisk all ingredients together and allow to sit for at least 30 minutes before using."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 130,
+    "fat": 13,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 35,
+    "carbohydrate": 3,
+    "fiber": 0,
+    "sugars": 2,
+    "protein": 0.2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Spicy-Asian-Dipping-Sauce-Main.jpg",
+  "thumbnail": "Spicy-Asian-Dipping-Sauce-Main.webp",
+  "products": [
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice and noodle dish."
+      ]
+    },
+    {
+      "slug": "red_pepper_jelly",
+      "name": "Red Pepper Jelly (new)",
+      "summary": [
+        "A sweet red pepper flavor with a mild heat from cayenne.&nbsp;"
+      ]
+    }
+  ]
+}

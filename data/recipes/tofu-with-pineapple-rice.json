@@ -1,0 +1,157 @@
+{
+  "name": "Tofu with Pineapple Rice",
+  "slug": "tofu-with-pineapple-rice",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "pineapple tidbits in juice",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium tofu",
+      "quantity": "1 block (454 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light coconut milk",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Keema Curry Seasoning or African Sweet Potato Stew Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tahini or nut/seed butter alternative",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bunch kale",
+      "quantity": "1 large",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Steamer, add rice, 1 1&frasl;2 cups water, and canned pineapple, including juice. Top with tray; microwave uncovered, on high, for 20 min, or until tender.",
+    "Meanwhile, heat oil in Wok over high heat. Drain tofu and pat dry using paper towels. Cut into cubes. Pan-fry until golden brown on some sides, about 6–7 min.",
+    "Reduce heat to medium-high; add coconut milk, remaining 1 cup water, and seasoning. Simmer until heated through, stirring occasionally. Stir in tahini.",
+    "Meanwhile, de-stem and roughly chop kale—you should have about 8 cups. Add kale in increments, stirring until wilted. Serve with rice."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 500,
+    "fat": 15,
+    "saturatedFat": 6,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 290,
+    "carbohydrate": 75,
+    "fiber": 8,
+    "sugars": 16,
+    "protein": 23
+  },
+  "tips": [
+    "To get tofu extra crispy, layer paper towel around block of tofu. Place heavy items—cutting board, cookbooks, or bowls—to weigh down tofu  and remove extra moisture. If you have time, let sit 20 min.",
+    "Make pineapple coconut rice—swap 1 1&frasl;2 cups water with coconut milk."
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "tofu_curry_pineapple_rice_1036x583.jpg",
+  "thumbnail": "tofu_curry_pineapple_rice_1036x583.webp",
+  "products": [
+    {
+      "slug": "keema_curry_seasoning__3_pk_",
+      "name": "Keema Curry Seasoning (Pack of 3)",
+      "summary": [
+        "A mellow, family-friendly blend with notes of garlic, mustard, black pepper, cilantro, and cayenne pepper.&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

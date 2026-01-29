@@ -1,0 +1,88 @@
+{
+  "name": "Onion & Bacon Cheese Ball Chicken Sandwich",
+  "slug": "onion-bacon-cheese-ball-chicken-sandwich",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "8 oz container spreadable cream cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Onion & Bacon Cheese Ball Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "or Epicure Dip Mix of your choice"
+    },
+    {
+      "name": "14 oz can artichoke hearts",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": "drained and coarsely chopped"
+    },
+    {
+      "name": "whole-wheat bagels",
+      "quantity": "2",
+      "additionalInstruction": "split"
+    },
+    {
+      "name": "lettuce leaves",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chicken breast",
+      "quantity": "1",
+      "additionalInstruction": "thinly sliced"
+    }
+  ],
+  "totalTime": "8 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Blend cream cheese with Seasoning and artichokes.",
+    "Spread on all bagel halves.",
+    "Top bottom halves with lettuce, arrange chicken slices overtop and cover with tops."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 440,
+    "fat": 12,
+    "saturatedFat": 7,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 760,
+    "carbohydrate": 52,
+    "fiber": 6,
+    "sugars": 5,
+    "protein": 29
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Onion-Bacon-Cheese-Ball-Chicken-Sandwich-Main.jpg",
+  "thumbnail": "Onion-Bacon-Cheese-Ball-Chicken-Sandwich-Main.webp",
+  "products": []
+}

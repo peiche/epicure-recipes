@@ -1,0 +1,162 @@
+{
+  "name": "Cornmeal Muffins",
+  "slug": "cornmeal-muffins",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Pancake & Waffle Mix ",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium-grind cornmeal ",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix or CCB Dip Mix or Herb & Garlic Dip Mix",
+      "quantity": "4 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salt",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "+ more for greasing pan"
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Generously oil two Muffin Makers.",
+    "In a bowl, whisk mix with cornmeal, dip mix, sugar, and salt (if desired).",
+    "Whisk in milk, 3 tbsp oil, and egg, just until mixed.",
+    "Divide into muffin wells, filling two-thirds full. Sprinkle with toppings (if desired).",
+    "Working in two batches, microwave on high, 2 min and 30 sec. Rest in pan 5 min; invert onto wire rack to cool. Or bake in preheated 350° F oven, 16–18 min. Cool in pan 10 min; unmold."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 muffin",
+    "calories": 130,
+    "fat": 4.5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 115,
+    "carbohydrate": 21,
+    "fiber": 1,
+    "sugars": 3,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "6807_cornmeal-muffins_1036x583.jpg",
+  "thumbnail": "6807_cornmeal-muffins_1036x583.webp",
+  "products": [
+    {
+      "slug": "pancake___waffle_mix__pack_of_3_",
+      "name": "Pancake & Waffle Mix (Pack of 3)",
+      "summary": [
+        "Stack ‘em up: It’s time to make the fluffiest pancakes and waffles ever! Add a few simple ingredients to this gluten free mix and griddle, flip, or press your way through an easy and delicious breakfast.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "ccb_dip_mix_b61a530",
+      "name": "CCB Dip Mix",
+      "summary": [
+        "<strong>Cheese. Chives. Bacon. </strong>How's that for a totally irresistible trio? Our very own smoky vegetarian bacon, made from pinto beans, is the secret star of this oh-so-yummy dip.",
+        "This blend is all about versatility and we recommend taking it way beyond the dip bowl—use CCB in any dish that could use a little levelling up.&nbsp;",
+        "<br>"
+      ]
+    },
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "muffin_maker__2pk_",
+      "name": "Muffin Maker (Set of 2)",
+      "summary": [
+        "Make perfect portions of your favourite sweet or savoury cupcakes, muffins, frittatas, meatloaves, &amp; more!"
+      ]
+    }
+  ]
+}

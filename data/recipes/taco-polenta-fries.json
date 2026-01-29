@@ -1,0 +1,135 @@
+{
+  "name": "Taco Polenta Fries",
+  "slug": "taco-polenta-fries",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "water",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cornmeal",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Taco Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "or your favourite"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Ranch Dip",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Ranch Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light sour cream",
+      "quantity": "1 cup",
+      "additionalInstruction": "or yogurt"
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "30 fries",
+  "preparation": [
+    "Preheat oven to 450° F (230° C).",
+    "In a Multipurpose Steamer, combine water, cornmeal, and Seasoning.",
+    "Cover and microwave on high for 8–10 minutes. Cool for 10 minutes in the fridge.",
+    "Turn polenta out onto a cutting board. Cut into about 30 French fry-shaped pieces. Place on a crisper and lightly brush with oil. Bake 10 minutes, or until crispy.",
+    "Serve with Creamy Ranch Dip for dunking."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 fry",
+    "calories": 40,
+    "fat": 0.4,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 540,
+    "sodium": 110,
+    "carbohydrate": 4,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Cajun-Polenta-Fries-Main.jpg",
+  "thumbnail": "Cajun-Polenta-Fries-Main.webp",
+  "products": [
+    {
+      "slug": "taco_seasoning__1701317_",
+      "name": "Taco Seasoning (Jar)",
+      "summary": [
+        "Classic Tex-Mex flavour with medium heat."
+      ]
+    },
+    {
+      "slug": "creamy_ranch_dip_mix_7cfe081",
+      "name": "Creamy Ranch Dip Mix",
+      "summary": [
+        "Go beyond your classic ranch dressing and create spreads, dips, or seasonings with this versatile blend!&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

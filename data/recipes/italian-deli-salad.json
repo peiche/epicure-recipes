@@ -1,0 +1,128 @@
+{
+  "name": "Italian Deli Salad",
+  "slug": "italian-deli-salad",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "cooked rotini",
+      "quantity": "4 cups",
+      "additionalInstruction": "(or any bite-size pasta)"
+    },
+    {
+      "name": "sliced olives",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cubed mozzarella cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomatoes",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced marinated artichoke hearts",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cubed ham",
+      "quantity": "1 cup",
+      "additionalInstruction": "or sliced salami, cut in strips"
+    },
+    {
+      "name": "Italian Dressing",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Italian Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "white vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Combine all ingredients in serving bowl."
+  ],
+  "tags": [
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 540,
+    "fat": 35,
+    "saturatedFat": 6,
+    "transFat": 0,
+    "cholesterol": 30,
+    "sodium": 650,
+    "carbohydrate": 40,
+    "fiber": 5,
+    "sugars": 5,
+    "protein": 17
+  },
+  "tips": [
+    "Serving Suggestion: Serve with Focaccia Bread."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Italian-Deli-Salad-Main.jpg",
+  "thumbnail": "Italian-Deli-Salad-Main.webp",
+  "products": []
+}

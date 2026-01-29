@@ -1,0 +1,89 @@
+{
+  "name": "Wellness Smoothie",
+  "slug": "wellness-smoothie",
+  "description": "Feel well with this vibrant sunshine-coloured mango smoothie.",
+  "ingredients": [
+    {
+      "name": "Power Up Vanilla Protein Blend",
+      "quantity": "1 scoop",
+      "additionalInstruction": "or 1/2 cup Greek yogurt"
+    },
+    {
+      "name": "frozen mango",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "banana",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 serving",
+  "preparation": [
+    "In a blender, combine all ingredients. If you like it thicker, add ice cubes; for a thinner consistency, add more water. Blend until smooth and pour into a tall glass."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 230,
+    "fat": 2,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 300,
+    "carbohydrate": 31,
+    "fiber": 4,
+    "sugars": 18,
+    "protein": 21
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve 1 slice whole-grain toast with 2 tsp nut butter.",
+  "image": "1605548265081-recipeMainImagePath.jpg",
+  "thumbnail": "1605548265081-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "power_up_vanilla_protein_blend__pouch_",
+      "name": "Power Up Vanilla Protein Blend (Pouch)",
+      "summary": [
+        "Fuel up first thing and stay fuller longer with rich smooth-tasting vanilla blend. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    }
+  ]
+}

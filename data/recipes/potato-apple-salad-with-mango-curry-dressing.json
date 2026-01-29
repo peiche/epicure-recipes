@@ -1,0 +1,132 @@
+{
+  "name": "Potato Apple salad with Mango Curry dressing",
+  "slug": "potato-apple-salad-with-mango-curry-dressing",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "medium-size potatoes",
+      "quantity": "4",
+      "additionalInstruction": "rinsed and coarsely diced"
+    },
+    {
+      "name": "granny smith (or other crisp) apple",
+      "quantity": "1",
+      "additionalInstruction": "cored and diced"
+    },
+    {
+      "name": "stalks of celery",
+      "quantity": "2",
+      "additionalInstruction": "finely diced"
+    },
+    {
+      "name": "Mango Curry Dip",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Mango Curry Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "plain yogurt or light sour cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "juice from half a lemon",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "sesame seeds",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place potatoes in a Multipurpose Steamer with lid, and cook on high for 5–6 minutes, or until tender. Let cool.",
+    "Combine potatoes with the next three ingredients, sprinkle with sesame seeds and season to taste. Serve immediately, or chill until ready to serve."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 300,
+    "fat": 12,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 300,
+    "carbohydrate": 42,
+    "fiber": 4,
+    "sugars": 8,
+    "protein": 7
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Potato-Apple-salad-with-Mango-Curry-dressing-Main.jpg",
+  "thumbnail": "Potato-Apple-salad-with-Mango-Curry-dressing-Main.webp",
+  "products": [
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

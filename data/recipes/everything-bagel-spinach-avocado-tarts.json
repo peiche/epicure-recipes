@@ -1,0 +1,117 @@
+{
+  "name": "Everything Bagel Spinach & Avocado Tarts",
+  "slug": "everything-bagel-spinach-avocado-tarts",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "frozen mini tart shells",
+      "quantity": "1 pkg (225 g)",
+      "additionalInstruction": "18 pieces"
+    },
+    {
+      "name": "avocados",
+      "quantity": "2 large",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime",
+      "quantity": "1 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Super Greens Smoothie Booster",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coconut oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "melted"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Everything Bagel Whole Food Topper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "18 servings",
+  "preparation": [
+    "Preheat oven to 375° F. Place tart shells on Sheet Pan. Bake for 10–12 min or until golden.",
+    "Meanwhile, cut avocados in half; discard pits. Scoop flesh into a food processor or high-speed blender. Add spinach. Cut lime in half; using the 2-in-1 Citrus Press, squeeze in juice from lime.  Add booster, coconut oil, and salt; purée until smooth.",
+    "Remove tarts from foil cups. Let cool, then spoon in avocado filling. Generously shake on topper. Arrange on a platter and serve."
+  ],
+  "tags": [
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 160,
+    "fat": 10,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 190,
+    "carbohydrate": 17,
+    "fiber": 2,
+    "sugars": 9,
+    "protein": 2
+  },
+  "tips": [
+    "To streamline prep, bake the tart shells a day before using. Store at room temperature. Fill tarts just before serving."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "6868_Everything_Bagel_Avocado_Lime_Tarts_1036x583.jpg",
+  "thumbnail": "6868_Everything_Bagel_Avocado_Lime_Tarts_1036x583.webp",
+  "products": [
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "everything_bagel_whole_food_topper_d9d0776",
+      "name": "Everything Bagel Whole Food Topper",
+      "summary": [
+        "Reminiscent of a big bite of a seasoned toasted bagel."
+      ]
+    },
+    {
+      "slug": "n2_in_1_citrus_press_329bead",
+      "name": "2-in-1 Citrus Press",
+      "summary": [
+        "Easily squeeze the juice from small citrus fruits like lemons, limes, clementines &amp; tangerines."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

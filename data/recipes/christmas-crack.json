@@ -1,0 +1,90 @@
+{
+  "name": "Christmas Crack",
+  "slug": "christmas-crack",
+  "description": "Oh my gosh, this is so good! But, don’t take our word for it: you’ve gotta try it yourself. The “crack” in this festive fave comes from the crispy crackers hidden under a layer of buttery toffee and rich chocolate. It’s so irresistible, you might just find yourself sneaking a piece (or three) before the holiday guests arrive. You can sprinkle more than just sweet dip mix on top—try shredded coconut, chopped nuts, holiday sprinkles, or anything else you want!",
+  "ingredients": [
+    {
+      "name": "saltine crackers",
+      "quantity": "24",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "True North Butter Tart Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "semi-sweet chocolate chips",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cranapple Cinnamon Sweet Dip Mix",
+      "quantity": "1–2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 20 min (includes 1 hr chilling time)",
+  "servings": "12 servings",
+  "preparation": [
+    "Preheat oven to 400° F. Line 1&frasl;4 Sheet Pan with 1&frasl;4 Sheet Pan Liner.",
+    "Arrange crackers on pan in a single layer.",
+    "In a small saucepan over medium heat, melt butter. Add mix; bring to a boil. Whisk constantly until well combined and the colour has deepened, about 1 min.",
+    "Pour mixture over crackers. Using a spatula, spread into an even layer. Bake 5–6 min, or until bubbly.",
+    "Remove from oven. Immediately sprinkle with chocolate chips and let stand 5 min. Once chocolate has melted, spread evenly over crackers, then sprinkle with sweet dip mix.",
+    "Refrigerate until set, 1–2 hr. Break into pieces to serve."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 190,
+    "fat": 11,
+    "saturatedFat": 7,
+    "transFat": 0.4,
+    "cholesterol": 20,
+    "sodium": 100,
+    "carbohydrate": 23,
+    "fiber": 1,
+    "sugars": 16,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Christmas-Crack_2160x1860.jpg",
+  "thumbnail": "Christmas-Crack_2160x1860.webp",
+  "products": [
+    {
+      "slug": "cranapple_cinnamon_sweet_dip_mix__hex_",
+      "name": "Cranapple Cinnamon Sweet Dip Mix (Hex)",
+      "summary": [
+        "If you could package the holiday season in a jar, this would be it! With tart cranberry, sweet apples, warming cinnamon, and a touch of hibiscus, take this seasoning way beyond dip to elevate your holiday baked goods, morning smoothies and waffles, and charcuterie boards. It’s oh-so-good and will be the talk of the holiday season!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_7a23ca1",
+      "name": "1/4 Sheet Pan (Set of 2)",
+      "summary": [
+        "Smaller size than a standard sheet pan for easy handling."
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_liner__set_of_2___1711227_",
+      "name": "1/4 Sheet Pan Liner (Set of 2)",
+      "summary": [
+        "Easy to clean, nonstick, silicone mat with raised edges.&nbsp;"
+      ]
+    },
+    {
+      "slug": "true_north_butter_tarts__pack_of_2_",
+      "name": "True North Butter Tart Mix (Pack of 2)",
+      "summary": [
+        "Rich, gooey, and oh-so-indulgent, butter tarts are a delectable addition to every holiday spread! A Canadian classic (butter tarts go way back to 1900!), we’ve made them modern: quick to bake, gluten-free (depending on the tart shells you use), and sugar-conscious. Try them this holiday season, and we bet they’ll soon become a holiday tradition!&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

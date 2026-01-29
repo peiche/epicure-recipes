@@ -1,0 +1,155 @@
+{
+  "name": "Shrimp Stew with Sauce",
+  "slug": "shrimp-stew-with-sauce",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fennel bulb",
+      "quantity": "1",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "onion",
+      "quantity": "1",
+      "additionalInstruction": "medium diced"
+    },
+    {
+      "name": "carrots",
+      "quantity": "2",
+      "additionalInstruction": "medium diced"
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (14 oz /398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herb & Garlic Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shrimp",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "peeled and deveined"
+    },
+    {
+      "name": "El Greco Finishing Sauce",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": "or sauce of your choice"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "25 - 30 min",
+  "servings": "6 - 8 servings",
+  "preparation": [
+    "Heat oil in a large pot over medium-high heat. Add chopped vegetables. Sauté, stirring frequently, until vegetables begin to soften, 3–5 minutes.",
+    "Add tomatoes, broth, and dip mix. Stir and simmer, covered, for 10 minutes.",
+    "Add shrimp and continue simmering until shrimp are pink and opaque, about 4 minutes.",
+    "Drizzle with finishing sauce. Season to taste and serve."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 150,
+    "fat": 7,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 25,
+    "sodium": 160,
+    "carbohydrate": 10,
+    "fiber": 3,
+    "sugars": 4,
+    "protein": 12
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with your favourite crusty bread.",
+  "image": "Shrimp-Stew-with-El-Greco-Finishing-Sauce-Main.jpg",
+  "thumbnail": "Shrimp-Stew-with-El-Greco-Finishing-Sauce-Main.webp",
+  "products": [
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    },
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    }
+  ]
+}

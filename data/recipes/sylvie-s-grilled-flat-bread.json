@@ -1,0 +1,140 @@
+{
+  "name": "Sylvie’s Grilled Flat Bread ",
+  "slug": "sylvie-s-grilled-flat-bread",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "white flour",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "quick rise instant yeast",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Rosemary Garlic Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "warm water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coarse sea salt",
+      "quantity": null,
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "2 hrs",
+  "servings": "6 servings  ",
+  "preparation": [
+    "Combine the flour, yeast, olive oil, Rosemary Garlic Seasoning, and salt in a bowl. Mix with just enough warm water to make the dough pliable. Transfer the dough to a floured board and knead until it is smooth and elastic in texture.",
+    "Place kneaded dough in an oiled bowl and cover with plastic wrap or a clean tea towel, and allow to stand at room temperature for at least an hour until the dough has doubled in size.",
+    "Lightly knead the dough and separate into 6 balls. Flatten the balls and roll out into rounds, or oblong shapes, approximately 4” in diameter, and 1&frasl;4” thick. Place on Sheet Pan, lined with Sheet Pan Liner. Cover again with plastic wrap or a clean tea towel and let stand until double the thickness.",
+    "Heat your BBQ to medium high and brush the bread with olive oil, and coarse sea salt. Place on the grill until light char marks appear. Flip the bread over and shut off the burners except for the rotisserie burner. Close the lid and leave for 2–3 minutes until cooked."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 180,
+    "fat": 3,
+    "saturatedFat": 0.4,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 190,
+    "carbohydrate": 34,
+    "fiber": 2,
+    "sugars": 0,
+    "protein": 5
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sylvie-s-Grilled-Flat-Bread-Main.jpg",
+  "thumbnail": "Sylvie-s-Grilled-Flat-Bread-Main.webp",
+  "products": [
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavors on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

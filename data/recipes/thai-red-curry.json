@@ -1,0 +1,129 @@
+{
+  "name": "Thai Red Curry",
+  "slug": "thai-red-curry",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Thai Red Curry Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light coconut milk",
+      "quantity": "1 can (14 oz/398 ml) ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 lb (450 g) ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mixed vegetables",
+      "quantity": "3 cups ",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "lime",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low sodium soy sauce",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a wok, combine seasoning with coconut milk over medium-high heat. Bring to a boil, reduce heat, and simmer for 2 min.",
+    "Meanwhile, cut chicken into bite-sized pieces. Add chicken to wok and cook for 5–7 min.",
+    "Stir in vegetables and simmer for 2 min, depending on the type of vegetables.",
+    "Using 2-in-1 Citrus Press, squeeze in juice from lime. Add soy sauce; stir to mix."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 300,
+    "fat": 10,
+    "saturatedFat": 7,
+    "transFat": 0,
+    "cholesterol": 60,
+    "sodium": 510,
+    "carbohydrate": 24,
+    "fiber": 7,
+    "sugars": 6,
+    "protein": 27
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup steamed rice or noodles.",
+  "image": "Thai sm.jpg",
+  "thumbnail": "Thai sm.webp",
+  "products": [
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

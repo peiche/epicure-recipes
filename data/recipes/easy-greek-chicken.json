@@ -1,0 +1,118 @@
+{
+  "name": "Easy Greek Chicken",
+  "slug": "easy-greek-chicken",
+  "description": "It's a winner! One of our Consultants loved this recipe so much she entered it into a recipe contest in the Calgary Herald and won!",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "4 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "garlic cloves",
+      "quantity": "2 ",
+      "additionalInstruction": "crushed"
+    },
+    {
+      "name": "Greek Dressing Mix or Bruschetta Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roma tomatoes",
+      "quantity": "2",
+      "additionalInstruction": "diced – optional"
+    },
+    {
+      "name": "red onion",
+      "quantity": "1 small",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "green pepper",
+      "quantity": "1",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "red pepper",
+      "quantity": "1",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "olives",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "feta cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "40 - 45 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Place chicken in a single layer in a frying pan. Layer ingredients over the chicken in the order listed above, ending with feta cheese.",
+    "Bake covered 20 minutes. Uncover, continue cooking for 15 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 330,
+    "fat": 17,
+    "saturatedFat": 7,
+    "transFat": 0,
+    "cholesterol": 110,
+    "sodium": 800,
+    "carbohydrate": 12,
+    "fiber": 3,
+    "sugars": 6,
+    "protein": 34
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Easy-Greek-Chicken-Main.jpg",
+  "thumbnail": "Easy-Greek-Chicken-Main.webp",
+  "products": [
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    },
+    {
+      "slug": "bruschetta_seasoning",
+      "name": "Bruschetta Seasoning",
+      "summary": [
+        "An aromatic blend of basil, garlic and parsley."
+      ]
+    }
+  ]
+}

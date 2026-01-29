@@ -1,0 +1,125 @@
+{
+  "name": "Mediterranean Picnic Chicken",
+  "slug": "mediterranean-picnic-chicken",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "lemon",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 - 2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oregano",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roasted Garlic Aioli Mix",
+      "quantity": "1 - 2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive or vegetable oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chicken pieces, such as thighs or drumsticks",
+      "quantity": "16 - 20",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "10 - 12 servings",
+  "preparation": [
+    "Finely grate 1 tbsp peel from lemon, then squeeze out juice. Place both in a large bowl and add Seasonings, oil and chicken. Toss to coat evenly.",
+    "Turn into 1 or 2 large plastic bags. Seal and marinate in refrigerator up to 8 hours.",
+    "Preheat barbecue to medium. Drain then discard excess marinade from chicken. Season meat with Sea Salt and Pepper.",
+    "Grill, turning pieces often, for 25–35 minutes, until cooked through. Reduce heat to medium-low if necessary. Or, cook chicken indoors using a stove-top grill pan.",
+    "Serve warm or, if making ahead, cover and refrigerate overnight."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 300,
+    "fat": 12,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 115,
+    "sodium": 105,
+    "carbohydrate": 1,
+    "fiber": 1,
+    "sugars": 0,
+    "protein": 43
+  },
+  "tips": [
+    "Keep it easy – cook the night before and serve cold."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Mediterranean_Picnic_Chicken_1036x583.jpg",
+  "thumbnail": "Mediterranean_Picnic_Chicken_1036x583.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "roasted_garlic_aioli_mix",
+      "name": "Roasted Garlic Aioli Mix",
+      "summary": [
+        "A creamy roasted garlic condiment for your burger, sandwich or use as a dip for fries or veg.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "name": "Luscious Lemon Bars",
+  "slug": "luscious-lemon-bars",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Shortbread Cookie Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "water",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "3",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Luscious Lemon Curd Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 35 min",
+  "servings": "30 bars",
+  "preparation": [
+    "Preheat oven to 350° F. Place Perfect Petites on Sheet Pan. Using a basting brush, brush with oil.",
+    "Using a stand mixer (with paddle attachment) or hand mixer, on medium speed, beat Shortbread Cookie Mix with butter and water for 2–3 min or until a soft, uniform dough forms.",
+    "Using 4-in-1 Spice Spoon, divide between 30 wells in Perfect Petites, about 1&frasl;2 tbsp per well. Using the back of the spoon, press evenly into wells.",
+    "Bake 15 min, shortbread will have risen, but still be soft.",
+    "In a medium bowl, whisk eggs. Add Luscious Lemon Curd Mix and water; whisk until well combined. Transfer mixture to a spouted measuring cup. Pour into wells over pre-baked shortbread. Fill to the top of each well.",
+    "Bake until the top is set and no longer jiggles when you move the pan, about 15 min. Cool in pan until room temperature. Gently pop out bars and dust with icing sugar, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 bar",
+    "calories": 80,
+    "fat": 4,
+    "saturatedFat": 2,
+    "transFat": 0.1,
+    "cholesterol": 25,
+    "sodium": 25,
+    "carbohydrate": 11,
+    "fiber": 0,
+    "sugars": 5,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "luscious_lemon_bars_1036x583.jpg",
+  "thumbnail": "luscious_lemon_bars_1036x583.webp",
+  "products": [
+    {
+      "slug": "shortbread_cookies_mix__2pk_",
+      "name": "Shortbread Cookie Mix (2pk)",
+      "summary": [
+        "We’re taking Shortbread Cookies beyond the holiday season and making them an everyday delight because they are just too good to only be enjoyed once a year! Our gluten free baking mix is a dream to work with. Just add butter and water (and salt, if you like) and stir it up! It’s super easy to work with and a great way to get kids involved in baking without a ton of mess — and the cookies turn out perfectly each and every time.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "luscious_lemon_curd_mix__pkg_of_2_",
+      "name": "Luscious Lemon Curd Mix (Pack of 2)",
+      "summary": [
+        "With our fool-proof Luscious Lemon Curd Mix, wave goodbye to yolk separation and double boilers in favour of our fave kitchen tool: the microwave. Simply mix the blend with eggs &amp; water and you’ve got sweet, lemony luscious curd in two minutes—talk about a game changer!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "n4_in_1_spice_spoon_2cc83da",
+      "name": "4-in-1 Spice Spoon",
+      "summary": [
+        "Smart, convenient tool for multiple measurements."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "perfect_petites_a4d39ed",
+      "name": "Perfect Petites",
+      "summary": [
+        "A versatile non-stick silicone pan that makes baking the cutest bite-sized portions easy and fun! Go beyond baking and use the Perfect Petites to make ice cubes, portion baby food and sauces, and more!&nbsp;"
+      ]
+    }
+  ]
+}

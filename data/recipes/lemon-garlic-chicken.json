@@ -1,0 +1,119 @@
+{
+  "name": "Lemon Garlic Chicken   ",
+  "slug": "lemon-garlic-chicken",
+  "description": "Cook a whole, juicy chicken in the microwave in just 20 minutes! Yes, this is real! The seasoning has everything you need: lemon and garlic, and herbs like rosemary, thyme and sage, so there’s no stuffing required. Bonus: this blend is low sodium! Use leftover shredded chicken to bump up the protein in sandwiches, salads, wraps, or soups.",
+  "ingredients": [
+    {
+      "name": "(1.36 kg) whole chicken  ",
+      "quantity": "3 lb",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Garlic Chicken Seasoning  ",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "22 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Place chicken in Multipurpose or Round Steamer, breast side down. Coat in oil.",
+    "Shake half the seasoning and rub over chicken. Turn chicken over, breast side up, and coat with remaining seasoning.",
+    "Cover and microwave on high for 15 min. Remove lid and cook for 5 min. Or, roast in preheated 375° F oven for 70–80 min.",
+    "To test for doneness, insert an instant read thermometer into thickest part of the meat (all the way to the middle, not touching any bone). It should register at 180° F."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 220,
+    "fat": 13,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 70,
+    "sodium": 160,
+    "carbohydrate": 4,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 22
+  },
+  "tips": [
+    "Baste drippings over chicken after carving to maximize flavour.",
+    "Let the chicken rest 10–15 min before slicing. Resting allows the protein fibres to relax and the juices to redistribute throughout the meat. This makes it easier to carve the chicken and guarantees moist, juicy slices.",
+    "Use leftover shredded chicken to make a club sandwich! Spread prepared Roasted Garlic or Chipotle Aioli on bread and top with shredded chicken, lettuce, tomato, and Better Than Bacon Topper for an epic, lunchtime win!"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup veggies, and 1 cup rice or 1 whole-grain bun.",
+  "image": "lemon_garlic_chicken_1036x583.jpg",
+  "thumbnail": "lemon_garlic_chicken_1036x583.webp",
+  "products": [
+    {
+      "slug": "lemon_garlic_herb_chicken_seasoning__3pk_",
+      "name": "Lemon Garlic Chicken Seasoning (3pk)",
+      "summary": [
+        "With just the right amount of garlic and a citrus squeeze, this seasoning makes it easy to cook a whole juicy chicken in the microwave in just 20 minutes using a <a href=\"https://epicure.com/en-us/product/multipurpose-steamer\" data-new-window=\"true\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Multipurpose Steamer</strong></a>. This is one of those ‘set it and forget it’ meals that works well for a weeknight dinner or a dinner party.&nbsp;"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "better_than_bacon_topper__1701207_",
+      "name": "Better Than Bacon Topper",
+      "summary": [
+        "Ok, bacon lovers; we see you. We know that bacon made from ‘pinto beans’ has you feeling a kind of way: skeptical. But trust us, this fan fave does not disappoint and it’s so easy to use. No need to grab a frying pan — just pop the top and shake on the taste of bacon with way less sodium, zero cholesterol, and no artificial flavors or colors (unlike popular brands).&nbsp;These crunchy bites are layered with smoky bacon flavor and are an amazing addition to salads, potatoes, eggs, and more!&nbsp;"
+      ]
+    }
+  ]
+}

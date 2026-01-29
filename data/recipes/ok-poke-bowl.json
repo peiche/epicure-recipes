@@ -1,0 +1,155 @@
+{
+  "name": "OK! Poke Bowl",
+  "slug": "ok-poke-bowl",
+  "description": "If you’re new to poke—which is basically a sushi salad—this is an easy place to start. We’ve lightly seared the fish instead of serving it raw. Baby steps, right?",
+  "ingredients": [
+    {
+      "name": "mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "soy sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Asian Stir-Fry Seasoning",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "skinless tuna or salmon fillet (or 3 small fillets)",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "cooked brown or white rice",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "asparagus spears",
+      "quantity": "18",
+      "additionalInstruction": "steamed and cooled, cut into spears"
+    },
+    {
+      "name": "shredded purple cabbage",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "carrots",
+      "quantity": "3 ",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "avocado",
+      "quantity": "1",
+      "additionalInstruction": "cubed"
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "1",
+      "additionalInstruction": "thinly sliced or spiralized"
+    },
+    {
+      "name": "cooked edamame beans (optional)",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "22 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In a bowl, whisk together mayo, lime juice, soy sauce, and 1 tbsp Asian Stir-Fry Seasoning. Set sauce aside",
+    "Cut fish fillet into 3 small portions. Brush all over with half the oil; generously coat with remaining seasoning. If using tofu, follow package directions.",
+    "Heat remaining oil in a frying pan set over medium-high heat. When hot, reduce heat to medium; add fish. Sear 30–60 seconds per side, just until coating is crispy. Cut into cubes. For tofu, follow package directions.",
+    "Divide rice between bowls; add fish or tofu and veggies. Drizzle sauce on top."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 460,
+    "fat": 24,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 45,
+    "sodium": 380,
+    "carbohydrate": 40,
+    "fiber": 10,
+    "sugars": 6,
+    "protein": 24
+  },
+  "tips": [
+    "Make it vegetarian and swap fish for tofu. Follow package directions for cooking instructions.",
+    "Use the 4-in-1 Mandolin to thinly slice veggies.",
+    "Like it spicy? Add a few shakes of your favourite hot sauce to the mayo mixture."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1600379035148-recipeMainImagePath.jpg",
+  "thumbnail": "1600379035148-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice and noodle dish."
+      ]
+    },
+    {
+      "slug": "n4_in_1_mandoline_97d6780",
+      "name": "4-in-1 Mandoline",
+      "summary": [
+        "Perfect for cutting thin slices &amp; shredding veggies. 4 slicer settings: 2 slice &amp; 2 julienne options."
+      ]
+    }
+  ]
+}

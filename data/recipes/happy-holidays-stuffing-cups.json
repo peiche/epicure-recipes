@@ -1,0 +1,114 @@
+{
+  "name": "Happy Holidays Stuffing Cups",
+  "slug": "happy-holidays-stuffing-cups",
+  "description": "Stuffing is one of the first dishes to be gobbled up during a holiday feast––make sure you have enough for everyone by making these adorable stuffing cups. Individual servings = enough for everyone at the table.",
+  "ingredients": [
+    {
+      "name": "dried or day-old bread, or 6 cups croutons",
+      "quantity": "6 slices",
+      "additionalInstruction": null
+    },
+    {
+      "name": "celery stalks",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small apple",
+      "quantity": "1",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Happy Holidays Stuffing Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Chop bread into cubes. You should have about 6 cups. Thinly dice celery. If using, peel and dice apple into bite-sized pieces.",
+    "Melt butter in Sauté Pan over medium-high heat. Add celery and apple; cook until tender, about 4 min. Add seasoning and boiling water; stir to combine. Bring to a boil.",
+    "Add bread cubes to pan and stir to combine. Cover and remove from heat. Let stand 5 min.",
+    "Moisten with pan drippings or water, if desired.",
+    "Divide warm stuffing into Muffin Maker wells and press down; let cool.",
+    "Reheat to serve, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 1/2 cups",
+    "calories": 140,
+    "fat": 4.5,
+    "saturatedFat": 2,
+    "transFat": 0.1,
+    "cholesterol": 10,
+    "sodium": 220,
+    "carbohydrate": 20,
+    "fiber": 2,
+    "sugars": 1,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "happy_holidays_stuffing_cups_1036x583.jpg",
+  "thumbnail": "happy_holidays_stuffing_cups_1036x583.webp",
+  "products": [
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "muffin_maker__2pk_",
+      "name": "Muffin Maker (Set of 2)",
+      "summary": [
+        "Make perfect portions of your favorite sweet or savory cupcakes, muffins, frittatas, meatloaves, &amp; more!"
+      ]
+    }
+  ]
+}

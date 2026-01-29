@@ -1,0 +1,162 @@
+{
+  "name": "Stuffed Acorn Squash",
+  "slug": "stuffed-acorn-squash",
+  "description": "Acorn squash is an awesome, cozy carb to reach for in the wintertime! It’s low in calories but high in nutrients and fibre. With your Multipurpose Steamer, it’s quick and easy to prepare, and eliminates the need for all the oil and butter typically used in roasted squash recipes. Bright flavours of rosemary and garlic compliment the subtle sweetness of the squash for a savoury dish perfect for the holiday season.",
+  "ingredients": [
+    {
+      "name": "acorn squash",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Rosemary Garlic Seasoning or SPG Seasoning",
+      "quantity": "3 tsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "couscous",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sun-dried cranberries",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 350° F. Line Sheet Pan with Sheet Pan Liner.",
+    "Cut squash lengthwise in half; remove seeds and centre fibres. Sprinkle with 1 tsp seasoning, salt, and pepper.",
+    "Place squash cut-side down in Multipurpose Steamer. Cover and microwave on high for 15 minutes.",
+    "Meanwhile, in a medium bowl, cover couscous and sun-dried cranberries with boiling water and let stand 5 minutes. Stir in olive oil, 3 Onion Dip Mix, and remaining seasoning.",
+    "Place squash on Sheet Pan. Heap and press filling into the centre of each squash half.",
+    "Bake, covered with aluminum foil, for 15 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 4,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 10,
+    "carbohydrate": 41,
+    "fiber": 4,
+    "sugars": 4,
+    "protein": 5
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113) lean protein and 2 cups leafy greens with 1 tbsp Epicure Dressing.",
+  "image": "Stuffed-Acorn-Squash-Main.jpg",
+  "thumbnail": "Stuffed-Acorn-Squash-Main.webp",
+  "products": [
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavors on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    },
+    {
+      "slug": "spg_seasoning_5edecfd",
+      "name": "SPG Seasoning",
+      "summary": [
+        "Salt. Pepper. Garlic. Your go-to for chicken, fish, seafood, roasted potatoes, veggies, &amp; even popcorn!"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

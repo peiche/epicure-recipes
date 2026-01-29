@@ -1,0 +1,178 @@
+{
+  "name": "Beef & Bean Minestrone",
+  "slug": "beef-bean-minestrone",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g) ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red or white kidney beans",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "zucchini",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water or broth",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small pasta such as ditalini, macaroni, or shells ",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix or Italian Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth or Vegetable Both",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "40 min (programmable pressure cooker)",
+  "servings": "4 servings",
+  "preparation": [
+    "In 8-quart programmable pressure cooker, program to SAUTÉ. Heat oil; add beef, breaking up chunks as needed.",
+    "Drain and rinse beans. Dice zucchini. Add beans, zucchini, tomatoes, water, pasta, and mixes to pot.",
+    "Secure lid. Place steam release valve in SEALING position. Press MANUAL button, select HIGH, and set the time to 5 min. This will take some time to get up to temperature before the timer starts to count down.",
+    "When the cook time has finished, naturally release pressure for 10 min.",
+    "Using a long-handled spoon, push the steam release valve to VENTING position. Release pressure completely before opening lid.",
+    "Just before serving, stir in spinach.",
+    "In sauté pan, heat oil over medium-high heat. Brown beef, breaking up chunks as needed. Transfer to a 6-quart slow cooker.",
+    "Drain and rinse beans. Dice zucchini. Add beans, zucchini, tomatoes, water, pasta, and mixes to slow cooker. Cover; cook on high 3 hours. The liquid should be bubbling.",
+    "With about 20 min cook time to go, add pasta. Stir to combine. Cover; cook remaining 20 min or until pasta is tender.",
+    "Just before serving, stir in spinach."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "slow_cooker",
+      "name": "Slow Cookers & Roasts"
+    },
+    {
+      "slug": "programmable_pressure_cooker",
+      "name": "Programmable Pressure Cooker"
+    },
+    {
+      "slug": "instant_pottm",
+      "name": "Instant Pot™"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "about 2 ¼ cups",
+    "calories": 360,
+    "fat": 9,
+    "saturatedFat": 2.5,
+    "transFat": 0.2,
+    "cholesterol": 30,
+    "sodium": 380,
+    "carbohydrate": 45,
+    "fiber": 11,
+    "sugars": 11,
+    "protein": 24
+  },
+  "tips": [
+    "Swap zucchini for 2 cups frozen or fresh mixed vegetables of your choice."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 whole-grain roll.",
+  "image": "beef_bean_minestrone_1036x583.jpg",
+  "thumbnail": "beef_bean_minestrone_1036x583.webp",
+  "products": [
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavor of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "italian_seasoning",
+      "name": "Italian Seasoning",
+      "summary": [
+        "A robust Italian blend perfect for pizza, bread dough, pasta or flatbreads.&nbsp;"
+      ]
+    },
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavours of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "name": "Simple Veggie Noodle Bowl",
+  "slug": "simple-veggie-noodle-bowl",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "vermicelli rice noodles",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg (14 oz/400 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "8 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Dressing Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": "or Dressing Mix of your choice"
+    },
+    {
+      "name": "liquid honey and sesame oil",
+      "quantity": "1 tbsp each",
+      "additionalInstruction": null
+    },
+    {
+      "name": "radishes",
+      "quantity": "1 bunch",
+      "additionalInstruction": null
+    },
+    {
+      "name": "carrots",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "smoked tofu",
+      "quantity": "2 blocks (7 oz/210 g each)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a large bowl, combine rice noodles and boiling water. Ensure noodles are completely submerged—add more boiling water as needed. Every couple of minutes, give the noodles a stir to ensure they are evenly cooked. Noodles take approximately 6 min to cook until tender, then drain and rinse under cold water.",
+    "Meanwhile, in a small bowl, make dressing. Using 2-in-1 Citrus Press, squeeze in juice from 1 lime. Whisk in dressing mix, honey, and oil.",
+    "Slice radishes into thin rounds. Grate carrots. Slice cucumber in half, lengthwise. Use a spoon to scrape out seeds (save for a smoothie!). Slice halves cross-wise. Cube tofu.",
+    "Divide noodles, veggies and tofu between four bowls. Drizzle dressing on top."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 430,
+    "fat": 14,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 410,
+    "carbohydrate": 54,
+    "fiber": 4,
+    "sugars": 7,
+    "protein": 20
+  },
+  "tips": [
+    "Smoked tofu is very firm and has a smoky flavour; it can be eaten uncooked or cooked. If you’re feeling fancy, make ribbons. Simply fit the 4-in-1 Mandoline with the 3.5 mm slicer plate and slice the tofu into thin strips."
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "simply_veggie_noodle_bowl_1036x583.jpg",
+  "thumbnail": "simply_veggie_noodle_bowl_1036x583.webp",
+  "products": [
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    }
+  ]
+}

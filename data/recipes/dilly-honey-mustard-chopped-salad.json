@@ -1,0 +1,149 @@
+{
+  "name": "Dilly Honey Mustard Chopped Salad",
+  "slug": "dilly-honey-mustard-chopped-salad",
+  "description": "This one is inspired by the uber popular dill pickle bagged salad from Costco® but this recipe is all about you—customize away! Prepping from scratch means you can cater the ingredients to what you and your family want, and you can make your dressing with simple ingredients. Top with sliced Rotisserie Chicken, Lemon Garlic Chicken, tofu, or whatever protein rocks your salad world. Your dinner, your rules.",
+  "ingredients": [
+    {
+      "name": "kale",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> bunch",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green cabbage",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> small",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red cabbage",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> small",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pickle",
+      "quantity": "1 large",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cauliflower florets",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped romaine lettuce",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dilly Honey Mustard Dressing",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayo",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dilly Honey Mustard Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "liquid honey",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dill pickle juice",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "crumbled feta cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "croutons",
+      "quantity": "1 cup",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Remove stem from kale; discard. Finely chop leaves. Dice green and red cabbage, pickle, and cauliflower. Place in a large bowl. Add lettuce, dressing, and feta.",
+    "If using croutons, gently crush until you have a mix of larger and smaller pieces. Add to bowl. Toss to combine."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "about 2 cups",
+    "calories": 210,
+    "fat": 16,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 300,
+    "carbohydrate": 13,
+    "fiber": 2,
+    "sugars": 8,
+    "protein": 4
+  },
+  "tips": [
+    "For a Kale Caesar Salad, swap Caesar Dressing for Dilly Honey Mustard Dressing."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein and 1 cup cooked grains, your choice.",
+  "image": "dilly_honey_mustard_chopped_salad_1036x583.jpg",
+  "thumbnail": "dilly_honey_mustard_chopped_salad_1036x583.webp",
+  "products": [
+    {
+      "slug": "dilly_honey_mustard_dressing_mix",
+      "name": "Dilly Honey Mustard Dressing Mix",
+      "summary": [
+        "Sure to be a hit at your next get-together, this is one of those so-good-you-keep-making-it dressings that will have everyone asking for the recipe. Dairy-free yet super creamy, this one hits you with a whole lot of dill flavor, a touch of honey and a slight tang from apple cider vinegar.&nbsp;"
+      ]
+    }
+  ]
+}

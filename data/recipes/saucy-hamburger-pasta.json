@@ -1,0 +1,153 @@
+{
+  "name": "Saucy Hamburger Pasta",
+  "slug": "saucy-hamburger-pasta",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "uncooked scoobi do or rotini pasta",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted diced tomatoes",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pickle",
+      "quantity": "1",
+      "additionalInstruction": "reduced sodium"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded lettuce",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "18 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In Multipurpose Pot set over high heat, boil pasta until tender, 9–11 min.",
+    "Meanwhile, crumble beef into Wok over medium-high heat. Use Ground Meat Separator to break up chunks, stirring until meat is cooked through, 4–5 min.",
+    "Add diced tomatoes (including juice), crushed tomatoes, and sauce mix. Stir to combine. Allow the sauce to come to a boil. Partially cover; reduce heat to medium and simmer 5–8 min for flavours to blend.",
+    "Chop pickle.",
+    "Once cooked, drain pasta. Add to wok and stir to combine.",
+    "Divide between six bowls. Top with cheese, pickles, and lettuce."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "about 1 1/3 cups",
+    "calories": 360,
+    "fat": 13,
+    "saturatedFat": 6,
+    "transFat": 0.2,
+    "cholesterol": 55,
+    "sodium": 230,
+    "carbohydrate": 37,
+    "fiber": 4,
+    "sugars": 4,
+    "protein": 24
+  },
+  "tips": [
+    "Swap Marinara Sauce with Pesto Sauce.",
+    "Scoobi do pasta is also known as “cavatappi” and is shaped like a corkscrew."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy green salad and 1 tbsp Epicure Dressing.",
+  "image": "cheeseburger_pasta_1036x583.jpg",
+  "thumbnail": "cheeseburger_pasta_1036x583.webp",
+  "products": [
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavor of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    },
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavor of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

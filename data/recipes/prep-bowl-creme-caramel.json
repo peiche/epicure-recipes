@@ -1,0 +1,84 @@
+{
+  "name": "Prep Bowl Crème Caramel",
+  "slug": "prep-bowl-creme-caramel",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg yolks",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk (homogenized or 2%)",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "finely grated orange or lemon peel",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Poudre Douce",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 5 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 325° F (160° C).",
+    "Stir 1&frasl;4 cup sugar with water in fry pan over medium heat until dissolved. Boil, occasionally swirling pan (not stirring), until mixture turns syrupy and deep amber. Divide mixture between Prep Bowls.",
+    "In a bowl, whisk eggs with yolks and remaining 1&frasl;4 cup sugar. Whisk in milk, vanilla extra, orange peel and Poudre Douce. Pour overtop caramel in Prep Bowls.",
+    "Set Prep Bowls in a baking dish. Pour in enough hot water to come halfway up side of Bowls. Bake 30 minutes, or until set. Remove from oven and let cool completely in water bath. Remove Prep Bowls from baking dish. Cover and refrigerate until chilled, up to 2 days.",
+    "To serve, run knife around inside edge of each bowl to loosen. Place a serving plate overtop each Prep Bowl, then quickly invert."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 250,
+    "fat": 8,
+    "saturatedFat": 3.5,
+    "transFat": 0.2,
+    "cholesterol": 200,
+    "sodium": 110,
+    "carbohydrate": 34,
+    "fiber": 0,
+    "sugars": 34,
+    "protein": 10
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Prep-Bowl-Creme-Caramel-Main.jpg",
+  "thumbnail": "Prep-Bowl-Creme-Caramel-Main.webp",
+  "products": []
+}

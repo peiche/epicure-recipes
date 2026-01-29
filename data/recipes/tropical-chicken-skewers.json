@@ -1,0 +1,139 @@
+{
+  "name": "Tropical Chicken Skewers",
+  "slug": "tropical-chicken-skewers",
+  "description": "Skewers, kebabs, kabobs, food on a stick, whatever you want to call them, they’re fast and fun…especially if you prep them in advance. Let’s face it, threading meat and veggies on a stick is a bit labour intensive and not something most look forward to doing on a busy weeknight. Marinate meat 1-2 days before grilling, and thread onto skewers ahead of time. Simply grill when you need it.",
+  "ingredients": [
+    {
+      "name": "Tropical Pineapple Chicken Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pineapple juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil + more for brushing",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium peaches",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "about 2"
+    },
+    {
+      "name": "fresh pineapple chunks",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat grill to medium-high heat. Lightly brush with oil to prevent sticking.",
+    "In a large bowl, whisk together seasoning, juice, and oil.",
+    "Cut peaches and pepper into 1 1&frasl;2\" pieces. Cut chicken into 1\" cubes. Add to bowl with sauce. Stir to coat evenly. If you have extra time, let stand for 10 min to marinate.",
+    "Thread fruit, veggies and chicken onto skewers.",
+    "Grill skewers, with lid closed, 8–10 min; rotate often, or until chicken is cooked through."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 9,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 480,
+    "carbohydrate": 24,
+    "fiber": 4,
+    "sugars": 15,
+    "protein": 25
+  },
+  "tips": [
+    "Swap fresh pineapple with canned pineapple chunks; whisk in reserved juice from the can with the seasoning.",
+    "Thread chicken, peaches, peppers, and pineapple separately onto their own skewer(s). Pull the skewers from the grill as they’re cooked and serve family-style, letting everyone help themselves.",
+    "No pineapple juice? Swap it out for orange juice."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup rice and 2 cups leafy greens with 1 tbsp prepared Epicure Salad Dressing, your choice.",
+  "image": "june_tropical_chicken_skewers_1036x583.jpg",
+  "thumbnail": "june_tropical_chicken_skewers_1036x583.webp",
+  "products": [
+    {
+      "slug": "grill_boss_skewers__set_of_6___1701226_",
+      "name": "Grill Boss Skewers (Set of 6)",
+      "summary": [
+        "Start grilling up praise-worthy meals&nbsp;this season with these made-to-last reusable skewers!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "name": "Chocolate Chia Chai Energy Bar",
+  "slug": "chocolate-chia-chai-energy-bar",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "blanched almonds",
+      "quantity": "180 g",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dates",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "raisins ",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chia seeds",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "flax seeds",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chai spice",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "nut butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "30 servings",
+  "preparation": [
+    "Blend first seven ingredients in a food processor.",
+    "Melt nut butter and honey in microwave, drizzle over mixture in food processor.",
+    "Pulse mixture until all ingredients are blended.",
+    "Divide mixture evenly between sections in a Perfect Petites. Press in lightly. Refrigerate until firm.",
+    "Flip petites onto a Sheet Pan and twist to pop out energy bars."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 bar",
+    "calories": 90,
+    "fat": 6,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 3,
+    "carbohydrate": 9,
+    "fiber": 3,
+    "sugars": 5,
+    "protein": 3
+  },
+  "tips": [
+    "Chia seeds are high in Omega-3 fatty acids and Calcium."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Chocolate-Chia-Chai-Energy-Bar-Main.jpg",
+  "thumbnail": "Chocolate-Chia-Chai-Energy-Bar-Main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "perfect_petites_a4d39ed",
+      "name": "Perfect Petites",
+      "summary": [
+        "No more cutting. No more waste.&nbsp;Use this cookware item to create 30 individual, perfect portions—both sweet &amp; savoury.&nbsp;"
+      ]
+    }
+  ]
+}

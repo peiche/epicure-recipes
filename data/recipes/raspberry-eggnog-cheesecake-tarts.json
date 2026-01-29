@@ -1,0 +1,87 @@
+{
+  "name": "Raspberry Eggnog Cheesecake Tarts",
+  "slug": "raspberry-eggnog-cheesecake-tarts",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "gingersnap crumbs or gluten free cookie crumbs",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": "melted"
+    },
+    {
+      "name": "cream cheese",
+      "quantity": "1 pkg (8 oz/ 250 g)",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "Eggnog Cheesecake Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "seedless raspberry jam",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "50 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Arrange one oven rack in centre of oven; another on the lowest level. Place Perfect Portion Muffin Pan on Sheet Pan. Line each well with a paper liner. Fill a small oven-proof dish with hot water and place on lowest rack. Preheat oven to 325 F.",
+    "In bowl, combine crumbs with melted butter; press 2 tsp into bottom of each well in muffin pan.",
+    "In large bowl, using an electric mixer, beat cream cheese with cheesecake mix until smooth; beat in eggs, one at a time. Spoon filling over crusts, smoothing tops.",
+    "In small bowl, whisk jam to loosen; spoon 1 tsp over top each cheesecake; using toothpick, swirl through batter to create a marbled effect.",
+    "Bake until edges are set, and centre slightly jiggles, 30–35 min. Let cool in pan.",
+    "If making ahead, refrigerate up to 3 days or freeze in a single a layer on sheet pan; wrap individually and freeze up to 1 month."
+  ],
+  "tags": [
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 130,
+    "fat": 7,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 55,
+    "sodium": 150,
+    "carbohydrate": 14,
+    "fiber": 0,
+    "sugars": 10,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1598989476906-recipeMainImagePath.jpg",
+  "thumbnail": "1598989476906-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

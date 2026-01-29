@@ -1,0 +1,97 @@
+{
+  "name": "Raspberry Summer Berry Pops",
+  "slug": "raspberry-summer-berry-pops",
+  "description": "Everything tastes better on a stick, especially your favourite berries! Tart and sweet make a perfect pair in these berry filled popsicles. Less fat and sugar than the storebought alternatives, these pops are worth the wait!",
+  "ingredients": [
+    {
+      "name": "Summer Berry Sweet Dip Mix or Strawberry Margarita Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "raspberry or cranberry juice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh or frozen raspberries",
+      "quantity": "16",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "4 hours",
+  "servings": "4 ice pops",
+  "preparation": [
+    "Stir pinches of Summer Berry Sweet Dip Mix into raspberry juice.",
+    "Place 4 raspberries per popsicle mold.",
+    "Top with juice and freeze for 4 hours."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 45,
+    "fat": 0.1,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 10,
+    "carbohydrate": 10,
+    "fiber": 1,
+    "sugars": 9,
+    "protein": 0.3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Raspberry-Summer-Berry-Pops-Main.jpg",
+  "thumbnail": "Raspberry-Summer-Berry-Pops-Main.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    }
+  ]
+}

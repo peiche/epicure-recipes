@@ -1,0 +1,151 @@
+{
+  "name": "Med-Style Salad",
+  "slug": "med-style-salad",
+  "description": "This is a great, cost-effective recipe to help you stretch your food dollar. Med-style eating consists of eating less meat and adding in plant-based protein, like beans.",
+  "ingredients": [
+    {
+      "name": "extra virgin olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chicken breast",
+      "quantity": "1",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "Balsamic Vinaigrette or Greek Dressing Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red wine vinegar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "extra virgin olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "romaine lettuce",
+      "quantity": "8 cups",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "light feta cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced black olives",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "small red onion",
+      "quantity": "1",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "chickpeas",
+      "quantity": "1–19 oz can",
+      "additionalInstruction": "drained and rinsed"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a Saute Pan set over medium-high heat, add oil and chicken; cook on high for 4–6 min, until cooked. Set aside.",
+    "In a small mixing bowl, combine salad dressing ingredients. Set aside.",
+    "On a large platter, assemble salad and top with chicken and chickpeas; drizzle with dressing. Enjoy!"
+  ],
+  "tags": [
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 470,
+    "fat": 28,
+    "saturatedFat": 8,
+    "transFat": 0,
+    "cholesterol": 55,
+    "sodium": 520,
+    "carbohydrate": 40,
+    "fiber": 8,
+    "sugars": 6,
+    "protein": 22
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced meal.",
+  "image": "Med-Style-Salad_1036x583.jpg",
+  "thumbnail": "Med-Style-Salad_1036x583.webp",
+  "products": [
+    {
+      "slug": "balsamic_vinaigrette_dressing_mix",
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "summary": [
+        "Fresh, bright &amp; bold blend of Mediterranean herbs with notes of garlic &amp; rosemary. Our most versatile dressing."
+      ]
+    },
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    }
+  ]
+}

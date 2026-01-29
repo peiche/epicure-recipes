@@ -1,0 +1,145 @@
+{
+  "name": "Teriyaki Tofu Glory Bowls",
+  "slug": "teriyaki-tofu-glory-bowls",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Teriyaki Dry Glaze",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp + 2 tsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "extra-firm or firm tofu",
+      "quantity": "2 blocks (350 g each)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "carrots",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "avocado",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded coleslaw mix",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Steamer, combine rice and water. Top with tray; microwave uncovered, on high for about 16–18 min, or until tender.",
+    "In a bowl, whisk together dry glaze, honey, soy sauce, and 1 tbsp oil.",
+    "Drain tofu. Slice each block in half, length wise. You will have four pieces. Cut each piece in half, crosswise. Then cut each half on the diagonal to make triangles. You should have 16 triangles.",
+    "Pat tofu dry with a paper towel; place in bowl with marinade. Stir to evenly coat. If you have extra time, let stand 10 min or cover and refrigerate overnight.",
+    "Heat remaining 2 tsp oil in cast iron pan over medium-high heat.",
+    "Using tongs, place tofu in pan, in a single layer. You might have to cook in two batches, depending on the size of your pan. Do not discard marinade. Pan fry tofu 2–3 min per side, until browned.",
+    "While the tofu is cooking, grate carrots using a box grater. Dice avocado. Slice cucumber.",
+    "Once cooked, place tofu in bowl with leftover marinade. Gently toss to coat.",
+    "Divide 2 cups cooked rice between four bowls; reserve remaining rice for use at a later date. Top each with carrots, cucumber, avocado, coleslaw, and tofu. Add topping, if desired and drizzle with any remaining marinade left in bowl."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 470,
+    "fat": 23,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 350,
+    "carbohydrate": 50,
+    "fiber": 8,
+    "sugars": 14,
+    "protein": 21
+  },
+  "tips": [
+    "For crispier tofu, press it! Once you’ve drained it, wrap the block in a kitchen towel or paper towels and set something heavy on top like cookbooks, or a large pot. Let it sit like that for about 10 min, longer if you want to remove more liquid. You can do this up to two days in advance—keep it covered in the fridge until ready to use."
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "terriyaki_glory_bowl_1036x583.jpg",
+  "thumbnail": "terriyaki_glory_bowl_1036x583.webp",
+  "products": [
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

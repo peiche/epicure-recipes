@@ -1,0 +1,128 @@
+{
+  "name": "Salmon Pie",
+  "slug": "salmon-pie",
+  "description": "A one-dish wonder packed with heart healthy omega-3s.",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "peeled and chopped"
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "skim milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium salmon",
+      "quantity": "2 cans (7.5 oz/213 g)",
+      "additionalInstruction": "drained"
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon",
+      "quantity": "1",
+      "additionalInstruction": "juice and rind"
+    },
+    {
+      "name": "Parmesan cheese",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "finely grated"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 400° F (205° C). Lightly oil a heat-proof serving dish.",
+    "Combine potato and 3 Onion Dip Mix in a Rectangular Steamer. Microwave with lid on for 5 minutes on high. Mash potatoes with milk until desired consistency.",
+    "Combine salmon with Lemon Dilly Dip Mix, lemon juice, and lemon rind. Spoon into heat-proof serving dish, top with mashed potatoes, and sprinkle with Parmesan.",
+    "Bake for 15 minutes, or until potatoes start to turn golden brown."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 290,
+    "fat": 7,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 460,
+    "carbohydrate": 28,
+    "fiber": 3,
+    "sugars": 3,
+    "protein": 27
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Salmon-Pie-Main.jpg",
+  "thumbnail": "Salmon-Pie-Main.webp",
+  "products": [
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "rectangular_steamer_efd7225",
+      "name": "Rectangular Steamer",
+      "summary": [
+        "Easy to clean. Easy to serve. Rectangular, silicone steamer is perfect for side dishes &amp; desserts."
+      ]
+    }
+  ]
+}

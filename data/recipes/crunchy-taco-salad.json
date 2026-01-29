@@ -1,0 +1,168 @@
+{
+  "name": "Crunchy Taco Salad",
+  "slug": "crunchy-taco-salad",
+  "description": "Packed with flavour and super easy to make, this low-carb and high-protein lunch is perfect for meal prepping! Salads are great for leftovers, so add in any veggies (raw or cooked) – the more, the merrier!",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Taco Seasoning",
+      "quantity": "1 pkg*",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roma tomatoes",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "avocado",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tortilla chips",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped romaine lettuce",
+      "quantity": "8 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "your choice"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Sauté Pan, heat oil over medium-high heat. Add beef. Reduce heat to medium; cook, using Ground Meat Separator to break up chunks, until beef is browned, 3–4 min.",
+    "Stir seasoning mix with water; pour over beef. Stir often, until thickened, 5 min.",
+    "Meanwhile, chop tomatoes, cube avocado and coarsely crush tortilla chips.",
+    "Divide lettuce among four plates. Top evenly with meat mixture, tomatoes, avocado, cheese, and chips. Add additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 420,
+    "fat": 25,
+    "saturatedFat": 7,
+    "transFat": 0.4,
+    "cholesterol": 65,
+    "sodium": 290,
+    "carbohydrate": 22,
+    "fiber": 8,
+    "sugars": 4,
+    "protein": 30
+  },
+  "tips": [
+    "*Swap 1 pkg of Taco Seasoning with 2 tbsp Taco Seasoning or Fajita Seasoning.",
+    "Swap ground beef for soy ground round for a vegetarian-friendly option."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 whole grain roll.",
+  "image": "6734_crunchy_taco_salad_1036x583.jpg",
+  "thumbnail": "6734_crunchy_taco_salad_1036x583.webp",
+  "products": [
+    {
+      "slug": "taco_seasoning__pkg_of_3_",
+      "name": "Taco Seasoning (Pack of 3)",
+      "summary": [
+        "Taco night never tasted so delicious! Wave adios to too much sodium and taste the fullness of this well-balanced blend of cumin, oregano, and chili powder – with a mild heat, it’s kid-friendly. Just add the seasoning to lean ground meat for a saucy affair that holds together while you scoop it into taco shells. Our only question – soft or hard shell?&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    },
+    {
+      "slug": "fajita_seasoning_ceb100c",
+      "name": "Fajita Seasoning",
+      "summary": [
+        "A lively, mild blend for seasoning beef, chicken, or fish fajitas &amp; enchiladas."
+      ]
+    }
+  ]
+}

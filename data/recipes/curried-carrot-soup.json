@@ -1,0 +1,139 @@
+{
+  "name": "Curried Carrot Soup",
+  "slug": "curried-carrot-soup",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium onion",
+      "quantity": "1",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "Mango Curry Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh ginger",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated carrots",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "orange juice",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Heat Multipurpose Pot to medium; add vegetable oil and sauté onion for about 4 minutes, being careful not to brown. Add Curry Dip Mix and ginger and sauté for 1 minute.",
+    "Stir grated carrots into pot. Add Bouillon and orange juice and bring to a simmer. Cook until carrots are tender and all flavours are combined, about 30 minutes.",
+    "In small batches, carefully blend soup until smooth. Return to heat and adjust consistency with Bouillon, if required. Season with Salt and Pepper."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 180,
+    "fat": 5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 170,
+    "carbohydrate": 27,
+    "fiber": 4,
+    "sugars": 16,
+    "protein": 8
+  },
+  "tips": [
+    "Serve with a garnish of plain yogurt or crème fraiche."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Curried-Carrot-Soup-Main.jpg",
+  "thumbnail": "Curried-Carrot-Soup-Main.webp",
+  "products": [
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavour as making it from scratch—just add water!"
+      ]
+    }
+  ]
+}

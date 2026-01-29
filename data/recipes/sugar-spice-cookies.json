@@ -1,0 +1,123 @@
+{
+  "name": "Sugar & Spice Cookies",
+  "slug": "sugar-spice-cookies",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "quantity": "2 <sup>2</sup>&frasl;<sub>3</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pumpkin Pie Spice or Gingerbread Spices",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salt",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "1 cup",
+      "additionalInstruction": "at room temperature"
+    },
+    {
+      "name": "packed brown sugar",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "45 min (15 min chill time)",
+  "servings": "18 cookies",
+  "preparation": [
+    "Line a Sheet Pan with a Sheet Pan Liner.",
+    "In bowl, whisk together flour, spice, baking powder, and salt.",
+    "In separate bowl, using electric mixer, beat butter with sugar until light and fluffy, 3 min. Beat in egg, then vanilla. Add flour mixture; stir just until combined.",
+    "Wrap dough and refrigerate until firm, 15–25 min. Meanwhile, preheat oven to 350° F.",
+    "Roll dough into large balls (about 1 1&frasl;2 tbsp each), arrange on Sheet Pan about 1\" apart. Press each with a cookie stamp.",
+    "Bake for 20–25 min or until edges are set. Cool on rack. Decorate as desired."
+  ],
+  "tags": [
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cookie",
+    "calories": 110,
+    "fat": 4.5,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 5,
+    "carbohydrate": 16,
+    "fiber": 2,
+    "sugars": 13,
+    "protein": 2
+  },
+  "tips": [
+    "Make it gluten-free and swap all purpose flour for gluten-free all purpose flour.",
+    "Make-Ahead Tip:  store baked cookies in an airtight container in a cool place up to 2 weeks or freeze up to 2 months"
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1576259069419-recipeMainImagePath.jpg",
+  "thumbnail": "1576259069419-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

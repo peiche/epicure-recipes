@@ -1,0 +1,109 @@
+{
+  "name": "Oatmeal Coconut Haystacks",
+  "slug": "oatmeal-coconut-haystacks",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "honey",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "quick oats",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded, sweetened, coconut",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20",
+  "servings": "30 servings",
+  "preparation": [
+    "In a medium bowl; melt honey, butter and milk in the microwave for 50 seconds on HIGH.",
+    "Stir in vanilla extract, cocoa powder, rolled oats and coconut.",
+    "Divide mixture evenly between sections of a Perfect Petites. Press in lightly. Refrigerate until firm.",
+    "Flip mold onto a Sheet Pan and twist to pop out haystacks."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 haystack",
+    "calories": 120,
+    "fat": 8,
+    "saturatedFat": 6,
+    "transFat": 0.1,
+    "cholesterol": 10,
+    "sodium": 5,
+    "carbohydrate": 12,
+    "fiber": 2,
+    "sugars": 5,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Oatmeal-Coconut-Haystacks-Main.jpg",
+  "thumbnail": "Oatmeal-Coconut-Haystacks-Main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "perfect_petites_a4d39ed",
+      "name": "Perfect Petites",
+      "summary": [
+        "A versatile non-stick silicone pan that makes baking the cutest bite-sized portions easy and fun! Go beyond baking and use the Perfect Petites to make ice cubes, portion baby food and sauces, and more!&nbsp;"
+      ]
+    }
+  ]
+}

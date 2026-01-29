@@ -1,0 +1,108 @@
+{
+  "name": "Chocolate Shortbread",
+  "slug": "chocolate-shortbread",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "cold unsalted butter",
+      "quantity": "1 cup",
+      "additionalInstruction": "cubed"
+    },
+    {
+      "name": "all-purpose flour",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "icing sugar",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cold water",
+      "quantity": "2 - 3 tbsp",
+      "additionalInstruction": "or less as needed"
+    },
+    {
+      "name": "Chocolate Fudge Sauce",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Chocolate Fudge Sauce Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whipping cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "36 cookies",
+  "preparation": [
+    "In mixer or food processor, combine all ingredients, except water, to form a fine cornmeal texture.",
+    "Slowly add water, pulsing, until dough begins to form. Remove from food processor. Gather into a ball, and roll out until flat. Wrap and chill for 15 minutes.",
+    "Preheat oven to 375° F (190° C).",
+    "On a lightly floured surface, roll out dough to desired thickness, and cut into shapes.",
+    "Place on a Sheet Pan lined with a Sheet Pan Liner, and bake 8–10 minutes. Before serving, drizzle with chocolate fudge sauce or lightly dust with cocoa or icing sugar, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cookie",
+    "calories": 80,
+    "fat": 5,
+    "saturatedFat": 3.5,
+    "transFat": -2.8,
+    "cholesterol": 15,
+    "sodium": 2,
+    "carbohydrate": 8,
+    "fiber": 0,
+    "sugars": 3,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Chocolate-Shortbread-Main.jpg",
+  "thumbnail": "Chocolate-Shortbread-Main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

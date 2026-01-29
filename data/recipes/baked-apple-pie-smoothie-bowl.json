@@ -1,0 +1,89 @@
+{
+  "name": "Baked Apple Pie Smoothie Bowl",
+  "slug": "baked-apple-pie-smoothie-bowl",
+  "description": "Apple pie for breakfast? Yes please!",
+  "ingredients": [
+    {
+      "name": "frozen banana",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "apple sauce, unsweetened",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "quick oats",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mixed greens",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "almond milk",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Apple Pie Spice",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Power Up Vanilla Protein Blend",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "1 serving",
+  "preparation": [
+    "In a blender, combine all ingredients except toppings. Blend until smooth—if you like it thicker, add ice cubes; for a thinner consistency, add water.",
+    "Transfer to a bowl. Top with your choice of toppings, if desired, and serve."
+  ],
+  "tags": [
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 480,
+    "fat": 9,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 250,
+    "carbohydrate": 80,
+    "fiber": 14,
+    "sugars": 37,
+    "protein": 27
+  },
+  "tips": [
+    "Optional topping choices:",
+    "1 green apple or banana, sliced thinly",
+    "1–2 tbsp roasted nuts or seeds",
+    "1–2 tbsp homemade granola"
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Baked-Apple-Pie-Smoothie-Bowl-Main.jpg",
+  "thumbnail": "Baked-Apple-Pie-Smoothie-Bowl-Main.webp",
+  "products": [
+    {
+      "slug": "power_up_vanilla_protein_blend__pouch_",
+      "name": "Power Up Vanilla Protein Blend (Pouch)",
+      "summary": [
+        "Fuel up first thing and stay fuller longer with rich smooth-tasting vanilla blend. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    }
+  ]
+}

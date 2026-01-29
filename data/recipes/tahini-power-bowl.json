@@ -1,0 +1,165 @@
+{
+  "name": "Tahini Power Bowl",
+  "slug": "tahini-power-bowl",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Tahini Power Bowl Dressing Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tahini",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small sweet potatoes",
+      "quantity": "3",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted chickpeas",
+      "quantity": "3 cans (19 oz/540 ml each)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large beet",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh greens",
+      "quantity": "6 cups",
+      "additionalInstruction": "your choice"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In 4-Cup Prep Bowl, whisk mix with water, tahini, and olive oil until smooth and creamy.",
+    "Cube sweet potatoes; you should have about 3 cups. Place in Round or Multipurpose Steamer. Cover; microwave on high, 6–8 min, or until tender.",
+    "Drain and rinse chickpeas. Spiral or thinly slice beet and cucumber. You should have about 1 1&frasl;2 cups each.",
+    "Divide sweet potatoes, chickpeas, beets, and cucumber between six bowls. Top each bowl with 1 cup fresh greens, 2 tbsp prepared dressing, and crumbled feta, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 480,
+    "fat": 13,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 270,
+    "carbohydrate": 69,
+    "fiber": 16,
+    "sugars": 11,
+    "protein": 19
+  },
+  "tips": [
+    "Give the tahini a good stir before measuring it out—like natural peanut butter, the oil naturally separates.",
+    "For extra thick and creamy dressing, use chilled tahini from the fridge and combine ingredients in a blender.",
+    "Use 4-in-1 Mandoline to slice veggies quickly and safely."
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "tahini_power_bowl_1036x583.jpg",
+  "thumbnail": "tahini_power_bowl_1036x583.webp",
+  "products": [
+    {
+      "slug": "tahini_power_bowl_dressing_mix__3pk_",
+      "name": "Tahini Power Bowl Dressing Mix (3pk)",
+      "summary": [
+        "Simply whisk the mix with water, tahini &amp; olive oil for a tangy &amp; creamy salad dressing! Makes 6 robust meatless meal bowls.&nbsp;"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "n4_in_1_mandoline_97d6780",
+      "name": "4-in-1 Mandoline",
+      "summary": [
+        "Perfect for cutting thin slices &amp; shredding veggies. 4 slicer settings: 2 slice &amp; 2 julienne options."
+      ]
+    }
+  ]
+}

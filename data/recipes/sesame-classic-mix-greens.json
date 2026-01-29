@@ -1,0 +1,118 @@
+{
+  "name": "Sesame Classic Mix Greens",
+  "slug": "sesame-classic-mix-greens",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "mixed salad greens, or baby spinach leaves",
+      "quantity": "8 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sesame Ginger Dressing",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sesame Ginger Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low sodium soy sauce or gluten free soy sauce",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "sesame seeds",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place greens in a large mixing bowl, and drizzle just enough Sesame Ginger Dressing overtop to coat (add more if desired).",
+    "Season with Sea Salt and Black Pepper, and sprinkle with sesame seeds. Serve."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 100,
+    "fat": 8,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 190,
+    "carbohydrate": 5,
+    "fiber": 3,
+    "sugars": 2,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sesame-Crunch-Classic-Mix-Greens-Main.jpg",
+  "thumbnail": "Sesame-Crunch-Classic-Mix-Greens-Main.webp",
+  "products": [
+    {
+      "slug": "sesame_ginger_dressing_mix_ae8ddc9",
+      "name": "Sesame Ginger Dressing Mix",
+      "summary": [
+        "Taste of Asia with ginger, garlic, sesame seeds &amp; herbs."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "name": "Portobello Mushroom Pizzas",
+  "slug": "portobello-mushroom-pizzas",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "large portobello mushrooms",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pizza Seasoning or Marinara Sauce Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small green bell pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated mozzarella cheese",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 400° F. Line Sheet Pan with Sheet Pan Liner.",
+    "Remove mushroom stems and use a spoon to scrape out and discard gills. Place mushroom caps in Multipurpose Steamer. Drizzle with oil and sprinkle with seasoning; gently toss to coat. Cover and microwave on high 4 min.",
+    "Meanwhile, dice pepper.",
+    "When mushrooms are cooked, place on pan with underside of caps facing up. Divide sauce, cheese, and pepper between caps. Bake 8–10 min, or until cheese is bubbly."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 16,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 280,
+    "carbohydrate": 11,
+    "fiber": 3,
+    "sugars": 5,
+    "protein": 8
+  },
+  "tips": [
+    "Try this recipe with your favourite pizza toppings!"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein and 1&frasl;2 cup cooked grains.",
+  "image": "Portobello-Mushroom-Pizza_1036x583.jpg",
+  "thumbnail": "Portobello-Mushroom-Pizza_1036x583.webp",
+  "products": [
+    {
+      "slug": "pizza_seasoning_2308099",
+      "name": "Pizza Seasoning (1002291)",
+      "summary": [
+        "In a world of complex gastronomy, pizza is a testament to the simple pleasures we all crave. Now you can get it by the spoonful! This blend delivers the nostalgic flavors and feeling of eating pizza, with notes of basil, oregano, garlic, tomato, and green bell peppers with loads of Parmesan. And yes, there is a mild whisper of chilli, too!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavor of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

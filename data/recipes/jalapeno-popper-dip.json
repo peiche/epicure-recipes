@@ -1,0 +1,111 @@
+{
+  "name": "Jalapeño Popper Dip",
+  "slug": "jalapeno-popper-dip",
+  "description": "Cardi B created a TikTok frenzy with her viral jalapeño popper dip video. While we love her singing chops, we’re challenging her dip game. And, this version doesn’t require a single jalapeño—the blend already has the hot peppers. The avocado does double duty here: it boosts creaminess, and adds a bump of fibre and potassium, which is great for heart health.",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cream cheese",
+      "quantity": "1 brick (8 oz/227 g)",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "chopped cilantro",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "plain 2% Greek yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Kickin’ Jalapeño Burger Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh lime or 2 tbsp bottled lime juice",
+      "quantity": "1",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "8 min",
+  "servings": "3 cups",
+  "preparation": [
+    "Scoop avocado flesh into a food processor; add cream cheese and whirl until smooth.",
+    "Add cilantro, yogurt, burger seasoning and broth mix. Cut lime in half; squeeze in juice. Pulse until creamy and smooth, scraping down the sides of the food processor as needed.",
+    "Scrape into a bowl and serve with your favourite dippers. Try nacho or pita chips, or sliced cucumbers or peppers."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 60,
+    "fat": 4.5,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 75,
+    "carbohydrate": 2,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 2
+  },
+  "tips": [
+    "Depending on the size of your food processor, you may need to transfer blended avocado, cream cheese, and cilantro mixture to a large mixing bowl and stir in remaining ingredients."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "jalapeno_popper_dip_1036x583.jpg",
+  "thumbnail": "jalapeno_popper_dip_1036x583.webp",
+  "products": []
+}

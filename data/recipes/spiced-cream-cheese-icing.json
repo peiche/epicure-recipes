@@ -1,0 +1,79 @@
+{
+  "name": "Spiced Cream Cheese Icing",
+  "slug": "spiced-cream-cheese-icing",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "cream cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg (8 oz/250 g)",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "icing sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "6 min",
+  "servings": "3/4 cup (12 servings)",
+  "preparation": [
+    "In a bowl, use an electric mixer or wooden spoon to beat cream cheese with butter until smooth. Beat in spice and vanilla.",
+    "Beat in icing sugar, one spoonful at a time, until smooth. If making ahead, cover and refrigerate up to 5 days.",
+    "Spread over loaves, cakes, and cupcakes."
+  ],
+  "tags": [
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 tbsp",
+    "calories": 70,
+    "fat": 5,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 35,
+    "carbohydrate": 5,
+    "fiber": 0,
+    "sugars": 5,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1582753630288-recipeMainImagePath.jpg",
+  "thumbnail": "1582753630288-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "cinnamon__ground___1701145_",
+      "name": "Cinnamon (Ground)",
+      "summary": [
+        "A simple blend of organic cinnamon that brings the flavor. Great for baking, desserts, egg nog, or enhancing the taste of Middle Eastern and Indian dishes.&nbsp;"
+      ]
+    }
+  ]
+}

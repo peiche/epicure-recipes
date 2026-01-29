@@ -1,0 +1,76 @@
+{
+  "name": "Summer Berry French Martini",
+  "slug": "summer-berry-french-martini",
+  "description": "Thank you, Tracey Van Der Valk, for this recipe!",
+  "ingredients": [
+    {
+      "name": "vodka",
+      "quantity": "1 oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chambord",
+      "quantity": "1 oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pure pineapple juice",
+      "quantity": "3 oz",
+      "additionalInstruction": "ice cold"
+    },
+    {
+      "name": "large ice cube",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 serving",
+  "preparation": [
+    "Blend together vodka, Chambord, and pineapple juice until frothy.",
+    "Pour over ice cube and sweet dip mix."
+  ],
+  "tags": [
+    {
+      "slug": "community_recipe",
+      "name": "Community Recipe"
+    },
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 0.2,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 4,
+    "carbohydrate": 25,
+    "fiber": 0,
+    "sugars": 21,
+    "protein": 0.4
+  },
+  "tips": [
+    "Add a little lime soda water."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Summer_Berry_Martini_Community_Recipe_1036x583.jpg",
+  "thumbnail": "Summer_Berry_Martini_Community_Recipe_1036x583.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "A tangy, fruity blend of raspberries, strawberries, hibiscus &amp; a touch of rooibos. Sweet dip &amp; a seasoning!"
+      ]
+    }
+  ]
+}

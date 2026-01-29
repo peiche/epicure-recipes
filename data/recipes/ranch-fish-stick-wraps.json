@@ -1,0 +1,144 @@
+{
+  "name": "Ranch Fish Stick Wraps",
+  "slug": "ranch-fish-stick-wraps",
+  "description": "A heart-healthy fish dish made in a flash.",
+  "ingredients": [
+    {
+      "name": "Ranch Fish Sticks",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "plain yogurt",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Ranch Dip Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "panko breadcrumbs or gluten-free breadcrumbs",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh or frozen white fish fillets, such as cod, haddock, or tilapia",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil, for brushing",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whole-grain wraps",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Guacamole",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "ripe avocados",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Guacamole Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice, optional",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "lettuce",
+      "quantity": "1 cup",
+      "additionalInstruction": "shredded "
+    },
+    {
+      "name": "tomatoes",
+      "quantity": "2",
+      "additionalInstruction": "chopped"
+    }
+  ],
+  "totalTime": "7 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Reheat Epicure's Ranch Fish Sticks in a frying pan. Set aside.",
+    "Top wraps with Guacamole, ranch fish sticks, lettuce and tomato. Fold and serve."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 370,
+    "fat": 9,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 470,
+    "carbohydrate": 37,
+    "fiber": 6,
+    "sugars": 4,
+    "protein": 33
+  },
+  "tips": [
+    "Serve with seasonal greens and prepared Epicure's Dressing."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Ranch-Fish-Stick-Wraps_1036x583.jpg",
+  "thumbnail": "Ranch-Fish-Stick-Wraps_1036x583.webp",
+  "products": [
+    {
+      "slug": "creamy_ranch_dip_mix_7cfe081",
+      "name": "Creamy Ranch Dip Mix",
+      "summary": [
+        "Go beyond your classic ranch dressing and create spreads, dips, or seasonings with this versatile blend!&nbsp;"
+      ]
+    },
+    {
+      "slug": "guacamole_dip_mix_dc7efdb",
+      "name": "Guacamole Dip Mix",
+      "summary": [
+        "An all-natural blend of sweet peppers, garlic, and chilies comes together to create the perfect guacamole––minus the sodium and additives!&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Reindeer Pudding Cups",
+  "slug": "reindeer-pudding-cups",
+  "description": "Turn this easy dessert into a fun, holiday craft. Grab some supplies like small paper cups, tiny pom poms, googly eyes, crayons, and markers. Let kids design their own reindeer pudding cups.",
+  "ingredients": [
+    {
+      "name": "Chocolate Instant Pudding Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cold milk",
+      "quantity": "2 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "mini paper cups",
+      "quantity": "6",
+      "additionalInstruction": "about 3 oz"
+    },
+    {
+      "name": "mini candy canes or mini pretzels",
+      "quantity": "12",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In large bowl, vigorously whisk mix with milk until light and frothy, about 4 min. Refrigerate to set and chill, about 20 min.",
+    "Meanwhile, draw, colour, or use your favourite craft tools to make faces on each cup.",
+    "When ready to serve, stir pudding and then portion into cups. Tuck in candy canes or pretzels for the reindeer \"ears\"."
+  ],
+  "tags": [
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 150,
+    "fat": 2.5,
+    "saturatedFat": 1.5,
+    "transFat": 0.1,
+    "cholesterol": 5,
+    "sodium": 100,
+    "carbohydrate": 30,
+    "fiber": 1,
+    "sugars": 17,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "reindeer_pudding_cups_1036x583.jpg",
+  "thumbnail": "reindeer_pudding_cups_1036x583.webp",
+  "products": [
+    {
+      "slug": "chocolate_instant_pudding_mix__pack_of_3___caldic__bc2ef56",
+      "name": "Chocolate Instant Pudding Mix (Pack of 2)",
+      "summary": [
+        "Spoon after delicious spoon, satisfy your sweet tooth with a low-calorie chocolate pudding that’s decadent and oh-so-good.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

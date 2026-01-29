@@ -1,0 +1,121 @@
+{
+  "name": "Easy Cheesy Tuna Melts",
+  "slug": "easy-cheesy-tuna-melts",
+  "description": "The avocados in guacamole are an excellent source of monounsaturated fats.",
+  "ingredients": [
+    {
+      "name": "light tuna",
+      "quantity": "2 cans (4 oz/120 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Guacamole Dip",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Guacamole Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ripe avocados",
+      "quantity": "2",
+      "additionalInstruction": "peeled, pitted and mashed"
+    },
+    {
+      "name": "light sour cream",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon or lime juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "apple",
+      "quantity": "1",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "whole-wheat pitas or tortillas",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat marble cheese",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "grated"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 400° F (205 °C).",
+    "Combine tuna, Guacamole Dip and apple in a mixing bowl.",
+    "Place pitas or tortillas on parchment-lined Sheet Pan. Top with tuna mixture and cheese.",
+    "Bake until cheese melts and pita is crisp. Serve warm."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 380,
+    "fat": 10,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 30,
+    "sodium": 600,
+    "carbohydrate": 46,
+    "fiber": 7,
+    "sugars": 6,
+    "protein": 29
+  },
+  "tips": [
+    "Serve with steamed frozen or fresh seasonal vegetables."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Easy-Cheesy-Tuna-Melts-Main.jpg",
+  "thumbnail": "Easy-Cheesy-Tuna-Melts-Main.webp",
+  "products": [
+    {
+      "slug": "guacamole_dip_mix_dc7efdb",
+      "name": "Guacamole Dip Mix",
+      "summary": [
+        "An all-natural blend of sweet peppers, garlic, and chilies comes together to create the perfect guacamole––minus the sodium and additives! &nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

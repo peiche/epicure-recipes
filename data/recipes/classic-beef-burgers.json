@@ -1,0 +1,141 @@
+{
+  "name": "Classic Beef Burgers",
+  "slug": "classic-beef-burgers",
+  "description": "Level up your burger game with our foolproof recipe for the juiciest, most irresistible burger ever. Our secret? Flavourful seasonings, including a kick of mustard, and the innovative 3-in-1 Burger Press for perfectly sized, evenly cooked patties. Get ready for burger perfection!",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (675 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Burger Seasoning or Beef & Steak Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Honey Mustard or Sweet & Spicy Mustard",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1 ",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "burger buns",
+      "quantity": "6",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat grill to medium-high. Brush with oil to prevent sticking.",
+    "In large bowl, combine beef with seasoning, dip mix, mustard, and egg, if using. Wet hands to prevent sticking and form mixture into 6 patties.",
+    "Grill patties, with lid closed, 4–5 min per side, or until cooked through.",
+    "Tuck patties into buns and add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 350,
+    "fat": 13,
+    "saturatedFat": 5,
+    "transFat": 0.5,
+    "cholesterol": 65,
+    "sodium": 350,
+    "carbohydrate": 29,
+    "fiber": 2,
+    "sugars": 5,
+    "protein": 22
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy greens and 1 tbsp Epicure Dressing.",
+  "image": "Classic-Beef-Burgers-Main.jpg",
+  "thumbnail": "Classic-Beef-Burgers-Main.webp",
+  "products": [
+    {
+      "slug": "burger_seasoning_5d205ac",
+      "name": "Burger Seasoning",
+      "summary": [
+        "Tired of bland burgers? Level up with one simple seasoning that’s packed with the robust flavours of onion, garlic, and red bell pepper, and a mild paprika kick. Just combine the seasoning with ground beef, chicken, pork, or turkey for mouth-watering burgers every single time.&nbsp;"
+      ]
+    },
+    {
+      "slug": "beef___steak_seasoning",
+      "name": "Beef & Steak Seasoning",
+      "summary": [
+        "An all-purpose blend with mild heat &amp; aromatic flavour."
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "honey_mustard",
+      "name": "Honey Mustard",
+      "summary": [
+        "A bold twist on a classic condiment made with 100% Canadian mustard seed and organic honey.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sweet___spicy_organic_mustard_a09b01b",
+      "name": "Sweet & Spicy Organic Mustard",
+      "summary": [
+        "Golden, sweet, with just the right heat. You’ll love this on burgers and Nashville Hot Chicken Sandwiches—or as a dip for chicken fingers. It’s also amazing in potato salad and salad dressings.&nbsp;"
+      ]
+    }
+  ]
+}

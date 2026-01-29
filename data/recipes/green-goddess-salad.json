@@ -1,0 +1,127 @@
+{
+  "name": "Green Goddess Salad",
+  "slug": "green-goddess-salad",
+  "description": "Go green! This is our take on the unexpectedly delicious FoodTok sensation. Best part? The salad doubles as a dip, so grab some tortilla chips and dunk your way to a full serving of veg. Chop the veggies up small for maximum “dip-ability”! It’s a great way to add some green to picnics or pool parties this summer.",
+  "ingredients": [
+    {
+      "name": "green onions",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small green cabbage",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> head",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Super Greens Pesto",
+      "quantity": "1 cup prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Super Green Pesto Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach, arugula, or kale",
+      "quantity": "4 cups packed",
+      "additionalInstruction": null
+    },
+    {
+      "name": "extra virgin olive oil",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted nuts or seeds of your choice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "8 cups",
+  "preparation": [
+    "Chop green onions. Dice cucumber and cabbage; place in a very large bowl. Toss with pesto until well combined.",
+    "Serve with chips for dunking, as a side salad, or as a sandwich filling."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "st__patrick_s_day",
+      "name": "St. Patrick’s Day"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cup",
+    "calories": 170,
+    "fat": 15,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 115,
+    "carbohydrate": 8,
+    "fiber": null,
+    "sugars": 3,
+    "protein": 3
+  },
+  "tips": [
+    "Slash prep time and use a food processor to dice the veggies."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Green-Goddess-Salad.jpg",
+  "thumbnail": "Green-Goddess-Salad.webp",
+  "products": []
+}

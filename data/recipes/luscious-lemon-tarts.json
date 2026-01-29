@@ -1,0 +1,97 @@
+{
+  "name": "Luscious Lemon Tarts",
+  "slug": "luscious-lemon-tarts",
+  "description": "Prepare the Luscious Lemon Curd ahead of time to get these delicious tarts on the table in 20 min! The curd is zesty, gluten-free, and nut-free, made effortlessly in the microwave. Keep it real and easy by opting for frozen premade pie shells – because who has time for dough drama? Serve at your next Easter brunch, afternoon tea, or baby shower!",
+  "ingredients": [
+    {
+      "name": "Luscious Lemon Curd",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": "cooled"
+    },
+    {
+      "name": "eggs",
+      "quantity": "3",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Luscious Lemon Curd Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "frozen mini tart shells",
+      "quantity": "24",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "24 mini tarts",
+  "preparation": [
+    "Preheat oven to 375° F.",
+    "Place tart shells on Sheet Pan. Bake for 10–12 min, or until golden.",
+    "Remove tarts from foil cups. Let cool, then spoon in lemon curd, about 1 tbsp per tart."
+  ],
+  "tags": [
+    {
+      "slug": "easter",
+      "name": "Easter"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 mini tart",
+    "calories": 100,
+    "fat": 4,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 25,
+    "sodium": 65,
+    "carbohydrate": 14,
+    "fiber": 0,
+    "sugars": 6,
+    "protein": 2
+  },
+  "tips": [
+    "Tarts taste best well-chilled. If time allows, refrigerate 10–15 min before serving. If making ahead, bake tart shells and prep lemon curd overnight. Refrigerate until ready to use. Fill tarts up to 2 hours before serving."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "luscious_lemon_tarts_1036x583.jpg",
+  "thumbnail": "luscious_lemon_tarts_1036x583.webp",
+  "products": [
+    {
+      "slug": "luscious_lemon_curd_mix__pkg_of_2_",
+      "name": "Luscious Lemon Curd Mix (Pack of 2)",
+      "summary": [
+        "With our fool-proof Luscious Lemon Curd Mix, wave goodbye to yolk separation and double boilers in favor of our fave kitchen tool: the microwave. Simply mix the blend with eggs &amp; water and you’ve got sweet, lemony luscious curd in two minutes—talk about a game changer!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

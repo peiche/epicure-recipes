@@ -1,0 +1,46 @@
+{
+  "name": "Blue Butterfly Herbal Tea Blend",
+  "slug": "blue-butterfly-herbal-tea-blend",
+  "description": "Refreshing, fruity and unique. Add a squeeze of lemon juice and watch the gorgeous colour transform from indigo blue to fuschia pink.",
+  "ingredients": [
+    {
+      "name": "Blue Butterfly Herbal Tea Blend",
+      "quantity": "1 bag",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "1 serving",
+  "preparation": [
+    "Pour 1 cup boiling water over 1 tea bag. Steep 5-7 min. Chill for a refreshing, caffeine-free iced herbal tea."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 0,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 0,
+    "carbohydrate": 0,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1599147236199-recipeMainImagePath.jpg",
+  "thumbnail": "1599147236199-recipeMainImagePath.webp",
+  "products": []
+}

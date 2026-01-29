@@ -1,0 +1,118 @@
+{
+  "name": "Sandwich on a Stick",
+  "slug": "sandwich-on-a-stick",
+  "description": "Assemble a fun sandwich on a stick—it’s a guaranteed way to get them eating their lunch! Include a creamy dip like 3 Onion or Lemon Dilly.",
+  "ingredients": [
+    {
+      "name": "cream cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "CCB Dip Mix or Creamy Ranch Dip Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "slices bread",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cheddar cheese",
+      "quantity": "2 oz (60 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "deli meat",
+      "quantity": "8 slices",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a small bowl, combine softened cream cheese and dip mix. Spread over two of the bread slices and top each slice with another slice to make a sandwich. Slice each sandwich into 1\" cubes.",
+    "Slice cucumber into rounds. Cut cheese into 1&frasl;2\" cubes; you should have about 1&frasl;2 cup. Fold deli meat into quarters.",
+    "Thread sandwich cubes, cucumber rounds, cheese cubes, folded deli meat, and tomatoes evenly between eight small wooden skewers."
+  ],
+  "tags": [
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 skewers",
+    "calories": 230,
+    "fat": 11,
+    "saturatedFat": 6,
+    "transFat": 0,
+    "cholesterol": 45,
+    "sodium": 560,
+    "carbohydrate": 17,
+    "fiber": 1,
+    "sugars": 3,
+    "protein": 14
+  },
+  "tips": [
+    "Use small cookie cutters to cut your bread, cheese, and veggies into fun shapes.",
+    "Use this recipe as a guide for any type of sandwich, like a classic PB&J served with fruit or a deconstructed club sandwich.",
+    "Swap cubed bread for pita wedges."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "sandich_on_stick_1036x583.jpg",
+  "thumbnail": "sandich_on_stick_1036x583.webp",
+  "products": [
+    {
+      "slug": "ccb_dip_mix_b61a530",
+      "name": "CCB Dip Mix",
+      "summary": [
+        "<strong>Cheese. Chives. Bacon. </strong>How's that for a totally irresistible trio? Our very own smoky vegetarian bacon, made from pinto beans, is the secret star of this oh-so-yummy dip.",
+        "This blend is all about versatility and we recommend taking it way beyond the dip bowl—use CCB in any dish that could use a little levelling up.&nbsp;",
+        "<br>"
+      ]
+    },
+    {
+      "slug": "creamy_ranch_dip_mix_7cfe081",
+      "name": "Creamy Ranch Dip Mix",
+      "summary": [
+        "Go beyond your classic ranch dressing and create spreads, dips, or seasonings with this versatile blend!&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "name": "No-Cook Shrimp Dragon Boats",
+  "slug": "no-cook-shrimp-dragon-boats",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "mayonnaise",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sweet & Spicy Organic Mustard or Dijon-style mustard",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Potato Salad Dressing Mix or Lemon Dilly Dip Mix",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water or milk",
+      "quantity": "1–2 tbsp",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "frozen cooked peeled shrimp",
+      "quantity": "1 bag (340 g)",
+      "additionalInstruction": "defrosted"
+    },
+    {
+      "name": "avocado",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "romaine spears",
+      "quantity": "16",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a large bowl, stir together mayonnaise, mustard and dressing mix. Portion half into a Prep Bowl; stir in water or milk to make a thin dressing. Set aside.",
+    "Pull off and discard shrimp tails, if you wish. Cut shrimps in half or thirds; add to large bowl; toss to evenly coat with mayo mixture.",
+    "Dice avocado and pepper.",
+    "Spoon shrimp mixture into lettuce leaves (use 2 leaves per boat); top with avocado and pepper. Arrange on plates; drizzle with reserved dressing (from Prep Bowl). Add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 boats",
+    "calories": 290,
+    "fat": 17,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 170,
+    "sodium": 310,
+    "carbohydrate": 14,
+    "fiber": 7,
+    "sugars": 6,
+    "protein": 21
+  },
+  "tips": [
+    "Swap shrimp for leftover cooked chicken."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup rice.",
+  "image": "6853_No_Cook_Sweet_Spicy_Shrimp_Dragon_Boats_1036x583.jpg",
+  "thumbnail": "6853_No_Cook_Sweet_Spicy_Shrimp_Dragon_Boats_1036x583.webp",
+  "products": [
+    {
+      "slug": "sweet___spicy_organic_mustard_a09b01b",
+      "name": "Sweet & Spicy Organic Mustard",
+      "summary": [
+        "Golden, sweet, with just the right heat. You’ll love this on burgers and Nashville Hot Chicken Sandwiches—or as a dip for chicken fingers. It’s also amazing in potato salad and salad dressings.&nbsp;"
+      ]
+    },
+    {
+      "slug": "creamy_potato_salad_dressing_mix_6e3cd0d",
+      "name": "Creamy Potato Salad Dressing Mix",
+      "summary": [
+        "The ultimate summer salad, just add a few simple ingredients to make the most delish potato salad with notes of dill and a hint of sweetness. Each jar makes 6&nbsp;cups of creamy or vinaigrette-style dressing so you can easily feed a crowd at a backyard barbecue.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

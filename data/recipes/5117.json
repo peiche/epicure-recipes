@@ -1,0 +1,112 @@
+{
+  "name": "Steamer Carrot Ribbons & Peas",
+  "slug": "steamer-carrot-ribbons-peas",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "quantity": "5",
+      "additionalInstruction": "peeled"
+    },
+    {
+      "name": "Rosemary Garlic Seasoning",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen peas",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": "",
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 - 6 servings",
+  "preparation": [
+    "Using a Y-peeler, peel ribbons of carrot.",
+    "Combine carrots and seasoning in a Multipurpose Steamer.",
+    "Microwave on high, with lid on, for 4 minutes or until carrots are almost tender.",
+    "Sprinkle with frozen peas and microwave 1 minute further, with lid on.",
+    "Season to taste and serve."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 45,
+    "fat": 0.2,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 65,
+    "carbohydrate": 10,
+    "fiber": 3,
+    "sugars": 4,
+    "protein": 2
+  },
+  "tips": [
+    "This is a great “no-knife” recipe for kids to help out with in the kitchen."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Steamer-Carrot-Ribbons-Peas-Main.jpg",
+  "thumbnail": "Steamer-Carrot-Ribbons-Peas-Main.webp",
+  "products": [
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": []
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": []
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": []
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": []
+    }
+  ]
+}

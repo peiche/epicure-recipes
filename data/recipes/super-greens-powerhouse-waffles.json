@@ -1,0 +1,129 @@
+{
+  "name": "Super Greens Powerhouse Waffles",
+  "slug": "super-greens-powerhouse-waffles",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Super Greens Smoothie Booster",
+      "quantity": "2 scoops",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking soda",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk or almond milk",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "plus extra for brushing"
+    }
+  ],
+  "totalTime": "35 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Preheat oven to 425° F (220° C).",
+    "In a medium bowl, combine dry ingredients.",
+    "In a separate bowl, whisk eggs, milk, vanilla extract, and oil.",
+    "Slowly whisk wet ingredients into dry, until just combined.",
+    "Place Waffle Mold on Sheet Pan. Using a basting brush, lightly brush Waffle Mold with oil.",
+    "Pour approximately 1&frasl;4 cup batter into each mold, filling all corners.",
+    "Bake 12–15 minutes, or until golden.",
+    "When cool to the touch, flip Waffle Mold over a platter, and gently remove waffles. Repeat with remaining batter. Serve with maple syrup, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "st__patrick_s_day",
+      "name": "St. Patrick’s Day"
+    },
+    {
+      "slug": "gfrr_breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 160,
+    "fat": 6,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 35,
+    "sodium": 230,
+    "carbohydrate": 2,
+    "fiber": 1,
+    "sugars": 3,
+    "protein": 5
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1600375445553-recipeMainImagePath.jpg",
+  "thumbnail": "1600375445553-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    }
+  ]
+}

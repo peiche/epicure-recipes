@@ -1,0 +1,133 @@
+{
+  "name": "Potato Pie",
+  "slug": "potato-pie",
+  "description": "Sylvie used to serve this to her children when they were growing up; fond memories of this cozy dish linger.",
+  "ingredients": [
+    {
+      "name": "Garlic Mashed Potatoes",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium potatoes",
+      "quantity": "4 ",
+      "additionalInstruction": "peeled and quartered"
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herb & Garlic Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "",
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "cottage cheese",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light sour cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "prepared pie shell",
+      "quantity": "1 — 9”",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated partly-skimmed mozzarella",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hour",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 375° F (190° C).",
+    "Stir first 5 ingredients in a large bowl.",
+    "Spread evenly in bottom of 9\" pie shell. Top with mozzarella and then rough up with a fork to form peaks for browning. Bake for about 45–55 minutes, until hot."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 250,
+    "fat": 9,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 570,
+    "carbohydrate": 30,
+    "fiber": 0,
+    "sugars": 12,
+    "protein": 12
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Potato-Pie-Main.jpg",
+  "thumbnail": "Potato-Pie-Main.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    }
+  ]
+}

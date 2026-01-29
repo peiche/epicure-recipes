@@ -1,0 +1,143 @@
+{
+  "name": "Beef Tenderloin with Pinot Noir Sauce",
+  "slug": "beef-tenderloin-with-pinot-noir-sauce",
+  "description": "Our favourite midsummer meat treat, but grand any time of year.",
+  "ingredients": [
+    {
+      "name": "beef tenderloin",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Beef & Steak Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Pinot Noir or beef broth",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Red Pepper Jelly",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 - 20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 375° F (190° C). Evenly rub beef tenderloin with vegetable oil, sprinkle with Beef & Steak Seasoning, Sea Salt and Black Pepper.",
+    "Heat a frying pan to medium-high and sear tenderloin on all sides. Transfer to oven and roast 8-12 minutes, or until desired doneness.",
+    "Transfer tenderloin from pan and keep warm. Heat pan to medium-high, and add Pinot Noir and Jelly. Stir constantly and simmer until reduced by approximately half.",
+    "Slice tenderloin into medallions and drizzle with warm sauce. Serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 252,
+    "fat": 12,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 55,
+    "sodium": 210,
+    "carbohydrate": 11,
+    "fiber": 1,
+    "sugars": 9,
+    "protein": 24
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with steamed asparagus and fingerling potatoes.",
+  "image": "Beef-Tenderloin-with-Pinot-Noir-Sauce-Main.jpg",
+  "thumbnail": "Beef-Tenderloin-with-Pinot-Noir-Sauce-Main.webp",
+  "products": [
+    {
+      "slug": "beef___steak_seasoning",
+      "name": "Beef & Steak Seasoning",
+      "summary": [
+        "An all-purpose blend with mild heat &amp; aromatic flavour."
+      ]
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    },
+    {
+      "slug": "red_pepper_jelly",
+      "name": "Red Pepper Jelly (new)",
+      "summary": [
+        "A sweet red pepper flavor with a mild heat from cayenne.&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "name": "Vitamin C Power Fruit Salad",
+  "slug": "vitamin-c-power-fruit-salad",
+  "description": "This salad will give you a healthy dose of the vitamins and minerals that are optimal for energy and clarity.",
+  "ingredients": [
+    {
+      "name": "grapefruit",
+      "quantity": "1",
+      "additionalInstruction": "peeled and cut into bite-sized pieces"
+    },
+    {
+      "name": "orange",
+      "quantity": "1",
+      "additionalInstruction": "peeled and cut into bite-sized pieces"
+    },
+    {
+      "name": "diced pineapple",
+      "quantity": "1 can (4 oz/114 ml)",
+      "additionalInstruction": "with juice"
+    },
+    {
+      "name": "banana",
+      "quantity": "1",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "2 - 4 servings",
+  "preparation": [
+    "In a bowl, combine all ingredients, and enjoy!"
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 200,
+    "fat": 0.3,
+    "saturatedFat": 0.1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 2,
+    "carbohydrate": 50,
+    "fiber": 6,
+    "sugars": 37,
+    "protein": 3
+  },
+  "tips": [
+    "Salad will keep fresh (without banana) for 2–3 days in the fridge."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Vitamin-C-Power-Fruit-Salad-Main.jpg",
+  "thumbnail": "Vitamin-C-Power-Fruit-Salad-Main.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    }
+  ]
+}

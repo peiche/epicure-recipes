@@ -1,0 +1,121 @@
+{
+  "name": "Take 5 Tacos",
+  "slug": "take-5-tacos",
+  "description": "Taco night is a fun, fresh, and laid-back family meal. It’s a great way to introduce new veggies too!",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "quantity": "1 - 1 <sup>1</sup>&frasl;<sub>2</sub> lbs",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Taco Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> - 1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "taco shells",
+      "quantity": "6 - 8",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded Romaine lettuce",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated low-fat cheese",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "tomatoes",
+      "quantity": "2",
+      "additionalInstruction": "chopped"
+    }
+  ],
+  "totalTime": "18 min",
+  "servings": "6 - 8 servings",
+  "preparation": [
+    "In a frying pan, brown beef over medium heat.",
+    "In a measuring cup, mix Taco Seasoning with 1&frasl;2 cup water, and add to pan. Simmer with beef until mixture thickens, approximately 5 minutes.",
+    "Spoon filling into taco shells, and top with lettuce, cheese, and tomatoes, or be creative!"
+  ],
+  "tags": [
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 200,
+    "fat": 9,
+    "saturatedFat": 4,
+    "transFat": 1,
+    "cholesterol": 55,
+    "sodium": 220,
+    "carbohydrate": 8,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 24
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with a veggie platter and prepared Dip.",
+  "image": "Take-5-Tacos-Main.jpg",
+  "thumbnail": "Take-5-Tacos-Main.webp",
+  "products": [
+    {
+      "slug": "taco_seasoning__1701317_",
+      "name": "Taco Seasoning (Jar)",
+      "summary": [
+        "Classic Tex-Mex flavor with medium heat."
+      ]
+    }
+  ]
+}

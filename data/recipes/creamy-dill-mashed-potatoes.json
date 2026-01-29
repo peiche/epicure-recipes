@@ -1,0 +1,144 @@
+{
+  "name": "Creamy Dill Mashed Potatoes  ",
+  "slug": "creamy-dill-mashed-potatoes",
+  "description": "What do you get when you cross sour cream and onion potato chips with classic mashed potatoes? A festive side dish to compliment your favourite main course! Velvety smooth with tangy dill, these taters are a great companion to any holiday feast.",
+  "ingredients": [
+    {
+      "name": "sour cream or 2% Greek yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Dill Popcorn Seasoning or Lemon Dilly Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium potatoes, such as Russet or Yukon Gold",
+      "quantity": "6",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "butter or olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "In a bowl, combine sour cream with seasoning. Set aside.",
+    "Cut unpeeled potatoes into small cubes. Please in Multipurpose or Round Steamer. Cover and microwave on high 12 min, or until fork tender.",
+    "Mash potatoes to desired consistency. Fold in sour cream mixture, milk, and butter. Taste and season with salt and pepper, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "easter",
+      "name": "Easter"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "cook_the_catalogue",
+      "name": "Cook the Catalogue"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 7,
+    "saturatedFat": 4.5,
+    "transFat": 0.2,
+    "cholesterol": 20,
+    "sodium": 125,
+    "carbohydrate": 31,
+    "fiber": 3,
+    "sugars": 3,
+    "protein": 6
+  },
+  "tips": [
+    "Mashed potatoes freeze well. They’re a great timesaver when you’re prepping ahead for entertaining. After preparing mashed potatoes, let them cool completely. Scoop them into an air-tight container or resealable plastic bag. Freeze for up to 1 month. Defrost in the refrigerator overnight, then reheat in a Steamer. Mash again with a splash of milk, as needed.",
+    "Flake in some canned salmon and crack an egg into leftover mashed potatoes to make quick and easy fish cakes. Try them out in your air fryer!"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein and 1 cup of roasted vegetables.",
+  "image": "creamy_dill_mashed_potatoes_1036x583.jpg",
+  "thumbnail": "creamy_dill_mashed_potatoes_1036x583.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

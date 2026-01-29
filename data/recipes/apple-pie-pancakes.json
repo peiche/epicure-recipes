@@ -1,0 +1,116 @@
+{
+  "name": "Apple Pie Pancakes",
+  "slug": "apple-pie-pancakes",
+  "description": "Light and fluffy gluten-free pancakes are the perfect vehicle for a pool of melting butter, a drizzle of maple syrup, or a dollop of Summer Berry Dip.",
+  "ingredients": [
+    {
+      "name": "Pancake & Waffle Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Apple Pie Spice",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "+ more for cooking"
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6-8 pancakes",
+  "preparation": [
+    "In a large bowl, add mix, spice, eggs, milk, 2 tbsp oil, and vanilla extract; stir just until mixed.",
+    "Heat a large non-stick fry pan or griddle over medium heat; lightly brush with oil.",
+    "Working in batches, scoop 3-4 pancakes into pan, leaving space between them.",
+    "Cook until bubbles appear on top, about 3 min. Flip and cook until bottoms are golden brown, about 1–2 more min. Transfer to a Sheet Pan lined with two Cooling Racks; keep warm in preheated 250° F oven until ready to serve."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 pancake",
+    "calories": 170,
+    "fat": 7,
+    "saturatedFat": 1,
+    "transFat": 0.01,
+    "cholesterol": 35,
+    "sodium": 230,
+    "carbohydrate": 23,
+    "fiber": 0,
+    "sugars": 5,
+    "protein": 3
+  },
+  "tips": [
+    "Use melted coconut oil for easy frying and great flavour."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup berries or unsweetened applesauce and 1&frasl;2 cup 2% plain Greek yogurt.",
+  "image": "6873_Easy_Peasy_Apple_Pie_Pancakes_1036x583.jpg",
+  "thumbnail": "6873_Easy_Peasy_Apple_Pie_Pancakes_1036x583.webp",
+  "products": [
+    {
+      "slug": "pancake___waffle_mix__pack_of_3_",
+      "name": "Pancake & Waffle Mix (Pack of 3)",
+      "summary": [
+        "Stack ‘em up: It’s time to make the fluffiest pancakes and waffles ever! Add a few simple ingredients to this gluten free mix and griddle, flip, or press your way through an easy and delicious breakfast.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "apple_pie_spice",
+      "name": "Apple Pie Spice",
+      "summary": [
+        "Move over pumpkin spice; it's time for Apple Pie Spice to shine! Perfect for leveling up the taste of fall-inspired baking, it's also great on top of oatmeal, in a frothy late or smoothie – or anywhere you want a punch of apple pie flavour.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "cooling_rack__set_of_2___1701277_",
+      "name": "Cooling Rack (Set of 2)",
+      "summary": [
+        "These space-saving cooling racks are an absolute must-have for every at-home baker or chef.&nbsp;"
+      ]
+    }
+  ]
+}

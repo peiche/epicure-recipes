@@ -1,0 +1,98 @@
+{
+  "name": "String Bean Oven Fries",
+  "slug": "string-bean-oven-fries",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "breadcrumbs",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "regular or gluten free"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "SPG Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "flour",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": "beaten"
+    },
+    {
+      "name": "green beans",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": "washed and ends trimmed"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 425° F (200° C).",
+    "In a large bowl, combine breadcrumbs, Parmesan, and seasoning.",
+    "Place the flour in a separate small bowl and the beaten eggs in a third bowl.",
+    "Working with a handful of green beans at a time, dip in flour, then eggs, then breadcrumb mixture, pressing beans down into crumbs until completely coated.",
+    "Place on a crisper, close together but not touching, and bake for 10 minutes, or until golden."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 150,
+    "fat": 0,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 115,
+    "sodium": 330,
+    "carbohydrate": 9,
+    "fiber": 3,
+    "sugars": 1,
+    "protein": 11
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 serving of protein and 1 cup of grains.",
+  "image": "1602180914765-recipeMainImagePath.jpg",
+  "thumbnail": "1602180914765-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "spg_seasoning_5edecfd",
+      "name": "SPG Seasoning",
+      "summary": [
+        "Salt. Pepper. Garlic. Your go-to for chicken, fish, seafood, roasted potatoes, veggies, &amp; even popcorn!"
+      ]
+    }
+  ]
+}

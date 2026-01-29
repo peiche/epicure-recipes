@@ -1,0 +1,130 @@
+{
+  "name": "Gluten-free Lemon Cupcakes",
+  "slug": "gluten-free-lemon-cupcakes",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon zest",
+      "quantity": "2 tsp",
+      "additionalInstruction": "finely chopped"
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "gluten-free flour",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "softened butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "icing sugar",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light cream",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "50 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Preheat oven to 350° F (180° C). Line a Perfect Portion Muffin Pan with paper cups and set aside.",
+    "Cream butter and sugar in a large mixing bowl. Beat in eggs, one at a time. Beat in lemon zest and vanilla extract. Whisk gluten-free flour, baking powder, and salt in a separate mixing bowl.",
+    "Alternately add dry ingredients with milk to creamed mixture. Spoon batter into muffin cups.",
+    "Bake for 18 minutes until light-golden, and a toothpick or knife tip comes out clean when inserted. Cool before icing.",
+    "Cream butter with icing sugar. Beat in egg, vanilla extract, and cream to make spreadable."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "easter",
+      "name": "Easter"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cupcake",
+    "calories": 390,
+    "fat": 12,
+    "saturatedFat": 7,
+    "transFat": 0.3,
+    "cholesterol": 85,
+    "sodium": 150,
+    "carbohydrate": 69,
+    "fiber": 1,
+    "sugars": 44,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1607032708004-recipeMainImagePath.jpg",
+  "thumbnail": "1607032708004-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    }
+  ]
+}

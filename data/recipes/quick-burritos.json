@@ -1,0 +1,147 @@
+{
+  "name": "Quick Burritos",
+  "slug": "quick-burritos",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "lean ground turkey, chicken, or beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Guacamole Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sour cream",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Fajita Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomato",
+      "quantity": "1 large",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "1 heaping cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "wholegrain tortillas, warmed",
+      "quantity": "4 large",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated cheese, your choice",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place meat in Multipurpose Steamer. Stir in dip mix; cover and microwave on high, 3−5 min.",
+    "Meanwhile, in bowl, stir together sour cream and seasoning. Set aside.",
+    "Dice tomato. Thinly slice spinach.",
+    "To assemble, spread 2 tbsp sour cream mixture on each warm tortilla. Top with meat, tomato, spinach, and cheese. Roll tightly."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 burrito",
+    "calories": 350,
+    "fat": 22,
+    "saturatedFat": 6,
+    "transFat": 0.1,
+    "cholesterol": 110,
+    "sodium": 630,
+    "carbohydrate": 30,
+    "fiber": 14,
+    "sugars": 1,
+    "protein": 34
+  },
+  "tips": [
+    "Make it vegetarian by swapping meat for 4 cups beans or lentils."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced vegetables, your choice.",
+  "image": "Quick_Burritos_1036x583.jpg",
+  "thumbnail": "Quick_Burritos_1036x583.webp",
+  "products": [
+    {
+      "slug": "guacamole_dip_mix_dc7efdb",
+      "name": "Guacamole Dip Mix",
+      "summary": [
+        "An all-natural blend of sweet peppers, garlic, and chilies comes together to create the perfect guacamole––minus the sodium and additives!&nbsp;"
+      ]
+    },
+    {
+      "slug": "fajita_seasoning_ceb100c",
+      "name": "Fajita Seasoning",
+      "summary": [
+        "A lively, mild blend for seasoning beef, chicken, or fish fajitas &amp; enchiladas."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

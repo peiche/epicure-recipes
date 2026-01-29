@@ -1,0 +1,87 @@
+{
+  "name": "Power Up Chocolate Protein Brownies",
+  "slug": "power-up-chocolate-protein-brownies",
+  "description": "Power up with these epic brownies when you need to satisfy a craving! They’re vegan; low sugar; and egg, gluten, and peanut free, so they’ll work for almost everyone. And, they’re packed with 4 grams of protein, so you’re getting the most out of your sweets—protein slows the absorption of glucose to help you avoid a sugar spike (and crash!). Serve with a dollop of prepared Summer Berry Sweet Dip for a little extra sweetness.",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "quantity": "6",
+      "additionalInstruction": null
+    },
+    {
+      "name": "almond butter",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Power Up Chocolate Protein Blend or Power Up Salted Caramel Protein or Power Up Vanilla Caramel Protein",
+      "quantity": "2 scoops",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chocolate chips",
+      "quantity": "1 cup",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "38 min",
+  "servings": "25 servings",
+  "preparation": [
+    "Preheat oven to 350˚ F. Lightly oil an 8\" square pan.",
+    "Using Ground Meat Separator, mash bananas into a large bowl. Add almond butter, cocoa powder, and protein powder; mix until smooth. Fold in chocolate chips, if using.",
+    "Scrape batter into pan and smooth top. Bake 32 min, or until a toothpick inserted into the centre comes out clean. Cool in pan before serving."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "1 brownie",
+    "calories": 100,
+    "fat": 6,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 25,
+    "carbohydrate": 10,
+    "fiber": 3,
+    "sugars": 4,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Power-up-Chocolate-Protein-Brownies_1036x583.jpg",
+  "thumbnail": "Power-up-Chocolate-Protein-Brownies_1036x583.webp",
+  "products": [
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    },
+    {
+      "slug": "power_up_chocolate_protein_blend__pouch_",
+      "name": "Power Up Chocolate Protein Blend (Pouch)",
+      "summary": [
+        "We like to fuel our bodies and satisfy those chocolate cravings at the same time. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    },
+    {
+      "slug": "power_up_salted_caramel_protein_blend",
+      "name": "Power Up Salted Caramel Protein Blend",
+      "summary": [
+        "We like to fuel our bodies and satisfy our sweet tooth with the decadent salted caramel flavour of this pea and fava bean protein. It blends effortlessly into a morning smoothie with a creamy texture, not chalky like a lot of protein powders. It also handles the heat, so we can bake it into a batch of waffles and enjoy our day knowing that we'll have that extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    },
+    {
+      "slug": "power_up_vanilla_protein_blend__pouch_",
+      "name": "Power Up Vanilla Protein Blend (Pouch)",
+      "summary": [
+        "Fuel up first thing and stay fuller longer with rich smooth-tasting vanilla blend. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    }
+  ]
+}

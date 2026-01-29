@@ -1,0 +1,79 @@
+{
+  "name": "Cocktail Sauce",
+  "slug": "cocktail-sauce",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "ketchup ",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "horseradish sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "or to taste"
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Louisiana Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "or to taste"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "35 min",
+  "servings": "1 cup",
+  "preparation": [
+    "Mix all ingredients together and let stand at least 30 minutes before serving."
+  ],
+  "tags": [
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 35,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 330,
+    "carbohydrate": 9,
+    "fiber": 0,
+    "sugars": 7,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sriracha-Cocktail-Sauce-Main.jpg",
+  "thumbnail": "Sriracha-Cocktail-Sauce-Main.webp",
+  "products": [
+    {
+      "slug": "louisiana_seasoning",
+      "name": "Louisiana Seasoning (1011503)",
+      "summary": [
+        "A Cajun-inspired seasoning that brings the flavour with a medium-spice level. &nbsp;"
+      ]
+    }
+  ]
+}

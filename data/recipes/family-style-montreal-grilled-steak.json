@@ -1,0 +1,134 @@
+{
+  "name": "Family-style Montreal Grilled Steak ",
+  "slug": "family-style-montreal-grilled-steak",
+  "description": "Great for picnic-style steak sandwiches!",
+  "ingredients": [
+    {
+      "name": "Montreal Steak Rub",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "balsamic vinegar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mustard",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "top sirloin steak",
+      "quantity": "2 lbs (900 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "coarsely ground, to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "coarsely ground, to taste"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Whisk first 4 ingredients in a shallow glass baking pan.",
+    "Add steak, turning to coat. Cover and marinate for up to 24 hours.",
+    "Season with Sea Salt and Pepper immediately before cooking.",
+    "Grill steak on barbecue over medium-high heat for 4 minutes per side.",
+    "Place cooked steak on a heated platter, cover loosely with foil and let stand 5 minutes before serving.",
+    "Slice thinly across the grain on the diagonal."
+  ],
+  "tags": [
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 290,
+    "fat": 20,
+    "saturatedFat": 7,
+    "transFat": 0,
+    "cholesterol": 60,
+    "sodium": 200,
+    "carbohydrate": 3,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 24
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Family-style-Montreal-Grilled-Steak-Main.jpg",
+  "thumbnail": "Family-style-Montreal-Grilled-Steak-Main.webp",
+  "products": [
+    {
+      "slug": "montreal_steak_rub_98391cc",
+      "name": "Montreal Steak Rub",
+      "summary": [
+        "A bold and peppery blend. Rub on beef or pork before grilling.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    }
+  ]
+}

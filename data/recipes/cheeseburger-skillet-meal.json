@@ -1,0 +1,124 @@
+{
+  "name": "Cheeseburger Skillet Meal",
+  "slug": "cheeseburger-skillet-meal",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "lean ground beef or ground soy round",
+      "quantity": "400 g",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pasta",
+      "quantity": "4 cups",
+      "additionalInstruction": "cooked"
+    },
+    {
+      "name": "milk",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Mac & Cheese Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomatoes",
+      "quantity": "2 cups",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "small onion",
+      "quantity": "1",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "low-fat cheddar cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dill pickles",
+      "quantity": "2",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "romaine lettuce",
+      "quantity": "4 cups",
+      "additionalInstruction": "shredded"
+    }
+  ],
+  "totalTime": "Prep: 5 minutes Cook: 15 minutes",
+  "servings": "4 servings",
+  "preparation": [
+    "Cook pasta according to pasta directions.",
+    "While pasta is cooking, in a fry pan cook ground beef for 6-8 minutes.",
+    "Next add pasta, milk, and mac & cheese seasoning. Cook for 2-3 minutes. Top with cheese, add lid to melt cheese, approximately 2-3 minutes.",
+    "Top with pickles, tomatoes, and shredded lettuce and serve."
+  ],
+  "tags": [
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 530,
+    "fat": 17,
+    "saturatedFat": 8,
+    "transFat": 0,
+    "cholesterol": 70,
+    "sodium": 660,
+    "carbohydrate": 55,
+    "fiber": 5,
+    "sugars": 7,
+    "protein": 39
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Cheeseburger-Skillet-meal_1036x583.jpg",
+  "thumbnail": "Cheeseburger-Skillet-meal_1036x583.webp",
+  "products": [
+    {
+      "slug": "mac___cheese_seasoning__pkg_of_3_",
+      "name": "Mac & Cheese Seasoning (Pack of 3)",
+      "summary": [
+        "An all-time best-seller, this is the Mac &amp; Cheese you’ve been craving – and that your kids will LOVE to eat! Creamy, cheesy, and super comforting, it’s free of unnecessary additives and packed with flavour thanks to real cheddar cheese. Take it from the stovetop (or microwave) to the table in under 10 minutes and dig in!&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

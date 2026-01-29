@@ -1,0 +1,100 @@
+{
+  "name": "\"Dillicious\" Honey Mustard Salmon Fillets",
+  "slug": "dillicious-honey-mustard-salmon-fillets",
+  "description": "\"Dillicious\" hot or cold!",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Honey Mustard",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salmon fillets",
+      "quantity": "6 (6 oz/170 g)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 - 30 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Whisk first 3 ingredients together in an 8” x 8” x 2” glass baking dish.",
+    "Add salmon and, using silicone tongs, coat with marinade. If making ahead, cover and refrigerate for up to 12 hours.",
+    "Preheat oven to 400° F (205° C). Place salmon skin side down in baking dish.",
+    "Bake 8 minutes. Flip and bake an additional 8 minutes, or until fish flakes easily with a fork."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 170,
+    "fat": 10,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 40,
+    "sodium": 95,
+    "carbohydrate": 6,
+    "fiber": 0,
+    "sugars": 6,
+    "protein": 15
+  },
+  "tips": [
+    "Serve with mashed potatoes and your favourite veggies."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "-Dillicious-Honey-Mustard-Salmon-Fillets-Main.jpg",
+  "thumbnail": "-Dillicious-Honey-Mustard-Salmon-Fillets-Main.webp",
+  "products": [
+    {
+      "slug": "honey_mustard",
+      "name": "Honey Mustard",
+      "summary": [
+        "A bold twist on a classic condiment made with 100% Canadian mustard seed and organic honey.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

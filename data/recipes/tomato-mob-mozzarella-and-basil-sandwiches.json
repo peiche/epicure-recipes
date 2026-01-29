@@ -1,0 +1,159 @@
+{
+  "name": "Tomato MOB (Mozzarella and Basil) Sandwiches",
+  "slug": "tomato-mob-mozzarella-and-basil-sandwiches",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Sun-Kissed Tomato Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "or your favourite"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "balsamic vinegar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Focaccia Bread",
+      "quantity": "8 slices",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "warm water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "active dry yeast",
+      "quantity": "2 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Rosemary Garlic Seasoning",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "plus more to brush Sheet Pan and dough"
+    },
+    {
+      "name": "hot water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "flour",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cornmeal",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "package fresh basil",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomatoes",
+      "quantity": "2",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "grated partly-skimmed mozzarella cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crumbled light feta cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pesto Sauce Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 - 13 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Whisk Sun-Kissed Tomato Dip Mix, oil and balsamic vinegar in a small mixing bowl. Lightly spread on bread slices.",
+    "Layer with basil, tomatoes, mozzarella and feta. Sprinkle with Pesto Sauce Mix.",
+    "Barbecue or broil until cheese melts and bread is golden-brown."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 270,
+    "fat": 14,
+    "saturatedFat": 6,
+    "transFat": 0,
+    "cholesterol": 30,
+    "sodium": 540,
+    "carbohydrate": 28,
+    "fiber": 2,
+    "sugars": 6,
+    "protein": 9
+  },
+  "tips": [
+    "Serve with a glass of milk, a fresh fruit platter and prepared Epicure Sweet Dip."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Tomato-MOB-Mozzarella-and-Basil-Sandwiches-Main.jpg",
+  "thumbnail": "Tomato-MOB-Mozzarella-and-Basil-Sandwiches-Main.webp",
+  "products": [
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavours on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    }
+  ]
+}

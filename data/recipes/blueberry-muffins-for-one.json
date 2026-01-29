@@ -1,0 +1,123 @@
+{
+  "name": "Blueberry Muffins for One",
+  "slug": "blueberry-muffins-for-one",
+  "description": "A healthier, portion-controlled muffin made fresh by you in just 3 minutes. Prep the night before and cook while your morning java is brewing.",
+  "ingredients": [
+    {
+      "name": "egg",
+      "quantity": "1 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "flour",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cinnamon",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen blueberries ",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "2 - 3 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Whisk together first five ingredients in a small mixing bowl.",
+    "Add flour, cinnamon, and baking powder, and blend well.",
+    "Fold in frozen blueberries.",
+    "Divide batter into two lightly oiled microwave safe mugs or single cake molds.",
+    "Sprinkle batter tops with Summer Berry Sweet Dip Mix.",
+    "Microwave on high for 1 1&frasl;2 - 2 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 200,
+    "fat": 10,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 125,
+    "sodium": 110,
+    "carbohydrate": 21,
+    "fiber": 1,
+    "sugars": 11,
+    "protein": 5
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Blueberry-Muffins-for-One-Main.jpg",
+  "thumbnail": "Blueberry-Muffins-for-One-Main.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    }
+  ]
+}

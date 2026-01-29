@@ -1,0 +1,59 @@
+{
+  "name": "Creamy Steak 'n Onion Dip",
+  "slug": "creamy-steak-n-onion-dip",
+  "description": "Thank you to our ambassador, Dana Kayal, for this recipe! To use Dana’s words, “It’s hella good.” Serve it with chips or sliced veggies, spread it on burgs and sammies, or dollop onto baked potatoes. For a lower-fat dip, make it with Greek yogurt instead of sour cream.",
+  "ingredients": [
+    {
+      "name": "plain 2% Greek yogurt or sour cream",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": "or 1 ½ tbsp finely diced green onion"
+    },
+    {
+      "name": "Montreal Steak Rub",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "2 min",
+  "servings": "8 servings (about 1 cup)",
+  "preparation": [
+    "In a bowl, combine yogurt, mayonnaise, dip mix, and steak rub."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "about 2 tbsp",
+    "calories": 60,
+    "fat": 4,
+    "saturatedFat": 1,
+    "transFat": 0.1,
+    "cholesterol": 5,
+    "sodium": 80,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "creamy_steak_onion_dip_1036x583.jpg",
+  "thumbnail": "creamy_steak_onion_dip_1036x583.webp",
+  "products": [
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    }
+  ]
+}

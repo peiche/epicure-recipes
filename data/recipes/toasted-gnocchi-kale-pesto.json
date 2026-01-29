@@ -1,0 +1,130 @@
+{
+  "name": "Toasted Gnocchi & Kale Pesto",
+  "slug": "toasted-gnocchi-kale-pesto",
+  "description": "You don’t have to make pesto with basil, in fact, you can choose any green herb you’d like. We’ve gone a little more out of the box and use kale, a nutrient-powerhouse full of vitamin C & K. We’ve also swapped the classic pine nuts for sunflower seeds – equally delicious, but much more affordable.",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "about 2 breasts"
+    },
+    {
+      "name": "green kale",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> bunch",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "2 - 3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "raw sunflower or pepita seeds",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pesto Sauce Mix or Herb & Garlic Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Olivieri® Skillet Gnocchi®",
+      "quantity": "1 pkg (350 g)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Heat 1&frasl;2 tbsp oil in a large sauté pan over medium-high heat.",
+    "Meanwhile, cut chicken into bite-sized pieces; stir-fry until cooked through, 6–8 min. Remove from pan and set aside.",
+    "While the chicken is cooking, de-stem kale and tear leaves. You should have about 4 cups (packed). In a food processor or high-speed blender, add kale, water, lemon juice, 3 tbsp oil, seeds, and mix. Blend until well combined, scraping down the sides, as necessary. It will be thick—thin out with more water or oil, if desired.",
+    "Over medium heat, heat remaining 1&frasl;2 tbsp oil. Add gnocchi; cook, stirring frequently until golden brown, 4–5 min.",
+    "Add cooked chicken and pesto to pan; stir until combined. Add toppings and stir to mix. Serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 500,
+    "fat": 21,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 95,
+    "sodium": 580,
+    "carbohydrate": 43,
+    "fiber": 4,
+    "sugars": 2,
+    "protein": 34
+  },
+  "tips": [
+    "Look for skillet gnocchi in the refrigerated pasta section of your grocery store. While traditional gnocchi is boiled, this product only requires a quick pan-fry.  The end result is a crispy golden exterior with a soft and fluffy interior."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup veggies, your choice.",
+  "image": "toasted_gnocchi_greensauce_1036x583.jpg",
+  "thumbnail": "toasted_gnocchi_greensauce_1036x583.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    }
+  ]
+}

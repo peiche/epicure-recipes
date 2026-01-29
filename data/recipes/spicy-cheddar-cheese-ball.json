@@ -1,0 +1,91 @@
+{
+  "name": "Spicy Cheddar Cheese Ball",
+  "slug": "spicy-cheddar-cheese-ball",
+  "description": "A guaranteed crowd-pleaser. Delicious served with Red Pepper Jelly.",
+  "ingredients": [
+    {
+      "name": "brick light cream cheese",
+      "quantity": "1 pkg (8 oz/250 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat grated cheddar cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Worcestershire sauce",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sriracha seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pinot noir jelly",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "sliced almonds or pecan, or walnut crumbs",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "1 cheese ball (approx. 24 servings)",
+  "preparation": [
+    "Combine cream cheese, cheddar, Worcestershire sauce and sriracha seasoning.",
+    "Form into ball or log.",
+    "If adding a pinot noir jelly filling, refrigerate until firm, 20–30 minutes. Cut ball in half. Using your finger, make a hollow in centre of each half. Fill hollows with pinot noir jelly. Carefully press halves together and reshape into a ball.",
+    "Roll in nuts to coat."
+  ],
+  "tags": [
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 70,
+    "fat": 5,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 85,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 3
+  },
+  "tips": [
+    "Cheese balls can be frozen for up to 1 month. Unwrap and thaw to room temperature before serving with crackers or bread."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Spicy-Cheddar-Cheese-Ball-Main.jpg",
+  "thumbnail": "Spicy-Cheddar-Cheese-Ball-Main.webp",
+  "products": []
+}

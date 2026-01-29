@@ -1,0 +1,133 @@
+{
+  "name": "Comforting Lentils & Greens",
+  "slug": "comforting-lentils-greens",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Beef & Broccoli Stir-Fry Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lentils",
+      "quantity": "2 cans (19 oz/540 ml each)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "leafy greens such as baby spinach or kale",
+      "quantity": "8 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a bowl, combine seasoning, water, and soy sauce. Set aside.",
+    "In Wok, heat oil over medium-high heat. Dice pepper; add to wok. Sauté until slightly softened, about 1 min.",
+    "Drain and rinse lentils; add to wok. Stir in seasoning mixture. Stir gently to heat lentils through.",
+    "Reduce heat to medium. Add spinach, a few handfuls at a time, stirring until wilted. Add topping, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "about 1 3/4 cups",
+    "calories": 330,
+    "fat": 4,
+    "saturatedFat": 0.4,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 570,
+    "carbohydrate": 54,
+    "fiber": 25,
+    "sugars": 10,
+    "protein": 22
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup of rice.",
+  "image": "Comforting-Lentils-and-Green-Beans-1036x583.jpg",
+  "thumbnail": "Comforting-Lentils-and-Green-Beans-1036x583.webp",
+  "products": [
+    {
+      "slug": "beef___broccoli_stir_fry_seasoning__pkg_of_3___150",
+      "name": "Beef & Broccoli Stir-Fry Seasoning (Pack of 3)",
+      "summary": [
+        "Slightly sweet, soy-ginger stir-fry sauce. Robust flavors with no chopping necessary.&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}
