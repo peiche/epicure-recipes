@@ -227,7 +227,11 @@ export default function Header() {
 
                         {/* Mobile Search Button */}
                         {isMobile && (
-                            <IconButton sx={{ color: 'text.primary' }}>
+                            <IconButton
+                                component={NextLink}
+                                href='/search'
+                                sx={{ color: 'text.primary', mr: 2 }}
+                            >
                                 <SearchIcon />
                             </IconButton>
                         )}
