@@ -136,6 +136,9 @@ export default function AboutPage() {
                             <Box sx={{ display: 'flex', gap: 2, flexWrap: 'wrap' }}>
                                 <Button
                                     variant="contained"
+                                    component='a'
+                                    href='https://www.paypal.com/donate/?business=SY2SCFJENKDEJ&no_recurring=0&item_name=I%27m+providing+this+recipe+website+for+free.+If+you%27d+like+to+show+your+appreciation%2C+you+can+donate+the+amount+of+your+choice.&currency_code=USD'
+                                    target='_blank'
                                     startIcon={<Favorite />}
                                     sx={{
                                         bgcolor: 'primary.main',
@@ -152,6 +155,8 @@ export default function AboutPage() {
                                 </Button>
                                 <Button
                                     variant="outlined"
+                                    component='a'
+                                    href='mailto:peiche@gmail.com'
                                     startIcon={<Email />}
                                     sx={{
                                         borderColor: 'primary.main',
