@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 // import { Box, Grid, IconButton, InputAdornment, Link, TextField, Typography } from "@mui/material";
 import { useSearchParams } from "next/navigation";
 import { useEffect } from "react";
-import { DynamicWidgets, useHits, useSearchBox } from "react-instantsearch";
+import { DynamicWidgets, useHits, useInstantSearch, useSearchBox } from "react-instantsearch";
 import SearchFilterPanel from "./searchFilterPanel";
 import SearchRefinementList from "./searchRefinementList";
 import SearchResultsGrid from "./searchResultsGrid";
@@ -42,6 +42,7 @@ import {
     useTheme,
     Collapse,
     Link,
+    CircularProgress,
 } from '@mui/material';
 import {
     Search,
@@ -65,12 +66,16 @@ export default function SearchBoxResults() {
     const isMobile = useMediaQuery(theme.breakpoints.down('md'));
     const [filterDrawerOpen, setFilterDrawerOpen] = useState(false);
     const { items, results } = useHits<Recipe>();
+    const { status } = useInstantSearch();
 
     const {
         query,
         refine,
         clear,
     } = useSearchBox();
+
+    const isInitialLoad = !results || !results.queryID;
+    const isRealEmpty = status === 'idle' && items.length === 0 && !isInitialLoad;
 
     useEffect(() => {
         search && refine(search);
@@ -388,7 +393,6 @@ export default function SearchBoxResults() {
                     </>
                 )}
 
-
                 {items.length > 0 ? (
                     <>
                         {/* Recipe Grid */}
@@ -483,22 +487,34 @@ export default function SearchBoxResults() {
                                 borderColor: 'divider',
                             }}
                         >
-                            <Restaurant sx={{ fontSize: 64, color: 'text.disabled', mb: 2 }} />
-                            <Typography variant="h5" sx={{ fontWeight: 600, mb: 1 }}>
-                                No recipes found!
-                            </Typography>
-                            <Typography color="text.secondary" sx={{ mb: 3 }}>
-                                Try adjusting your filters or search query.
-                            </Typography>
-                            <Button
-                                variant="contained"
-                                onClick={handleClearSearch}
-                                sx={{
-                                    // background: 'linear-gradient(135deg, hsl(var(--primary)), hsl(var(--primary-glow)))',
-                                }}
-                            >
-                                Clear All Filters
-                            </Button>
+                            {isRealEmpty ? (
+                                <>
+                                    <Restaurant sx={{ fontSize: 64, color: 'text.disabled', mb: 2 }} />
+                                    <Typography variant="h5" sx={{ fontWeight: 600, mb: 1 }}>
+                                        No recipes found!
+                                    </Typography>
+                                    <Typography color="text.secondary" sx={{ mb: 3 }}>
+                                        Try adjusting your filters or search query.
+                                    </Typography>
+                                    <Button
+                                        variant="contained"
+                                        onClick={handleClearSearch}
+                                        sx={{
+                                            // background: 'linear-gradient(135deg, hsl(var(--primary)), hsl(var(--primary-glow)))',
+                                        }}
+                                    >
+                                        Clear All Filters
+                                    </Button>
+                                </>
+                            ) : (
+                                <>
+                                    <CircularProgress />
+                                    <Typography color="text.secondary" sx={{ mt: 2 }}>
+                                        Loading recipes...
+                                    </Typography>
+                                </>
+                            )}
+
                         </Paper>
                     </Grid>
                 )}
