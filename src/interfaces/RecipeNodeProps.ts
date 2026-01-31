@@ -1,8 +1,8 @@
-import { Product } from "./Product";
-import { Recipe } from "./Recipe";
-import { Tag } from "./Tag";
+import Product from "./Product";
+import Recipe from "./Recipe";
+import Tag from "./Tag";
 
-export interface RecipeNodeProps {
+export default interface RecipeNodeProps {
     errors?: any;
     data?: {
         allRecipesJson: {

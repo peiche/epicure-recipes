@@ -1,4 +1,4 @@
-import { Box, Chip } from "@mui/material";
+import { Chip } from "@mui/material";
 import { CurrentRefinementsProps, useCurrentRefinements } from "react-instantsearch";
 import SearchClearRefinements from "./searchClearRefinements";
 
@@ -13,7 +13,6 @@ export default function SearchRefinements(props: SearchRefinements) {
     } = useCurrentRefinements(props);
 
     return (
-        // <Box display='flex' flexWrap='wrap' gap={1}>
         <>
             {props.includeAllRefinements && items.map((item, i) => (
                 item.refinements.map((refinement, j) => (
@@ -31,6 +30,5 @@ export default function SearchRefinements(props: SearchRefinements) {
                 <SearchClearRefinements />
             )}
         </>
-        // </Box>
     )
 };

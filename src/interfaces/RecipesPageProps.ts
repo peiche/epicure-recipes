@@ -1,7 +1,7 @@
-import { PaginationProps } from "./PaginationProps";
-import { Recipe } from "./Recipe";
+import PaginationProps from "./PaginationProps";
+import Recipe from "./Recipe";
 
-export interface RecipesPageProps {
+export default interface RecipesPageProps {
     recipes: Recipe[];
     pagination: PaginationProps;
     totalCount: number;

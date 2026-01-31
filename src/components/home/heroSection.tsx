@@ -1,16 +1,18 @@
 import { Box, Button, Chip, Container, InputBase, Paper, Typography } from "@mui/material";
 import { Search, TrendingUp } from '@mui/icons-material';
 import { useState } from "react";
-import { useNavigate } from "react-router-dom";
-import { useRouter } from "next/router";
+import NextLink from "next/link";
 
 export default function HeroSection() {
     const [searchQuery, setSearchQuery] = useState('');
-    const router = useRouter();
 
-    // const handleSearch = () => {
-    //     router.push(`/search/${searchQuery ? `?s=${encodeURIComponent(searchQuery)}` : ''}`);
-    // };
+    const trendingSearches = [
+        'banh mi',
+        'butter chicken',
+        'lemon curd',
+        'cuban mojo',
+        'beef dip',
+    ];
 
     return (
         <Box
@@ -66,21 +68,6 @@ export default function HeroSection() {
                         },
                     }}
                 >
-                    {/* Tagline */}
-                    {/* <Chip
-                        label="📚 Over 3,000 recipes"
-                        sx={{
-                            mb: 3,
-                            bgcolor: 'rgba(255,255,255,0.2)',
-                            backdropFilter: 'blur(10px)',
-                            color: 'white',
-                            fontWeight: 500,
-                            fontSize: '0.9rem',
-                            py: 2.5,
-                            px: 1,
-                        }}
-                    /> */}
-
                     {/* Title */}
                     <Typography
                         variant="h1"
@@ -145,7 +132,6 @@ export default function HeroSection() {
                             required
                             autoComplete='off'
                             onChange={(e) => setSearchQuery(e.target.value)}
-                            // onKeyDown={(e) => e.key === 'Enter' && handleSearch()}
                             sx={{
                                 flex: 1,
                                 fontSize: '1rem',
@@ -155,7 +141,6 @@ export default function HeroSection() {
                         <Button
                             variant="contained"
                             size="large"
-                            // onClick={handleSearch}
                             type='submit'
                             sx={{
                                 borderRadius: '50px',
@@ -170,19 +155,20 @@ export default function HeroSection() {
 
                     {/* Trending Searches */}
                     <Box sx={{ mt: 3, display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: 1 }}>
-                        {/* <Box sx={{ display: 'flex', alignItems: 'center', mr: 1 }}>
+                        <Box sx={{ display: 'flex', alignItems: 'center', mr: 1 }}>
                             <TrendingUp sx={{ fontSize: 18, mr: 0.5, opacity: 0.8 }} />
                             <Typography variant="body2" sx={{ opacity: 0.8 }}>
                                 Trending:
                             </Typography>
-                        </Box> */}
-                        {/* {trendingSearches.map((term) => (
+                        </Box>
+                        {trendingSearches.map((term) => (
                             <Chip
                                 key={term}
                                 label={term}
                                 size="small"
                                 clickable
-                                onClick={() => handleTrendingClick(term)}
+                                component={NextLink}
+                                href={`/search?recipe[query]=${encodeURIComponent(term)}`}
                                 sx={{
                                     bgcolor: 'rgba(255,255,255,0.2)',
                                     color: 'white',
@@ -193,22 +179,10 @@ export default function HeroSection() {
                                 }}
                                 variant="outlined"
                             />
-                        ))} */}
+                        ))}
                     </Box>
                 </Box>
             </Container>
-
-            {/* Decorative Elements */}
-            {/* <Box
-                sx={{
-                    position: 'absolute',
-                    bottom: 0,
-                    left: 0,
-                    right: 0,
-                    height: 100,
-                    background: 'linear-gradient(to top, hsl(30, 40%, 98%) 0%, transparent 100%)',
-                }}
-            /> */}
         </Box>
     )
 }

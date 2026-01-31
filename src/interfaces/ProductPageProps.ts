@@ -1,6 +1,6 @@
-import { Product } from "./Product";
-import { RecipesPageProps } from "./RecipesPageProps";
+import Product from "./Product";
+import RecipesPageProps from "./RecipesPageProps";
 
-export interface ProductPageProps extends RecipesPageProps {
+export default interface ProductPageProps extends RecipesPageProps {
     product: Product;
 }

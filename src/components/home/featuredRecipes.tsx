@@ -1,9 +1,7 @@
 import { Box, Button, Container, Grid, Typography } from "@mui/material";
-// import Grid from "@mui/material/Grid2"; // Use Grid2 for MUI v7
 import { ArrowForward } from '@mui/icons-material';
 import NextLink from "next/link";
-// import RecipeCard from "../recipe/RecipeCard"; // Assuming this is your card component
-import { Recipe } from "../../interfaces/Recipe";
+import Recipe from "../../interfaces/Recipe";
 import RecipeCard from "../recipe/recipeCard";
 
 interface FeaturedRecipesProps {

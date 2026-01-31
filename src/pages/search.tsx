@@ -1,19 +1,17 @@
-import { Configure, InstantSearch } from 'react-instantsearch';
+import { Configure, InstantSearch, useRefinementList } from 'react-instantsearch';
 import Layout from '../components/ui/layout';
 import Wrapper from '../components/layout/wrapper';
 import { searchClient, searchIndexName } from '../services/api/algolia';
 import SEO from '../components/layout/seo';
 import SearchBoxResults from '../components/search/searchBoxResults';
-import { history } from 'instantsearch.js/es/lib/routers'
-import { RouterProps } from 'instantsearch.js/es/middlewares';
 import { Box, Container } from '@mui/material';
-import AdSense from '../components/ui/adsense';
+import { createInstantSearchRouterNext } from 'react-instantsearch-router-nextjs';
+import singletonRouter from 'next/router';
 
-const routing: RouterProps = {
-    router: history({
-        cleanUrlOnDispose: false,
-    }),
-};
+function VirtualRefinementList() {
+    useRefinementList({ attribute: 'tags.name' });
+    return null;
+}
 
 export default function SearchPage() {
     return (
@@ -25,25 +23,20 @@ export default function SearchPage() {
                         <InstantSearch
                             searchClient={searchClient}
                             indexName={searchIndexName}
-                            routing={routing}
+                            routing={{
+                                router: createInstantSearchRouterNext({
+                                    singletonRouter,
+                                }),
+                            }}
                             insights={false}
                             future={{
                                 preserveSharedStateOnUnmount: true,
                             }}
                         >
                             <Configure ruleContexts={[]} />
+                            <VirtualRefinementList />
                             <SearchBoxResults />
                         </InstantSearch>
-
-                        {/* <Box py={1}>
-                    <AdSense
-                        client="ca-pub-8316336599094727"
-                        slot="3666901353"
-                        format="auto"
-                        style={{ display: 'block' }}
-                        responsive="true"
-                    />
-                </Box> */}
                     </Container>
                 </Box>
             </Wrapper>

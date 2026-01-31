@@ -1,14 +1,12 @@
-// src/components/recipe/RecipeListBase.tsx
-import { Box, Breadcrumbs, Container, Typography, Link as MuiLink, Grid } from '@mui/material';
-// import Grid from '@mui/material/Grid2'; // MUI v7 standard
+import { Box, Breadcrumbs, Container, Typography, Link, Grid } from '@mui/material';
 import { Home } from '@mui/icons-material';
-import Link from 'next/link';
+import NextLink from 'next/link';
 import Layout from '../ui/layout';
 import SEO from '../layout/seo';
 import Wrapper from '../layout/wrapper';
 import RecipeList from './recipeList';
 import Pagination from '../ui/pagination';
-import { RecipesPageProps } from '../../interfaces/RecipesPageProps';
+import RecipesPageProps from '../../interfaces/RecipesPageProps';
 
 interface RecipeListBaseProps extends RecipesPageProps {
     title: string;
@@ -41,8 +39,8 @@ export default function RecipeListBase({
                     >
                         <Container maxWidth="xl">
                             <Breadcrumbs sx={{ mb: 2, color: 'rgba(255,255,255,0.7)' }}>
-                                <MuiLink
-                                    component={Link}
+                                <Link
+                                    component={NextLink}
                                     href="/"
                                     sx={{
                                         display: 'flex',
@@ -54,7 +52,7 @@ export default function RecipeListBase({
                                 >
                                     <Home sx={{ mr: 0.5, fontSize: 18 }} />
                                     Home
-                                </MuiLink>
+                                </Link>
                                 <Typography sx={{ color: 'white' }}>{breadcrumbLabel}</Typography>
                             </Breadcrumbs>
 
@@ -72,10 +70,10 @@ export default function RecipeListBase({
                             </Typography>
                             {subtitle.map((s, i) => (
                                 <Typography
+                                    key={i}
                                     variant="h6"
                                     sx={{ color: 'rgba(255,255,255,0.9)', fontWeight: 400 }}
                                 >
-                                    {/* {s} */}
                                     <span dangerouslySetInnerHTML={{ __html: s }} />
                                 </Typography>
                             ))}
@@ -89,7 +87,6 @@ export default function RecipeListBase({
                             </Typography>
                         </Box>
 
-                        {/* MUI v7 Grid2 implementation */}
                         <Grid container spacing={3} sx={{ mb: 6 }}>
                             <RecipeList recipes={recipes} />
 

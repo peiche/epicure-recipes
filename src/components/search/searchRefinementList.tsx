@@ -13,36 +13,34 @@ export default function SearchRefinementList(props: RefinementListProps) {
 
     if (items.length === 0) {
         return (
-            <Typography variant='body2' mt={1} fontStyle='italic' sx={(theme) => ({
-                // color: theme.vars.palette.text.disabled,
-            })}>
+            <Typography variant='body2' mt={1} fontStyle='italic'>
                 There are no refinements available.
             </Typography>
         )
     }
 
+    const refinedItems = items.filter(item => item.isRefined);
+    const unrefinedItems = items.filter(item => !item.isRefined);
+
     return (
         <>
-            {items.map((item, index) => (
+            {refinedItems.map((item, index) => (
                 <FormControl key={index} fullWidth>
-                    {/* <FormControlLabel
+                    <FormControlLabel
                         control={
                             <Checkbox
+                                size="small"
                                 checked={item.isRefined}
                                 onChange={() => refine(item.value)}
+                                sx={{ color: 'primary.main', '&.Mui-checked': { color: 'primary.main' } }}
                             />
                         }
-                        label={
-                            <Box sx={{
-                                display: 'flex',
-                                alignItems: 'center',
-                                gap: 1,
-                            }}>
-                                <Typography component='span'>{item.label}</Typography>
-                                <Chip label={item.count.toLocaleString()} size='small' variant='outlined' />
-                            </Box>
-                        }
-                    /> */}
+                        label={<Typography variant="body2">{item.label}</Typography>}
+                    />
+                </FormControl>
+            ))}
+            {unrefinedItems.map((item, index) => (
+                <FormControl key={index} fullWidth>
                     <FormControlLabel
                         control={
                             <Checkbox

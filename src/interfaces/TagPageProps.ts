@@ -1,6 +1,6 @@
-import { RecipesPageProps } from "./RecipesPageProps";
-import { Tag } from "./Tag";
+import RecipesPageProps from "./RecipesPageProps";
+import Tag from "./Tag";
 
-export interface TagPageProps extends RecipesPageProps {
+export default interface TagPageProps extends RecipesPageProps {
     tag: Tag;
 }

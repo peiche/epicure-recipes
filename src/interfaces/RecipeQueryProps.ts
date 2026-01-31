@@ -1,6 +1,6 @@
-import { Recipe } from "./Recipe";
+import Recipe from "./Recipe";
 
-export interface RecipeQueryProps {
+export default interface RecipeQueryProps {
     data: {
         allRecipesJson: {
             nodes: Array<Recipe>;

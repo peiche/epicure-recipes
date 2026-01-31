@@ -1,25 +1,12 @@
 import fs from 'fs';
 import path from 'path';
 import { Box, Breadcrumbs, Button, Chip, Container, Divider, Grid, IconButton, Link, List, ListItem, ListItemIcon, ListItemText, Paper, Rating, Typography } from '@mui/material';
-import { AccessTimeOutlined, PrintOutlined, RestaurantOutlined } from '@mui/icons-material';
-import {
-    AccessTime,
-    Restaurant,
-    LocalFireDepartment,
-    Favorite,
-    FavoriteBorder,
-    Share,
-    Print,
-    BookmarkBorder,
-    CheckCircle,
-    ArrowBack,
-} from '@mui/icons-material';
+import { AccessTime, Restaurant, LocalFireDepartment, Print, CheckCircle, ArrowBack } from '@mui/icons-material';
 import NextLink from 'next/link';
 import Layout from '../../../components/ui/layout';
 import Wrapper from '../../../components/layout/wrapper';
-import Image from 'next/image';
 import { GetStaticPaths, GetStaticProps, InferGetStaticPropsType } from 'next';
-import { Recipe } from '../../../interfaces/Recipe';
+import Recipe from '../../../interfaces/Recipe';
 import SEO from '../../../components/layout/seo';
 import { useState } from 'react';
 
@@ -45,183 +32,6 @@ export default function RecipePage({ recipe }: RecipePageProps & InferGetStaticP
             `}</style>
             <SEO title={recipe.name} />
             <Wrapper>
-
-                {/* <Breadcrumbs>
-                    <Link underline='hover' color='inherit' component={NextLink} href='/recipes'>Recipes</Link>
-                    <Typography sx={{ color: 'text.primary' }}>{recipe.name}</Typography>
-                </Breadcrumbs>
-
-                <Box sx={{ my: 2 }}>
-                    {recipe.image && (
-                        <Box position='relative'>
-                            <Image
-                                src={`/images/${recipe.image}`}
-                                alt=''
-                                width={1036}
-                                height={583}
-                                priority
-                                style={{
-                                    width: '100%',
-                                    height: 'auto',
-                                }}
-                            />
-                        </Box>
-                    )}
-
-                    <Typography component='h1' variant='h4' mt={1}>{recipe.name}</Typography>
-                </Box>
-
-                {recipe.tags?.length > 0 && (
-                    <Box my={1}>
-                        {recipe.tags.map((tag, index) => (
-                            <Chip
-                                key={index}
-                                variant='outlined'
-                                size='small'
-                                label={tag.name}
-                                component={NextLink}
-                                href={`/tag/${tag.slug}`}
-                                sx={{
-                                    mr: 1,
-                                    mb: 1,
-                                    cursor: 'pointer',
-                                }} />
-                        ))}
-                    </Box>
-                )}
-
-                <Box sx={{
-                    display: 'flex',
-                    justifyContent: 'space-between',
-                    alignItems: 'center',
-                    mt: 1,
-                    mb: 2,
-                }}>
-                    <Box sx={{
-                        display: 'flex',
-                        gap: 3,
-                    }}>
-                        {recipe.totalTime && (
-                            <Typography sx={{ display: 'inline-flex', alignItems: 'center', gap: 1 }}>
-                                <AccessTimeOutlined />
-                                {recipe.totalTime}
-                            </Typography>
-                        )}
-
-                        {recipe.servings && (
-                            <Typography sx={{ display: 'inline-flex', alignItems: 'center', gap: 1 }}>
-                                <RestaurantOutlined />
-                                {recipe.servings}
-                            </Typography>
-                        )}
-                    </Box>
-
-                    <Button
-                        variant='contained'
-                        disableElevation
-                        startIcon={<PrintOutlined />}
-                        component={NextLink}
-                        href={`/recipe/${recipe.slug}/print`}
-                        onClick={(event) => {
-                            event.preventDefault();
-                            window.open(`/recipe/${recipe.slug}/print`);
-                            return false;
-                        }}
-                    >Print</Button>
-                </Box>
-
-                {recipe.description && (
-                    <Typography my={2}>{recipe.description}</Typography>
-                )}
-
-                <Grid container spacing={2} my={2}>
-                    {recipe.ingredients?.length > 0 && (
-                        <Grid size={{
-                            xs: 12,
-                            md: 6,
-                        }}>
-                            <Typography component='h2' variant='h5' mb={1}>Ingredients</Typography>
-                            <List disablePadding>
-                                {recipe.ingredients.map((ingredient, index) => (
-                                    <ListItem key={index} disablePadding sx={{ display: 'list-item' }}>
-                                        <ListItemText>
-                                            <span dangerouslySetInnerHTML={{ __html: ingredient.quantity }} />{` `}
-                                            {ingredient.name}{ingredient.additionalInstruction && `, ${ingredient.additionalInstruction}`}
-                                        </ListItemText>
-                                    </ListItem>
-                                ))}
-                            </List>
-                        </Grid>
-                    )}
-
-                    {recipe.preparation?.length > 0 && (
-                        <Grid size={{
-                            xs: 12,
-                            md: 6,
-                        }}>
-                            <Typography component='h2' variant="h5" mb={1}>Preparation</Typography>
-                            <List disablePadding component='ol' sx={{
-                                listStyle: 'auto',
-                                marginLeft: 3,
-                            }}>
-                                {recipe.preparation.map((prep, index) => (
-                                    <ListItem key={index} disablePadding sx={{ display: 'list-item' }}>
-                                        <ListItemText>{prep}</ListItemText>
-                                    </ListItem>
-                                ))}
-                            </List>
-                        </Grid>
-                    )}
-                </Grid>
-
-                {recipe.products?.length > 0 && (
-                    <>
-                        <Typography component='h2' variant="h5" mt={2} mb={1}>Epicure Products Used</Typography>
-                        <List>
-                            {recipe.products.map((product, index) => (
-                                <ListItem key={index} disablePadding>
-                                    <ListItemText>
-                                        <Link component={NextLink} href={`/product/${product.slug}`}>{product.name}</Link>
-                                    </ListItemText>
-                                </ListItem>
-                            ))}
-                        </List>
-                    </>
-                )}
-
-                {recipe.nutritionalInformation && (
-                    <>
-                        <Typography component='h2' variant="h5" mt={2} mb={1}>Nutritional Information</Typography>
-                        <Typography>
-                            Per serving{recipe.nutritionalInformation.servingSize && (
-                                `(${recipe.nutritionalInformation.servingSize})`
-                            )}:{` `}
-                            Calories {recipe.nutritionalInformation.calories},{` `}
-                            Fat {recipe.nutritionalInformation.fat} g (Saturated {recipe.nutritionalInformation.saturatedFat} g, {recipe.nutritionalInformation.transFat} 0 g),{` `}
-                            Cholesterol {recipe.nutritionalInformation.cholesterol} mg,{` `}
-                            Sodium {recipe.nutritionalInformation.sodium} mg,{` `}
-                            Carbohydrate {recipe.nutritionalInformation.carbohydrate} g (Fiber {recipe.nutritionalInformation.fiber} g, Sugars {recipe.nutritionalInformation.sugars} g),{` `}
-                            Protein {recipe.nutritionalInformation.protein} g.
-                        </Typography>
-                    </>
-                )}
-
-                {recipe.tips?.length > 0 && (
-                    <>
-                        <Typography component='h2' variant="h5" mt={2} mb={1}>Tips</Typography>
-                        {recipe.tips.map((tip, index) => (
-                            <Typography key={index}>{tip}</Typography>
-                        ))}
-                    </>
-                )}
-
-                {recipe.perfectlyBalanceYourPlate && (
-                    <>
-                        <Typography component='h2' variant="h5" mt={2} mb={1}>Perfectly Balance Your Plate</Typography>
-                        <Typography>{recipe.perfectlyBalanceYourPlate}</Typography>
-                    </>
-                )} */}
-
                 <Box component="main" sx={{ flexGrow: 1 }}>
                     {/* Hero Image */}
                     <Box
@@ -272,16 +82,6 @@ export default function RecipePage({ recipe }: RecipePageProps & InferGetStaticP
                         <Paper elevation={0} sx={{ p: { xs: 3, md: 5 }, borderRadius: 4, boxShadow: '0 4px 20px rgba(0,0,0,0.1)' }}>
                             {/* Header Section */}
                             <Box sx={{ mb: 4 }}>
-                                {/* <Box sx={{ display: 'flex', gap: 1, mb: 2, flexWrap: 'wrap' }}>
-                                    <Chip label={recipe.category} color="primary" size="small" />
-                                    <Chip label={recipe.cuisine} variant="outlined" size="small" />
-                                    <Chip
-                                        label={recipe.difficulty}
-                                        color={getDifficultyColor(recipe.difficulty) as any}
-                                        size="small"
-                                    />
-                                </Box> */}
-
                                 <Typography
                                     variant="h2"
                                     sx={{
@@ -299,12 +99,6 @@ export default function RecipePage({ recipe }: RecipePageProps & InferGetStaticP
 
                                 {/* Meta Info */}
                                 <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 3, mb: 3 }}>
-                                    {/* <Box sx={{ display: 'flex', alignItems: 'center', gap: 0.5 }}>
-                                        <Rating value={recipe.rating} precision={0.1} readOnly size="small" />
-                                        <Typography variant="body2" color="text.secondary">
-                                            {recipe.rating} ({recipe.reviewCount} reviews)
-                                        </Typography>
-                                    </Box> */}
                                     <Box sx={{ display: 'flex', alignItems: 'center', gap: 0.5 }}>
                                         <AccessTime sx={{ fontSize: 20, color: 'text.secondary' }} />
                                         <Typography variant="body2">
@@ -324,23 +118,9 @@ export default function RecipePage({ recipe }: RecipePageProps & InferGetStaticP
 
                                 {/* Actions */}
                                 <Box sx={{ display: 'flex', gap: 1, flexWrap: 'wrap' }}>
-                                    {/* <Button
-                                        variant={isFavorite ? 'contained' : 'outlined'}
-                                        color={isFavorite ? 'error' : 'primary'}
-                                        startIcon={isFavorite ? <Favorite /> : <FavoriteBorder />}
-                                        onClick={() => setIsFavorite(!isFavorite)}
-                                    >
-                                        {isFavorite ? 'Saved' : 'Save Recipe'}
-                                    </Button> */}
-                                    {/* <IconButton sx={{ border: '1px solid', borderColor: 'divider' }}>
-                                        <Share />
-                                    </IconButton> */}
                                     <IconButton sx={{ border: '1px solid', borderColor: 'divider' }}>
                                         <Print />
                                     </IconButton>
-                                    {/* <IconButton sx={{ border: '1px solid', borderColor: 'divider' }}>
-                                        <BookmarkBorder />
-                                    </IconButton> */}
                                 </Box>
                             </Box>
 
@@ -353,7 +133,6 @@ export default function RecipePage({ recipe }: RecipePageProps & InferGetStaticP
                                     <Paper
                                         elevation={0}
                                         sx={{
-                                            // p: 3,
                                             bgcolor: 'muted',
                                             borderRadius: 3,
                                             position: 'sticky',
@@ -379,8 +158,6 @@ export default function RecipePage({ recipe }: RecipePageProps & InferGetStaticP
                                                     <ListItemText
                                                         primary={
                                                             <Typography variant="body2">
-                                                                {/* <strong>{ingredient.amount} {ingredient.unit}</strong> {ingredient.name} */}
-                                                                {/* <strong>{ingredient.quantity}</strong> {ingredient.name} */}
                                                                 <strong dangerouslySetInnerHTML={{ __html: ingredient.quantity }} />{` `}
                                                                 {ingredient.name}
                                                                 {ingredient.additionalInstruction && `, ${ingredient.additionalInstruction}`}
@@ -451,32 +228,6 @@ export default function RecipePage({ recipe }: RecipePageProps & InferGetStaticP
                                             </ListItem>
                                         ))}
                                     </List>
-
-                                    {/* Author */}
-                                    {/* <Paper
-                                        elevation={0}
-                                        sx={{
-                                            p: 3,
-                                            mt: 4,
-                                            bgcolor: 'muted',
-                                            borderRadius: 3,
-                                            display: 'flex',
-                                            alignItems: 'center',
-                                            gap: 2,
-                                        }}
-                                    >
-                                        <Avatar sx={{ width: 56, height: 56, bgcolor: 'primary.main' }}>
-                                            {recipe.author.name.charAt(0)}
-                                        </Avatar>
-                                        <Box>
-                                            <Typography variant="subtitle2" color="text.secondary">
-                                                Recipe by
-                                            </Typography>
-                                            <Typography variant="h6" sx={{ fontWeight: 600 }}>
-                                                {recipe.author.name}
-                                            </Typography>
-                                        </Box>
-                                    </Paper> */}
                                 </Grid>
                             </Grid>
 
