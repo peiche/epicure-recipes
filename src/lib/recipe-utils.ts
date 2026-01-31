@@ -221,7 +221,7 @@ export const ALL_CATEGORY_GROUPS = [
     {
         "id": "holidays_na",
         "label": "North American Holidays",
-        "emoji": "🇨🇦",
+        "emoji": "✨",
         "tags": [
             { "name": "Canada Day", "slug": "canada_day" },
             { "name": "Independence Day", "slug": "n4th_of_july" },
