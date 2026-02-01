@@ -38,7 +38,7 @@ export const getStaticProps: GetStaticProps = async () => {
         'beef-stroganoff',
         'philly-style-cheesesteak',
         'chicken-souvlaki',
-        'french-onion-dip',
+        'beef-dip',
         'luscious-lemon-curd',
     ]);
 
