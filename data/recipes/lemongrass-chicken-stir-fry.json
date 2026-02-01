@@ -1,0 +1,151 @@
+{
+  "name": "Lemongrass Chicken Stir-Fry",
+  "slug": "lemongrass-chicken-stir-fry",
+  "description": "Tired of the same ol’ stir-fry? The bright flavours of lemongrass, ginger, and anise add a fresh twist. Always choose a variety of brightly coloured veggies; they contain heart-healthy phytonutrients.",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken thighs",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sesame oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Bánh mì Burger Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "zucchinis",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "trimmed green beans",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "18 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Steamer, combine rice and water. Top with tray; microwave uncovered on high for 16-18 min, or until tender.",
+    "Meanwhile, dice chicken. Heat 1 tbsp oil in Sauté Pan over medium-high heat; add chicken and 1 tbsp seasoning. Stir-fry until lightly browned, about 2–4 min.",
+    "Chop zucchinis and pepper. In a large bowl, toss chopped veggies and green beans with remaining 1 tbsp seasoning and oil, and soy sauce. Add to pan; stir-fry for 5–7 min, or until chicken is cooked through and veggies are tender.",
+    "Serve over rice. Sprinkle with topper, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 470,
+    "fat": 16,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 340,
+    "carbohydrate": 54,
+    "fiber": 4,
+    "sugars": 6,
+    "protein": 28
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "Lemongrass-Chicken-StirFry _1036x583.jpg",
+  "thumbnail": "Lemongrass-Chicken-StirFry _1036x583.webp",
+  "products": [
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

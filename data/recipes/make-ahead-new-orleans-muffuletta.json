@@ -1,0 +1,147 @@
+{
+  "name": "Make-ahead New Orleans Muffuletta",
+  "slug": "make-ahead-new-orleans-muffuletta",
+  "description": "The trick to this recipe is to make it a few hours ahead (or the night before) to let flavours blend.",
+  "ingredients": [
+    {
+      "name": "loaf round bread",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded lettuce",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced ham",
+      "quantity": "4 oz (120 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced salami",
+      "quantity": "4 oz (120 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced turkey",
+      "quantity": "8 oz (240 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced provolone",
+      "quantity": "4 oz (120 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced mozzarella",
+      "quantity": "4 oz (120 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Olive Tapenade",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pitted olives",
+      "quantity": "2 cups",
+      "additionalInstruction": "brined or oil cured"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> - <sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": " Rosemary Garlic Seasoning or Herb & Garlic Dip Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "capers",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "anchovy filets",
+      "quantity": "2 ",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "1 hr 15 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Cut bread in half horizontally. Tear out some of the insides to form a shallow hollow. Heap lettuce in the bottom half, then layer with meats and cheese. Top with Tapenade and cover with top half of bread.",
+    "Wrap and refrigerate at least 1 hour before serving. Cut into wedges."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 370,
+    "fat": 15,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 45,
+    "sodium": 1400,
+    "carbohydrate": 32,
+    "fiber": 2,
+    "sugars": 1,
+    "protein": 24
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Make-ahead-New-Orleans-Muffuletta-Main.jpg",
+  "thumbnail": "Make-ahead-New-Orleans-Muffuletta-Main.webp",
+  "products": [
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavours on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    },
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    }
+  ]
+}

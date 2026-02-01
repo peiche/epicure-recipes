@@ -1,0 +1,130 @@
+{
+  "name": "Chocolate Sheet Pan Pancakes",
+  "slug": "chocolate-sheet-pan-pancakes",
+  "description": "These are ideal for a hands-off brunch where everyone gets a pancake hot off the pan without flipping a single cake! Prep ahead and bake cakes, then cool, portion, and wrap individually. Freeze up to three months; pop frozen into a toaster oven to reheat.",
+  "ingredients": [
+    {
+      "name": "Pancake & Waffle Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 400° F.",
+    "Line 1&frasl;4 Sheet Pan with 1&frasl;4 Sheet Pan Liner.",
+    "In a large bowl, whisk mix, cocoa powder, egg, milk, oil, and vanilla extract.  Let batter rest 5 min; it will continue to thicken.",
+    "Scrape batter into pan. Spread evenly to fill corners. Gently tap the pan on the kitchen counter a few times to help even out the batter and release air bubbles.",
+    "Bake until centre springs back when pressed with a finger and a toothpick inserted in the centre comes out clean, 12 min. Let cool in pan 10 min.",
+    "Using a Flipper, cut into squares and serve!"
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 pancake",
+    "calories": 170,
+    "fat": 7,
+    "saturatedFat": 1.5,
+    "transFat": 0.1,
+    "cholesterol": 35,
+    "sodium": 230,
+    "carbohydrate": 24,
+    "fiber": 1,
+    "sugars": 5,
+    "protein": 4
+  },
+  "tips": [
+    "Add sliced bananas, blueberries, or chocolate chips to the batter before baking."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup fruit such as berries and 1&frasl;2 cup 2% plain Greek yogurt.",
+  "image": "Cocolate-Truffle-Pancakes-1036x583.jpg",
+  "thumbnail": "Cocolate-Truffle-Pancakes-1036x583.webp",
+  "products": [
+    {
+      "slug": "pancake___waffle_mix__pack_of_3_",
+      "name": "Pancake & Waffle Mix (Pack of 3)",
+      "summary": [
+        "Stack ‘em up: It’s time to make the fluffiest pancakes and waffles ever! Add a few simple ingredients to this gluten free mix and griddle, flip, or press your way through an easy and delicious breakfast.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_liner__set_of_2___1711227_",
+      "name": "1/4 Sheet Pan Liner (Set of 2)",
+      "summary": [
+        "Easy to clean, nonstick, silicone mat with raised edges.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_7a23ca1",
+      "name": "1/4 Sheet Pan (Set of 2)",
+      "summary": [
+        "Smaller size than a standard sheet pan for easy handling."
+      ]
+    },
+    {
+      "slug": "flipper_d9e7085",
+      "name": "Flipper",
+      "summary": [
+        "Flip it good! Level up your cooking skills in an instant with this durable flipper. Easily lift, move, and serve everything from eggs and pancakes to desserts and beyond. &nbsp;"
+      ]
+    }
+  ]
+}

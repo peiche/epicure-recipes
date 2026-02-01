@@ -1,0 +1,169 @@
+{
+  "name": "Meatball Caesar",
+  "slug": "meatball-caesar",
+  "description": "Try this cool twist on a classic Caesar salad! Epicure’s Caesar Dressing is low in fat and calories compared to other Caesar dressings at the store, so you can enjoy its creamy, garlicky goodness totally guilt-free. Lettuce is full of vitamins to promote healthy skin, eyes, bones, and digestion, and the meatballs are a complete source of protein.",
+  "ingredients": [
+    {
+      "name": "head Romaine lettuce",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Caesar Dressing",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Caesar Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise or Greek yogurt",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk, your choice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed garlic cloves",
+      "quantity": "2",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Classic Meatballs",
+      "quantity": "12",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": "beaten"
+    },
+    {
+      "name": "Crispy & Crunchy Coating Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": "or 1/2 cup breadcrumbs"
+    },
+    {
+      "name": "Marinara Sauce Mix or Pizza Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef, chicken or turkey",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Better Than Bacon Topper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "5 - 10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Cut lettuce lengthwise into small wedges. Be sure to leave core intact so the wedges stay together.",
+    "Arrange wedges on a platter. Top with warm Classic Meatballs.",
+    "Drizzle with a few spoonfuls of Caesar Dressing then generously shake Better Than Bacon Topper overtop."
+  ],
+  "tags": [
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 350,
+    "fat": 18,
+    "saturatedFat": 6,
+    "transFat": 0.5,
+    "cholesterol": 110,
+    "sodium": 390,
+    "carbohydrate": 21,
+    "fiber": 4,
+    "sugars": 4,
+    "protein": 27
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with a dinner roll.",
+  "image": "Meatball-Caesar-Main.jpg",
+  "thumbnail": "Meatball-Caesar-Main.webp",
+  "products": [
+    {
+      "slug": "crispy___crunchy_coating__pkg_of_3_",
+      "name": "Crispy & Crunchy Coating (Pkg of 3)",
+      "summary": [
+        "Craving the crunch? Add a crispy gluten free coating – that’s never soggy or bland – to protein and veggies and bake them in the oven. You’ll get all the taste of your fave fried foods without a trace of greasiness, so you can enjoy them whenever the craving strikes!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavor of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "pizza_seasoning_2308099",
+      "name": "Pizza Seasoning (1002291)",
+      "summary": [
+        "In a world of complex gastronomy, pizza is a testament to the simple pleasures we all crave. Now you can get it by the spoonful! This blend delivers the nostalgic flavors and feeling of eating pizza, with notes of basil, oregano, garlic, tomato, and green bell peppers with loads of Parmesan. And yes, there is a mild whisper of chilli, too!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "better_than_bacon_topper__1701207_",
+      "name": "Better Than Bacon Topper",
+      "summary": [
+        "Ok, bacon lovers; we see you. We know that bacon made from ‘pinto beans’ has you feeling a kind of way: skeptical. But trust us, this fan fave does not disappoint and it’s so easy to use. No need to grab a frying pan — just pop the top and shake on the taste of bacon with way less sodium, zero cholesterol, and no artificial flavors or colors (unlike popular brands).&nbsp;These crunchy bites are layered with smoky bacon flavor and are an amazing addition to salads, potatoes, eggs, and more!&nbsp;"
+      ]
+    }
+  ]
+}

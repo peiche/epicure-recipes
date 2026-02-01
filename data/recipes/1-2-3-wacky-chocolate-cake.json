@@ -1,0 +1,113 @@
+{
+  "name": "1, 2, 3 Wacky Chocolate Cake",
+  "slug": "1-2-3-wacky-chocolate-cake",
+  "description": "Kids love making this easy-bake cake!",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": " baking powder",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking soda",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salt",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vinegar",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "melted"
+    },
+    {
+      "name": "buttermilk",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Sift first 6 ingredients into a 9” x 9” cake pan. Bang the pan on the counter and shake back and forth to level ingredients.",
+    "Make 3 hollows in the mixture with a wooden spoon. Pour vanilla extract into one, vinegar into another and butter into the third.",
+    "Pour buttermilk over all. Stir until well-blended and no flour shows. Bang the pan on counter again to level batter.",
+    "Bake 30 minutes and leave in pan to cool.",
+    "Sift icing sugar over cake with a strainer."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 270,
+    "fat": 12,
+    "saturatedFat": 7,
+    "transFat": 0.3,
+    "cholesterol": 30,
+    "sodium": 450,
+    "carbohydrate": 39,
+    "fiber": 1,
+    "sugars": 20,
+    "protein": 4
+  },
+  "tips": [
+    "No buttermilk? No problem! Combine 1 cup milk and 1 tbsp lemon juice or vinegar and let stand 5 minutes. Voilà! Enjoy with ice cream."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1-2-3-Wacky-Chocolate-Cake-Main.jpg",
+  "thumbnail": "1-2-3-Wacky-Chocolate-Cake-Main.webp",
+  "products": []
+}

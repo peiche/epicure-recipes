@@ -1,0 +1,128 @@
+{
+  "name": "Protein-Packed Banana Bread",
+  "slug": "protein-packed-banana-bread",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "almond flour or finely ground almonds",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking soda",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salt",
+      "quantity": "<sup>1</sup>&frasl;<sub>8</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Power Up Vanilla Protein Blend",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pure vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "18–20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a large mixing bowl, mash bananas until pudding-like consistency.",
+    "Add all remaining ingredients to bowl and mix until well combined.",
+    "Place batter in Rectangular Steamer and microwave, with lid off, 8–10 min, or until a toothpick pulls clean when tested. Enjoy!"
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 430,
+    "fat": 27,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 430,
+    "carbohydrate": 33,
+    "fiber": 8,
+    "sugars": 19,
+    "protein": 18
+  },
+  "tips": [
+    "Reheat leftover slices for 20–30 seconds prior to serving."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "protein-packed-banana-bread_1036x583.jpg",
+  "thumbnail": "protein-packed-banana-bread_1036x583.webp",
+  "products": [
+    {
+      "slug": "power_up_vanilla_protein_blend__pouch_",
+      "name": "Power Up Vanilla Protein Blend (Pouch)",
+      "summary": [
+        "Fuel up first thing and stay fuller longer with rich smooth-tasting vanilla blend. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    }
+  ]
+}

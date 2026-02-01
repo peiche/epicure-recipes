@@ -1,0 +1,170 @@
+{
+  "name": "Southern Chicken Wraps",
+  "slug": "southern-chicken-wraps",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "chicken breast fillets",
+      "quantity": "2 lbs (900 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil + more for brushing",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Southern Baked Gluten Free Crumb Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "avocados",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large field tomato",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Caesar Dressing",
+      "quantity": "1 cup plain 2% Greek yogurt or",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Caesar Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise or Greek yogurt",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk, your choice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed garlic cloves",
+      "quantity": "2",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "whole wheat tortillas",
+      "quantity": "8",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped romaine lettuce",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 425° F. Place two Cooling Racks on Sheet Pan lined with Sheet Pan Liner; lightly brush racks with oil to prevent sticking.",
+    "In a large bowl, coat chicken with oil.",
+    "Place crumb mix in a resealable plastic bag. Add two chicken fillets at a time, shaking gently until evenly coated. Shake off excess. Place on racks, leaving a small space between each piece. Bake 15 min, or until cooked through.",
+    "Meanwhile, slice avocados and tomato. Spread 2 tbsp yogurt over each tortilla. Divide chopped lettuce, avocado slices, and tomato slices between tortillas. Once cooked, add chicken to tortillas. Roll tightly."
+  ],
+  "tags": [
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 wrap",
+    "calories": 400,
+    "fat": 15,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 85,
+    "sodium": 450,
+    "carbohydrate": 34,
+    "fiber": 11,
+    "sugars": 2,
+    "protein": 34
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup veggies, your choice, or Creamy Coleslaw.",
+  "image": "july_southern_chicken_wraps_1036x583.jpg",
+  "thumbnail": "july_southern_chicken_wraps_1036x583.webp",
+  "products": [
+    {
+      "slug": "southern_baked_gluten_free_crumb_mix__pkg_3_",
+      "name": "Southern Baked Gluten Free Crumb Mix (Pack of 3)",
+      "summary": [
+        "Herbaceous southern-style chicken with all the flavor of classic fried chicken without the calories. A light paprika taste with notes of celery seed."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    },
+    {
+      "slug": "cooling_rack__set_of_2___1701277_",
+      "name": "Cooling Rack (Set of 2)",
+      "summary": [
+        "These space-saving cooling racks are an absolute must-have for every at-home baker or chef.&nbsp;"
+      ]
+    }
+  ]
+}

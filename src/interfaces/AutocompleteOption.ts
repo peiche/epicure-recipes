@@ -1,4 +1,4 @@
-export interface AutocompleteOption {
+export default interface AutocompleteOption {
     label: string;
     path: string;
 }

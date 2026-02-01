@@ -1,0 +1,81 @@
+{
+  "name": "Cucumber Salad",
+  "slug": "cucumber-salad",
+  "description": "This fresh, crisp side salad perfectly complements Quick Moussaka.",
+  "ingredients": [
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "plain yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium English cucumbers",
+      "quantity": "3",
+      "additionalInstruction": "sliced"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a small mixing bowl, using Piano Wire Whisk, whisk first 3 ingredients. Cover and refrigerate.",
+    "With Y-Peeler, peel cucumbers. Thinly slice, and gently stir into yogurt mixture. Serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 70,
+    "fat": 2.5,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 35,
+    "carbohydrate": 10,
+    "fiber": 2,
+    "sugars": 8,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Cucumber-Salad_1036x583.jpg",
+  "thumbnail": "Cucumber-Salad_1036x583.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

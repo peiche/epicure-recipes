@@ -1,0 +1,154 @@
+{
+  "name": "Summer Berry Layer Cake",
+  "slug": "summer-berry-layer-cake",
+  "description": "Put the joy back in baking with a cake mix you can count on and a recipe that even kiddos can make! Gluten-free and sugar-conscious, this layered number grabs fresh summer flavours and sweetness from real fruit. It's perfect for birthdays, potlucks, or any special occasion. We count weekends as special!",
+  "ingredients": [
+    {
+      "name": "Happy Birthday Cake Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk, your choice",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil + more for brushing",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen strawberries",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "or sugar"
+    },
+    {
+      "name": "whipping cream",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "50 min (includes 20 min cooling)",
+  "servings": "8–12 servings",
+  "preparation": [
+    "Preheat oven to 325° F. Line 1&frasl;4 Sheet Pan with 1&frasl;4 Sheet Pan Liner. Lightly brush with oil.",
+    "In a large bowl, whisk cake mix with eggs, milk, oil, and vanilla until just combined.",
+    "Pour batter onto pan and spread to edges. Bake 23–25 min, or until a toothpick inserted in the centre comes out clean. Let rest 10 min, then invert cake onto Cooling Rack. Let cool completely.",
+    "Meanwhile, using an electric beater, beat whipping cream until stiff peaks form.",
+    "In a small, microwave-safe bowl, combine strawberries and dip mix. Microwave, uncovered, on high 1 min, or until hot. Gently mash with a fork.",
+    "To assemble, cut cake into 3 equal rectangles. Place bottom layer on a platter. Spread 1&frasl;4 cup whipped cream and 3 tbsp berry mixture over top. Top with next layer and repeat.",
+    "Spread remaining whipped cream over entire cake and top with remaining berry mixture."
+  ],
+  "tags": [
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 220,
+    "fat": 12,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 50,
+    "sodium": 160,
+    "carbohydrate": 25,
+    "fiber": 0,
+    "sugars": 15,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Summer-Berry-Layer-Cake_1036x583.jpg",
+  "thumbnail": "Summer-Berry-Layer-Cake_1036x583.webp",
+  "products": [
+    {
+      "slug": "white_cake_mix__pack_of_2_",
+      "name": "Happy Birthday Cake Mix (Pack of 2)",
+      "summary": [
+        "The fluffiest white <strong>gluten free </strong>cake, make Happy Birthday Cake to celebrate special occasions – or whenever you want to spread some joy! Easily create layered cakes, cupcakes, or cake pops and customize them to suit the occasion by adding sprinkles, flavour extracts, fillings, and frosting.&nbsp;"
+      ]
+    },
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_liner__set_of_2___1711227_",
+      "name": "1/4 Sheet Pan Liner (Set of 2)",
+      "summary": [
+        "Easy to clean, nonstick, silicone mat with raised edges.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_7a23ca1",
+      "name": "1/4 Sheet Pan (Set of 2)",
+      "summary": [
+        "Smaller size than a standard sheet pan for easy handling."
+      ]
+    },
+    {
+      "slug": "cooling_rack__set_of_2___1701277_",
+      "name": "Cooling Rack (Set of 2)",
+      "summary": [
+        "These space-saving cooling racks are an absolute must-have for every at-home baker or chef.&nbsp;"
+      ]
+    }
+  ]
+}

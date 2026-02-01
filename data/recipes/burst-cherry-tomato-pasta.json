@@ -1,0 +1,121 @@
+{
+  "name": "Burst Cherry Tomato Pasta",
+  "slug": "burst-cherry-tomato-pasta",
+  "description": "Make crave-worthy basil, garlic, cherry tomatoes, and parmesan pasta in minutes. This dish is a simple yet elegant way to celebrate spring flavours.",
+  "ingredients": [
+    {
+      "name": "uncooked linguine or spaghetti",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Italian Seasoning or Pizza Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "17 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Cook pasta in Multipurpose Pot according to package directions. Drain.",
+    "Meanwhile, heat oil in Sauté Pan over medium heat. Add tomatoes. Cover and cook 7 min, until tomatoes soften, stirring occasionally. Using a spatula, crush tomatoes to release juice. Sprinkle in seasoning. Bring to a boil and let simmer 4 min.",
+    "Add warm noodles to pan. Stir in spinach; cook until spinach is slightly wilted, about 1 min. Add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 310,
+    "fat": 8,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 45,
+    "carbohydrate": 51,
+    "fiber": 5,
+    "sugars": 6,
+    "protein": 10
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein.",
+  "image": "Burst-Cherry-Tomato-Pasta_1036x583.jpg",
+  "thumbnail": "Burst-Cherry-Tomato-Pasta_1036x583.webp",
+  "products": [
+    {
+      "slug": "italian_seasoning",
+      "name": "Italian Seasoning",
+      "summary": [
+        "A robust Italian blend perfect for pizza, bread dough, pasta or flatbreads.&nbsp;"
+      ]
+    },
+    {
+      "slug": "pizza_seasoning_2308099",
+      "name": "Pizza Seasoning (1002291)",
+      "summary": [
+        "In a world of complex gastronomy, pizza is a testament to the simple pleasures we all crave. Now you can get it by the spoonful! This blend delivers the nostalgic flavors and feeling of eating pizza, with notes of basil, oregano, garlic, tomato, and green bell peppers with loads of Parmesan. And yes, there is a mild whisper of chilli, too!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    }
+  ]
+}

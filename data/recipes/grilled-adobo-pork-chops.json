@@ -1,0 +1,113 @@
+{
+  "name": "Grilled Adobo Pork Chops",
+  "slug": "grilled-adobo-pork-chops",
+  "description": "Spicy pan-seared pork makes a great next-day sandwich!",
+  "ingredients": [
+    {
+      "name": "adobo seasoning",
+      "quantity": "2 - 3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pork chops",
+      "quantity": "4",
+      "additionalInstruction": "trimmed"
+    },
+    {
+      "name": "Poco Picante Salsa",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "cilantro",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Generously rub adobo seasoning over pork. Let marinate for 15 minutes.",
+    "In a grill pan, grill pork over medium heat for approximately 4–5 minutes per side, until cooked through.",
+    "Top with prepared Poco Picante Salsa."
+  ],
+  "tags": [
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 270,
+    "fat": 20,
+    "saturatedFat": 7,
+    "transFat": 0,
+    "cholesterol": 70,
+    "sodium": 180,
+    "carbohydrate": 4,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 19
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with steamed veggies and brown rice.",
+  "image": "Grilled-Adobo-Pork-Chops-Main.jpg",
+  "thumbnail": "Grilled-Adobo-Pork-Chops-Main.webp",
+  "products": [
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chillies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "name": "Turkey Tortilla Pinwheels",
+  "slug": "turkey-tortilla-pinwheels",
+  "description": "Whole-grain tortillas provide added fibre - important for heart health and weight maintenance.",
+  "ingredients": [
+    {
+      "name": "whole-wheat or spinach tortillas",
+      "quantity": "2 (10 in/25 cm)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light cream cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sage & Apple Stuffing Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "thin slices lean turkey breast (deli meat)",
+      "quantity": "6",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cranberry sauce",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lettuce leaves to cover",
+      "quantity": null,
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 - 10 min",
+  "servings": "12 pinwheel slices",
+  "preparation": [
+    "Spread tortilla shells with cream cheese.",
+    "Sprinkle Sage & Apple Stuffing Seasoning over cream cheese.",
+    "Cover with turkey slices then spread with cranberry sauce.",
+    "Cover with lettuce leaves.",
+    "Roll up tightly and wrap with plastic. Store in refrigerator for up to 8 hours.",
+    "Slice each roll into 6 pinwheels."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 pinwheel",
+    "calories": 40,
+    "fat": 1,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 135,
+    "carbohydrate": 5,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 3
+  },
+  "tips": [
+    "Serve with a veggie platter and Epicure Dip."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Turkey-Tortilla-Pinwheels-Main.jpg",
+  "thumbnail": "Turkey-Tortilla-Pinwheels-Main.webp",
+  "products": [
+    {
+      "slug": "sage___apple_stuffing_seasoning_32d0fa0",
+      "name": "Sage & Apple Stuffing Seasoning",
+      "summary": [
+        "Prepare to wow your guests with this simple yet show-stopping Sage &amp; Apple Stuffing. It’s a holiday must-have!&nbsp;"
+      ]
+    }
+  ]
+}

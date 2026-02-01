@@ -1,0 +1,138 @@
+{
+  "name": "Montreal Chicken Burger with French Onion Sauce",
+  "slug": "montreal-chicken-burger-with-french-onion-sauce",
+  "description": "Wow your family and friends with this creamy, Montreal-inspired chicken burger.",
+  "ingredients": [
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ground chicken or beef",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (375 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Montreal Chicken Rub",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "French Onion Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dry breadcrumbs",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium red onion",
+      "quantity": "1",
+      "additionalInstruction": "sliced into rounds"
+    },
+    {
+      "name": "French Onion Dip",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sour cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "French Onion Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Whisk egg with water.",
+    "Place chicken in a large bowl and add Montreal Chicken Rub, French Onion Dip Mix and breadcrumbs. Pour egg mixture overtop.",
+    "Wet hands to prevent sticking and form mixture into 6 patties.",
+    "Grill on the barbecue over medium-high heat with lid closed for 5 minutes. Flip patties and continue grilling for an additional 5 minutes. Add onions to grill for the last few minutes of cooking.",
+    "Serve topped with grilled onion rings and dollops of prepared French Onion Dip."
+  ],
+  "tags": [
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 430,
+    "fat": 34,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 140,
+    "sodium": 220,
+    "carbohydrate": 6,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 22
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Montreal-Chicken-Burger-with-French-Onion-Sauce-Main.jpg",
+  "thumbnail": "Montreal-Chicken-Burger-with-French-Onion-Sauce-Main.webp",
+  "products": [
+    {
+      "slug": "montreal_chicken_rub_4b3f157",
+      "name": "Montreal Chicken Rub",
+      "summary": [
+        "Robust, herby flavor with a hint of paprika and lemon—an all-purpose, sodium-free blend that’s nothing short on flavor!"
+      ]
+    },
+    {
+      "slug": "french_onion_dip_mix_9a610da",
+      "name": "French Onion Dip Mix",
+      "summary": [
+        "A savory medley with roasted onion &amp; notes of parsley.&nbsp;"
+      ]
+    }
+  ]
+}

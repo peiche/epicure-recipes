@@ -1,0 +1,101 @@
+{
+  "name": "Nut-crusted Baked Brie",
+  "slug": "nut-crusted-baked-brie",
+  "description": "A warm, nutty dish — perfect for entertaining any time of year.",
+  "ingredients": [
+    {
+      "name": "chopped walnuts, pecans and/or almonds – your choice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brie cheese",
+      "quantity": "1 wheel (4 oz/125 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Red Pepper Jelly",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Place nuts on a plate or shallow baking dish.",
+    "Whisk egg with milk.",
+    "Coat brie with egg mixture and dip into nuts. Firmly press onto all sides of brie and place in a heat-proof serving dish.",
+    "Bake for 15 minutes. Remove and top with Pepper Jelly, or serve on the side."
+  ],
+  "tags": [
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 240,
+    "fat": 20,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 60,
+    "sodium": 150,
+    "carbohydrate": 8,
+    "fiber": 1,
+    "sugars": 5,
+    "protein": 9
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Nut-crusted-Baked-Brie-Main.jpg",
+  "thumbnail": "Nut-crusted-Baked-Brie-Main.webp",
+  "products": [
+    {
+      "slug": "red_pepper_jelly",
+      "name": "Red Pepper Jelly (new)",
+      "summary": [
+        "A sweet red pepper flavour with a mild heat from cayenne.&nbsp;"
+      ]
+    }
+  ]
+}

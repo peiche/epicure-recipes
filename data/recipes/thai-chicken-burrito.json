@@ -1,0 +1,151 @@
+{
+  "name": "Thai Chicken Burrito",
+  "slug": "thai-chicken-burrito",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Thai Stir-Fry",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> recipe prepared",
+      "additionalInstruction": "about 3 cups, warmed"
+    },
+    {
+      "name": "Thai Stir-Fry Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coconut milk",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "natural peanut butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "soy sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> ",
+      "additionalInstruction": "juiced"
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken, cut into bite-sized pieces",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "broccoli, bell peppers, and celery",
+      "quantity": "2 cups each",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped peanuts",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "cooked brown rice or quinoa",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach or mixed greens",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large whole-wheat tortillas",
+      "quantity": "6",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 400º F. Line a Sheet Pan with a Sheet Pan Liner.",
+    "In a large bowl, combine stir-fry with rice and spinach.",
+    "Divide mixture among tortillas; fold in sides and roll up. Place seam-side down on prepared pan.",
+    "Bake, flipping halfway through, until golden, 15 min."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 360,
+    "fat": 13,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 320,
+    "carbohydrate": 44,
+    "fiber": 7,
+    "sugars": 4,
+    "protein": 19
+  },
+  "tips": [
+    "Customize the Thai Stir-Fry your way. Use almond, cashew or a nut-free butter.",
+    "Make it vegetarian: swap chicken for chickpeas when preparing the Thai Stir-Fry."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup mixed veggies.",
+  "image": "1599171985072-recipeMainImagePath.jpg",
+  "thumbnail": "1599171985072-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

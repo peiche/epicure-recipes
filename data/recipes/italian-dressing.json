@@ -1,0 +1,73 @@
+{
+  "name": "Italian Dressing",
+  "slug": "italian-dressing",
+  "description": "Enjoy a taste of Italy by tossing greens with a classic or creamy dressing – also great as a marinade.",
+  "ingredients": [
+    {
+      "name": "Italian Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "white vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 cup",
+  "preparation": [
+    "In a Cruet, combine dressing mix, oil, and vinegar; shake well. Store in the fridge for up to 1 week."
+  ],
+  "tags": [
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 tbsp",
+    "calories": 90,
+    "fat": 10,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 5,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 0
+  },
+  "tips": [
+    "For a Creamy Italian Dressing, add 2 tbsp Greek yogurt or mayo to prepared dressing."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Italian_Dressing_1036x583.jpg",
+  "thumbnail": "Italian_Dressing_1036x583.webp",
+  "products": []
+}

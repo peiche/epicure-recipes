@@ -1,0 +1,129 @@
+{
+  "name": "Meatless Pizza",
+  "slug": "meatless-pizza",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Creamy Ranch Dip",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Ranch Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light sour cream",
+      "quantity": "1 cup",
+      "additionalInstruction": "or yogurt"
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "prepared thin whole-wheat pizza shell",
+      "quantity": "1 (12 in/ 30 cm)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced bell pepper",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "any kind"
+    },
+    {
+      "name": "chopped broccoli",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated or matchstick carrots",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced mushrooms",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated partly-skimmed mozzarella cheese",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chili Flakes & Garlic Topper",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "15 - 20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 425° F (220° C).",
+    "Spread Creamy Ranch Dip on pizza shell.",
+    "Add vegetables and top with mozzarella and parmesan.",
+    "Bake for approximately 10–15 minutes, or until shell is golden-brown and cheese is melted. Finish with Chili Flakes & Garlic Topper."
+  ],
+  "tags": [
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 350,
+    "fat": 13,
+    "saturatedFat": 4.5,
+    "transFat": 0,
+    "cholesterol": 25,
+    "sodium": 650,
+    "carbohydrate": 41,
+    "fiber": 2,
+    "sugars": 4,
+    "protein": 18
+  },
+  "tips": [
+    "Using a whole-wheat pizza shell is a great way to increase daily fibre intake."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Meatless-Pizza-Main.jpg",
+  "thumbnail": "Meatless-Pizza-Main.webp",
+  "products": [
+    {
+      "slug": "creamy_ranch_dip_mix_7cfe081",
+      "name": "Creamy Ranch Dip Mix",
+      "summary": [
+        "Go beyond your classic ranch dressing and create spreads, dips, or seasonings with this versatile blend!&nbsp;"
+      ]
+    }
+  ]
+}

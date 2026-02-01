@@ -1,0 +1,144 @@
+{
+  "name": "Sheet Pan Mango Chicken",
+  "slug": "sheet-pan-mango-chicken",
+  "description": "An easy weeknight meal the whole family will love!",
+  "ingredients": [
+    {
+      "name": "lime",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Mango Lassi Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low sodium soy sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken thighs",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red bell peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green bell pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen mango chunks",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 450° F. Line Sheet Pan with Sheet Pan Liner.",
+    "Cut lime in half. In a large bowl, using 2-in-1 Citrus Press, squeeze in juice from lime. Stir in mix, olive oil, and soy sauce to make glaze. Toss chicken in glaze, set aside.",
+    "Slice bell peppers. Add bell peppers and mango to glaze; toss to coat.",
+    "Arrange evenly on pan. Cook 16–18 min or until chicken is cooked through. Add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 310,
+    "fat": 11,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 90,
+    "sodium": 260,
+    "carbohydrate": 29,
+    "fiber": 4,
+    "sugars": 17,
+    "protein": 25
+  },
+  "tips": [
+    "Make it vegetarian: Swap chicken for two blocks (210 g each) smoked tofu."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup rice.",
+  "image": "mango_lassi_chicken_1036x583.jpg",
+  "thumbnail": "mango_lassi_chicken_1036x583.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

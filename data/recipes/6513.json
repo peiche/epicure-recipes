@@ -1,0 +1,137 @@
+{
+  "name": "Superfood Salmon Burger",
+  "slug": "superfood-salmon-burger",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "uncooked quinoa",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "rinsed"
+    },
+    {
+      "name": "hot water",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Veggie Burger Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salmon",
+      "quantity": "2 cans (5 oz/142 g each)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby kale or spinach",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "buns",
+      "quantity": "4",
+      "additionalInstruction": "split and toasted"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place quinoa in Multipurpose Steamer; stir in 1 cup hot water. Microwave on high, uncovered, until tender and water has been absorbed, 12–15 min.",
+    "In a bowl, combine mix with 1&frasl;2 cup hot water. Using the 2-in-1 Citrus Press, squeeze in 3 tbsp juice from lemon. Drain salmon; add to bowl and stir until combined. When cooked, stir in quinoa.",
+    "Preheat large fry pan over medium heat.",
+    "When hot, add oil; scoop batter onto pan, making four burgers. Lightly press and flatten into shape. Cook until golden brown, 3–5 min per side.",
+    "Place kale on bottom of buns. Top each with patty and toppings."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 490,
+    "fat": 16,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 40,
+    "sodium": 610,
+    "carbohydrate": 58,
+    "fiber": 13,
+    "sugars": 8,
+    "protein": 29
+  },
+  "tips": [
+    "Slash prep time and cook a big batch of quinoa ahead of time. Refrigerate up to 5 days or freeze in small portions up to 6 months."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup of your favorite veggies (Tip: Make veggie skewers).",
+  "image": "Superfood_Salmon_Burger_1036x583.jpg",
+  "thumbnail": "Superfood_Salmon_Burger_1036x583.webp",
+  "products": [
+    {
+      "slug": "n2_in_1_citrus_press_329bead",
+      "name": "2-in-1 Citrus Press",
+      "summary": []
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": []
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "name": "Steaming Easy Meal on the Go Bowl",
+  "slug": "steaming-easy-meal-on-the-go-bowl",
+  "description": "A perfect meal when you are cooking for one or two, or just need a quick meal on the go.",
+  "ingredients": [
+    {
+      "name": "chicken, pork, or tofu",
+      "quantity": "4 oz (112 g)",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "mixed veggies",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "Asian Stir-Fry Seasoning or 3 Onion Dip Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Balsamic Vinaigrette",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "balsamic vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "cooked brown rice",
+      "quantity": "1 cup",
+      "additionalInstruction": "or quinoa, or 8 Melba toast crackers"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "1 serving",
+  "preparation": [
+    "In a Multipurpose Steamer, add meat, veggies, and seasoning. Cook on high for 6–8 minutes.",
+    "Serve on rice or quinoa drizzled with dressing. If using crackers, serve on the side."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 470,
+    "fat": 13,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 290,
+    "carbohydrate": 54,
+    "fiber": 9,
+    "sugars": 7,
+    "protein": 35
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Steaming-Easy-Meal-on-the-Go-Bowl-Main.jpg",
+  "thumbnail": "Steaming-Easy-Meal-on-the-Go-Bowl-Main.webp",
+  "products": [
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice &amp; noodle dish."
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "balsamic_vinaigrette_dressing_mix",
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "summary": [
+        "Fresh, bright &amp; bold blend of Mediterranean herbs with notes of garlic &amp; rosemary. Our most versatile dressing."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "name": "One Pan Fish Dinner  ",
+  "slug": "one-pan-fish-dinner",
+  "description": "This one sheet pan dinner looks gorgeous and helps you fix it and forget it, with less mess and clean up. Freeze any leftovers for grab-and-go lunches or dinners for one when life gets busy.",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "quantity": "2 lbs (900 g)",
+      "additionalInstruction": "sliced in individual portions"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Sun-Kissed Tomato Dip Mix",
+      "quantity": "2 - 3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "thin asparagus spears",
+      "quantity": "1 bunch",
+      "additionalInstruction": "trimmed"
+    },
+    {
+      "name": "carrot medallions",
+      "quantity": "2 cups",
+      "additionalInstruction": "or carrots thinly sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "2 cups",
+      "additionalInstruction": "halved"
+    },
+    {
+      "name": "Vegetable Seasoning",
+      "quantity": "1 - 2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 425° F (220° C).",
+    "Combine veggies with 1 tbsp oil and dip mix. Place on Sheet Pan lined with a Sheet Pan Liner.",
+    "Lightly coat fish pieces with 1 tbsp olive oil and generously season all over with dip mix. Place on top of veggies.",
+    "Roast until fish is opaque in center, 8 to 10 minutes for thin fillets and 12 to 15 minutes for thicker fillets."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 14,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 105,
+    "carbohydrate": 12,
+    "fiber": 4,
+    "sugars": 5,
+    "protein": 28
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "One-Pan-Fish-Dinner-Main.jpg",
+  "thumbnail": "One-Pan-Fish-Dinner-Main.webp",
+  "products": [
+    {
+      "slug": "sun_kissed_tomato_dip_mix_ae848c4",
+      "name": "Sun-Kissed Tomato Dip Mix",
+      "summary": [
+        "The taste of ripe summer tomatoes with every bite—just mix with two simple ingredients. &nbsp;"
+      ]
+    },
+    {
+      "slug": "vegetable_seasoning__1701330_",
+      "name": "Vegetable Seasoning",
+      "summary": [
+        "All-in-one herby meal helper. Less measuring &amp; more flavor!"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

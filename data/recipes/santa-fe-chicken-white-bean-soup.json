@@ -1,0 +1,158 @@
+{
+  "name": "Santa Fe Chicken & White Bean Soup",
+  "slug": "santa-fe-chicken-white-bean-soup",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "about 2 "
+    },
+    {
+      "name": "Taco Seasoning or Fajita Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "prepared Nourish Broth or Vegetable Broth",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen corn niblets",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "white kidney beans",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "avocado",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place chicken in Multipurpose Steamer. Sprinkle 1&frasl;2 tbsp seasoning on top. Cover; microwave on high 7 min.",
+    "Meanwhile, dice bell peppers. In Wok, combine bell pepper, broth, corn, and remaining 1&frasl;2 tbsp seasoning. Cover; bring to a boil over high heat.",
+    "Once chicken is cooked, let rest 2 min then uncover. There will be liquid from the chicken in the steamer—, do not discard as this will help flavour the soup. Using 2 forks, shred chicken.",
+    "Drain and rinse beans. Uncover wok; add shredded chicken and beans. Stir; reduce heat to medium; cover and simmer 4 min to allow flavours to blend.",
+    "Meanwhile, dice avocado. Add spinach to soup and stir until wilted.",
+    "Spoon soup into bowls. Top with diced avocado, cheese, and additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 430,
+    "fat": 12,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 85,
+    "sodium": 490,
+    "carbohydrate": 42,
+    "fiber": 13,
+    "sugars": 6,
+    "protein": 41
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced vegetables.",
+  "image": "6888_santa-fe-chicken-white-bean-soup_1036x583.jpg",
+  "thumbnail": "6888_santa-fe-chicken-white-bean-soup_1036x583.webp",
+  "products": [
+    {
+      "slug": "taco_seasoning__1701317_",
+      "name": "Taco Seasoning (Jar)",
+      "summary": [
+        "Classic Tex-Mex flavour with medium heat."
+      ]
+    },
+    {
+      "slug": "fajita_seasoning_ceb100c",
+      "name": "Fajita Seasoning",
+      "summary": [
+        "A lively, mild blend for seasoning beef, chicken, or fish fajitas &amp; enchiladas."
+      ]
+    },
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavours of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "name": "After Ate Bliss Balls",
+  "slug": "after-ate-bliss-balls",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "raisins",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": " almond flour",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded coconut",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "almond butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cane syrup or corn syrup",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "After Ate tea leaves",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "or mint leaves"
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chocolate",
+      "quantity": "1 cup",
+      "additionalInstruction": "melted"
+    },
+    {
+      "name": "chocolate sprinkles",
+      "quantity": null,
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "20 balls",
+  "preparation": [
+    "Soak raisins in boiling water until softened. Drain well and discard water.",
+    "In a mixing bowl, combine raisins with all remaining ingredients except chocolate and sprinkles.",
+    "Using your hands, roll the mixture into 20 balls.",
+    "Roll each ball in the melted chocolate and then in the chocolate sprinkles.",
+    "Store in an airtight container in your fridge or freezer before serving."
+  ],
+  "tags": [
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 ball",
+    "calories": 130,
+    "fat": 9,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 15,
+    "carbohydrate": 11,
+    "fiber": 2,
+    "sugars": 7,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "After-Ate-Bliss-Balls-Main.jpg",
+  "thumbnail": "After-Ate-Bliss-Balls-Main.webp",
+  "products": []
+}

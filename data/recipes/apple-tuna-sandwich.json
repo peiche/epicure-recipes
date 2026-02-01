@@ -1,0 +1,131 @@
+{
+  "name": "Apple & Tuna Sandwich",
+  "slug": "apple-tuna-sandwich",
+  "description": "Thanks to tuna, this is a great source of heart-healthy omega-3 fatty acids!",
+  "ingredients": [
+    {
+      "name": "light tuna, packed in water",
+      "quantity": "1 can (6oz/170 g)",
+      "additionalInstruction": "drained"
+    },
+    {
+      "name": "apple",
+      "quantity": "1",
+      "additionalInstruction": "cored and diced"
+    },
+    {
+      "name": "2% plain Greek yogurt or dairy-free alternative",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Guacamole Dip Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>8</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mixed greens",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whole-grain bread",
+      "quantity": "4 slices",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "8 min",
+  "servings": "2 servings",
+  "preparation": [
+    "In a medium bowl, fluff tuna with a fork. Add apple, yogurt, and Dip Mixes. Stir to blend well. Filling will last 2–3 days in your fridge.",
+    "Place mixed greens on two slices of bread and spread tuna on top. Cover with second slice of bread.",
+    "Cut diagonally and serve."
+  ],
+  "tags": [
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 3,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 25,
+    "sodium": 370,
+    "carbohydrate": 33,
+    "fiber": 6,
+    "sugars": 9,
+    "protein": 31
+  },
+  "tips": [
+    "Not a bread fan? Serve on 1 cup leafy greens with 1&frasl;2 cup cooked, drained black beans.",
+    "Make it Vegetarian: Substitute the tuna for hard-boiled eggs smashed with cooked egg whites."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;4 cup prepared Lemon Dilly Dip, 3 stalks of celery cut into sticks, and a medium fruit.",
+  "image": "Apple-&-Tuna-Sandwich_1036x583.jpg",
+  "thumbnail": "Apple-&-Tuna-Sandwich_1036x583.webp",
+  "products": [
+    {
+      "slug": "guacamole_dip_mix_dc7efdb",
+      "name": "Guacamole Dip Mix",
+      "summary": [
+        "An all-natural blend of sweet peppers, garlic, and chilies comes together to create the perfect guacamole––minus the sodium and additives!&nbsp;"
+      ]
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Vibrant &amp; fresh with a hint of citrus &amp; fragrant dill."
+      ]
+    }
+  ]
+}

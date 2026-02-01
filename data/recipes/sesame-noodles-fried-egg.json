@@ -1,0 +1,145 @@
+{
+  "name": "Sesame Noodles & Fried Egg",
+  "slug": "sesame-noodles-fried-egg",
+  "description": "Upgrade your instant noodle game and say goodbye to hunger pangs an hour later – this dish is a full meal in a bowl, with 20 g of protein! We’ve used pantry staples like spaghetti noodles, frozen veggies, and eggs to create a dish that’s easy on the wallet. It’s the ultimate comfort food for college kids and anyone looking for a quick and easy meal that’s packed with flavour and less sodium than instant noodles.",
+  "ingredients": [
+    {
+      "name": "uncooked spaghetti noodles",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": "preferably wholewheat"
+    },
+    {
+      "name": "General Tao Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sesame oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice vinegar or white vinegar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen mixed vegetables",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "4",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Wok set over high heat, bring water to boil. Once boiling, add noodles and continue to boil until pasta is tender, about 8–10 min.",
+    "Meanwhile, in a bowl, whisk together seasoning, soy sauce, sesame oil, and vinegar. This will be a thick sauce.",
+    "In Multipurpose Steamer, add vegetables. Cover; microwave on high, until cooked, about 6 min, depending on the type of vegetables.",
+    "Once cooked, drain noodles. Add noodles and sauce to vegetables in steamer. Toss with tongs to combine. Cover to keep warm; set aside.",
+    "Meanwhile, in wok, heat oil over medium-high heat. Fry eggs until done to your liking.",
+    "To serve, divide noodles between four bowls. Top with egg and add additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 450,
+    "fat": 16,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 245,
+    "sodium": 410,
+    "carbohydrate": 62,
+    "fiber": 9,
+    "sugars": 10,
+    "protein": 20
+  },
+  "tips": [
+    "Cook the eggs to your liking—a runny yolk works well to mix with the noodles. Try sunny-side up, soft boiled, or if you prefer, try scrambled!"
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "sesame_noodles_fried_egg_1036x583.jpg",
+  "thumbnail": "sesame_noodles_fried_egg_1036x583.webp",
+  "products": [
+    {
+      "slug": "general_tao_seasoning__pkg_3_",
+      "name": "General Tao Seasoning (Pack of 3)",
+      "summary": [
+        "A restaurant favorite at home made with less sugar &amp; sodium. Stir fried, not deep fried.&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

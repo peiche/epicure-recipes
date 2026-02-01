@@ -1,0 +1,66 @@
+{
+  "name": "Grand Chocolate Chai Cocktail",
+  "slug": "grand-chocolate-chai-cocktail",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "chai tea leaves",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat chocolate milk",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "or to taste"
+    },
+    {
+      "name": "Grand Marnier® orange liqueur or Cointreau ",
+      "quantity": "2 oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "orange slices",
+      "quantity": null,
+      "additionalInstruction": "for garnish"
+    }
+  ],
+  "totalTime": "7 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Scald chocolate milk and sugar in a Multipurpose Pot - 8 cup.",
+    "Turn off heat, add chai tea leaves and steep to desired strength.",
+    "Strain, add liqueur, and froth in a frother.",
+    "Pour into 2 glasses. Serve warm and top with orange garnish."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cup",
+    "calories": 200,
+    "fat": 1.5,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 80,
+    "carbohydrate": 32,
+    "fiber": 1,
+    "sugars": 30,
+    "protein": 4
+  },
+  "tips": [
+    "Make it a mocktail by omitting the liqueur."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Grand-Chocolate-Chai-Cocktail-Main.jpg",
+  "thumbnail": "Grand-Chocolate-Chai-Cocktail-Main.webp",
+  "products": []
+}

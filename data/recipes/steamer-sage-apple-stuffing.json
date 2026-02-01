@@ -1,0 +1,152 @@
+{
+  "name": "Steamer Sage & Apple Stuffing",
+  "slug": "steamer-sage-apple-stuffing",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "apple",
+      "quantity": "1 cup",
+      "additionalInstruction": "core removed, diced"
+    },
+    {
+      "name": "celery stalks",
+      "quantity": "1 cup",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "cubed day-old bread",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sage & Apple Stuffing Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Rosemary Garlic Seasoning",
+      "quantity": "or",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth or Vegetable Broth",
+      "quantity": "1 cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "17 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Microwave apple and celery in a covered Multipurpose Steamer for 2 minutes.",
+    "Mix in bread and Sage & Apple Stuffing Seasoning.",
+    "Pour bouillon over bread mixture and stir to combine.",
+    "Cover and microwave on high for 5 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 80,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 125,
+    "carbohydrate": 15,
+    "fiber": 3,
+    "sugars": 5,
+    "protein": 4
+  },
+  "tips": [
+    "For a crunchy top to your stuffing, pop steamer into the oven at 400° F (205° C) for 5 minutes before serving."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Steamer-Sage-Apple-Stuffing-Main.jpg",
+  "thumbnail": "Steamer-Sage-Apple-Stuffing-Main.webp",
+  "products": [
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavors on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    },
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

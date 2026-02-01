@@ -1,0 +1,106 @@
+{
+  "name": "Stuffed Mushroom Caps",
+  "slug": "stuffed-mushroom-caps",
+  "description": "A bite-sized burst of savoury goodness!",
+  "ingredients": [
+    {
+      "name": "strips bacon",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": "finely diced"
+    },
+    {
+      "name": "white mushrooms",
+      "quantity": "12",
+      "additionalInstruction": "brushed, with stems removed and finely diced"
+    },
+    {
+      "name": "Herb & Garlic Dip Mix or 3 Onion Dip Mix ",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "finely ground breadcrumbs",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "spreadable cream cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "36 min",
+  "servings": "12 caps",
+  "preparation": [
+    "Preheat oven to 400° F. Line a Sheet Pan with a Sheet Pan Liner.",
+    "Sauté bacon in frying pan until crisp. Cool, then crumble. In the same pan, sauté onion and mushroom stems over medium heat until soft, 6-8 min.",
+    "Remove pan from heat and stir in bacon, breadcrumbs, cream cheese and dip mix. Stir well; season with salt and pepper.",
+    "Arrange mushroom caps on pan. Fill each with prepared mixture. Roast for 10 min, or until bubbling and browned. Serve warm."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "1 cap",
+    "calories": 45,
+    "fat": 3.5,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 150,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 2
+  },
+  "tips": [
+    "Use mushrooms that are small enough to eat in one bite.",
+    "Try using back bacon or turkey bacon and light cream cheese to lower fat content."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Artichoke-Stuffed-Mushroom-Caps-Main.jpg",
+  "thumbnail": "Artichoke-Stuffed-Mushroom-Caps-Main.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, onion &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

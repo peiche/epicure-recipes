@@ -1,0 +1,160 @@
+{
+  "name": "Balsamic Bliss Salad",
+  "slug": "balsamic-bliss-salad",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "uncooked quinoa",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "balsamic vinegar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mixed greens",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cubed feta cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Rinse quinoa; place in Multipurpose Steamer and stir in hot water. Microwave on high, uncovered, until tender and water has been absorbed, 12–15 min.",
+    "Meanwhile, slice chicken into bite-size pieces; sprinkle with sauce mix. Set aside.",
+    "Slice tomatoes in half and cube cucumber. Thinly slice onion.",
+    "In a Cruet, combine dressing mix with olive oil and vinegar. Shake to mix.",
+    "Remove quinoa from microwave; divide into four bowls.",
+    "In the same steamer (don’t wash), add chicken; cover and microwave for 3-5 min.",
+    "Top quinoa with chicken, veggies, greens, and cheese. Drizzle with dressing and serve."
+  ],
+  "tags": [
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 460,
+    "fat": 18,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 105,
+    "sodium": 290,
+    "carbohydrate": 29,
+    "fiber": 5,
+    "sugars": 6,
+    "protein": 43
+  },
+  "tips": [
+    "Make it vegetarian by swapping chicken for 4 cups of chickpeas or black beans.",
+    "Take it to go! In a mason jar, layer  dressing first, then grains, protein, and veggies."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Balsamic_Bliss_Salad_1036x583.jpg",
+  "thumbnail": "Balsamic_Bliss_Salad_1036x583.webp",
+  "products": [
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavor of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "balsamic_vinaigrette_dressing_mix",
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "summary": [
+        "Fresh, bright &amp; bold blend of Mediterranean herbs with notes of garlic &amp; rosemary. Our most versatile dressing."
+      ]
+    }
+  ]
+}

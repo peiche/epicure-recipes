@@ -1,0 +1,119 @@
+{
+  "name": "Carrot Cake Petites",
+  "slug": "carrot-cake-petites",
+  "description": "Good, gluten-free things come in small, bite-sized packages! These little delights are a sweet treat, without the commitment of baking a whole cake.",
+  "ingredients": [
+    {
+      "name": "medium-sized carrots",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil + more for oiling",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed pineapple with juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Carrot Cake Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "40 - 45 min",
+  "servings": "30 petites",
+  "preparation": [
+    "Preheat oven to 350° F.",
+    "Place Perfect Petites on a Sheet Pan. Using a basting brush, generously brush with oil.",
+    "Coarsely grate carrots; measure out 2 cups and set aside.",
+    "In a bowl, whisk eggs with oil and pineapple. Stir in mix and 2 cups grated carrot. Evenly divide batter in Perfect Petites, about 1 tbsp per mold.",
+    "Bake 30–35 min, until a toothpick inserted in the center comes out clean and sides start pulling away from the pan. Rest in pan until cool to the touch, then pop out."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 petite",
+    "calories": 60,
+    "fat": 3,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 75,
+    "carbohydrate": 7,
+    "fiber": 1,
+    "sugars": 4,
+    "protein": 1
+  },
+  "tips": [
+    "Top cooked petites with prepared Chocolate Fudge Sauce (icing version). Topping each petite with 1&frasl;2 tbsp icing is still a Good Food. Real Results. dessert!",
+    "The 4-in-1 Spice Spoon is perfect for dividing the batter in the Perfect Petites.",
+    "Make ahead and freeze. Remove from freezer 15 min prior to serving."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "carrot_cake_petites main.jpg",
+  "thumbnail": "carrot_cake_petites main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "perfect_petites_a4d39ed",
+      "name": "Perfect Petites",
+      "summary": [
+        "A versatile non-stick silicone pan that makes baking the cutest bite-sized portions easy and fun! Go beyond baking and use the Perfect Petites to make ice cubes, portion baby food and sauces, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "n4_in_1_spice_spoon_2cc83da",
+      "name": "4-in-1 Spice Spoon",
+      "summary": [
+        "Smart, convenient tool for multiple measurements."
+      ]
+    }
+  ]
+}

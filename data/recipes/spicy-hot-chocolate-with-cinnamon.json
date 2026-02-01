@@ -1,0 +1,59 @@
+{
+  "name": "Spicy Hot Chocolate with Cinnamon",
+  "slug": "spicy-hot-chocolate-with-cinnamon",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "milk",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cinnamon stick",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed chilies",
+      "quantity": "1 pinch",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dark Belgian chocolate",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Combine first 3 ingredients in Multipurpose Pot - 8 cup. Warm over medium heat until milk begins to steam. Remove from heat, cover and let steep for 10 minutes.",
+    "Place dark Belgian chocolate in mixing bowl. Strain hot milk mixture over chocolate.",
+    "Return mixture to Pot. Using a wooden spoon, stir over medium heat until chocolate is melted.",
+    "Pour into heated mugs. Serve with a cinnamon stick in each mug, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 15,
+    "saturatedFat": 8,
+    "transFat": 0.2,
+    "cholesterol": 20,
+    "sodium": 125,
+    "carbohydrate": 28,
+    "fiber": 2,
+    "sugars": 13,
+    "protein": 10
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Spicy-Hot-Chocolate-with-Cinnamon-Main.jpg",
+  "thumbnail": "Spicy-Hot-Chocolate-with-Cinnamon-Main.webp",
+  "products": []
+}

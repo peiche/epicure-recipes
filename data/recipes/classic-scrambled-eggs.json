@@ -1,0 +1,88 @@
+{
+  "name": "Classic Scrambled Eggs",
+  "slug": "classic-scrambled-eggs",
+  "description": "What could be easier than scrambled eggs for a quick, delicious breakfast or brunch?",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "8",
+      "additionalInstruction": "beaten until frothy"
+    },
+    {
+      "name": "liquid egg whites",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% milk, or dairy-free alternative",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "or dip mix of your choice"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "low-fat grated cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a frying pan, heat oil over medium-high heat.",
+    "Combine remaining ingredients, except cheese, in a bowl.",
+    "Pour into pre-heated frying pan. As eggs begin to thicken, stir with a Corner Spatula until eggs are set but still soft."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 200,
+    "fat": 11,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 375,
+    "sodium": 280,
+    "carbohydrate": 3,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 20
+  },
+  "tips": [
+    "Make it vegan: Swap eggs for tofu and use soy cheese."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with sliced tomato and 1 slice whole-grain toast with 1 tbsp nut butter.",
+  "image": "1601316291784-recipeMainImagePath.jpg",
+  "thumbnail": "1601316291784-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Chai Spice Eggnog",
+  "slug": "chai-spice-eggnog",
+  "description": "A delicious blend of Chai Spice and creamy eggnog, this is a great crowd-pleaser for a seasonal celebration.",
+  "ingredients": [
+    {
+      "name": "chai spice",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "non-fat milk",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggnog",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dark rum",
+      "quantity": "3 oz",
+      "additionalInstruction": "divided – optional"
+    },
+    {
+      "name": "ground nutmeg",
+      "quantity": null,
+      "additionalInstruction": "for garnish – optional"
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In a Multipurpose Pot - 8 cup, combine chai spice, milk, and eggnog.",
+    "Bring to a gentle simmer, then remove from heat. Keep warm or chill.",
+    "Pour into mugs. If desired, pour a 1&frasl;2 oz shot of rum into each. Sprinkle with nutmeg and serve."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 180,
+    "fat": 7,
+    "saturatedFat": 4,
+    "transFat": 0.1,
+    "cholesterol": 80,
+    "sodium": 125,
+    "carbohydrate": 19,
+    "fiber": 2,
+    "sugars": 17,
+    "protein": 10
+  },
+  "tips": [
+    "You can make and refrigerate 1–2 days ahead – simply reheat or serve cold. Delish!",
+    "DIY Bar Tip: Make and refrigerate in a Multipurpose Pot - 8 cup for a cool drink, or simply keep on low heat for hot toddies. Place glasses and nutmeg by pot."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Chai-Spice-Eggnog-Main.jpg",
+  "thumbnail": "Chai-Spice-Eggnog-Main.webp",
+  "products": []
+}

@@ -1,0 +1,125 @@
+{
+  "name": "Balsamic Green Beans & Tomatoes",
+  "slug": "balsamic-green-beans-tomatoes",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "quantity": "4 cups",
+      "additionalInstruction": "trimmed"
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing",
+      "quantity": "2 - 3 tbsp",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "balsamic vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "10 - 12 min",
+  "servings": "8 - 10 servings",
+  "preparation": [
+    "Rinse beans and tomatoes in cold water, and place in Multipurpose Steamer. Season with Salt. Cover, and microwave on high until tender-crisp, approximately 5-7 minutes.",
+    "Turn into a serving dish, drizzle with Balsamic Vinaigrette, and serve."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 35,
+    "fat": 2,
+    "saturatedFat": 0.3,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 15,
+    "carbohydrate": 5,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Balsamic-Green-Beans-Tomatoes-Main.jpg",
+  "thumbnail": "Balsamic-Green-Beans-Tomatoes-Main.webp",
+  "products": [
+    {
+      "slug": "balsamic_vinaigrette_dressing_mix",
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "summary": [
+        "A classic for a reason, this dressing mix is full of flavour and uber versatile. Use it as salad or nourish bowl dressing, marinade protein including chicken and beef, or glaze grilled veggies and fresh fruit. Any way you serve it, it’s sure to be a hit!&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

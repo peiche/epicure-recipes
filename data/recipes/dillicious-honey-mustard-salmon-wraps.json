@@ -1,0 +1,104 @@
+{
+  "name": "\"Dillicious\" Honey Mustard Salmon Wraps",
+  "slug": "dillicious-honey-mustard-salmon-wraps",
+  "description": "Salmon is a great source of omega 3 fatty acids, important for heart health, and healthy skin and hair.",
+  "ingredients": [
+    {
+      "name": "whole-grain tortillas",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "\"Dillicious\" Honey Mustard Salmon Fillets",
+      "quantity": "4 servings",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Honey Mustard",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salmon fillets",
+      "quantity": "6 (6 oz/170 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded romaine lettuce",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 - 10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place one wrap on each plate. Top with salmon and lettuce.",
+    "Wrap, roll and serve."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 400,
+    "fat": 16,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 70,
+    "sodium": 470,
+    "carbohydrate": 29,
+    "fiber": 3,
+    "sugars": 7,
+    "protein": 30
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "-Dillicious-Honey-Mustard-Salmon-Wraps-Main.jpg",
+  "thumbnail": "-Dillicious-Honey-Mustard-Salmon-Wraps-Main.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

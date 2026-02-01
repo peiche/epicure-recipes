@@ -1,0 +1,166 @@
+{
+  "name": "Taco Frittata",
+  "slug": "taco-frittata",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef or soy ground round",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> lb (340 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Taco Seasoning  ",
+      "quantity": "1 tbsp ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "1 pint ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "6",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green onions ",
+      "quantity": "3",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese  ",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roasted Garlic Aioli Mix ",
+      "quantity": "2 tsp ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "avocado ",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "jalapeño",
+      "quantity": "1",
+      "additionalInstruction": "optional "
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 350° F.",
+    "In a skillet, heat oil over medium-high heat. Crumble in beef and sprinkle with seasoning; cook, breaking up meat using the Ground Meat Separator, until meat is cooked through, about 3 min. Slice cherry tomatoes in half; reduce heat to medium and add to ground beef mixture.",
+    "Meanwhile, in bowl, beat eggs. Thinly slice green onions. Add green onions, cheese, and aioli mix to eggs; mix well. Add to skillet and cook about 2–3 min, until eggs at the edges begin to set.",
+    "Slice avocado in half; remove pit. Thinly slice each half. Slice jalapeño crosswise into thin rounds, if using. Arrange avocado and jalapeño on top of egg mixture. Place in the oven and cook about 4–5 min until frittata is puffed and just set.",
+    "If time allows, let stand a few minutes before slicing and serving. Add additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 slice",
+    "calories": 260,
+    "fat": 16,
+    "saturatedFat": 5,
+    "transFat": 0.2,
+    "cholesterol": 280,
+    "sodium": 210,
+    "carbohydrate": 6,
+    "fiber": 3,
+    "sugars": 2,
+    "protein": 21
+  },
+  "tips": [
+    "For an irresistible crispy top, place frittata under the broiler for a few minutes after cooking."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup leafy green salad, 1 tbsp Creamy Ranch Dip, and 6 wholegrain tortilla chips.",
+  "image": "6876_Taco_Frittatta_1036x583.jpg",
+  "thumbnail": "6876_Taco_Frittatta_1036x583.webp",
+  "products": [
+    {
+      "slug": "taco_seasoning__1701317_",
+      "name": "Taco Seasoning (Jar)",
+      "summary": [
+        "Classic Tex-Mex flavour with medium heat."
+      ]
+    },
+    {
+      "slug": "roasted_garlic_aioli_mix",
+      "name": "Roasted Garlic Aioli Mix",
+      "summary": [
+        "A creamy roasted garlic condiment for your burger, sandwich or use as a dip for fries or veg.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

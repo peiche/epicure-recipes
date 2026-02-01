@@ -1,0 +1,162 @@
+{
+  "name": "Great Canadian Donair Dip",
+  "slug": "great-canadian-donair-dip",
+  "description": "As far as dips go, this one is legendary. It’s the best parts of a Canadian favourite - seasoned meat and irresistible, garlicky, tangy and sweet sauce - to create a warm and gooey dip that will leave you weak in the knees.",
+  "ingredients": [
+    {
+      "name": "cream cheese brick",
+      "quantity": "1 pkg (8 oz/250 g)",
+      "additionalInstruction": "cut into cubes"
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "granulated sugar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "white vinegar",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roasted Garlic Aioli Mix or Minced Garlic\n",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded mozzarella",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Donair Seasoning or Rotisserie Chicken Seasoning\n",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg",
+      "additionalInstruction": "about 3 tbsp"
+    },
+    {
+      "name": "mixed cherry tomatoes",
+      "quantity": "8",
+      "additionalInstruction": "quartered or finely chopped"
+    },
+    {
+      "name": "red onion",
+      "quantity": null,
+      "additionalInstruction": "sliced or diced, optional"
+    },
+    {
+      "name": "chopped fresh parsely",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 cups",
+  "preparation": [
+    "Preheat oven to 350 °F. In the bowl of a standing mixer, beat cream cheese until smooth; beat in mayonnaise, milk, sugar, vinegar and aioli mix until evenly combined. Stir in cheese.",
+    "In a frying pan, brown beef with seasoning over medium-high heat, 5 min. Use Ground Meat Separator to break up meat.",
+    "Add meat to cheese mixture; stir to mix. Place in a baking dish that holds 4 cups (1 L). Bake until bubbly, about 12-15 min. Sprinkle with tomatoes, onion and parsley, if desired. Serve with veggies and pita chips, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 tbsp",
+    "calories": 50,
+    "fat": 3.5,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 65,
+    "carbohydrate": 1,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 3
+  },
+  "tips": [
+    "Make it vegetarian: swap beef for veggie ground round or canned lentils.",
+    "Make Ahead: Prepare dip. Cover and refrigerate up to 3 days before serving, or freeze up to 1 month. Defrost before baking."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "donair_dip_1036x583.jpg",
+  "thumbnail": "donair_dip_1036x583.webp",
+  "products": [
+    {
+      "slug": "roasted_garlic_aioli_mix",
+      "name": "Roasted Garlic Aioli Mix",
+      "summary": [
+        "A creamy roasted garlic condiment for your burger, sandwich or use as a dip for fries or veg.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    },
+    {
+      "slug": "donair_seasoning__pkg_of_3_",
+      "name": "Donair Seasoning (Pack of 3)",
+      "summary": [
+        "Any way you name it – <em>gyro, shawarma, donair, or doner kebab </em>– our Donair Seasoning is what you’re looking for. You won’t believe how easy it is to make the street food staple at home in minutes with this blend and a few simple ingredients. Just add the seasoning to ground beef, press it into a <a href=\"https://epicure.com/product/rectangular-steamer\">Rectangular Steamer</a> and cook it in the microwave for 10 minutes or the oven for 60. Slice thinly and serve on a pita with fresh veggies and tzatziki – dinner is done!&nbsp;"
+      ]
+    },
+    {
+      "slug": "rotissiere_chicken_seasoning__pkg_of_3_",
+      "name": "Rotisserie Chicken Seasoning (Pack of 3)",
+      "summary": [
+        "The days&nbsp;of dry oven-roasted chicken that takes forever to&nbsp;make&nbsp;are over!&nbsp;There’s&nbsp;a&nbsp;better way, and&nbsp;it’s&nbsp;quick,&nbsp;juicy, and oh-so-tasty&nbsp;with&nbsp;Rotisserie Chicken&nbsp;Seasoning.&nbsp;In&nbsp;20&nbsp;minutes, you&nbsp;can cook a&nbsp;whole&nbsp;chicken&nbsp;in the microwave&nbsp;using the&nbsp;<a data-item-id=\"38e9c45d-465e-4a8b-8c16-5f437f361347\" href=\"\">Round&nbsp;Steamer</a>.&nbsp;With&nbsp;a&nbsp;flavour&nbsp;that outshines the store-bought kin —free of unnecessary&nbsp;additives and&nbsp;too&nbsp;much sodium—Rotisserie Chicken is so fast and easy it’s perfect for any night of the week!&nbsp;&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

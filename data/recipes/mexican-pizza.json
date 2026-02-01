@@ -1,0 +1,192 @@
+{
+  "name": "Mexican Pizza",
+  "slug": "mexican-pizza",
+  "description": "Move over Taco Bell! This copycat recipe has all the flavours of the cult classic, with half the sodium and less fat. Bold saucy Enchilada flavours and melty cheesy goodness sandwiched between two crispy tortillas made better at home! Made in under 30 min, faster than delivery, it’s a better-than-takeout classic with an Epicure twist.",
+  "ingredients": [
+    {
+      "name": "Enchilada Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomato paste",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": "juiced"
+    },
+    {
+      "name": "coconut oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted black beans",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground turkey",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated cheddar cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "medium (6”) flour tortillas",
+      "quantity": "6",
+      "additionalInstruction": null
+    },
+    {
+      "name": "avocado",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large tomato",
+      "quantity": "1",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "26 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 425°F.",
+    "In Rectangular Steamer, mix 1&frasl;2 pkg seasoning, water, and tomato paste. Microwave uncovered on high 2 min or until thickened. Whisk in coconut oil and lime juice. Reserve 1&frasl;3 cup of sauce in Prep Bowl.",
+    "Drain and rinse beans. Place in Rectangular Steamer with remaining sauce. Cover; microwave on high for 2 min. Using Ground Meat Separator or a fork, coarsely mash.",
+    "While beans are cooking, heat oil in Sauté Pan over medium high heat. Add ground turkey and remaining seasoning. Sauté 5—7 min or until turkey is cooked through. Use Ground Meat Separator to break up chunks.",
+    "Place Cooling Racks inside Sheet Pan. Place 3 tortillas on racks; spread bean mixture over each, then top with cooked turkey. Sprinkle with half the cheese. Top with remaining 3 tortillas; drizzle with enchilada sauce and sprinkle with remaining cheese.",
+    "Bake for 8—10 min or until the cheese starts to bubble.",
+    "While the pizzas are cooking, peel and dice avocados, and dice tomato. When pizzas are cooked, cut into slices and top with diced vegetables."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1/2 pizza",
+    "calories": 420,
+    "fat": 21,
+    "saturatedFat": 7,
+    "transFat": 0.1,
+    "cholesterol": 85,
+    "sodium": 490,
+    "carbohydrate": 35,
+    "fiber": 10,
+    "sugars": 4,
+    "protein": 26
+  },
+  "tips": [
+    "If you can’t find smaller tortillas, making this recipe with 4 large tortillas will work as well.",
+    "Leftover portions of pizza make a great next day lunch!"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup chopped veggies.",
+  "image": "mexican_pizza_1036x583.jpg",
+  "thumbnail": "mexican_pizza_1036x583.webp",
+  "products": [
+    {
+      "slug": "enchilada_seasoning__pkg_of_3_",
+      "name": "Enchilada Seasoning (Pack of 3)",
+      "summary": [
+        "Silky-smooth tomato-based sauce with mild spice. Dry blend doubles as a seasoning to make soup &amp; stews.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "cooling_rack__set_of_2___1701277_",
+      "name": "Cooling Rack (Set of 2)",
+      "summary": [
+        "These space-saving cooling racks are an absolute must-have for every at-home baker or chef."
+      ]
+    },
+    {
+      "slug": "rectangular_steamer_efd7225",
+      "name": "Rectangular Steamer",
+      "summary": [
+        "Easy to clean. Easy to serve. Rectangular, silicone steamer is perfect for side dishes &amp; desserts."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Creamy Ranch Dip",
+  "slug": "creamy-ranch-dip",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Creamy Ranch Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light sour cream",
+      "quantity": "1 cup",
+      "additionalInstruction": "or yogurt"
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "2 cups",
+  "preparation": [
+    "Mix all ingredients. If you have time, let stand for 10 min before serving."
+  ],
+  "tags": [
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 70,
+    "fat": 6,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 105,
+    "carbohydrate": 3,
+    "fiber": 0,
+    "sugars": 2,
+    "protein": 1
+  },
+  "tips": [
+    "Delicious with raw vegetables, potato chips, or crackers."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Creamy_Ranch_Dip_1036x583.jpg",
+  "thumbnail": "Creamy_Ranch_Dip_1036x583.webp",
+  "products": [
+    {
+      "slug": "creamy_ranch_dip_mix_7cfe081",
+      "name": "Creamy Ranch Dip Mix",
+      "summary": [
+        "Go beyond your classic ranch dressing and create spreads, dips, or seasonings with this versatile blend!&nbsp;"
+      ]
+    }
+  ]
+}

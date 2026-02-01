@@ -1,0 +1,93 @@
+{
+  "name": "Sylvie’s Italian Chocolate Mousse",
+  "slug": "sylvie-s-italian-chocolate-mousse",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Chocolate Instant Pudding Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whipping cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "prosciutto or bacon",
+      "quantity": "4 slices",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "store-bought chocolate shells",
+      "quantity": "12",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Maple Sea Salt Blend",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "fresh mint sprigs",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "12 servings ",
+  "preparation": [
+    "In a mixing bowl, combine Chocolate Pudding with whipping cream and milk. Beat with an electric mixer for one minute. Refrigerate for 10 minutes.",
+    "Meanwhile, heat a frying pan over medium heat. When warm, add slices of prosciutto. Fry until crisp, 2–3 minutes. Be sure to turn pieces over halfway through cooking. Cool on paper towels to absorb excess fat. Carefully break prosciutto into large pieces.",
+    "Scrape chilled mousse into a piping bag. Divide between chocolate shells. Place chocolate shells on small plates. Generously season with Maple Sea Salt. Garnish with prosciutto “frizzles” and a sprig of mint."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 100,
+    "fat": 7,
+    "saturatedFat": 4.5,
+    "transFat": 0,
+    "cholesterol": 25,
+    "sodium": 40,
+    "carbohydrate": 9,
+    "fiber": 0,
+    "sugars": 6,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sylvie-s-Italian-Chocolate-Mousse-Main.jpg",
+  "thumbnail": "Sylvie-s-Italian-Chocolate-Mousse-Main.webp",
+  "products": [
+    {
+      "slug": "chocolate_instant_pudding_mix__pack_of_3___caldic__bc2ef56",
+      "name": "Chocolate Instant Pudding Mix (Pack of 2)",
+      "summary": [
+        "Spoon after delicious spoon, satisfy your sweet tooth with a low-calorie chocolate pudding that’s decadent and oh-so-good.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

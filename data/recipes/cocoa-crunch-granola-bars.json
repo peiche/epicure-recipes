@@ -1,0 +1,158 @@
+{
+  "name": "Cocoa Crunch Granola Bars",
+  "slug": "cocoa-crunch-granola-bars",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "quantity": "1 can (19 oz/540 ml)",
+      "additionalInstruction": "rinsed and drained"
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": "beaten"
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "quick-cooking oats",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded coconut",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bran cereal",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Power Up Vanilla Protein Blend",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": "1 tsp ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "semi-sweet chocolate chips",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Cocoa Crunch Whole Food Topper",
+      "quantity": "1 - 2 tbsp",
+      "additionalInstruction": "to top"
+    }
+  ],
+  "totalTime": "25 - 30 min",
+  "servings": "30 bars",
+  "preparation": [
+    "Preheat oven to 350° F (180° C).",
+    "Place a lightly oiled Perfect Petites on a Sheet Pan.",
+    "In a food processor, blend together first four ingredients.",
+    "In a bowl, mix together next six ingredients.",
+    "Add dry ingredients to food processor and pulse mixture until all ingredients are just combined.",
+    "Mix in chocolate chips, if desired.",
+    "Sprinkle whole food sprinkle in each cavity and divide mixture evenly on top. Press in lightly. Bake for 15–20 minutes.",
+    "When cool to the touch, flip mold onto Sheet Pan and twist to pop out granola bars."
+  ],
+  "tags": [
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 small bar",
+    "calories": 100,
+    "fat": 5,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 45,
+    "carbohydrate": 11,
+    "fiber": 3,
+    "sugars": 4,
+    "protein": 4
+  },
+  "tips": [
+    "For a vegan option, substitute egg by combining 1 tbsp ground flax seeds with 3 tbsp water."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1602180561958-recipeMainImagePath.jpg",
+  "thumbnail": "1602180561958-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "power_up_vanilla_protein_blend__pouch_",
+      "name": "Power Up Vanilla Protein Blend (Pouch)",
+      "summary": [
+        "Fuel up first thing and stay fuller longer with rich smooth-tasting vanilla blend. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    },
+    {
+      "slug": "cinnamon__ground___1701145_",
+      "name": "Cinnamon (Ground)",
+      "summary": [
+        "A simple blend of organic cinnamon that brings the flavour. Great for baking, desserts, egg nog, or enhancing the taste of Middle Eastern and Indian dishes.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "perfect_petites_a4d39ed",
+      "name": "Perfect Petites",
+      "summary": [
+        "No more cutting. No more waste.&nbsp;Use this cookware item to create 30 individual, perfect portions—both sweet &amp; savoury.&nbsp;"
+      ]
+    }
+  ]
+}

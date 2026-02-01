@@ -1,0 +1,99 @@
+{
+  "name": "Snowy Chocolaty Temptations",
+  "slug": "snowy-chocolaty-temptations",
+  "description": "Coated with icing sugar, these chewy chocolaty cookies look frosty, but melt-in-your-mouth.",
+  "ingredients": [
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil or coconut oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "melted"
+    },
+    {
+      "name": "milk",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "vanilla",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chocolaty Temptation Cupcake Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Icing sugar",
+      "quantity": null,
+      "additionalInstruction": "for coating, optional"
+    }
+  ],
+  "totalTime": "45 min (includes 20 min chill time)",
+  "servings": "16 cookies",
+  "preparation": [
+    "In a bowl, whisk egg, then whisk in oil, milk, and vanilla (ensure oil is well incorporated). Stir in mix. dough will be dense. Refrigerate to chill and firm, about 20–30 min or overnight.",
+    "Preheat oven to 350° F. Line Sheet Pan with Sheet Pan Liner.",
+    "Using a scant tbsp as a guide, form dough into balls. If dough gets too soft, refrigerate again to chill. Roll balls in sugar to evenly coat, if desired.",
+    "Arrange balls 1” apart on pan. Bake until cookies crack on top and edges start to set (they’ll still be a little soft), about 10–12 min. Let cool on pan for 5 min, then transfer to Cooling Racks.",
+    "Store in an airtight container, at room temperature, up to 5 days or freeze up to 3 months. Dust with more icing sugar, if needed, before serving."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cookie",
+    "calories": 80,
+    "fat": 3.5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 140,
+    "carbohydrate": 11,
+    "fiber": 1,
+    "sugars": 6,
+    "protein": 1
+  },
+  "tips": [
+    "Before starting, place Sheet Pan line with Sheet Pan Liner in the fridge to chill.",
+    "Don’t overbake cookies—the edges should just be set; they’ll continue to cook once they rest in the pan. This will keep them moist and chewy."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "snowy_chocolaty_temptations_1036x583.jpg",
+  "thumbnail": "snowy_chocolaty_temptations_1036x583.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    },
+    {
+      "slug": "cooling_rack__set_of_2___1701277_",
+      "name": "Cooling Rack (Set of 2)",
+      "summary": [
+        "These space-saving cooling racks are an absolute must-have for every at-home baker or chef.&nbsp;"
+      ]
+    }
+  ]
+}

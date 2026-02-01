@@ -1,0 +1,143 @@
+{
+  "name": "Creamy Beef & Shells",
+  "slug": "creamy-beef-shells",
+  "description": "This recipe is good for your soul, your belly, and your wallet! It’s a cozy, hearty dish on a budget, so it’ll warm you right up. Cooking pasta right in the broth infuses the noodles with more complex flavours, while the pasta shells catch all that creamy, delicious sauce for a delightful, one-pot, pasta experience.",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Better Than Beef Broth",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Better Than Beef Broth Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted tomato sauce",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small pasta shells",
+      "quantity": "2 cups",
+      "additionalInstruction": "or bite-size pasta of your choice"
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "grated cheddar or mozzarella cheese",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Cook ground beef in Sauté Pan over medium-high heat until browned, about 3–4 min, using Ground Meat Separator to break up chunks.",
+    "Add broth, tomato sauce, pasta, and milk; bring to a boil. Reduce heat to medium-low; partially cover and simmer 11–12 min, or until pasta is tender and sauce has thickened.",
+    "Stir in cheese until melted and well combined."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 470,
+    "fat": 19,
+    "saturatedFat": 9,
+    "transFat": 0.5,
+    "cholesterol": 85,
+    "sodium": 310,
+    "carbohydrate": 38,
+    "fiber": 3,
+    "sugars": 9,
+    "protein": 35
+  },
+  "tips": [
+    "If pasta is not cooked within 12 min, cook an additional 1–2 min. If there is too much water left over when the pasta is done, uncover and cook a few more minutes to let excess liquid evaporate.",
+    "Swap tomato sauce with 1 1&frasl;2 cups prepared Marinara Sauce."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup roasted veggies.",
+  "image": "Creamy-Beef-and-Shells_2160x1860.jpg",
+  "thumbnail": "Creamy-Beef-and-Shells_2160x1860.webp",
+  "products": [
+    {
+      "slug": "better_than_beef_broth_mix",
+      "name": "Better Than Beef Broth Mix",
+      "summary": [
+        "You won’t believe it’s not beef! This vegan/plant-based broth mix is packed with beefy flavour, mushroom and inactive nutritional yeast powders, and organic tamari powder. Ready in minutes, this one-step broth creates a rich base for your favourite soups and can be used anywhere you want to “beef” things up!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

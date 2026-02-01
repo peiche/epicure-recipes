@@ -1,0 +1,124 @@
+{
+  "name": "Hawaiian Beef Sliders",
+  "slug": "hawaiian-beef-sliders",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Burger Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh pineapple rings",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Swiss cheese",
+      "quantity": "2 slices",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "1 - 2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "slider buns",
+      "quantity": "8",
+      "additionalInstruction": null
+    },
+    {
+      "name": "BBQ sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat grill to medium-high.",
+    "In bowl, combine ground beef and seasoning. Form mixture into eight small patties.",
+    "Grill with lid closed until cooked, approximately 4–5 min per side.",
+    "Grill pineapple rings alongside patties, 2–3 min each side.",
+    "Meanwhile, cut each cheese slice in four.",
+    "Top patties with Swiss cheese to melt during the last minute of cooking.",
+    "When pineapple has grill marks on both sides, remove from grill and slice each ring in four.",
+    "Place spinach on bottom slider bun; place patty on top. Stack two pieces of pineapple on each patty. Spread top slider bun with BBQ sauce, then cover."
+  ],
+  "tags": [
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 sliders",
+    "calories": 460,
+    "fat": 17,
+    "saturatedFat": 6,
+    "transFat": 0.4,
+    "cholesterol": 70,
+    "sodium": 390,
+    "carbohydrate": 48,
+    "fiber": 2,
+    "sugars": 13,
+    "protein": 30
+  },
+  "tips": [
+    "You can find fresh sliced pineapple rings in the produce section of most grocery stores."
+  ],
+  "perfectlyBalanceYourPlate": "serve with 1 cup sliced veggies, your choice.",
+  "image": "6787_hawaiian_burger_sliders_1036x583.jpg",
+  "thumbnail": "6787_hawaiian_burger_sliders_1036x583.webp",
+  "products": []
+}

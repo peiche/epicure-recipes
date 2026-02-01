@@ -1,0 +1,59 @@
+{
+  "name": "Coco Vanilla Latte",
+  "slug": "coco-vanilla-latte",
+  "description": "Real coconut and delicate white tea coupled with frothy coconut milk make this latte one of a kind.",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water ",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Coco Vanilla White Tea ",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar or honey",
+      "quantity": "",
+      "additionalInstruction": "to taste "
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Whisk all ingredients in a Multipurpose Pot - 8 cup.",
+    "Heat to steaming over medium heat. Turn off heat and steep to desired strength.",
+    "Strain, then froth in a milk frother.",
+    "Sweeten to taste and serve."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 80,
+    "fat": 8,
+    "saturatedFat": 7,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 25,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Coco-Vanilla-Latte-Main.jpg",
+  "thumbnail": "Coco-Vanilla-Latte-Main.webp",
+  "products": []
+}

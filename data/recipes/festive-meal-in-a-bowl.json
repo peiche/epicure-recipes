@@ -1,0 +1,166 @@
+{
+  "name": "Festive Meal in a Bowl",
+  "slug": "festive-meal-in-a-bowl",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Shepherds Pie Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large sweet potato",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large Brussels sprouts",
+      "quantity": "12",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "1 pint",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a bowl, combine seasoning and water. Set aside.",
+    "Cube sweet potato: you should have about 3 cups. Place in Multipurpose Steamer. Cover and microwave on high until tender, about 8 min.",
+    "Meanwhile, brown beef in a large non-stick fry pan over medium-high heat. Drain any liquid. Stir in seasoning mixture. Bring to a boil; reduce heat. Simmer for 2 min, stirring frequently. Remove from heat and divide meat between four bowls; cover to keep warm. Rinse and dry pan.",
+    "Trim and quarter Brussels sprouts. Heat oil in the same pan over medium-high heat. Add sprouts and sauté 5 min until lightly browned. Season with salt and pepper to taste.",
+    "Halve tomatoes. Add to pan, stirring occasionally, until heated through.",
+    "Add sweet potatoes and veggies to bowls and serve."
+  ],
+  "tags": [
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 380,
+    "fat": 13,
+    "saturatedFat": 4.5,
+    "transFat": 0.4,
+    "cholesterol": 60,
+    "sodium": 550,
+    "carbohydrate": 38,
+    "fiber": 8,
+    "sugars": 9,
+    "protein": 28
+  },
+  "tips": [
+    "Swap beef for 1 can (19 oz/540 ml) lentils, drained and rinsed."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 tbsp Epicure Dressing, your choice.",
+  "image": "Festive-Meal-in-a-Bowl-1036x583.jpg",
+  "thumbnail": "Festive-Meal-in-a-Bowl-1036x583.webp",
+  "products": [
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

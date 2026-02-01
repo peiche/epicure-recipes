@@ -1,0 +1,127 @@
+{
+  "name": "Whipped Shortbread",
+  "slug": "whipped-shortbread",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "cold butter",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "icing sugar",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "all-purpose flour",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cornstarch",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggnog spice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Royal Icing",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "icing sugar",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "sifted"
+    },
+    {
+      "name": "large egg whites",
+      "quantity": "2",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "27 min",
+  "servings": "60 —1 1/2” cookies",
+  "preparation": [
+    "Cream together butter and icing sugar. Add vanilla extract.",
+    "Add flour, cornstarch and spice, and beat dough until smooth. Chill for 30 minutes.",
+    "Preheat oven to 350° F (175° C).",
+    "On a lightly floured surface, roll dough out to 1&frasl;2” thickness. Cut into desired shapes and place on a Sheet Pan lined with a Sheet Pan Liner.",
+    "Bake for 10–12 minutes. Do not brown.",
+    "Store in an airtight container at room temperature."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cookie",
+    "calories": 90,
+    "fat": 6,
+    "saturatedFat": 4,
+    "transFat": 0.2,
+    "cholesterol": 15,
+    "sodium": 45,
+    "carbohydrate": 8,
+    "fiber": 0,
+    "sugars": 2,
+    "protein": 1
+  },
+  "tips": [
+    "To decorate, if desired, Royal Icing is a hard white icing used to decorate cookies, wedding cakes and gingerbread houses."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Whipped-Shortbread-Main.jpg",
+  "thumbnail": "Whipped-Shortbread-Main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-export interface SuggestHit {
+export default interface SuggestHit {
     _highlightResult: {
         query: { value: string };
     };

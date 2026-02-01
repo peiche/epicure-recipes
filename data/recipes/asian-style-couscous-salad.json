@@ -1,0 +1,148 @@
+{
+  "name": "Asian-Style Couscous Salad",
+  "slug": "asian-style-couscous-salad",
+  "description": "News flash: Broth Mixes aren’t just for the winter! Serve up this savoury, grainy salad year-round as a warm side, or prep ahead for a packed lunch. Couscous is a good source of fibre and protein, and its neutral taste lets the umami flavours of the mix really shine!",
+  "ingredients": [
+    {
+      "name": "water",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Ramen Broth Mix or Sesame Ginger Dressing Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "couscous",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bunch radishes",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "broccoli florets",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shelled, frozen edamame",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "each sesame oil and low-sodium soy sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "12 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Pot, bring water, 2 tbsp broth mix, and oil to a boil. Stir in couscous. Cover and remove from heat; let stand 4 min, or until tender.",
+    "Meanwhile, chop radishes and place in Round Steamer with broccoli, edamame, remaining broth mix, sesame oil, and soy sauce. Cover and, holding lid tightly, shake the contents of the steamer to evenly combine. Microwave on high 4 min, or until vegetables are tender.",
+    "Use a fork to fluff cooked couscous. Divide between four plates and top with vegetables."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 300,
+    "fat": 10,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 350,
+    "carbohydrate": 43,
+    "fiber": 6,
+    "sugars": 3,
+    "protein": 12
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein.",
+  "image": "Asian-Style-Couscous-Salad_1036x583.jpg",
+  "thumbnail": "Asian-Style-Couscous-Salad_1036x583.webp",
+  "products": [
+    {
+      "slug": "ramen_broth_mix",
+      "name": "Ramen Broth Mix",
+      "summary": [
+        "Warming flavors of tamari and garlic, with a hint of smokiness. Just add water!&nbsp;"
+      ]
+    },
+    {
+      "slug": "sesame_ginger_dressing_mix_ae8ddc9",
+      "name": "Sesame Ginger Dressing Mix",
+      "summary": [
+        "Taste of Asia with ginger, garlic, sesame seeds &amp; herbs."
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

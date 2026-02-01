@@ -1,0 +1,131 @@
+{
+  "name": "Sweet & Sour Meatballs",
+  "slug": "sweet-sour-meatballs",
+  "description": "Whip up a quick and mess-free dinner—meatballs in the microwave! It’s lightning quick and saves you having to preheat your oven. This is a family-friendly meal that’s packed with peppers and pineapple for that perfect balance of sweetness. Best served over a bed of rice to soak up the sauce.",
+  "ingredients": [
+    {
+      "name": "lean ground beef or chicken",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sticky Orange Chicken Seasoning or Sweet & Sour Stir-Fry Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pineapple chunks in juice",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce and oil",
+      "quantity": "1 tbsp each",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a large bowl, combine beef and 2 tbsp seasoning. Mix well. Form into 16 meatballs (about a scant 2 tbsp each).",
+    "Arrange in a single layer in Round Steamer or Multipurpose Steamer (it’s OK if they touch).",
+    "Chop peppers; add to steamer. Cover; microwave on high 6–8 min, or until cooked.",
+    "Meanwhile, prepare sauce: drain pineapple chunks but reserve the juice.",
+    "In Sauté Pan, combine remaining seasoning, reserved pineapple juice, soy sauce, and oil. Bring to a boil over medium-high heat, stirring constantly. Reduce heat; simmer until sauce has thickened to your liking.",
+    "When meatballs and peppers are cooked, carefully drain and discard liquid from bottom of Steamer. Add meatballs, peppers, and reserved pineapple chunks to pan; stir until meatballs are coated with sauce and pineapple is heated through, about 1–2 min."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 320,
+    "fat": 14,
+    "saturatedFat": 4,
+    "transFat": 0.4,
+    "cholesterol": 60,
+    "sodium": 340,
+    "carbohydrate": 32,
+    "fiber": 3,
+    "sugars": 25,
+    "protein": 20
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup cooked white rice and 1&frasl;2 cup steamed veggies.",
+  "image": "sweet_sour_meatballs_1036x583.jpg",
+  "thumbnail": "sweet_sour_meatballs_1036x583.webp",
+  "products": [
+    {
+      "slug": "sticky_orange_chicken_seasoning__pack_of_3_",
+      "name": "Sticky Orange Chicken Seasoning (Pack of 3)",
+      "summary": [
+        "In less time than it takes to wait for takeout, you can have the best gluten free Sticky Orange Chicken ready to go! Just pair a few easy-to-shop-for ingredients with the blend, throw it in your wok (or frying pan) and you’ll have a kid-friendly, one-pot dinner on the table in less than 15 minutes.&nbsp;"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "name": "Ramen Noodle Bowl ",
+  "slug": "ramen-noodle-bowl",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "boiling water",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": " Ramen Broth Mix or Nourish Broth Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cooked rice noodles",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "your choice cooked beef, chicken, shrimp, or tofu",
+      "quantity": "4 oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "your choice veggies",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bean sprouts",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green onion",
+      "quantity": "1 ",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "hot sauce",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "fresh cilantro or mint leaves",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "lime wedges",
+      "quantity": "1 - 2 ",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "1 serving",
+  "preparation": [
+    "In a Multipurpose Pot - 8 cup, bring water to a boil. Stir in mix.",
+    "In a single serving bowl, place noodles with your choice of protein and veggies, and pour hot broth on top.",
+    "Top with bean sprouts and green onion. Garnish with hot sauce, cilantro, lime wedges, and topper, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 410,
+    "fat": 9,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 180,
+    "carbohydrate": 44,
+    "fiber": 7,
+    "sugars": 4,
+    "protein": 39
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "Pho-Noodle-Bowl-Main.jpg",
+  "thumbnail": "Pho-Noodle-Bowl-Main.webp",
+  "products": [
+    {
+      "slug": "ramen_broth_mix",
+      "name": "Ramen Broth Mix",
+      "summary": [
+        "Warming flavors of tamari and garlic, with a hint of smokiness. Just add water!&nbsp;"
+      ]
+    },
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    }
+  ]
+}

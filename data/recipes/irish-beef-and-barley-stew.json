@@ -1,0 +1,160 @@
+{
+  "name": "Irish Beef and Barley Stew",
+  "slug": "irish-beef-and-barley-stew",
+  "description": "Barley is a good source of both fill-you-up fast complex carbs (fibre, selenium) and minerals (phosphorus, copper and manganese).",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced stewing beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Toasted Onion",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "carrots",
+      "quantity": "2 large",
+      "additionalInstruction": "roughly chopped"
+    },
+    {
+      "name": "broth of your choice",
+      "quantity": "6 cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "quick cooking barley",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small potatoes",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": "quartered"
+    },
+    {
+      "name": "Rosemary Garlic Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "1 hr & 45 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Heat Multipurpose Pot to medium. Add vegetable oil and brown beef on all sides. Stir in Minced Garlic, Toasted Onion and carrots, cooking until aromatic.",
+    "Add Broth and barley. Bring to a gentle simmer, cover and cook until beef is almost tender, about 1 hour.",
+    "Add potatoes and continue to cook until beef and potatoes are tender, 20–30 more minutes.",
+    "Before serving, sprinkle with Rosemary Garlic Seasoning and season with Salt and Pepper."
+  ],
+  "tags": [
+    {
+      "slug": "st__patrick_s_day",
+      "name": "St. Patrick’s Day"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 400,
+    "fat": 15,
+    "saturatedFat": 5,
+    "transFat": 0.4,
+    "cholesterol": 60,
+    "sodium": 210,
+    "carbohydrate": 37,
+    "fiber": 7,
+    "sugars": 4,
+    "protein": 28
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with Irish Soda Bread.",
+  "image": "Irish-Beef-and-Barley-Stew-Main.jpg",
+  "thumbnail": "Irish-Beef-and-Barley-Stew-Main.webp",
+  "products": [
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    },
+    {
+      "slug": "toasted_onion",
+      "name": "Toasted Onion",
+      "summary": [
+        "Sweet flavour of lightly toasted onion."
+      ]
+    },
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavours on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    }
+  ]
+}

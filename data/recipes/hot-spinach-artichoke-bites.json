@@ -1,0 +1,112 @@
+{
+  "name": "Hot Spinach & Artichoke Bites",
+  "slug": "hot-spinach-artichoke-bites",
+  "description": "Savoury bites perfect for any occasion. Better than store-bought, these can be prepared in advance and frozen. Simply freeze uncooked on a Sheet Pan; once frozen, place in freezer bags and bake when ready.",
+  "ingredients": [
+    {
+      "name": "frozen square puff pastry",
+      "quantity": "1 pkg (8 oz/250 g)",
+      "additionalInstruction": " defrosted"
+    },
+    {
+      "name": "Spinach & Artichoke Hot Dip or Herb & Garlic Dip",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> - <sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "or hot dip of your choice, prepared, chilled"
+    },
+    {
+      "name": "artichoke hearts",
+      "quantity": "1 can (14 oz/398 ml) ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Spinach & Artichoke Hot Dip Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cream cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sour cream or yogurt ",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herb & Garlic Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat milk",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "10 large or 18 small bites",
+  "preparation": [
+    "Preheat oven to 425° F (220° C).",
+    "Roll puff pastry into a thin 10.5” square. Cut into triangles",
+    "Spoon dip onto each triangle: 1&frasl;2 tsp for small, 1–2 tsp for large. Starting at the wide end, roll up each bite.",
+    "Place on a Sheet Pan lined with a Sheet Pan Liner. Brush with milk, if desired, and bake until golden brown, 14–16 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 large or 2 small bites",
+    "calories": 140,
+    "fat": 10,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 65,
+    "carbohydrate": 11,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "hot_spinach_artichoke_bites1036x583.jpg",
+  "thumbnail": "hot_spinach_artichoke_bites1036x583.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, onion &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Fish and Seafood Marinade",
+  "slug": "fish-and-seafood-marinade",
+  "description": "Olive oil contains monounsaturated fat, a healthy fat that can lower your risk of heart disease. Choose extra virgin for the highest quality.",
+  "ingredients": [
+    {
+      "name": "Herb & Garlic Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Fish Rub",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "white wine or prepared Epicure's Vegetable Broth",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1/2 cup",
+  "preparation": [
+    "Mix all ingredients and let stand at least 20 minutes before using.",
+    "Use the same day or refrigerate up to 5 days."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 100,
+    "fat": 10,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 160,
+    "carbohydrate": 2,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Fish-and-Seafood-Marinade-Main.jpg",
+  "thumbnail": "Fish-and-Seafood-Marinade-Main.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    }
+  ]
+}

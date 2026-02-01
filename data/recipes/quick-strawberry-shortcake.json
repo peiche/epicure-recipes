@@ -1,0 +1,92 @@
+{
+  "name": "Quick Strawberry Shortcake",
+  "slug": "quick-strawberry-shortcake",
+  "description": "Get ready to enjoy a delicious dessert that's both tasty and nourishing, starting with a store-bought angel food cake! Unlike traditional icing, yogurt adds a wholesome touch, with calcium, protein, and probiotics for gut health. And strawberries are packed with fibre, vitamin C, and antioxidants to boost immunity, promote healthy skin, and support heart health.",
+  "ingredients": [
+    {
+      "name": "sliced strawberries",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "icing sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Summer Berry Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "angel food cake",
+      "quantity": "1 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla yogurt",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "8 - 10 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Sprinkle sliced strawberries with icing sugar, dip mix, and vanilla extract. Toss to coat and let stand for 5 minutes to dissolve sugar.",
+    "Slice angel food cake in 8 wedges and place on individual serving plates.",
+    "Top each with 1&frasl;2 cup sliced strawberries and 1&frasl;4 cup yogurt."
+  ],
+  "tags": [
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "easter",
+      "name": "Easter"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 2.5,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 350,
+    "carbohydrate": 42,
+    "fiber": 2,
+    "sugars": 16,
+    "protein": 6
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Quick-Strawberry-Shortcake-Main.jpg",
+  "thumbnail": "Quick-Strawberry-Shortcake-Main.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    }
+  ]
+}

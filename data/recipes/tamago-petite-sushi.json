@@ -1,0 +1,150 @@
+{
+  "name": "Tamago Petite Sushi",
+  "slug": "tamago-petite-sushi",
+  "description": "With an Epicure Perfect Petites no tricky sushi rolling is needed!",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice vinegar",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Teriyaki Dry Glaze",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "5",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light sour cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "30 servings",
+  "preparation": [
+    "Place rice in a medium sized bowl and cover with cold water. Swirl the rice in the water, pour off the water and repeat two or three times until the water is clear.",
+    "Place rice and 1 1&frasl;4 cups of cold water into a Multipurpose Pot - 8 cup and bring to a boil. Reduce heat to the lowest setting and simmer, covered, for 20 minutes. Remove from heat and let rest, covered, for 20 minutes.",
+    "Transfer rice to a bowl. Toss with vinegar, sugar and Teriyaki.",
+    "Preheat oven to 325°F (160°C). Place lightly oiled Perfect Petites on Sheet Pan.",
+    "Whisk eggs and 3 Onion Dip Mix. Divide into Perfect Petites. Bake 9–10 minutes. Cool.",
+    "Layer rice over egg, pressing in slightly.",
+    "When completely cool, flip Perfect Petites onto Sheet Pan, twist and pop out egg.",
+    "Top each sushi with a dollop of Lemon Dilly Dip."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 piece",
+    "calories": 60,
+    "fat": 2,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 40,
+    "sodium": 45,
+    "carbohydrate": 7,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Tamago-Petite-Sushi-Main.jpg",
+  "thumbnail": "Tamago-Petite-Sushi-Main.webp",
+  "products": [
+    {
+      "slug": "teriyaki_dry_glaze_8be7254",
+      "name": "Teriyaki Dry Glaze",
+      "summary": [
+        "A versatile blend with notes of garlic, ginger, and soy that works both as a glaze for grilling or a sauce!"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "A savory medley of robust onion and herbs. Made with 3 different types of onions: chives, onion, and scallions."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "perfect_petites_a4d39ed",
+      "name": "Perfect Petites",
+      "summary": [
+        "No more cutting. No more waste.&nbsp;Use this cookware item to create 30 individual, perfect portions—both sweet &amp; savoury.&nbsp;"
+      ]
+    }
+  ]
+}

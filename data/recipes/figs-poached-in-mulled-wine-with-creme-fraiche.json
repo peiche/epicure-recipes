@@ -1,0 +1,68 @@
+{
+  "name": "Figs Poached in Mulled Wine with Crème Fraîche",
+  "slug": "figs-poached-in-mulled-wine-with-creme-fraiche",
+  "description": "The traditional name for this easy fruit dessert from the north of Spain is ‘zurracapote.’ Serve warm or cold, on its own, with vanilla ice cream or with Crème Fraîche. A perfect dessert for any time of year.",
+  "ingredients": [
+    {
+      "name": "dried figs",
+      "quantity": "1 pkg (10 oz/244 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red wine",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey or brown sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Mulling Spices",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Crème Fraîche",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "55 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Combine first 4 ingredients in a Multipurpose Pot. Bring to a boil, reduce temperature and simmer for 35 minutes, or until figs are tender when gently pierced with a paring knife.",
+    "Using a slotted spoon, transfer figs to a bowl.",
+    "Strain Mulling Spices from liquid and simmer remaining liquid for 3–5 minutes, until syrupy.",
+    "Cool slightly before serving with a dollop of Crème Fraîche."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 290,
+    "fat": 6,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 15,
+    "carbohydrate": 39,
+    "fiber": 3,
+    "sugars": 31,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Figs-Poached-in-Mulled-Wine-with-Creme-Fraiche-Main.jpg",
+  "thumbnail": "Figs-Poached-in-Mulled-Wine-with-Creme-Fraiche-Main.webp",
+  "products": []
+}

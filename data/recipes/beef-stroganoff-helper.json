@@ -1,0 +1,144 @@
+{
+  "name": "Beef Stroganoff \"Helper\"",
+  "slug": "beef-stroganoff-helper",
+  "description": "Kids will love Epicure’s healthier, homemade take on Hamburger Helper®. It’s the creamy comforting pasta and beef dish we know and love, without excess sodium. Weeknight dinner win!",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Beef Stroganoff Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Worcestershire sauce",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bite-sized pasta",
+      "quantity": "3 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "frozen peas",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated cheddar cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Heat oil in Sauté Pan over medium-high heat. Brown beef about 4—5 min, using Ground Meat Separator to break up chunks.",
+    "Stir in seasoning, water, milk, and Worcestershire sauce. Bring to a boil; stir in pasta. Simmer 5 min or until pasta is mostly cooked, stirring often. Stir in peas and cheese; simmer another 2 min."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 400,
+    "fat": 17,
+    "saturatedFat": 7,
+    "transFat": 0.5,
+    "cholesterol": 65,
+    "sodium": 350,
+    "carbohydrate": 33,
+    "fiber": 2,
+    "sugars": 4,
+    "protein": 26
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup steamed veggies.",
+  "image": "beef_stroganoff_helper_1036x583.jpg",
+  "thumbnail": "beef_stroganoff_helper_1036x583.webp",
+  "products": [
+    {
+      "slug": "beef_stroganoff_seasoning__new___pack_of_3__f6fd2ba",
+      "name": "Beef Stroganoff Seasoning (New)(Pack of 3)",
+      "summary": [
+        "Get a taste of nostalgia with this classic, quick-to-make meal. Tender beef strips are sautéed with mushrooms and onions and then in a rich, creamy sauce. Served over tender egg noodles (or your preferred pasta), this dish is ready in under 20 minutes—all in one pot!&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

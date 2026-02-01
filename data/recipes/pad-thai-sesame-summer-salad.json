@@ -1,0 +1,189 @@
+{
+  "name": "Pad Thai Sesame Summer Salad",
+  "slug": "pad-thai-sesame-summer-salad",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "wide rice noodles",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg (14 oz/400 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breast",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": "about 1 breast"
+    },
+    {
+      "name": "frozen, peeled raw shrimp",
+      "quantity": "1 pkg (340 g)",
+      "additionalInstruction": "defrosted"
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pad Thai Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sesame Ginger Dressing",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> recipe",
+      "additionalInstruction": "or your fave Epicure Salad Dressing"
+    },
+    {
+      "name": "Sesame Ginger Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low sodium soy sauce or gluten free soy sauce",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Place noodles in a large bowl. Cover with boiling water; let stand, tossing with Grip & Grab frequently until soft and pliable, about 7–10 min. Drain and rinse with cold water; place back in bowl.",
+    "Meanwhile, thinly slice peppers and onion; add to bowl with cooled noodles.",
+    "Cut chicken into bite-size pieces.",
+    "Heat oil in a Wok over medium-high heat. Add chicken, shrimp, and seasoning. Stir-fry until cooked through, 3–5 min. If the seasoning starts to stick, add a bit of water to help loosen the bits from the wok.",
+    "Add to bowl with noodles. Drizzle dressing on top, using Grip & Grab gently toss to mix. Add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 350,
+    "fat": 11,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 110,
+    "sodium": 260,
+    "carbohydrate": 41,
+    "fiber": 2,
+    "sugars": 8,
+    "protein": 21
+  },
+  "tips": [
+    "Prep the dressing ahead of time so the meal can come together in 20 min or less.",
+    "Have extra veggies? Load it up with julienned carrots and cucumber or chopped snow peas.",
+    "Make it vegan—swap chicken and shrimp for 2 pkg (350 g each) firm tofu."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup mixed veggies of your choice.",
+  "image": "pad_thai_sesame_summer_salad_1036x583.jpg",
+  "thumbnail": "pad_thai_sesame_summer_salad_1036x583.webp",
+  "products": [
+    {
+      "slug": "pad_thai_seasoning__pkg_3_",
+      "name": "Pad Thai Seasoning (Pack of 3)",
+      "summary": [
+        "Put this Better Than Takeout favourite on the menu when you’re in the mood for a lazy dinner. With our Pad Thai blend, we’ve done the hard work for you! Just mix it with hot water and soy sauce, and you will get the perfect Pad Thai taste every time. Cook it up with chicken or shrimp, noodles, and veggies, and dinner is ready in less than 20 minutes for $3/serving.&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sesame_ginger_dressing_mix_ae8ddc9",
+      "name": "Sesame Ginger Dressing Mix",
+      "summary": [
+        "Taste of Asia with ginger, garlic, sesame seeds &amp; herbs."
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    },
+    {
+      "slug": "grip___grab_bccaf0c",
+      "name": "Grip & Grab",
+      "summary": [
+        "The name says it all: Grip, grab, turn &amp; flip anything and everything during meal prep, cooking, and serving. You’ll love the sturdy feel and how easy they are to open and close. &nbsp;"
+      ]
+    }
+  ]
+}

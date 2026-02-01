@@ -1,0 +1,137 @@
+{
+  "name": "Cran-Lemon Loaf",
+  "slug": "cran-lemon-loaf",
+  "description": "Don’t get us \"tarted\" with this irresistible dessert! Real lemon paired with sprinkles of real cranberries are a match made in dessert heaven. This loaf is moist ‘n tangy, with the perfect touch of sweetness. Say goodbye to overpriced coffee shop treats and hello to affordable indulgence ($0.66 per serving vs $3.25 at Starbucks!). Did we forget to mention that these can be made in the microwave in under 10 min? Perfect for last minute bake sale goodies!",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "quantity": "3",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% plain Greek yogurt",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil + more for brushing",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cran-Lemon Loaf Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "icing sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "18 min",
+  "servings": "1 loaf (8–12 servings)",
+  "preparation": [
+    "Lightly oil Rectangular Steamer with Basting Brush.",
+    "In a large bowl, whisk together eggs, yogurt, and oil. Stir in mix. Scrape batter into steamer.",
+    "Cook in microwave* 8 min on power level 8, uncovered. Rest in steamer for 6 min; invert onto Cooling Rack to cool. Or, bake in preheated 350° F oven for 45 min. Cool in pan 10 min, then unmold.",
+    "To make glaze, mix icing sugar with lemon juice. Drizzle over warm loaf."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 180,
+    "fat": 11,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 50,
+    "sodium": 125,
+    "carbohydrate": 20,
+    "fiber": 0,
+    "sugars": 12,
+    "protein": 3
+  },
+  "tips": [
+    "*Cooking time may vary based on microwave wattage. Tastes best when eaten the same day.",
+    "If using Mini Loaf Pans, microwave for 3 min on high, uncovered. Rest in pans for 2 min; invert onto wire rack to cool. Or bake in preheated 350° F oven, 21–23 min. Cool in pans 10 min; unmold."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "cran_lemon_loaf_mix_1036x583.jpg",
+  "thumbnail": "cran_lemon_loaf_mix_1036x583.webp",
+  "products": [
+    {
+      "slug": "cran_lemon_loaf_mix__pkg_of_2_",
+      "name": "Cran-Lemon Loaf Mix (Pkg of 2)",
+      "summary": [
+        "Bursting with a perfectly sweet, tart citrus flavour, this gluten free batter is made with ingredients you can actually pronounce: organic lemon and real cranberry! Just add three ingredients – eggs (or an egg replacement), oil, and Greek yogurt – to make a fluffy, moist loaf, muffins, or <a href=\"https://epicure.com/product/perfect-petites\">Perfect Petites</a>.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "basting_brush_5175217",
+      "name": "Basting Brush (1006236)",
+      "summary": [
+        "This silicone brush is perfect for grilling, roasting &amp; baking.&nbsp;"
+      ]
+    },
+    {
+      "slug": "cooling_rack__set_of_2___1701277_",
+      "name": "Cooling Rack (Set of 2)",
+      "summary": [
+        "These space-saving cooling racks are an absolute must-have for every at-home baker or chef.&nbsp;"
+      ]
+    },
+    {
+      "slug": "rectangular_steamer_efd7225",
+      "name": "Rectangular Steamer",
+      "summary": [
+        "Easy to clean. Easy to serve. Rectangular, silicone steamer is perfect for side dishes &amp; desserts."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Mocha Coffee",
+  "slug": "mocha-coffee",
+  "description": "",
+  "ingredients": [
+    {
+      "name": " skim milk",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dark & Dreamy Hot Chocolate Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brewed dark roast coffee",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "8 min",
+  "servings": "4 servings ",
+  "preparation": [
+    "Combine milk and hot chocolate mix in Multipurpose Pot - 8 cup and scald over medium heat. Stir constantly, until steaming",
+    "Froth hot milk in a milk frother in 2 batches.",
+    "Pour hot coffee into heated mugs and divide frothed milk among each."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "epic_life_beverages",
+      "name": "Beverages"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 60,
+    "fat": 1,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 10,
+    "carbohydrate": 13,
+    "fiber": 1,
+    "sugars": 11,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Mocha-Coffee-Main.jpg",
+  "thumbnail": "Mocha-Coffee-Main.webp",
+  "products": [
+    {
+      "slug": "dark___dreamy_hot_chocolate_mix__1703866_",
+      "name": "Dark & Dreamy Hot Chocolate Mix",
+      "summary": [
+        "A coffee shop favourite at a fraction of the cost! Make your own at home and Warm up on a cold fall or winter day with a decadently rich and smooth hot chocolate."
+      ]
+    }
+  ]
+}

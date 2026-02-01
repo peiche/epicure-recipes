@@ -1,0 +1,95 @@
+{
+  "name": "Figgy Artichoke Bites",
+  "slug": "figgy-artichoke-bites",
+  "description": "Indulge in this elegant party appie – fresh figs meet creamy artichoke filing for a burst of flavour that’s a delightful as it’s nutritious. Figs add a burst of natural sweetness but are also a great source of fiber. Double the fun – these bites are the ultimate appie for you and your friends and a treat for your tummy!",
+  "ingredients": [
+    {
+      "name": "marinated artichokes",
+      "quantity": "1 jar (6 oz/170 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "plain cream cheese",
+      "quantity": "1 pkg (8 oz/250 g)",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "Creamy Ranch Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "or Spinach Dip Mix"
+    },
+    {
+      "name": "fresh figs",
+      "quantity": "20",
+      "additionalInstruction": null
+    },
+    {
+      "name": "toothpicks",
+      "quantity": "40",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "40 pieces",
+  "preparation": [
+    "Drain artichokes; finely chop. Place in bowl with cream cheese and dip mix; stir to evenly mix.",
+    "Slice figs in half lengthwise. Arrange on a platter. Top each with 1 tsp cheese mixture. Garnish with any or all of the toppings, if desired.",
+    "Insert a toothpick into each appy—they’ll be easier for guests to pick up."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 pieces",
+    "calories": 70,
+    "fat": 4,
+    "saturatedFat": 25,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 45,
+    "carbohydrate": 9,
+    "fiber": 2,
+    "sugars": 7,
+    "protein": 1
+  },
+  "tips": [
+    "Swap figs for apple or pear slices. Brush with lemon water so they don’t turn brown.",
+    "Make it vegan: Use soy-based cream cheese-style spread.",
+    "Make Ahead Tip: Prep artichoke mixture, then using a heaping teaspoon as a guide, scoop portions onto a large plate. Cover and refrigerate up to 2 days. Cut figs, top with mixture, and garnish with desired toppings; assemble up to 2 hours before serving."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1598979206493-recipeMainImagePath.jpg",
+  "thumbnail": "1598979206493-recipeMainImagePath.webp",
+  "products": []
+}

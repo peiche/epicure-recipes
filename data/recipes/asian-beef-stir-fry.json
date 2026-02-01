@@ -1,0 +1,193 @@
+{
+  "name": "Asian Beef Stir-fry",
+  "slug": "asian-beef-stir-fry",
+  "description": "One of the top ten recommended foods, broccoli is rich in vitamins and minerals, and may help prevent cancer.",
+  "ingredients": [
+    {
+      "name": "Asian Lettuce Wraps",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": "cooked beef"
+    },
+    {
+      "name": "lean ground beef, chicken, pork, or soy",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Asian Stir-Fry Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sesame Ginger Dressing Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coleslaw mix",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "leaves butter or iceberg lettuce",
+      "quantity": "8 - 16",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh or frozen broccoli florets",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cornstarch",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chili Flakes & Garlic Topper",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "15 - 17 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Heat a Wok or frying pan over medium-high heat.",
+    "Add beef and Minced Garlic. Stir-fry for 3–5 minutes. Add broccoli.",
+    "Whisk together cornstarch and Vegetable Broth and add to pan.",
+    "Bring to a boil, reduce heat and simmer uncovered for approximately 5 minutes, or until broccoli is tender-crisp and sauce thick. Add chili peppers, if desired. Serve."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 330,
+    "fat": 16,
+    "saturatedFat": 6,
+    "transFat": 0,
+    "cholesterol": 60,
+    "sodium": 450,
+    "carbohydrate": 8,
+    "fiber": 1,
+    "sugars": 3,
+    "protein": 37
+  },
+  "tips": [
+    "Serve on a bed of steamed brown rice. Also delicious served hot or cold with noodles, or in a wrap."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Asian-Beef-Stir-fry-Main.jpg",
+  "thumbnail": "Asian-Beef-Stir-fry-Main.webp",
+  "products": [
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice &amp; noodle dish."
+      ]
+    },
+    {
+      "slug": "sesame_ginger_dressing_mix_ae8ddc9",
+      "name": "Sesame Ginger Dressing Mix",
+      "summary": [
+        "Taste of Asia with ginger, garlic, sesame seeds &amp; herbs."
+      ]
+    },
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    },
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

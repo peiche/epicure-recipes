@@ -1,0 +1,91 @@
+{
+  "name": "Mexican Chocolate Pudding",
+  "slug": "mexican-chocolate-pudding",
+  "description": "A Mexican twist on a comfort food classic – chocolate pudding!",
+  "ingredients": [
+    {
+      "name": "Chocolate Instant Pudding Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cold milk",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chipotle chili",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a mixing bowl, combine Chocolate Instant Pudding Mix with milk, Cinnamon, chipotle chili and vanilla.",
+    "Mix with Piano Wire Whisk, or beat with an electric mixer on low setting for 2 minutes.",
+    "Pour into serving dishes. Cover and refrigerate at least 10 minutes before serving."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 160,
+    "fat": 2.5,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 125,
+    "carbohydrate": 31,
+    "fiber": 2,
+    "sugars": 20,
+    "protein": 5
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Mexican-Chocolate-Pudding-Main.jpg",
+  "thumbnail": "Mexican-Chocolate-Pudding-Main.webp",
+  "products": [
+    {
+      "slug": "chocolate_instant_pudding_mix__pack_of_3___caldic__bc2ef56",
+      "name": "Chocolate Instant Pudding Mix (Pack of 2)",
+      "summary": [
+        "Spoon after delicious spoon, satisfy your sweet tooth with a low-calorie chocolate pudding that’s decadent and oh-so-good.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "name": "Chicken Vegetable Soup with Stars",
+  "slug": "chicken-vegetable-soup-with-stars",
+  "description": "An eye and palate pleasing soup!",
+  "ingredients": [
+    {
+      "name": "Nourish Broth",
+      "quantity": "8 cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pesto Sauce Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "stelline pasta (tiny star-shaped pasta)",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cubed, cooked chicken",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen peas, corn or mixed vegetables",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Bring Nourish Broth to a boil in a Multipurpose Pot. Add Pesto Sauce Mix and pasta. Reduce heat and simmer for 5 minutes.",
+    "Add chicken and vegetables. Cover and simmer for an additional 5 minutes.",
+    "Season to taste with Sea Salt and Pepper."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 cups",
+    "calories": 170,
+    "fat": 2,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 30,
+    "sodium": 280,
+    "carbohydrate": 20,
+    "fiber": 4,
+    "sugars": 3,
+    "protein": 17
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Chicken-Vegetable-Soup-with-Stars-Main.jpg",
+  "thumbnail": "Chicken-Vegetable-Soup-with-Stars-Main.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavours of onion, celery, and herbs. Just add water!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Lemon Dilly Vinaigrette",
+  "slug": "lemon-dilly-vinaigrette",
+  "description": "This classic, all-purpose lemon-dill dressing is not only great on salads, but also on potatoes or as a marinade for fish or grilled chicken.",
+  "ingredients": [
+    {
+      "name": "fresh lemon juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "finely grated zest of one lemon",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dijon-style mustard",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "2 min",
+  "servings": "1/2 cup",
+  "preparation": [
+    "In a Cruet combine all ingredients and shake to mix."
+  ],
+  "tags": [
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 tbsp",
+    "calories": 60,
+    "fat": 7,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 130,
+    "carbohydrate": 1,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 0.1
+  },
+  "tips": [
+    "Refrigerate up to 1 week."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 serving protein, 1 serving grain/starch, and 2 cups greens.",
+  "image": "1604705448977-recipeMainImagePath.jpg",
+  "thumbnail": "1604705448977-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

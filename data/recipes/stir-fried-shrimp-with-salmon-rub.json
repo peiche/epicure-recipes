@@ -1,0 +1,109 @@
+{
+  "name": "Stir-fried Shrimp with Salmon Rub",
+  "slug": "stir-fried-shrimp-with-salmon-rub",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "peeled & deveined "
+    },
+    {
+      "name": "Salmon Rub",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "juice of 1/2 lemon",
+      "quantity": "",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "8 min",
+  "servings": "4 serving",
+  "preparation": [
+    "Lay shrimp on paper towels to absorb excess moisture.",
+    "Shake Salmon Rub liberally over shrimp.",
+    "Heat a frying pan to medium-high heat. Add oil and swirl to coat.",
+    "Add shrimp and quickly stir-fry for 3–4 minutes. Squeeze lemon over shrimp before serving."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 220,
+    "fat": 12,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 245,
+    "sodium": 410,
+    "carbohydrate": 2,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 23
+  },
+  "tips": [
+    "Buy frozen peeled, pre-cooked shrimp and thaw in refrigerator overnight. Alternatively, place in mixing bowl and run under cold water until thawed."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Stir-fried-Shrimp-with-Fish-Rub-Main.jpg",
+  "thumbnail": "Stir-fried-Shrimp-with-Fish-Rub-Main.webp",
+  "products": [
+    {
+      "slug": "salmon_rub",
+      "name": "Salmon Rub",
+      "summary": [
+        "Say good-bye to dry, boring salmon and seafood. Salmon Rub amps up the flavor—a must-have summer grilling essential.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "name": "One Dish Lemon Chicken",
+  "slug": "one-dish-lemon-chicken",
+  "description": "Impress guests with this one-dish favourite. Easy to make and easy to clean up after!",
+  "ingredients": [
+    {
+      "name": "drumsticks and thighs or 4 breasts, bone-in",
+      "quantity": "8 - 10",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium potatoes",
+      "quantity": "4",
+      "additionalInstruction": "cut in wedges"
+    },
+    {
+      "name": "medium onions",
+      "quantity": "2",
+      "additionalInstruction": "halved then cut in wedges"
+    },
+    {
+      "name": "red pepper",
+      "quantity": "1 large",
+      "additionalInstruction": "seeded, halved then cut into slices"
+    },
+    {
+      "name": "artichoke hearts",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": "drained and quartered"
+    },
+    {
+      "name": "Nourish Broth",
+      "quantity": "3 cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "splash of white wine or water",
+      "quantity": " 1",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "lemon",
+      "quantity": "1",
+      "additionalInstruction": "halved"
+    },
+    {
+      "name": "olives",
+      "quantity": "1 cup",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Chicken Souvlaki Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 375° F (190° C).",
+    "Place chicken pieces in a large baking dish, skin side up.",
+    "Arrange potatoes, onions, red pepper and artichoke hearts between pieces of chicken.",
+    "Add Nourish Broth, water and/or wine to cover up to 1&frasl;2\" deep.",
+    "Juice half lemon over all ingredients. Add olives if desired.",
+    "Sprinkle Souvlaki Seasoning over casserole.",
+    "Slice second lemon half and layer over chicken.",
+    "Roast for 1 hour, basting occasionally."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "slow_cooker",
+      "name": "Slow Cookers & Roasts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 460,
+    "fat": 8,
+    "saturatedFat": 2,
+    "transFat": 0.1,
+    "cholesterol": 150,
+    "sodium": 530,
+    "carbohydrate": 50,
+    "fiber": 6,
+    "sugars": 5,
+    "protein": 45
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "One-Dish-Lemon-Chicken-Main.jpg",
+  "thumbnail": "One-Dish-Lemon-Chicken-Main.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "chicken_souvlaki_seasoning__pkg_of_3_",
+      "name": "Chicken Souvlaki Seasoning (Pkg of 3)",
+      "summary": [
+        "A Greek-inspired meal, souvlaki is marinated meat grilled on a skewer, often served with warm pita bread and tzatziki. No grill? No problem. Skip the skewers and put your Sheet Pan to work to make equally tasty Chicken Souvlaki in 20 minutes in the oven.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "name": "Perfect Portion Chocolate Cake Donuts",
+  "slug": "perfect-portion-chocolate-cake-donuts",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "quantity": null,
+      "additionalInstruction": "for brushing"
+    },
+    {
+      "name": "Easy Peasy Bagel, Pancake & Waffle Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "or flour"
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking powder*",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "1 pinch of",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk or non-dairy milk alternative, such as coconut or almond milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter or coconut oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "melted and cooled"
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "*If using Easy Peasy Bagel, Pancake & Waffle Mix, omit baking powder. ",
+      "quantity": null,
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 400° F. Place Perfect Portion Bagel & Donut Pan on a Sheet Pan. Lightly brush with oil; set aside.",
+    "In a bowl, whisk together flour, cocoa, baking powder, and salt. Set aside.",
+    "In a large bowl, whisk egg; whisk in milk, sugar, butter, and vanilla. Add dry ingredients; stir just until combined.",
+    "Scrape batter into a piping bag; pipe into six pan wells. Bake until a toothpick inserted in centre comes out clean, about 15 min.",
+    "When cool to the touch, flip onto sheet pan and press to release donuts. Dust with icing sugar or cocoa, or top with your favourite icing."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "halloween",
+      "name": "Halloween"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 150,
+    "fat": 7,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 55,
+    "sodium": 120,
+    "carbohydrate": 19,
+    "fiber": 1,
+    "sugars": 9,
+    "protein": 3
+  },
+  "tips": [
+    "Power Up! Replace 1 scoop flour or Easy Peasy Bagel, Pancake & Waffle Mix with 1 scoop Power Up Vanilla Protein Blend.",
+    "Triple Chocolate Glazed: Replace cocoa with Cocoa Acai Smoothie Booster.  Glaze with prepared Chocolate Fudge Sauce; sprinkle with Cocoa Crunch Whole Food Topper.",
+    "Super Greens: Replace cocoa with Super Greens Smoothie Booster",
+    "Spice it:  Stir 1 tsp Cinnamon into the batter."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1583355971731-recipeMainImagePath.jpg",
+  "thumbnail": "1583355971731-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "cinnamon__ground___1701145_",
+      "name": "Cinnamon (Ground)",
+      "summary": [
+        "A simple blend of organic cinnamon that brings the flavor. Great for baking, desserts, egg nog, or enhancing the taste of Middle Eastern and Indian dishes.&nbsp;"
+      ]
+    },
+    {
+      "slug": "power_up_vanilla_protein_blend__pouch_",
+      "name": "Power Up Vanilla Protein Blend (Pouch)",
+      "summary": [
+        "Fuel up first thing and stay fuller longer with rich smooth-tasting vanilla blend. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    }
+  ]
+}

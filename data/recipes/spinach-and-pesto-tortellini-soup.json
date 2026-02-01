@@ -1,0 +1,127 @@
+{
+  "name": "Spinach and Pesto Tortellini Soup",
+  "slug": "spinach-and-pesto-tortellini-soup",
+  "description": "Ready in 15 minutes - a comforting, quick-fix dinner to warm up with.",
+  "ingredients": [
+    {
+      "name": "Nourish Broth",
+      "quantity": "12 cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pesto Sauce Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "refrigerated cheese-filled tortellini",
+      "quantity": "1 pkg (8 oz/225 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen chopped spinach",
+      "quantity": "1 pkg (10 oz/280 g)",
+      "additionalInstruction": "thawed and drained of excess liquid"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In a large soup pot, bring Nourish Broth and Pesto Sauce Mix to a boil, then reduce temperature to medium-low.",
+    "Stir in tortellini. Simmer uncovered for 5 minutes, or until tortellini is tender and floating. Add spinach and simmer until soup has reheated. Season with Salt and Pepper.",
+    "Sprinkle each serving with Parmesan."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 190,
+    "fat": 5,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 400,
+    "carbohydrate": 25,
+    "fiber": 4,
+    "sugars": 1,
+    "protein": 11
+  },
+  "tips": [
+    "For extra zip, stir in 1–2 tbsp Epicure Marinara Sauce Mix or French Onion Dip Mix."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1600810435926-recipeMainImagePath.jpg",
+  "thumbnail": "1600810435926-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavour of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "french_onion_dip_mix_9a610da",
+      "name": "French Onion Dip Mix",
+      "summary": [
+        "Ruffled chips and crunchy veggies don’t stand a chance when French Onion is on the table! Gluten and sodium free, and packed with all the delicious taste of toasted onion and parsley, this blend makes a kid-friendly dip, but it doesn’t stop there. Use it to season any savoury dish where you’d like to liven up the flavour with onion — without having to chop or roast a bunch of onions!&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "name": "Wintry Mushroom Pork",
+  "slug": "wintry-mushroom-pork",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "boneless pork loin roast",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "sliced mushrooms",
+      "quantity": "1 pkg (7 oz/200 g)",
+      "additionalInstruction": "about 2 1/2 cups"
+    },
+    {
+      "name": "Wintry Mushroom Soup Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "your choice"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Wok, heat 1&frasl;2 tbsp oil over medium-high heat. Meanwhile, slice pork into 4 steaks; season with salt and pepper. Add to pan and fry until browned, 3–4 min per side. Place on a plate; cover and keep warm.",
+    "Add remaining 1&frasl;2 tbsp oil to wok. Add mushrooms and sauté until lightly brown, 3 min.",
+    "Meanwhile, in a bowl, whisk together seasoning and milk. Once mushrooms have browned, add milk mixture. Bring to a boil, then reduce heat and return pork to pan. Cover; simmer until meat is cooked through, about 4 min, turning once.",
+    "Divide pork between plates; spoon sauce on top, add parsley if desired."
+  ],
+  "tags": [
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 320,
+    "fat": 17,
+    "saturatedFat": 5,
+    "transFat": 0.1,
+    "cholesterol": 80,
+    "sodium": 300,
+    "carbohydrate": 13,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 29
+  },
+  "tips": [
+    "To get a golden-brown sear on the pork, first pat meat dry with paper towel. When cooking, resist the urge to move it around or flip it too early. It will naturally release from the pan when it’s ready (about 3–4 min), then flip and don’t fiddle around with it."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup mashed potatoes and 1 cup steamed vegetables.",
+  "image": "wintery_mushroom_pork_1036x583.jpg",
+  "thumbnail": "wintery_mushroom_pork_1036x583.webp",
+  "products": [
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

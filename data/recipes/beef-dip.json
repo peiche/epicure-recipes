@@ -1,0 +1,125 @@
+{
+  "name": "Beef Dip",
+  "slug": "beef-dip",
+  "description": "Where French bistro flair meets classic pub fare! Bring everyone to the table for this family favourite, comfort food. Use up the shredded beef for more than just sammies—try leftovers in pasta, chili, soup, eggs benny, breakfast burritos, tacos, and more!",
+  "ingredients": [
+    {
+      "name": "Beef Dip Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless beef blade pot roast or chuck roast",
+      "quantity": "3 lb (1.36 kg)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "French rolls",
+      "quantity": "12",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 15 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Combine seasoning with water. Set aside.",
+    "Cut roast lengthwise into 3\" thick slices. Heat oil in Sauté Pan and brown beef 2 min per side.",
+    "Place beef in slow cooker with seasoning mixture. Cover and cook on low 6 hrs or on high 4 hrs.",
+    "Remove beef from slow cooker. Thinly slice or shred and moisten with 1&frasl;4 cup of jus from slow cooker. Divide between rolls and add toppings, if desired. Serve remaining jus on the side for dipping.",
+    "Combine seasoning with water. Set aside.",
+    "Cut roast lengthwise into 3\" thick slices.  Heat oil in pressure cooker and brown beef 2 min per side.",
+    "Pour seasoning mixture over beef. Secure lid. Place steam release valve in SEALING position. Press MANUAL button, select HIGH, and set the time to 45 min.",
+    "When the cook time has finished, naturally release pressure for 15 min.",
+    "Using a long-handled spoon, push the steam release valve to VENTING position. Release pressure completely before opening lid.",
+    "Remove beef from pressure cooker. Thinly slice or shred and moisten with 1&frasl;4 cup of jus from slow cooker. Divide between rolls and add toppings, if desired. Serve remaining jus on the side for dipping."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "programmable_pressure_cooker",
+      "name": "Programmable Pressure Cooker"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "cook_the_catalogue",
+      "name": "Cook The Catalogue"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "slow_cooker",
+      "name": "Slow Cookers & Roasts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 300,
+    "fat": 11,
+    "saturatedFat": 4,
+    "transFat": 0.3,
+    "cholesterol": 60,
+    "sodium": 480,
+    "carbohydrate": 22,
+    "fiber": 2,
+    "sugars": 1,
+    "protein": 26
+  },
+  "tips": [
+    "Rub half the seasoning over the roast before browning to create more depth of flavour.",
+    "After slicing or shredding the beef, let it rest in the jus to absorb the flavour—you can even let the beef soak up the jus overnight!"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy greens and 1 tbsp Epicure Dressing.",
+  "image": "beef_dip_1036x583.jpg",
+  "thumbnail": "beef_dip_1036x583.webp",
+  "products": [
+    {
+      "slug": "beef_dip_seasoning",
+      "name": "Beef Dip Seasoning (Pack of 3)",
+      "summary": [
+        "A gastro-pub fave, it’s now easy – and so darn tasty – to make Beef Dip at home. With soft, subtle notes of mushrooms, garlic, rosemary, and thyme, stack this melt-in-your-mouth beef on top of crusty baguettes topped with Roasted Garlic Aioli and serve on busy weeknights and weekends at home, or feed a crowd on game day.&nbsp;"
+      ]
+    }
+  ]
+}

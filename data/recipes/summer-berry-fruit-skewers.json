@@ -1,0 +1,78 @@
+{
+  "name": "Summer Berry Fruit Skewers",
+  "slug": "summer-berry-fruit-skewers",
+  "description": "Taste the rainbow with these delicious and refreshing fruit skewers. They’re the perfect summer treat for kids! Almost all of the sugar in this recipe naturally occurs in the fruit and yogurt—Epicure’s Summer Berry Sweet Dip Mix is made with real raspberries, strawberries, and hibiscus, and it only contains 3 grams of sugar per serving! Pro tip: Rectangular Steamer makes the perfect serving dish for this sweet dip.",
+  "ingredients": [
+    {
+      "name": "plain 2% Greek yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honeydew melon chunks",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pineapple chunks",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "strawberries",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grapes",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "8 servings",
+  "preparation": [
+    "In a bowl, combine yogurt and dip mix. Let stand 10 min.",
+    "Meanwhile, thread melon, pineapple, strawberries, and grapes onto 6–8\" skewers.",
+    "Serve skewers with sweet dip for dunking."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 90,
+    "fat": 1,
+    "saturatedFat": 0.4,
+    "transFat": 0.1,
+    "cholesterol": 0,
+    "sodium": 25,
+    "carbohydrate": 19,
+    "fiber": 2,
+    "sugars": 15,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Summer-Berry-Fruit-Skewers_1036x583.jpg",
+  "thumbnail": "Summer-Berry-Fruit-Skewers_1036x583.webp",
+  "products": [
+    {
+      "slug": "rectangular_steamer_efd7225",
+      "name": "Rectangular Steamer",
+      "summary": [
+        "Easy to clean. Easy to serve. Rectangular, silicone steamer is perfect for side dishes &amp; desserts."
+      ]
+    },
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    }
+  ]
+}

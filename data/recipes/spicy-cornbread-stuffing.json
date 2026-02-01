@@ -1,0 +1,70 @@
+{
+  "name": "Spicy Cornbread Stuffing",
+  "slug": "spicy-cornbread-stuffing",
+  "description": "Stuffing is not just for the holidays! Makes a spicy side dish for any Tex-Mex meal.",
+  "ingredients": [
+    {
+      "name": "cubed, day-old cornbread",
+      "quantity": "5 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen corn kernels",
+      "quantity": "1 pkg (1 lb/450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced ham",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cheese & Jalapeño Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hour, 10 min",
+  "servings": "10 - 12 servings",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Combine cornbread, one half of the corn package, and ham in a large bowl.",
+    "Blend second half of the corn package in a food processor with eggs, dip mix, Sea Salt, and Black Pepper.",
+    "Stir egg mixture into stuffing, tossing to combine.",
+    "Place in lightly sprayed 9” x 13” baking dish. Lightly spray a large sheet of foil with oil and use to cover the dish, oil-side down. Bake for 40 minutes.",
+    "Remove foil and continue baking for approximately 20 minutes or until top is golden and slightly crisp."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 7,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 45,
+    "sodium": 620,
+    "carbohydrate": 49,
+    "fiber": 3,
+    "sugars": 16,
+    "protein": 7
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Spicy-Cornbread-Stuffing-Main.jpg",
+  "thumbnail": "Spicy-Cornbread-Stuffing-Main.webp",
+  "products": []
+}

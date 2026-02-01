@@ -1,0 +1,110 @@
+{
+  "name": "Cheese and Pepper Quesadillas",
+  "slug": "cheese-and-pepper-quesadillas",
+  "description": "Delicious served hot with Epicure Poco Picante Salsa and Guacamole.",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "Fajita Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green onions",
+      "quantity": "2",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tortilla shells, 6\"",
+      "quantity": "12",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 400° F (205° C).",
+    "Combine first 4 ingredients in a mixing bowl.",
+    "Lay tortillas on Sheet Pan lined with Sheet Pan Liner.",
+    "Divide mixture between 6 tortillas, spreading slightly to within 1&frasl;2\" of edges.",
+    "Top each with another tortilla. Bake for 8 minutes. Cut in wedges and serve."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 15,
+    "saturatedFat": 9,
+    "transFat": 0,
+    "cholesterol": 40,
+    "sodium": 270,
+    "carbohydrate": 26,
+    "fiber": 4,
+    "sugars": 2,
+    "protein": 13
+  },
+  "tips": [
+    "Can be done a day ahead – simply stack baked rounds and wrap tightly with plastic wrap."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1600797218571-recipeMainImagePath.jpg",
+  "thumbnail": "1600797218571-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "fajita_seasoning_ceb100c",
+      "name": "Fajita Seasoning",
+      "summary": [
+        "A lively, mild blend for seasoning beef, chicken, or fish fajitas &amp; enchiladas."
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

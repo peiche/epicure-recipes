@@ -1,0 +1,168 @@
+{
+  "name": "Maple Pork & Mushroom Sandwich",
+  "slug": "maple-pork-mushroom-sandwich",
+  "description": "Transform ordinary skewers into a mouth-watering BBQ sandwich extravaganza! Picture this: succulent pork tenderloin, sizzling on the grill and infused with the rich, irresistible flavors of sweet maple. And, that's not all! Juicy mushrooms, packed with fiber, protein, and antioxidants give this dish a good nutrition boost.",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "button mushrooms, about 3 cups",
+      "quantity": "1 pkg (8 oz/227 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil + more for brushing",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Oh Canada Dry Glaze or Sweet Garlic Chicken Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whole-wheat hoagie rolls",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Honey Mustard",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat grill to medium-high heat. Lightly brush with oil.",
+    "Cut tenderloin in half, lengthwise, and then chop into 1\" pieces. Place in a large bowl with mushrooms, tomatoes, oil, and dry glaze; toss to combine.",
+    "Thread pork and veggies onto Grill Boss Skewers.",
+    "Grill, with lid closed, 4–5 min per side, or until pork reaches desired doneness (4 min per side for medium or 5 min per side for well done).",
+    "Split and toast rolls, if desired. To serve, slide meat and veggies from skewers, then divide between rolls. Drizzle with honey mustard."
+  ],
+  "tags": [
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "cook_the_catalogue",
+      "name": "Cook The Catalogue"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 490,
+    "fat": 18,
+    "saturatedFat": 4.5,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 490,
+    "carbohydrate": 53,
+    "fiber": 5,
+    "sugars": 18,
+    "protein": 28
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "Maple-Pork-&-Mushroom--Sandwich_1036x583.jpg",
+  "thumbnail": "Maple-Pork-&-Mushroom--Sandwich_1036x583.webp",
+  "products": [
+    {
+      "slug": "oh_canada_dry_glaze_ea4bf73",
+      "name": "Oh Canada Dry Glaze",
+      "summary": [
+        "In true Canadian style, this sweet and sticky maple blend is totally nice. Every summer, it's an Epicure fan fave and easily the talk of every backyard BBQ and get-together!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sweet_garlic_chicken_seasoning__pkg_of_3___1501808",
+      "name": "Sweet Garlic Chicken Seasoning (Pack of 3)",
+      "summary": [
+        "Sweet &amp; garlicky, family-friendly meal that goes from raw-to-ready in 20 minutes.&nbsp;"
+      ]
+    },
+    {
+      "slug": "honey_mustard",
+      "name": "Honey Mustard",
+      "summary": [
+        "A bold twist on a classic condiment made with 100% Canadian mustard seed and organic honey.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "grill_boss_skewers__set_of_6___1701226_",
+      "name": "Grill Boss Skewers (Set of 6)",
+      "summary": [
+        "Start grilling up praise-worthy meals&nbsp;this season with these made-to-last reusable skewers!"
+      ]
+    }
+  ]
+}

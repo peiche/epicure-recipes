@@ -1,0 +1,49 @@
+{
+  "name": "Teriyaki Chicken Wings",
+  "slug": "teriyaki-chicken-wings",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Teriyaki Sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chicken wing pieces",
+      "quantity": "2 lbs (1 kg)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "36 wings",
+  "preparation": [
+    "Preheat oven to 400° F (205° C).",
+    "Toss chicken wings with 1&frasl;2 the teriyaki sauce.",
+    "Place in a single layer on Sheet Pan. Roast in oven for 30 minutes.",
+    "Toss wings in remaining teriyaki sauce immediately before serving. Season with Sea Salt."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "1 wing",
+    "calories": 60,
+    "fat": 4,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 20,
+    "carbohydrate": 0,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 5
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1597877389237-recipeMainImagePath.jpg",
+  "thumbnail": "1597877389237-recipeMainImagePath.webp",
+  "products": []
+}

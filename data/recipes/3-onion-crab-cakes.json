@@ -1,0 +1,110 @@
+{
+  "name": "3 Onion Crab Cakes",
+  "slug": "3-onion-crab-cakes",
+  "description": "A gourmet addition to your picnic plate!",
+  "ingredients": [
+    {
+      "name": "3 Onion Dip Mix or Herb & Garlic Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dijon-style mustard",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": "beaten"
+    },
+    {
+      "name": "large potatoes",
+      "quantity": "2",
+      "additionalInstruction": "boiled and mashed"
+    },
+    {
+      "name": "crab meat",
+      "quantity": "2 cans (6 oz/170g)",
+      "additionalInstruction": "drained and flaked"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Add 3 Onion Dip Mix, mustard, Pepper and egg to mashed potato.",
+    "Fold in crab and let mixture cool for 5 minutes.",
+    "Rinse hands under cold water before forming patties to prevent mixture from sticking. Divide mixture to desired number of cakes. Wrap with plastic and chill in refrigerator.",
+    "Lightly spray a frying pan with vegetable or olive oil. Pan-fry cakes over medium heat for 5 minutes per side, or until heated through and golden."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 240,
+    "fat": 2.5,
+    "saturatedFat": 0.5,
+    "transFat": 0.1,
+    "cholesterol": 115,
+    "sodium": 310,
+    "carbohydrate": 36,
+    "fiber": 4,
+    "sugars": 4,
+    "protein": 19
+  },
+  "tips": [
+    "Serve with a veggie platter and prepared Epicure Dip."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sweet-and-Spicy-Crab-Cakes-Main.jpg",
+  "thumbnail": "Sweet-and-Spicy-Crab-Cakes-Main.webp",
+  "products": [
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    }
+  ]
+}

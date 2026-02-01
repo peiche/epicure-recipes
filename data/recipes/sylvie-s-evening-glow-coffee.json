@@ -1,0 +1,73 @@
+{
+  "name": "Sylvie's Evening Glow Coffee",
+  "slug": "sylvie-s-evening-glow-coffee",
+  "description": "Put a warm glow in your cheeks with a special after dinner coffee mingled with winter spices and brandy. (Dollop with freshly whipped cream!)",
+  "ingredients": [
+    {
+      "name": "brandy",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Mulling Spices",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large strips of orange peel",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cinnamon stick",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "strong, hot coffee",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "16 - 18 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In Multipurpose Pot - 8 cup, simmer brandy with sugar, Mulling Spices, orange peel, vanilla, and a cinnamon stick over medium-low heat for 6–8 minutes, until sugar dissolves and flavours blend.",
+    "Strain mixture and discard solids. Divide liquid between glasses.",
+    "If desired, carefully ignite mixture in each glass. Top each glass with coffee made in coffee press."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 110,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 0,
+    "carbohydrate": 5,
+    "fiber": 0,
+    "sugars": 5,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sylvie-s-Evening-Glow-Coffee-Main.jpg",
+  "thumbnail": "Sylvie-s-Evening-Glow-Coffee-Main.webp",
+  "products": []
+}

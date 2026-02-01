@@ -1,0 +1,112 @@
+{
+  "name": "Tangy Coleslaw",
+  "slug": "tangy-coleslaw",
+  "description": "Get your ‘slaw on with this tangy summer side dish! Coleslaw is packed with fiber and nutrients like Vitamin C, magnesium, potassium, and more. Add some crunch anywhere: serve coleslaw alongside grilled meats and burgers; top tacos, hot dogs, sandwiches, baked potatoes, or sliders; or fill wraps or burritos.",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vinegar",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Coleslaw Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small red cabbage",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small green cabbage",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "10 servings",
+  "preparation": [
+    "In large bowl, whisk together oil, vinegar, and mix.",
+    "Using the 4-in-1 Mandoline, thinly slice cabbage. Add to bowl; stir to combine. Salad will keep well, refrigerated, up to 3 days."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 100,
+    "fat": 7,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 60,
+    "carbohydrate": 8,
+    "fiber": 2,
+    "sugars": 4,
+    "protein": 1
+  },
+  "tips": [
+    "One Coleslaw Dressing Mix recipe makes 1 cup coleslaw dressing."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 corn tortilla, 4 oz (113 g) chicken, and 1 tbsp guacamole.",
+  "image": "1578436175987-recipeMainImagePath.jpg",
+  "thumbnail": "1578436175987-recipeMainImagePath.webp",
+  "products": []
+}

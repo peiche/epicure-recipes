@@ -1,0 +1,126 @@
+{
+  "name": "Red Curry Lentil Bowl",
+  "slug": "red-curry-lentil-bowl",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "sweet potatoes or yams",
+      "quantity": "2 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Thai Red Curry Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coconut milk",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": "preferably light"
+    },
+    {
+      "name": "lentils",
+      "quantity": "1 can (19 oz/540 ml)",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% Greek yogurt",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Peel potatoes; coarsely chop into large pieces. Place in Multipurpose Steamer. Microwave on high, covered, 8-10 min.",
+    "Meanwhile, in wok, combine seasoning and coconut milk. Bring to a boil over high heat; stir in lentils. Cover; reduce heat to medium and simmer 6 min.",
+    "Stir in potatoes, then gradually stir in spinach, small handfuls at a time. Cover and simmer just until wilted, 1–2 min.",
+    "Spoon curry into bowls and top with yogurt."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 340,
+    "fat": 9,
+    "saturatedFat": 7,
+    "transFat": 0,
+    "cholesterol": 47,
+    "sodium": 630,
+    "carbohydrate": 47,
+    "fiber": 15,
+    "sugars": 12,
+    "protein": 19
+  },
+  "tips": [
+    "FYI Sweet potatoes have tapered ends and smooth skin; flesh ranges from light beige to bright orange or slightly purple. Yams are more cylindrical in shape with rough, fuzzy skin; flesh ranges from white to dark purple."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced veggies, your choice and 2 tbsp Epicure dip.",
+  "image": "6680_red_curry_lentil_bowl_1036x583.jpg",
+  "thumbnail": "6680_red_curry_lentil_bowl_1036x583.webp",
+  "products": [
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

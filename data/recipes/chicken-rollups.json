@@ -1,0 +1,105 @@
+{
+  "name": "Chicken Rollups",
+  "slug": "chicken-rollups",
+  "description": "Get ready to roll! Introducing a finger-licking, protein-packed delight that will have your kids clamoring for seconds. Opt for yogurt, instead of sour cream, for a lower-fat dip that doesn’t skimp out on the richness—yogurt and sour cream have the same tang and texture, so you won’t notice the difference!",
+  "ingredients": [
+    {
+      "name": "light mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix or Creamy Ranch Dip Mix or Lemon Dilly Dip Mix",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "small iceberg lettuce head",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breast",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "plain 2% Greek yogurt or light sour cream",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whole-wheat tortillas",
+      "quantity": "3",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "18 minutes",
+  "servings": "6 servings",
+  "preparation": [
+    "Place chicken in Round Steamer with 1 tbsp dip mix and oil; toss to coat. Cover and microwave on high 5–7 min, or until chicken is cooked through.",
+    "Meanwhile, combine remaining 1 1&frasl;2 tbsp dip mix with mayonnaise and yogurt; set aside. Thinly slice cucumber into rounds and shred lettuce.",
+    "Using two forks, pull cooked chicken into shreds.",
+    "Spread dip over tortillas. Arrange cucumbers and lettuce in a single layer over dip. Top with shredded chicken. Roll up tightly and evenly place 6 toothpicks along each tortilla. Using a sharp knife, slice each roll into 6 pieces, 1–1 1&frasl;2\" thick."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "½ wrap or 3 rolls",
+    "calories": 290,
+    "fat": 12,
+    "saturatedFat": 3,
+    "transFat": 0.1,
+    "cholesterol": 60,
+    "sodium": 370,
+    "carbohydrate": 21,
+    "fiber": 4,
+    "sugars": 4,
+    "protein": 23
+  },
+  "tips": [
+    "If making ahead, wrap whole, unsliced rolls in plastic wrap and refrigerate for up to 2 days."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup chopped veggies and 1&frasl;2 cup potato wedges.",
+  "image": "Ranch-Chicken-Roll-ups_1036x583.jpg",
+  "thumbnail": "Ranch-Chicken-Roll-ups_1036x583.webp",
+  "products": [
+    {
+      "slug": "creamy_ranch_dip_mix_7cfe081",
+      "name": "Creamy Ranch Dip Mix",
+      "summary": [
+        "Go beyond your classic ranch dressing and create spreads, dips, or seasonings with this versatile blend!&nbsp;"
+      ]
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

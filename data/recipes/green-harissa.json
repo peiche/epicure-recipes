@@ -1,0 +1,71 @@
+{
+  "name": "Green Harissa",
+  "slug": "green-harissa",
+  "description": "This fresh-tasting spicy sauce tastes great slathered on roasted vegetables, baked fish, and so much more.",
+  "ingredients": [
+    {
+      "name": "chopped cilantro",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped spinach",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Harissa seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt ",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "3/4 cup",
+  "preparation": [
+    "Purée ingredients in a food processor or blender until smooth. Keeps in the refrigerator for 4–5 days."
+  ],
+  "tags": [
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 90,
+    "fat": 9,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 40,
+    "carbohydrate": 2,
+    "fiber": 1,
+    "sugars": 0,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Green-Harissa-Main.jpg",
+  "thumbnail": "Green-Harissa-Main.webp",
+  "products": []
+}

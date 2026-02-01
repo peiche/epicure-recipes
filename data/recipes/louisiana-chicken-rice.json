@@ -1,0 +1,143 @@
+{
+  "name": "Louisiana Chicken & Rice",
+  "slug": "louisiana-chicken-rice",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breast fillets",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mixed frozen veggies",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Louisiana Seasoning or Cajun Fries Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sour cream",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place rice and water in Multipurpose Steamer. Top with tray; microwave, uncovered, on high for 16–18 minutes, or until tender.",
+    "Meanwhile, heat oil in Sauté Pan over medium-high heat. Add chicken fillets and cook 6–8 min. Stir in veggies and seasoning; cook for 4 min, or until veggies are soft. Remove from heat.",
+    "When rice is cooked, add to the pan; stir to combine.",
+    "Divide into 4 bowls. Top each bowl with 2 tbsp of sour cream and add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 450,
+    "fat": 10,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 140,
+    "carbohydrate": 56,
+    "fiber": 6,
+    "sugars": 3,
+    "protein": 34
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups mixed greens and 1 tbsp prepared Epicure Dressing.",
+  "image": "louisiana_chicken_rice_1036x583.jpg",
+  "thumbnail": "louisiana_chicken_rice_1036x583.webp",
+  "products": [
+    {
+      "slug": "louisiana_seasoning",
+      "name": "Louisiana Seasoning (1011503)",
+      "summary": [
+        "A Cajun-inspired seasoning that brings the flavour with a medium-spice level. &nbsp;"
+      ]
+    },
+    {
+      "slug": "cajun_fries_seasoning",
+      "name": "Cajun Fries Seasoning",
+      "summary": [
+        "We love to make our taste buds dance with this <strong>Cajun Fries Seasoning</strong>. This blend of premium herbs and spices creates an earthy, piquant flavour that tastes great and packs a punch. It's perfect for anyone who wants to add excitement and heat to their favourite snack. Sprinkle as much or as little as you like over your spuds for a healthy alternative to restaurant fries with added seasonings.&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

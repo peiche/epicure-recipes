@@ -1,0 +1,133 @@
+{
+  "name": "S’more Waffle Sandwiches",
+  "slug": "s-more-waffle-sandwiches",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "quantity": "1 - 2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Classic Waffles",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "all-purpose flour",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "1 pinch",
+      "additionalInstruction": "finely ground"
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "+ extra for brushing"
+    },
+    {
+      "name": "mini marshmallows",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> bag (16 oz/455g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "graham cracker crumbs",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dark Belgian chocolate",
+      "quantity": "1 cup",
+      "additionalInstruction": "or milk Belgian chocolate"
+    }
+  ],
+  "totalTime": "25 - 30 min",
+  "servings": "6 sandwiches or 12 open-faced waffles",
+  "preparation": [
+    "Preheat oven to 425° F (220° C).",
+    "Place Waffle Mold on Sheet Pan. Using a basting brush, lightly brush Waffle Mold with vegetable oil.",
+    "Pour approximately 1&frasl;4 cup of batter into each Waffle Mold until it fills all corners.",
+    "Bake until golden, approximately 13–15 minutes. Let cool for 2 minutes, or until Waffle Mold is cool to the touch. Gently remove waffles from Waffle Mold and place on Sheet Pan.",
+    "Sprinkle 6 waffles with marshmallows, chocolate chips, and graham crumbs. Top with remaining waffles, and squish down. Continue baking until chocolate and marshmallow start to melt, approximately 2–3 minutes. Serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 open-faced waffle",
+    "calories": 370,
+    "fat": 14,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 40,
+    "sodium": 290,
+    "carbohydrate": 53,
+    "fiber": 2,
+    "sugars": 26,
+    "protein": 6
+  },
+  "tips": [
+    "To achieve that classic squished look, place Sheet Pan Liner and an oven weight on top of your sandwiches before returning to the oven."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "S-more-Waffle-Sandwiches-Main.jpg",
+  "thumbnail": "S-more-Waffle-Sandwiches-Main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

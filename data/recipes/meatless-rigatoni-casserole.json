@@ -1,0 +1,132 @@
+{
+  "name": "Meatless Rigatoni Casserole",
+  "slug": "meatless-rigatoni-casserole",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "pkg rigatoni",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce",
+      "quantity": "4 cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herb & Garlic Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "eggs",
+      "quantity": "2 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "part skim ricotta cheese",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded partly skimmed Mozzarella cheese",
+      "quantity": "2 cups",
+      "additionalInstruction": "divided"
+    }
+  ],
+  "totalTime": "1 hr",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Cook rigatoni according to package directions.",
+    "Simmer Marinara Sauce and Herb & Garlic Dip Mix for 10 minutes. Season to taste with freshly ground Sea Salt.",
+    "Beat eggs in large mixing bowl. Add ricotta, Parmesan, and 1 cup mozzarella.",
+    "Spread 1 1&frasl;2 cups sauce on bottom of a 9\" x 13\" baking dish. Top with 1&frasl;2 of rigatoni, 1&frasl;2 egg and cheese mixture, and 1&frasl;2 cup grated mozzarella.",
+    "Repeat next layer, ending with sauce. Top with remaining mozzarella.",
+    "Bake, uncovered for 30 to 35 minutes or until bubbling."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 480,
+    "fat": 16,
+    "saturatedFat": 8,
+    "transFat": 0,
+    "cholesterol": 110,
+    "sodium": 280,
+    "carbohydrate": 55,
+    "fiber": 2,
+    "sugars": 6,
+    "protein": 25
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Meatless-Rigatoni-Casserole-Main.jpg",
+  "thumbnail": "Meatless-Rigatoni-Casserole-Main.webp",
+  "products": [
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavor of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, onion &amp; garlic.&nbsp;"
+      ]
+    }
+  ]
+}

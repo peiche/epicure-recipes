@@ -1,0 +1,105 @@
+{
+  "name": "Chocolate Bliss Brownie",
+  "slug": "chocolate-bliss-brownie",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chocolate Bliss Brownie Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Lightly oil an 8” square silicone pan.",
+    "In a large bowl, whisk eggs with oil. Stir in mix, then scrape batter into pan. Smooth top as best you can; batter is dense.",
+    "Microwave, uncovered, on high for 4 min. Rest in for 6 min, then unmold onto a cooling rack. Or, bake in preheated 350° F for 15-20 min and cool in pan before serving.",
+    "Top with icing, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "easter",
+      "name": "Easter"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 170,
+    "fat": 11,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 30,
+    "sodium": 170,
+    "carbohydrate": 16,
+    "fiber": 2,
+    "sugars": 11,
+    "protein": 3
+  },
+  "tips": [
+    "Cooking time may vary based on microwave wattage.",
+    "For a vegan option, replace eggs with 2 tbsp ground flax combined with 1&frasl;2 cup water. Let stand 5 min before using."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "chocolate_brownie_1036x583.jpg",
+  "thumbnail": "chocolate_brownie_1036x583.webp",
+  "products": []
+}

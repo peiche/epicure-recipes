@@ -1,0 +1,134 @@
+{
+  "name": "Baked Tortellini",
+  "slug": "baked-tortellini",
+  "description": "FoodTok went crazy for this easy dinner win. With over 111 million views (and counting), this recipe has captured the taste buds of millions. But we’ve made it healthier, quicker, and more delicious, as we do! What’s our secret? Beef Stroganoff Seasoning—it gives the sauce an extra oomph of beefy flavour along with the onions, mushrooms, and garlic.",
+  "ingredients": [
+    {
+      "name": "tortellini",
+      "quantity": "1 pkg (12.5 oz/350 g)",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Beef Stroganoff Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted tomato sauce",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cream cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> brick (8 oz/250 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 425° F.",
+    "Cook tortellini according to package directions. Drain.",
+    "In a bowl, combine seasoning and water. Set aside.",
+    "Cook ground beef in Sauté Pan over medium-high heat until browned, about 3–4 min, using Ground Meat Separator to break up chunks. Drain excess liquid.",
+    "Reduce heat to medium. Add reserved seasoning mixture, tomato sauce, and cream cheese. Stir continuously until cream cheese is melted. If sauce is too thick, add water, 2 tbsp at a time, until desired consistency is reached.",
+    "Add cooked tortellini to pan; stir until well combined.",
+    "Top with mozzarella cheese. Bake 2–3 min or until cheese is melted."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 460,
+    "fat": 21,
+    "saturatedFat": 11,
+    "transFat": 0.3,
+    "cholesterol": 95,
+    "sodium": 580,
+    "carbohydrate": 40,
+    "fiber": 3,
+    "sugars": 6,
+    "protein": 28
+  },
+  "tips": [
+    "Swap 1 1&frasl;2 cups prepared Marinara Sauce for canned tomato sauce.",
+    "To easily drain excess liquid after browning meat, tilt the pan and use a paper towel to blot the liquid."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup roasted veggies.",
+  "image": "Easy-Tortellini-Dinner_2160x1860.jpg",
+  "thumbnail": "Easy-Tortellini-Dinner_2160x1860.webp",
+  "products": [
+    {
+      "slug": "beef_stroganoff_seasoning__new___pack_of_3__f6fd2ba",
+      "name": "Beef Stroganoff Seasoning (New)(Pack of 3)",
+      "summary": [
+        "Get a taste of nostalgia with this classic, quick-to-make meal. Tender beef strips are sautéed with mushrooms and onions, then enveloped in a rich, creamy sauce. Served over tender egg noodles (or your preferred pasta), this dish is ready in under 20 minutes—all in one pot!&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

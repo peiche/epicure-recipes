@@ -1,0 +1,138 @@
+{
+  "name": "Comforting Mac ‘n Cheese",
+  "slug": "comforting-mac-n-cheese",
+  "description": "Thank you, Marie-Pier Lupien, for this recipe. While winter is doing its thing, assemble the ultimate winter survival kit—your coziest blanket and a hot bowl of mac ‘n cheese. It’s cheesy, creamy, and decadent, but still light enough that it won’t put you in a post-feast slump.",
+  "ingredients": [
+    {
+      "name": "bite-size pasta",
+      "quantity": "2 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "bacon",
+      "quantity": "4–6 slices",
+      "additionalInstruction": null
+    },
+    {
+      "name": "heavy cream",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cheese spread, such as Velveeta® or Cheez Whiz®",
+      "quantity": "2–4 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Mac & Cheese Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded mozzarella or cheddar cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 400° F.",
+    "Cook pasta in a large pot or Multipurpose Steamer according to package directions. Before draining, reserve 2 tbsp pasta water. Drain remaining water.",
+    "Meanwhile, chop bacon into small pieces. Fry in Sauté Pan over medium-high heat until crispy, about 6 min.",
+    "Reduce heat to low. Add cream, water, and cheese spread, if using, to pan; stir until combined. Stir in seasoning and reserved pasta water, then add pasta and toss to combine. Spread out mac & cheese to cover the base of the pan. Sprinkle on shredded cheese.",
+    "Transfer pan to oven. Bake 10 min, or until cheese is melted and turning golden brown."
+  ],
+  "tags": [
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "community_recipe",
+      "name": "Community Recipe"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 470,
+    "fat": 24,
+    "saturatedFat": 11,
+    "transFat": 0.2,
+    "cholesterol": 60,
+    "sodium": 710,
+    "carbohydrate": 45,
+    "fiber": 2,
+    "sugars": 6,
+    "protein": 17
+  },
+  "tips": [
+    "Swap steamed, chopped cauliflower for pasta for a low-carb, cheesy casserole.",
+    "Stir your favourite Epicure spices in with the Mac & Cheese Seasoning. Marie recommends 3 Onion Dip Mix, Creamy Ranch Dip Mix, and SPG Seasoning!",
+    "Epicure’s Sauté Pan is oven-safe up to 400° F. If you don’t have an oven-safe pan, transfer mac & cheese to a baking dish before sprinkling on shredded cheese and placing in the oven."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "comforting_mac_cheese_1036x583.jpg",
+  "thumbnail": "comforting_mac_cheese_1036x583.webp",
+  "products": [
+    {
+      "slug": "mac___cheese_seasoning__pkg_of_3_",
+      "name": "Mac & Cheese Seasoning (Pack of 3)",
+      "summary": [
+        "An all-time best-seller, this is the Mac &amp; Cheese you’ve been craving – and that your kids will LOVE to eat! Creamy, cheesy, and super comforting, it’s free of unnecessary additives and packed with flavour thanks to real cheddar cheese. Take it from the stovetop (or microwave) to the table in under 10 minutes and dig in!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "spg_seasoning_5edecfd",
+      "name": "SPG Seasoning",
+      "summary": [
+        "Salt. Pepper. Garlic. Your go-to for chicken, fish, seafood, roasted potatoes, veggies, &amp; even popcorn!"
+      ]
+    },
+    {
+      "slug": "creamy_ranch_dip_mix_7cfe081",
+      "name": "Creamy Ranch Dip Mix",
+      "summary": [
+        "Go beyond your classic ranch dressing and create spreads, dips, or seasonings with this versatile blend!&nbsp;"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    }
+  ]
+}

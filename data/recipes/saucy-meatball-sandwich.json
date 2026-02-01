@@ -1,0 +1,156 @@
+{
+  "name": "Saucy Meatball Sandwich",
+  "slug": "saucy-meatball-sandwich",
+  "description": "This Bánh mì-inspired meatball sub is the perfect blend of sweet, savoury, and subtly spicy! Our broth mixes contain nutritional yeast, a source of Vitamin B12, to help keep your body’s nerves and cells happy and healthy and add a toasty flavour to the meatballs.",
+  "ingredients": [
+    {
+      "name": "ground pork or chicken",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth Mix or Vegetable Broth Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mustard and honey",
+      "quantity": "2 tbsp each:",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium-sized panini buns or chopped baguette",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "carrot matchsticks",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a large bowl, using a fork, combine ground pork, broth mix, and water. Form into 16 meatballs (about a scant 2 tbsp each).",
+    "Arrange in a single layer in Round Steamer (it’s OK if they touch). Cover and microwave on high, for 4 min or until cooked. Uncover; let sit about 1 min.",
+    "Meanwhile, prepare sauce. In a small bowl, whisk together mustard, honey, and hot sauce. Slice cucumber. Cut buns open.",
+    "When meatballs are cooked, carefully drain off liquid from bottom of steamer. Pour sauce over meatballs (in steamer); gently stir to coat.",
+    "Fill each bun with four meatballs. Top with cucumber and carrots; spoon any remaining sauce in steamer on top."
+  ],
+  "tags": [
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 390,
+    "fat": 14,
+    "saturatedFat": 5,
+    "transFat": 0.2,
+    "cholesterol": 65,
+    "sodium": 550,
+    "carbohydrate": 39,
+    "fiber": 2,
+    "sugars": 15,
+    "protein": 22
+  },
+  "tips": [
+    "The more veggies the better—shredded cabbage would be a great addition to this sandwich."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced vegetables, your choice.",
+  "image": "saucy_meatballs_sandwich_1036x583.jpg",
+  "thumbnail": "saucy_meatballs_sandwich_1036x583.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavours of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

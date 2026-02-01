@@ -1,0 +1,139 @@
+{
+  "name": "Pork and Pineapple Stir-fry",
+  "slug": "pork-and-pineapple-stir-fry",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "trimmed boneless pork",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "cut into thin strips"
+    },
+    {
+      "name": "Asian Stir-Fry Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pineapple chunks",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": "drained and juice reserved"
+    },
+    {
+      "name": "corn starch",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell pepper",
+      "quantity": "1",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "mixed veggies",
+      "quantity": "3 cups",
+      "additionalInstruction": " fresh or frozen, chopped"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Heat oil in a frying pan over medium heat. Add pork and seasoning and cook for 7–9 minutes until pork is cooked though.",
+    "Whisk pineapple juice with corn starch and soy sauce. Add mixture to pan along with pineapples, pepper, and vegetables, and cook 3–6 minutes, until vegetables are tender-crisp.",
+    "In an oiled Multipurpose Steamer, whisk pineapple juice and soy sauce with corn starch.",
+    "Add pork, seasoning, pineapples, peppers, and vegetables.",
+    "Cover and microwave on high 5–6 minutes, until pork is no longer pink and vegetables are tender-crisp."
+  ],
+  "tags": [
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 390,
+    "fat": 10,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 90,
+    "sodium": 390,
+    "carbohydrate": 37,
+    "fiber": 8,
+    "sugars": 14,
+    "protein": 39
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve over 1 cup steamed rice or quinoa.",
+  "image": "Pork-and-Pineapple-Stir-fry-Main.jpg",
+  "thumbnail": "Pork-and-Pineapple-Stir-fry-Main.webp",
+  "products": [
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice and noodle dish."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

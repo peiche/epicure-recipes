@@ -1,0 +1,100 @@
+{
+  "name": "Luscious Lemony Ice Cream",
+  "slug": "luscious-lemony-ice-cream",
+  "description": "Thank you, Ester Vachon, for this recipe! Tart, creamy, and oh-so-dreamy, this frozen delight is lemony bliss in every bite. It’ll bring the sunshine whether it’s a hot summer day or a cozy winter evening. With versatile Luscious Lemon Curd Mix, there’s no need to buy fresh lemons or bust out a zester—all you need are a few pantry staples to whip up ice cream from scratch!",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "quantity": "3",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Luscious Lemon Curd Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk or cream",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "lemon or lime juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "6 hrs 20 min (includes 6 hrs freezing)",
+  "servings": "1 ½ cups",
+  "preparation": [
+    "In a small saucepan, whisk eggs until foamy. Add mix, milk or cream, lemon juice, sugar, and salt; whisk until well combined. Heat saucepan over low heat, stirring constantly, until thickened.",
+    "Fill a large bowl with ice water and place saucepan directly into water to quickly cool curd.",
+    "Transfer curd to a bowl or container. Cover; freeze for at least 6–8 hrs for soft serve, or overnight for harder ice cream."
+  ],
+  "tags": [
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "community_recipe",
+      "name": "Community Recipe"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "½ cup",
+    "calories": 350,
+    "fat": 6,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 190,
+    "sodium": 90,
+    "carbohydrate": 64,
+    "fiber": 0,
+    "sugars": 51,
+    "protein": 8
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "lemon_ice_cream_1036x583.jpg",
+  "thumbnail": "lemon_ice_cream_1036x583.webp",
+  "products": [
+    {
+      "slug": "luscious_lemon_curd_mix__pkg_of_2_",
+      "name": "Luscious Lemon Curd Mix (Pack of 2)",
+      "summary": [
+        "With our fool-proof Luscious Lemon Curd Mix, wave goodbye to yolk separation and double boilers in favour of our fave kitchen tool: the microwave. Simply mix the blend with eggs &amp; water and you’ve got sweet, lemony luscious curd in two minutes—talk about a game changer!&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

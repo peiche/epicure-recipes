@@ -1,0 +1,66 @@
+{
+  "name": "Mai Tai Iced Tea",
+  "slug": "mai-tai-iced-tea",
+  "description": "High five for a new twist on a Mai Thai, a refreshing delicious way to transport you to sand and surf.",
+  "ingredients": [
+    {
+      "name": "amber rum",
+      "quantity": "3 oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coco vanilla white tea",
+      "quantity": "1 cup",
+      "additionalInstruction": "(brewed strong, unstrained and cooled down)"
+    },
+    {
+      "name": "pineapple juice",
+      "quantity": "2 oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coconut milk",
+      "quantity": "2 oz",
+      "additionalInstruction": "or milk of choice"
+    },
+    {
+      "name": "ice",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime wedges",
+      "quantity": null,
+      "additionalInstruction": "for garnish"
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Run lime wedges around glasses, and place on edge. Blend the rest of the ingredients with approximately 1 cup of ice, in a blender, and pour into prepared glasses."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 140,
+    "fat": 2,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 5,
+    "carbohydrate": 5,
+    "fiber": 0,
+    "sugars": 3,
+    "protein": 0.1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Mai-Tai-Iced-Tea-Main.jpg",
+  "thumbnail": "Mai-Tai-Iced-Tea-Main.webp",
+  "products": []
+}

@@ -1,0 +1,152 @@
+{
+  "name": "Steak Sandwich",
+  "slug": "steak-sandwich",
+  "description": "This open-faced steak sandwich is a riff on classic Steak ’n Caesar, replacing traditional Romaine with heart-healthy spinach.",
+  "ingredients": [
+    {
+      "name": "thick slices bread, toasted or grilled",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "steak sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach leaves",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Grilled Montreal Steak",
+      "quantity": "1 (4 oz/ 114 g)",
+      "additionalInstruction": "cooked, sliced"
+    },
+    {
+      "name": "strip loin steaks",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Montreal Steak Rub or Beef & Steak Seasoning",
+      "quantity": "3 - 4 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Caesar Dressing",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Caesar Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise or Greek yogurt",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk, your choice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed garlic cloves",
+      "quantity": "2",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "red onion rings",
+      "quantity": "2",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Better Than Bacon Topper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "2 servings ",
+  "preparation": [
+    "Spread toasted bread with steak sauce. Arrange spinach overtop.",
+    "Top with steak, then drizzle with Caesar Dressing.",
+    "Place sandwiches on plates and top with onion rings, if desired, and Better Than Bacon Topper."
+  ],
+  "tags": [
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 450,
+    "fat": 34,
+    "saturatedFat": 8,
+    "transFat": 0,
+    "cholesterol": 60,
+    "sodium": 560,
+    "carbohydrate": 21,
+    "fiber": 2,
+    "sugars": 4,
+    "protein": 17
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Steak-Sandwich-Main.jpg",
+  "thumbnail": "Steak-Sandwich-Main.webp",
+  "products": [
+    {
+      "slug": "montreal_steak_rub_98391cc",
+      "name": "Montreal Steak Rub",
+      "summary": [
+        "Make it a steak night! Generously rub this low sodium blend on steak to create a beautiful, caramelized crust – or mix it with equal parts oil for a peppery marinade.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "beef___steak_seasoning",
+      "name": "Beef & Steak Seasoning",
+      "summary": [
+        "An all-purpose blend with mild heat &amp; aromatic flavour."
+      ]
+    },
+    {
+      "slug": "better_than_bacon_topper__1701207_",
+      "name": "Better Than Bacon Topper",
+      "summary": [
+        "Ok, bacon lovers; we see you. We know that bacon made from ‘pinto beans’ has you feeling a kind of way: Skeptical. But trust us, this fan fave does not disappoint and it’s so easy to use. No need to grab a frying pan — just pop the top and shake on the taste of bacon with way less sodium, zero cholesterol, and no artificial flavours or colours (unlike popular brands).&nbsp;These crunchy bites are layered with smoky bacon flavor and are an amazing addition to salads, potatoes, eggs, and more!&nbsp;"
+      ]
+    }
+  ]
+}

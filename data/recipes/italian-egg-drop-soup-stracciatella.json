@@ -1,0 +1,113 @@
+{
+  "name": "Italian Egg Drop Soup (Stracciatella)",
+  "slug": "italian-egg-drop-soup-stracciatella",
+  "description": "Stracciatella (strah-CH'YAH-the-lah) means \"little rags\". When you add the egg and Parmesan mixture, it makes rag-like shreds of dough that are cooked in broth.",
+  "ingredients": [
+    {
+      "name": "Nourish Broth",
+      "quantity": "6 cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "large eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "SPG Seasoning",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Bring Chicken Broth to boil in a large Multipurpose Pot. Season to taste with Salt and Pepper.",
+    "In a small mixing bowl, whisk eggs, grated Parmesan cheese and SPG Seasoning.",
+    "Reduce temperature to a simmer. Using a fork, slowly stir egg mixture into simmering broth. Continue to stir until egg floats to the top. Serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 cups",
+    "calories": 80,
+    "fat": 4.5,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 125,
+    "sodium": 290,
+    "carbohydrate": 2,
+    "fiber": 1,
+    "sugars": 0,
+    "protein": 7
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Italian-Egg-Drop-Soup-Stracciatella-Main.jpg",
+  "thumbnail": "Italian-Egg-Drop-Soup-Stracciatella-Main.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavours of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "spg_seasoning_5edecfd",
+      "name": "SPG Seasoning",
+      "summary": [
+        "Salt. Pepper. Garlic. Your go-to for chicken, fish, seafood, roasted potatoes, veggies, &amp; even popcorn!"
+      ]
+    }
+  ]
+}

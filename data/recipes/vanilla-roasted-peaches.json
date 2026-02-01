@@ -1,0 +1,112 @@
+{
+  "name": "Vanilla Roasted Peaches",
+  "slug": "vanilla-roasted-peaches",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cinnamon sticks",
+      "quantity": "2 ",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ripe peaches",
+      "quantity": "4 large",
+      "additionalInstruction": "halved and pitted"
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 400° F (205° C).",
+    "Combine sugar, water, and cinnamon sticks in Multipurpose Pot - 8 cup. Bring to a boil over medium heat and simmer until sugar dissolves.",
+    "Remove from heat and add vanilla extract.",
+    "Arrange peaches, cut-side up, on Sheet Pan lined with parchment paper. Pour syrup over peaches and bake for 25 minutes, basting frequently using Basting Brush.",
+    "Place 2 peach halves on each dessert plate and drizzle with remaining syrup.",
+    "Preheat barbecue to medium.",
+    "Place peaches, cut-side down, on grill. Barbecue for 1-2 minutes, until marks form.",
+    "Turn over and baste with syrup. Continue grilling for 1-2 minutes, until tender.",
+    "Place in bowls and spoon additional syrup overtop. Yum."
+  ],
+  "tags": [
+    {
+      "slug": "gfrr_desserts",
+      "name": "Desserts"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 90,
+    "fat": 0.2,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 1,
+    "carbohydrate": 22,
+    "fiber": 1,
+    "sugars": 21,
+    "protein": 1
+  },
+  "tips": [
+    "Try 1 tsp Apple Pie Spice or Cinnamon (Ground) instead of cinnamon sticks.",
+    "Garnish each serving with a Cinnamon Stick.",
+    "Delicious over low-fat frozen vanilla yogurt.",
+    "For breakfast, serve sliced over whole-grain toast, waffles or pancakes."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Vanilla-Roasted-Peaches-Main.jpg",
+  "thumbnail": "Vanilla-Roasted-Peaches-Main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "basting_brush_5175217",
+      "name": "Basting Brush",
+      "summary": [
+        "This silicone brush is perfect for grilling, roasting &amp; baking.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_pot___8_c",
+      "name": "Multipurpose Pot - 8 Cup",
+      "summary": [
+        "An 8 cup, multi-use, stainless-steel cooking pot with a lid made of glass, steel &amp; silicone rubber."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "name": "Corn on the Cob with Chili Lime Butter",
+  "slug": "corn-on-the-cob-with-chili-lime-butter",
+  "description": "Sweet and savoury corn with a hint of smokiness and lime.",
+  "ingredients": [
+    {
+      "name": "butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "at room temperature"
+    },
+    {
+      "name": "Chili Seasoning",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chili Lime Sansel",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ears corn",
+      "quantity": "4 ",
+      "additionalInstruction": "husked"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "",
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Cream together butter, Chili and Chili Lime Sansel in a small mixing bowl. Set aside.",
+    "Fill Multipurpose Pot with cold water and bring to a boil. Add corn and cook for 3–5 minutes, or until tender. Drain.",
+    "While still warm, brush corn with prepared Chili Lime Butter and season with Salt. Serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 190,
+    "fat": 13,
+    "saturatedFat": 7,
+    "transFat": 0.3,
+    "cholesterol": 30,
+    "sodium": 95,
+    "carbohydrate": 20,
+    "fiber": 2,
+    "sugars": 3,
+    "protein": 3
+  },
+  "tips": [
+    "Create delicious herb butters using any of your favourite Herb and Spice Blends."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Corn-on-the-Cob-with-Chili-Lime-Butter-Main.jpg",
+  "thumbnail": "Corn-on-the-Cob-with-Chili-Lime-Butter-Main.webp",
+  "products": []
+}

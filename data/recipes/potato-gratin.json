@@ -1,0 +1,132 @@
+{
+  "name": "Potato Gratin",
+  "slug": "potato-gratin",
+  "description": "A gratin is traditionally baked in a shallow oval dish to best enjoy its characteristic golden crust. Savour this French classic at home as a comforting side dish.",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "quantity": "2 lb (900 g)",
+      "additionalInstruction": "peeled and thinly sliced"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Nourish Broth",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whipping cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded low-fat Swiss or cheddar cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 15 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Layer potato slices in a lightly buttered oval Au gratin dish. Season with Salt and Pepper.",
+    "In a small bowl, combine Nourish Bouillon, whipping cream and 3 Onion Dip Mix. Pour over potatoes.",
+    "Cover with foil and bake for 40 minutes.",
+    "Remove foil, sprinkle with cheese and continue to bake, uncovered, for 20 minutes, or until potatoes are tender. Serve warm directly from the dish."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 240,
+    "fat": 11,
+    "saturatedFat": 7,
+    "transFat": 0,
+    "cholesterol": 40,
+    "sodium": 135,
+    "carbohydrate": 29,
+    "fiber": 3,
+    "sugars": 2,
+    "protein": 8
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Potato-Gratin-Main.jpg",
+  "thumbnail": "Potato-Gratin-Main.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavours of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    }
+  ]
+}

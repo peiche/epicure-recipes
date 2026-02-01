@@ -1,0 +1,147 @@
+{
+  "name": "The Kick Dip",
+  "slug": "the-kick-dip",
+  "description": "Looking to spice things up? Loaded with flavor, this will keep guests happily munching as long as it lasts. Thanks to Lisa Hiscock, a Consultant in Newfoundland, CA, this kick’n dip has got game.",
+  "ingredients": [
+    {
+      "name": "mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sour cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Ranch Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Guacamole Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nacho Cheese Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "6 servings (about 2 cups)",
+  "preparation": [
+    "In a large bowl, whisk together mayonnaise, sour cream, Ranch Dip Mix, Guacamole Dip Mix, Nacho Cheese Dip Mix and Poco Picante Salsa Mix.",
+    "Serve with your favourite veggies and dippables!"
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "community_recipe",
+      "name": "Community Recipe"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 350,
+    "fat": 35,
+    "saturatedFat": 7,
+    "transFat": 0,
+    "cholesterol": 30,
+    "sodium": 380,
+    "carbohydrate": 5,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 2
+  },
+  "tips": [
+    "Prep ahead! Cover and refrigerate dip up to 5 days. Seasonings “bloom” as the dip sits. Stir in hot water or milk to thin, if needed.",
+    "For a lighter option, substitute Greek yogurt for sour cream."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Kick_dip_promo_11036x583.jpg",
+  "thumbnail": "Kick_dip_promo_11036x583.webp",
+  "products": [
+    {
+      "slug": "creamy_ranch_dip_mix_7cfe081",
+      "name": "Creamy Ranch Dip Mix",
+      "summary": [
+        "Go beyond your classic ranch dressing and create spreads, dips, or seasonings with this versatile blend!&nbsp;"
+      ]
+    },
+    {
+      "slug": "guacamole_dip_mix_dc7efdb",
+      "name": "Guacamole Dip Mix",
+      "summary": [
+        "An all-natural blend of sweet peppers, garlic, and chilies comes together to create the perfect guacamole––minus the sodium and additives! &nbsp;"
+      ]
+    },
+    {
+      "slug": "nacho_cheese_dip_mix_ff77f80",
+      "name": "Nacho Cheese Dip Mix",
+      "summary": [
+        "A delicious blend of bold chili with real Parmesan makes for a creamy nacho cheese dip or seasoning.&nbsp;"
+      ]
+    },
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chilies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    }
+  ]
+}

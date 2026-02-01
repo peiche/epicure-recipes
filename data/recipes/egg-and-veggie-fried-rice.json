@@ -1,0 +1,140 @@
+{
+  "name": "Egg and Veggie Fried Rice",
+  "slug": "egg-and-veggie-fried-rice",
+  "description": "Leftover rice transformed!",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "carrot",
+      "quantity": "1",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "zucchini",
+      "quantity": "1",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "quantity": "1",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "Asian Stir-Fry Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Teriyaki Dry Glaze",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cooked, cold rice",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green onions",
+      "quantity": "4",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "frozen peas",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "4",
+      "additionalInstruction": "lightly beaten"
+    }
+  ],
+  "totalTime": "16 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Heat oil over medium-high heat in Wok or large fry pan.",
+    "Stir-fry carrot, zucchini and pepper with Asian Stir-fry Seasoning and Teriyaki Dry Glaze for about 2 minutes, until tender-crisp.",
+    "Add rice and stir vigorously until heated through. Stir in soy sauce, onions and peas until mixed. While stirring, slowly drizzle in eggs. Cook until set."
+  ],
+  "tags": [
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 390,
+    "fat": 10,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 245,
+    "sodium": 590,
+    "carbohydrate": 57,
+    "fiber": 4,
+    "sugars": 4,
+    "protein": 16
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Egg-and-Veggie-Fried-Rice-Main.jpg",
+  "thumbnail": "Egg-and-Veggie-Fried-Rice-Main.webp",
+  "products": [
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice and noodle dish."
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "name": "Cocoa Crunch Goji Berry Bark Petites",
+  "slug": "cocoa-crunch-goji-berry-bark-petites",
+  "description": "Goji berries taste mildly tangy, like a cross between cranberries and cherries. Look for them at grocery or health food stores in the dried fruit section.",
+  "ingredients": [
+    {
+      "name": "cocoa powder",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coconut oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "melted"
+    },
+    {
+      "name": "honey",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "goji berries or sundried cranberries",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed pistachios",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Cocoa Crunch Whole Food Topper",
+      "quantity": null,
+      "additionalInstruction": "for garnish"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "30 petites",
+  "preparation": [
+    "Combine first four ingredients.",
+    "Stir in goji berries and pistachios, if desired. Divide by teaspoonful into a Perfect Petites. Top generously with whole food sprinkle.",
+    "Place in freezer for 10 minutes until solid.",
+    "Flip mold onto a Sheet Pan and twist to pop out chocolates."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 80,
+    "fat": 5,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 20,
+    "carbohydrate": 8,
+    "fiber": 1,
+    "sugars": 5,
+    "protein": 1
+  },
+  "tips": [
+    "This chocolate melts quickly and is best stored in the fridge or freezer until ready to consume."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Cocoa-Crunch-Goji-Berry-Bark-Petites-Main.jpg",
+  "thumbnail": "Cocoa-Crunch-Goji-Berry-Bark-Petites-Main.webp",
+  "products": []
+}

@@ -1,0 +1,155 @@
+{
+  "name": "Crunchy Asian Noodle Salad",
+  "slug": "crunchy-asian-noodle-salad",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "butter or oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Ramen noodles (curly Japanese noodles)",
+      "quantity": "1 pkg",
+      "additionalInstruction": "crumbled"
+    },
+    {
+      "name": "slivered almonds",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sunflower seeds",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Asian Stir-Fry Seasoning",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded Napa (Chinese) cabbage",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated carrot",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "thinly sliced green onions",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sesame Ginger Dressing",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Sesame Ginger Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low sodium soy sauce or gluten free soy sauce",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Melt butter in frying pan over medium high heat. Add soy sauce, crumbled noodles, slivered almonds, sunflower seeds, and sprinkle with seasoning. Stir while cooking for 3 minutes until slightly toasted. Set aside.",
+    "Combine cabbage, carrots, and green onions in a large mixing bowl. Add prepared dressing, toss to coat. Add toasted ingredients, toss again, and serve."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 290,
+    "fat": 20,
+    "saturatedFat": 6,
+    "transFat": 0.2,
+    "cholesterol": 20,
+    "sodium": 390,
+    "carbohydrate": 25,
+    "fiber": 5,
+    "sugars": 4,
+    "protein": 7
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup cooked, sliced chicken, beef, or shrimp, or cubed tofu, your choice, and 1 cup baby spinach.",
+  "image": "1600446366579-recipeMainImagePath.jpg",
+  "thumbnail": "1600446366579-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice and noodle dish."
+      ]
+    }
+  ]
+}

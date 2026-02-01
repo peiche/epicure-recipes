@@ -1,0 +1,82 @@
+{
+  "name": "Best Ever Chili",
+  "slug": "best-ever-chili",
+  "description": "When we say “best ever,” we know what we’re talking about. Cozy up with a big bowl of chili that'll warm you up from the inside out! This one-pot wonder is perfect for when you need something hearty and comforting on chilly weeknights or when tailgating with friends. It’s great for big-batch cooking, so you’ll have plenty to share!",
+  "ingredients": [
+    {
+      "name": "red kidney beans",
+      "quantity": "1 can (19 oz/540 ml)",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": " unsalted diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Best Ever Chili Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In Sauté Pan, cook ground beef over medium-high heat until browned. Using Ground Meat Separator, break up chunks.",
+    "Stir in seasoning, tomatoes, beans, and water. Bring to a boil. Reduce heat to medium-low; partially cover and simmer 15–18 min, stirring occasionally, until cooked to your liking."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "about 1 cup",
+    "calories": 270,
+    "fat": 9,
+    "saturatedFat": 3.5,
+    "transFat": 0.3,
+    "cholesterol": 40,
+    "sodium": 390,
+    "carbohydrate": 27,
+    "fiber": 8,
+    "sugars": 7,
+    "protein": 21
+  },
+  "tips": [
+    "Swap beef with ground chicken, turkey, pork, or a meat alternative, and cook with 1 tbsp oil.",
+    "For a vegetarian option, take out the ground beef and add two extra cans of beans (three cans in total). Try a medley of different kinds of beans for some variety!"
+  ],
+  "perfectlyBalanceYourPlate": "Top chili with 1 tbsp each cheddar cheese and sour cream, and serve with 1 small dinner roll, and 2 cups leafy greens with 1 tbsp Epicure Dressing.",
+  "image": "Best-Ever-Chili-on-pack_2160x1860.jpg",
+  "thumbnail": "Best-Ever-Chili-on-pack_2160x1860.webp",
+  "products": [
+    {
+      "slug": "best_ever_chili_seasoning__3pk_",
+      "name": "Best Ever Chili Seasoning (3pk)",
+      "summary": [
+        "Nothing beats a comforting bowl of chili packed with protein and pantry staples on those cold winter nights. This one comes together in under 20 minutes and bursts with flavour, thanks to a perfect blend of chilies, spices, and cocoa powder. Best of all, it’s versatile! Use your choice of ground meat, canned or fresh tomatoes, and swap out the beans for whatever you have on hand—no fuss, no muss, and always a good choice!&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

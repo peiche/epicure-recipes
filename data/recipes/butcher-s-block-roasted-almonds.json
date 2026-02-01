@@ -1,0 +1,73 @@
+{
+  "name": "Butcher's Block Roasted Almonds",
+  "slug": "butcher-s-block-roasted-almonds",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "whole blanched almonds",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Butcher's Block Sea Salt Blend Grinder",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "18 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Place almonds and olive oil in an ovenproof dish.",
+    "Add Butcher's Block Sea Salt Blend. Toss to coat and bake 15 minutes, stirring once"
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 230,
+    "fat": 21,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 125,
+    "carbohydrate": 7,
+    "fiber": 4,
+    "sugars": 2,
+    "protein": 8
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Butcher-Block-Roasted-Almonds-Main.jpg",
+  "thumbnail": "Butcher-Block-Roasted-Almonds-Main.webp",
+  "products": []
+}

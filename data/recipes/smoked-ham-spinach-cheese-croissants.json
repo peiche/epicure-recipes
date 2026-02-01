@@ -1,0 +1,142 @@
+{
+  "name": "Smoked Ham, Spinach & Cheese Croissants",
+  "slug": "smoked-ham-spinach-cheese-croissants",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "frozen puff pastry",
+      "quantity": "1 pkg (8 oz/250 g)",
+      "additionalInstruction": "defrosted"
+    },
+    {
+      "name": "flour",
+      "quantity": null,
+      "additionalInstruction": "for dusting"
+    },
+    {
+      "name": "Extraordinary Cheese Dip™",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> - <sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "cream cheese, softened",
+      "quantity": "1 brick (8oz/226 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated mixed cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "CCB Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Extraordinary Trio",
+      "quantity": "All these are available in the",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced or cubed ham",
+      "quantity": "8 oz (252 g)",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "cooked chopped spinach",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> - <sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "drained"
+    },
+    {
+      "name": "low-fat milk",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 - 35 min",
+  "servings": "10 large or 18 small croissants",
+  "preparation": [
+    "Preheat oven to 425° F (220° C).",
+    "On Sheet Pan Liner, roll puff pastry into a 10.5” square. Gently flip onto an appy maker. Using a rolling pin, firmly roll over to cut pastry.",
+    "Spoon Extraordinary Cheese Dip™ onto each triangle: 1&frasl;2 tsp for small, 1–2 tsp for large. Top with a pinch of spinach and a small piece of ham, being careful not to overfill. Starting at wide end, roll up each triangle on the appy maker and form into crescents.",
+    "Place on a Sheet Pan lined with a Sheet Pan Liner. Using a basting brush, brush with milk, and bake until puffy and light golden: 10–11 minutes for small, 12–14 minutes for large."
+  ],
+  "tags": [
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 small croissant",
+    "calories": 100,
+    "fat": 7,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 230,
+    "carbohydrate": 7,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Smoked-Ham-Spinach-Cheese-Croissants-Main.jpg",
+  "thumbnail": "Smoked-Ham-Spinach-Cheese-Croissants-Main.webp",
+  "products": [
+    {
+      "slug": "ccb_dip_mix_b61a530",
+      "name": "CCB Dip Mix",
+      "summary": [
+        "<strong>Cheese. Chives. Bacon. </strong>How's that for a totally irresistible trio? Our very own smoky vegetarian bacon, made from pinto beans, is the secret star of this oh-so-yummy dip.",
+        "This blend is all about versatility and we recommend taking it way beyond the dip bowl—use CCB in any dish that could use a little levelling up.&nbsp;",
+        "<br>"
+      ]
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

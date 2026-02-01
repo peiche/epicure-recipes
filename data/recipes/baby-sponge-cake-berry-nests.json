@@ -1,0 +1,83 @@
+{
+  "name": "Baby Sponge Cake Berry Nests",
+  "slug": "baby-sponge-cake-berry-nests",
+  "description": "A fool-proof dessert under 300 calories!",
+  "ingredients": [
+    {
+      "name": "Summer Berry Sweet Dip",
+      "quantity": "1 cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": " 2% plain Greek yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "store-bought mini round sponge cakes",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen raspberries",
+      "quantity": "1 cup",
+      "additionalInstruction": "defrosted"
+    },
+    {
+      "name": "honey",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Spoon Summer Berry Sweet Dip into cakes.",
+    "Stir raspberries with honey. Spoon over cakes and serve."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 230,
+    "fat": 5,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 55,
+    "sodium": 90,
+    "carbohydrate": 41,
+    "fiber": 1,
+    "sugars": 29,
+    "protein": 6
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Baby-Sponge-Cake-Berry-Nests-Main.jpg",
+  "thumbnail": "Baby-Sponge-Cake-Berry-Nests-Main.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Classic Italian Tiramisu",
+  "slug": "classic-italian-tiramisu",
+  "description": "Creamy, rich and delicious - a real treat!",
+  "ingredients": [
+    {
+      "name": "mascarpone cheese or spreadable cream cheese",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "icing sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whipping cream",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ladyfinger cookies (approximately)",
+      "quantity": "20",
+      "additionalInstruction": null
+    },
+    {
+      "name": "espresso or strong coffee",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "2 hr 10 min",
+  "servings": "10 servings",
+  "preparation": [
+    "In a small bowl, beat mascarpone or cream cheese with icing sugar and vanilla until soft. In second bowl, beat whipping cream until slightly firm.",
+    "Fold cream cheese and whipping cream together.",
+    "Line bottom of an 8\" square serving dish with a layer of ladyfingers. Sprinkle half the coffee over ladyfingers, making sure they are moist, but not saturated. Spread half the cream cheese mixture evenly over top.",
+    "Add one more layer of ladyfingers, moisten with remaining coffee and top with rest of cream cheese mixture.",
+    "Mix together cocoa powder and Cinnamon. Sprinkle evenly over the top of tiramisu.",
+    "Refrigerate for at least 2 hours and serve chilled."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 680,
+    "fat": 64,
+    "saturatedFat": 36,
+    "transFat": 0,
+    "cholesterol": 265,
+    "sodium": 105,
+    "carbohydrate": 22,
+    "fiber": 1,
+    "sugars": 13,
+    "protein": 11
+  },
+  "tips": [
+    "Lighten up by using light cream cheese instead of mascarpone cheese and save 490 calories and 60 g fat per serving."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1600792612212-recipeMainImagePath.jpg",
+  "thumbnail": "1600792612212-recipeMainImagePath.webp",
+  "products": []
+}

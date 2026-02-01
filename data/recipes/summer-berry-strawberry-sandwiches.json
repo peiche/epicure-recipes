@@ -1,0 +1,95 @@
+{
+  "name": "Summer Berry Strawberry Sandwiches",
+  "slug": "summer-berry-strawberry-sandwiches",
+  "description": "Try these for a no-cook dessert when you don’t feel like turning on the oven and baking.",
+  "ingredients": [
+    {
+      "name": "block light cream cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg (8 oz/250 g)",
+      "additionalInstruction": "at room temperature"
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large strawberries",
+      "quantity": "12",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chocolate syrup",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Beat cream cheese with Summer Berry Sweet Dip Mix.",
+    "Hull strawberries. Trim hull end to make a flat base, and cut the tips of each berry. Don’t make the tips too small, and save them – you’ll need them later.",
+    "Place berries hull side down on a platter so they sit flat. Using the tip of a knife or a small spoon, hollow out berries.",
+    "Spoon or pipe cream cheese mixture into hollows, then top with strawberry tips. Drizzle with chocolate syrup and serve."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 45,
+    "fat": 2,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 50,
+    "carbohydrate": 6,
+    "fiber": 1,
+    "sugars": 5,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Summer-Berry-Strawberry-Sandwiches-Main.jpg",
+  "thumbnail": "Summer-Berry-Strawberry-Sandwiches-Main.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    }
+  ]
+}

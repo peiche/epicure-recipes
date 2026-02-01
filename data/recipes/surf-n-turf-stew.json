@@ -1,0 +1,173 @@
+{
+  "name": "Surf 'n Turf Stew",
+  "slug": "surf-n-turf-stew",
+  "description": "Time to elevate your chowder game! Get ready to impress your guests with a few simple tweaks that turn the ordinary into the extraordinary. Introduce succulent shrimp to mingle with tender chicken and add a touch of sun-dried tomatoes for a flavour pop. Take it over the top with Better Than Bacon Topper.",
+  "ingredients": [
+    {
+      "name": "Home-Style Chicken Stew Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "carrots",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "celery stalk",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large potato, preferably Yukon gold",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "peeled uncooked shrimp",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped sundried tomatoes",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "frozen peas",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Better Than Bacon Topper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a bowl, combine seasoning with 2 cups water. Set aside.",
+    "Slice carrots into thin rounds. Dice celery. Cut unpeeled potato into small cubes.",
+    "Place veggies in Multipurpose Steamer and pour in 1&frasl;2 cup water. Cover; microwave on high until veggies are tender, about 8 min.",
+    "Meanwhile, cut chicken into small cubes. Heat oil in Wok set over medium-high heat. Add chicken and shrimp; stir-fry until golden and cooked through, 4–5 min.",
+    "Stir in reserved seasoning mixture, cooked veggies, and sundried tomatoes, if using. Bring to a boil, then stir in frozen peas. Cook until warmed through, 1 min.",
+    "Spoon into bowls and shake on topper. Garnish with toppings, if using."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "about 1 1/2 cups",
+    "calories": 320,
+    "fat": 7,
+    "saturatedFat": 1.5,
+    "transFat": 0.1,
+    "cholesterol": 130,
+    "sodium": 570,
+    "carbohydrate": 36,
+    "fiber": 6,
+    "sugars": 7,
+    "protein": 29
+  },
+  "tips": [
+    "If using frozen shrimp, defrost before cooking.",
+    "Swap shrimp for cooked, chopped lobster. Use fresh, frozen, or canned."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy green salad and 1 tbsp Epicure Salad Dressing, your choice.",
+  "image": "6867_Surf_n_Turf_Stew_1036x583.jpg",
+  "thumbnail": "6867_Surf_n_Turf_Stew_1036x583.webp",
+  "products": [
+    {
+      "slug": "better_than_bacon_topper__1701207_",
+      "name": "Better Than Bacon Topper",
+      "summary": [
+        "Ok, bacon lovers; we see you. We know that bacon made from ‘pinto beans’ has you feeling a kind of way: skeptical. But trust us, this fan fave does not disappoint and it’s so easy to use. No need to grab a frying pan — just pop the top and shake on the taste of bacon with way less sodium, zero cholesterol, and no artificial flavors or colors (unlike popular brands).&nbsp;These crunchy bites are layered with smoky bacon flavor and are an amazing addition to salads, potatoes, eggs, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

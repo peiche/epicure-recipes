@@ -1,0 +1,127 @@
+{
+  "name": "Steamed Mussels with Aioli",
+  "slug": "steamed-mussels-with-aioli",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "fresh mussels",
+      "quantity": "2 lbs (900 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water or white wine",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roasted Garlic Aioli",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roasted Garlic Aioli Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "21 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Rinse mussels and remove beards.",
+    "In a Multipurpose Pot, bring Marinara Sauce and water to a boil on the stovetop. Add mussels. Cover and cook for 4–6 minutes, or until all mussels have opened. Stir halfway through cooking.",
+    "Discard any unopened mussels. Spoon mussels into bowls and top each with dollop of Roasted Garlic Aioli."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 240,
+    "fat": 7,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 730,
+    "carbohydrate": 13,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 28
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Steamed-Mussels-with-Aioli-Main.jpg",
+  "thumbnail": "Steamed-Mussels-with-Aioli-Main.webp",
+  "products": [
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavor of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "roasted_garlic_aioli_mix",
+      "name": "Roasted Garlic Aioli Mix",
+      "summary": [
+        "A creamy roasted garlic condiment for your burger, sandwich or use as a dip for fries or veg.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

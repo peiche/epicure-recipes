@@ -1,0 +1,97 @@
+{
+  "name": "Chocolate Bliss Brownies with Chocolate Fudge Sauce",
+  "slug": "chocolate-bliss-brownies-with-chocolate-fudge-sauce",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "melted unsalted "
+    },
+    {
+      "name": "Chocolate Fudge Sauce Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chocolate Bliss Brownie Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whipping cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cocoa Crunch Whole Food Topper",
+      "quantity": null,
+      "additionalInstruction": "to garnish"
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Preheat oven to 350° F (160° C).",
+    "In a Multipurpose Pot - 8 cup, whisk sauce mix with whipping cream. Bring to a boil.",
+    "Using a hand mixer, beat sauce to desired thickness.",
+    "Lightly oil a Round Cake Pan.",
+    "In a large bowl, whisk eggs with melted butter. Stir in brownie mix then spread batter into pan.",
+    "Bake for 15–20 min. Cool in pan before icing.",
+    "Spread chilled icing and top with whole food sprinkles, cut and enjoy"
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 18,
+    "saturatedFat": 10,
+    "transFat": 0.2,
+    "cholesterol": 90,
+    "sodium": 180,
+    "carbohydrate": 29,
+    "fiber": 3,
+    "sugars": 22,
+    "protein": 5
+  },
+  "tips": [
+    "To make mini Yule logs, simply bake recipe in Perfect Petites mold, ice with Chocolate Fudge Sauce, and decorate festively!"
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "6335_Gluten-Free_Triple_Chocolate_Brownies_1036x583.jpg",
+  "thumbnail": "6335_Gluten-Free_Triple_Chocolate_Brownies_1036x583.webp",
+  "products": [
+    {
+      "slug": "chocolate_bliss_brownie_mix__pkg_of_2_",
+      "name": "Chocolate Bliss Brownie Mix (Pack of 2)",
+      "summary": [
+        "Decadent, rich chocolate flavour &amp; smooth fudgy texture. Made with wholesome organic cocoa powder, organic cane sugar, and chickpea flour.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_pot___8_c",
+      "name": "Multipurpose Pot - 8 Cup",
+      "summary": [
+        "An 8 cup, multi-use, stainless-steel cooking pot with a lid made of glass, steel &amp; silicone rubber."
+      ]
+    }
+  ]
+}

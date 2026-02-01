@@ -1,0 +1,135 @@
+{
+  "name": "Pearl Barley and Carrot Risotto",
+  "slug": "pearl-barley-and-carrot-risotto",
+  "description": "An elegant side with layers of flavour - nutritious ancient grains never tasted so good!",
+  "ingredients": [
+    {
+      "name": "Nourish Broth",
+      "quantity": "8 cups",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "carrots",
+      "quantity": "4",
+      "additionalInstruction": "peeled, chopped and divided"
+    },
+    {
+      "name": "olive oil or butter",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "garlic cloves",
+      "quantity": "2",
+      "additionalInstruction": "minced"
+    },
+    {
+      "name": "onion",
+      "quantity": "1",
+      "additionalInstruction": "finely chopped"
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "2 - 3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pearl barley",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green onions",
+      "quantity": "2",
+      "additionalInstruction": "sliced — optional"
+    },
+    {
+      "name": "Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "grated"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "1 hr & 15 min",
+  "servings": "6 - 8 servings",
+  "preparation": [
+    "In Multipurpose Pot, bring Nourish Broth to a boil. Add 3 carrots and simmer until very tender, then purée mixture. Strain through a sieve and discard any solids. Set aside and keep warm.",
+    "Heat oil in large frying pan over medium heat. Add garlic, onion and Marinara Sauce Mix. Finely chop and add remaining carrot. Stir often for 3-5 minutes, until onion is soft.",
+    "Add barley and stir to coat. Pour in 2 cups strained broth. Bring to a boil, then reduce heat. Simmer, stirring often, until most of the liquid is absorbed. Add remaining stock, 1&frasl;2 cup at a time, letting it absorb before adding more. Simmer about 45 minutes, until barley is tender.",
+    "Remove from heat and stir in green onions and Parmesan. Taste and season with Salt and Pepper."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 180,
+    "fat": 8,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 200,
+    "carbohydrate": 22,
+    "fiber": 6,
+    "sugars": 3,
+    "protein": 7
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Pearl-Barley-and-Carrot-Risotto-Main.jpg",
+  "thumbnail": "Pearl-Barley-and-Carrot-Risotto-Main.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavour of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

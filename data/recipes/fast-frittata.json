@@ -1,0 +1,144 @@
+{
+  "name": "Fast Frittata",
+  "slug": "fast-frittata",
+  "description": "Make frittata in a flash!",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": "cut into strips"
+    },
+    {
+      "name": "Lemon Dilly Dip Mix or Bruschetta Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated low-fat cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "5",
+      "additionalInstruction": "whisked"
+    },
+    {
+      "name": "Sea Salt ",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Heat a frying pan over medium-high heat, stir-fry bell pepper for 5 minutes, or until softened.",
+    "Sprinkle with Fajita Seasoning and cheese. Top with eggs. Season with salt and pepper, if desired. Cover and cook on low heat until eggs are set.",
+    "Place bell pepper in a Multipurpose Steamer. Cover and microwave for 1 minute.",
+    "Add Fajita Seasoning and cheese. Top with eggs. Season with salt and pepper, if desired.",
+    "Cover and microwave for 4 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 180,
+    "fat": 9,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 310,
+    "sodium": 300,
+    "carbohydrate": 5,
+    "fiber": 1,
+    "sugars": 2,
+    "protein": 19
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve on 1&frasl;2 cup mixed greens with a side parfait of 3&frasl;4 cup 2% plain Greek yogurt and 1 cup berries.",
+  "image": "1603209436916-recipeMainImagePath.jpg",
+  "thumbnail": "1603209436916-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "bruschetta_seasoning",
+      "name": "Bruschetta Seasoning",
+      "summary": [
+        "An aromatic blend of basil, garlic and parsley."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

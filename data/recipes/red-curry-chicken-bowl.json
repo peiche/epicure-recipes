@@ -1,0 +1,147 @@
+{
+  "name": "Red Curry Chicken Bowl",
+  "slug": "red-curry-chicken-bowl",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "white rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Thai Red Curry Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coconut milk, preferably light",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "snow peas",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen peas",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Steamer, combine rice with 2 1&frasl;2 cups water. Microwave on high, uncovered, 15 min.",
+    "Meanwhile, in a wok, combine seasoning and coconut milk. Bring to a boil over high heat, stirring often. Cook for 2 min.",
+    "Cut chicken into small pieces. Add to wok and bring back to a boil. Cover; reduce heat to medium and simmer, stirring occasionally, until chicken is cooked through, about 6 min.",
+    "Meanwhile, coarsely chop snow peas. Once chicken is cooked, add snow peas and frozen peas. Cover and simmer, 2 min.",
+    "Divide curry into bowls and top each with 1&frasl;2 cup rice and toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 490,
+    "fat": 11,
+    "saturatedFat": 7,
+    "transFat": 0,
+    "cholesterol": 85,
+    "sodium": 470,
+    "carbohydrate": 60,
+    "fiber": 5,
+    "sugars": 6,
+    "protein": 35
+  },
+  "tips": [
+    "Make it vegetarian: Swap meat for 4 cups lentils or beans."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced vegetables, your choice.",
+  "image": "1578688674616-recipeMainImagePath.jpg",
+  "thumbnail": "1578688674616-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

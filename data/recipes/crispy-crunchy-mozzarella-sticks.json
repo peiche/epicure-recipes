@@ -1,0 +1,98 @@
+{
+  "name": "Crispy & Crunchy Mozzarella Sticks",
+  "slug": "crispy-crunchy-mozzarella-sticks",
+  "description": "Who doesn’t love mozza sticks?! This recipe comes from Nadège Lauzon. It’s quick & easy and will satisfy any cheesy craving. Make sure to serve with Marinara Sauce for dippin’.",
+  "ingredients": [
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Crispy & Crunchy Coating Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mozzarella string cheeses",
+      "quantity": "16",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 325° F. Line Sheet Pan with parchment paper.",
+    "In a bowl, beat egg. In separate bowl, add mix. One at a time, dip mozzarella sticks into egg, followed by coating, and repeat. Place on pan.",
+    "Bake 5–6 min."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "community_recipe",
+      "name": "Community Recipe"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 mozzarella sticks",
+    "calories": 160,
+    "fat": 9,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 50,
+    "sodium": 470,
+    "carbohydrate": 7,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 15
+  },
+  "tips": [
+    "Serve as an appetizer with tomato bruschetta topping."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Crispy-Crunchy-Mozzarella-Sticks_1036x583.jpg",
+  "thumbnail": "Crispy-Crunchy-Mozzarella-Sticks_1036x583.webp",
+  "products": [
+    {
+      "slug": "crispy___crunchy_coating__pkg_of_3_",
+      "name": "Crispy & Crunchy Coating (Pkg of 3)",
+      "summary": [
+        "Craving the crunch? Add a crispy gluten free coating – that’s never soggy or bland – to protein and veggies and bake them in the oven. You’ll get all the taste of your fave fried foods without a trace of greasiness, so you can enjoy them whenever the craving strikes!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

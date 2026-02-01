@@ -1,0 +1,154 @@
+{
+  "name": "Instant Pot™ Pad Thai Chicken & Rice",
+  "slug": "instant-pottm-pad-thai-chicken-rice",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Pad Thai Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "soy sauce",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "preferably low-sodium"
+    },
+    {
+      "name": "unsalted natural peanut butter or seed butter",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sriracha or your favourite hot sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "white rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "about 2 breasts"
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large carrot",
+      "quantity": "1",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In the bottom of a 5 quart Instant Pot™, stir together seasoning, water, soy sauce, peanut butter and sriracha, if using. It’s OK if the peanut butter is lumpy. Add rice.",
+    "Chop chicken into small pieces. Coarsely chop peppers. Cut carrot in half lengthwise; then crosswise into half-moon shaped pieces. Add all to pot; stir to mix.",
+    "Secure lid; press ‘MAUAL” button, select “HIGH”, and set the time to 12 min. Ensure the steam release handle is in the ‘SEALING” position.",
+    "When the cook time has finished, turn to ‘KEEP WARM” and let pressure release naturally for 8 min.",
+    "Stir to mix; spoon into bowls and add topping, as desired."
+  ],
+  "tags": [
+    {
+      "slug": "instant_pottm",
+      "name": "Instant Pot™"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "programmable_pressure_cooker",
+      "name": "Programmable Pressure Cooker"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 410,
+    "fat": 5,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 530,
+    "carbohydrate": 59,
+    "fiber": 4,
+    "sugars": 12,
+    "protein": 30
+  },
+  "tips": [
+    "Go meatless and replace chicken with 2 cans (19-oz/540 ml each) of drained and rinsed chickpeas."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy green salad with 1 tbsp Epicure dressing.",
+  "image": "Insta_Pot_Thai_Chicken_and_Rice_1036x583.jpg",
+  "thumbnail": "Insta_Pot_Thai_Chicken_and_Rice_1036x583.webp",
+  "products": [
+    {
+      "slug": "pad_thai_seasoning__pkg_3_",
+      "name": "Pad Thai Seasoning (Pack of 3)",
+      "summary": [
+        "&nbsp;A Thai favourite you can easily make at home."
+      ]
+    },
+    {
+      "slug": "pad_thai_seasoning_40b523f",
+      "name": "Pad Thai Seasoning (Single)",
+      "summary": [
+        "<sup>Skip the takeout and make a better-for-you Pad Thai right at home in 15 minutes. A quick and easy meal you can make with a handful of ingredients.</sup>&nbsp;"
+      ]
+    }
+  ]
+}

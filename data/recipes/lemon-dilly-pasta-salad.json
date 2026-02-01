@@ -1,0 +1,131 @@
+{
+  "name": "Lemon Dilly Pasta Salad",
+  "slug": "lemon-dilly-pasta-salad",
+  "description": "Dill-icious hot or cold!",
+  "ingredients": [
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "white balsamic vinegar",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": "",
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "vegetable oil or olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cooked bite-sized pasta",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red pepper",
+      "quantity": "1 ",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "green onions",
+      "quantity": "4 ",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "sliced celery",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cubed low-fat cheddar cheese",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 - 15 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Whisk first 5 ingredients in mixing bowl.",
+    "Add remaining ingredients and toss to coat."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 350,
+    "fat": 20,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 135,
+    "carbohydrate": 32,
+    "fiber": 3,
+    "sugars": 2,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with grilled burgers on whole-wheat buns and fresh-cut vegetables.",
+  "image": "Lemon-Dilly-Pasta-Salad-Main.jpg",
+  "thumbnail": "Lemon-Dilly-Pasta-Salad-Main.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

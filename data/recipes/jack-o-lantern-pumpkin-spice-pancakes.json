@@ -1,0 +1,152 @@
+{
+  "name": "Jack-O'-Lantern Pumpkin Spice Pancakes",
+  "slug": "jack-o-lantern-pumpkin-spice-pancakes",
+  "description": "An adorably spook-tacular breakfast perfect for those crisp autumn mornings. Little goblins and witches will gobble these up. A pumpkin spiced twist on a Sunday morning fave!",
+  "ingredients": [
+    {
+      "name": "Pumpkin Spice Loaf & Muffin Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pumpkin purée",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil, for batter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil, for cooking",
+      "quantity": "3 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Caramel Sauce or Chocolate Fudge",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Caramel Sauce Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whipping cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chocolate Fudge Sauce Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whipping cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4–5 servings",
+  "preparation": [
+    "In a large bowl, whisk mix with eggs, pumpkin purée, water, and 1&frasl;4 cup oil. Let batter rest 3 min—it will continue to thicken.",
+    "Heat 1 tsp oil in Sauté Pan over medium heat.",
+    "Working in batches and using 1&frasl;4 cup as a guide, scoop 3 pancakes into pan, leaving space between them.",
+    "Cook 2–5 min. When edges start to brown, flip each pancake and cook for an additional 1–2 min.",
+    "Repeat steps 2–4 for two more batches, or until all batter is cooked. Cooking times will vary.",
+    "Divide pancakes between four plates. If using, scoop caramel or fudge sauce into piping bag (or Ziploc® bag with one corner snipped). Draw Jack-O'-Lantern faces on pancakes. Add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "halloween",
+      "name": "Halloween"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 pancakes",
+    "calories": 360,
+    "fat": 17,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 460,
+    "carbohydrate": 48,
+    "fiber": 3,
+    "sugars": 19,
+    "protein": 5
+  },
+  "tips": [
+    "Instead of piping caramel or fudge sauce to make faces, arrange chocolate chips into Jack-O'-Lantern smiles on the pancakes.",
+    "To create a pumpkin-shaped pancake, drag a small amount of batter out of one side to make a ‘stem’ right after you scoop the batter into the pan."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 3&frasl;4 cup plain 2% Greek yogurt and 2 cups chopped veggies.",
+  "image": "Pumpkin Pancakes_1036x583.jpg",
+  "thumbnail": "Pumpkin Pancakes_1036x583.webp",
+  "products": [
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    }
+  ]
+}

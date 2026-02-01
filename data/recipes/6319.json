@@ -1,0 +1,77 @@
+{
+  "name": "Chocolate Iced Cap",
+  "slug": "chocolate-iced-cap",
+  "description": "Finally an iced coffee with less sugar, wholesome ingredients, and is packed with protein.",
+  "ingredients": [
+    {
+      "name": "Power Up Vanilla Protein Blend ",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cocoa Acai Smoothie Booster",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brewed dark roast coffee",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cocoa Crunch Whole Food Topper",
+      "quantity": null,
+      "additionalInstruction": "to garnish"
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 serving",
+  "preparation": [
+    "In a blender, combine first four ingredients. If you like it thicker, add ice cubes; for a thinner consistency, add water. Blend until smooth, pour into a tall glass, and top with whole food sprinkle, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 150,
+    "fat": 2.5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 220,
+    "carbohydrate": 13,
+    "fiber": 3,
+    "sugars": 5,
+    "protein": 22
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1590698403639-recipeMainImagePath.jpg",
+  "thumbnail": "1590698403639-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "power_up_vanilla_protein_blend_abee2e0",
+      "name": "Power Up Vanilla Protein Blend",
+      "summary": []
+    },
+    {
+      "slug": "cocoa_acai_smoothie_booster_cd69388",
+      "name": "Cocoa Açai Smoothie Booster",
+      "summary": []
+    },
+    {
+      "slug": "cocoa_crunch_whole_food_topper_7e4c688",
+      "name": "Cocoa Crunch Whole Food Topper",
+      "summary": []
+    }
+  ]
+}

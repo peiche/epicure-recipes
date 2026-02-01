@@ -1,0 +1,140 @@
+{
+  "name": "Chicken Divan",
+  "slug": "chicken-divan",
+  "description": "Chicken Divan is named after the Divan Parisien Restaurant in New York City’s Chatham Hotel where it was first created. Epicure’s twist on this cozy casserole will warm your heart and your tummy, and it’s a great way to use up leftover chicken! Our not-so-secret ingredient is Wintry Mushroom Soup Seasoning with mushroom pieces right in it, saving you time and money—but feel free to toss some more fresh mushrooms into the dish for added fibre and vitamin D.",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "broccoli florets",
+      "quantity": "6 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Wintry Mushroom Soup Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "2 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "chopped, cooked chicken breast",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated cheddar cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": "divided"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 400° F.",
+    "Heat oil in Sauté Pan oven medium-high heat. Add broccoli; cover and cook 4 min.",
+    "Meanwhile, whisk seasoning with milk.",
+    "To pan, stir in cooked chicken and seasoning mixture. Bring to a simmer and cook 2–3 min, until sauce is starting to thicken. Stir in 1&frasl;2 cup cheese and sprinkle remaining cheese on top.",
+    "Place pan in oven and bake until sauce is thick and bubbling, 8–10 min.",
+    "Serve with additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 390,
+    "fat": 18,
+    "saturatedFat": 8,
+    "transFat": 0.4,
+    "cholesterol": 95,
+    "sodium": 510,
+    "carbohydrate": 19,
+    "fiber": 4,
+    "sugars": 9,
+    "protein": 37
+  },
+  "tips": [
+    "If you don’t have Wintry Mushroom Soup Seasoning, you can swap with Alfredo Sauce Mix and add 1 cup sliced mushrooms along with the broccoli.",
+    "This recipe calls for cooked chicken breast. If you don’t have any leftover chicken ready, cook some quickly in the microwave in Multipurpose Steamer. Refer to the steamer’s insert card for cooking instructions. You’ll need about 1 lb (450 g) raw chicken for 2 cups cooked chicken.",
+    "Make your casserole look like a million bucks! Before topping with remaining cheese in step #4, combine the cheese with 1&frasl;2 pkg Crispy & Crunchy Coating Mix and sprinkle over the dish."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup cooked rice.",
+  "image": "chicken_divan_1036x583.jpg",
+  "thumbnail": "chicken_divan_1036x583.webp",
+  "products": [
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "alfredo_sauce_mix__pkg_of_3_",
+      "name": "Alfredo Sauce Mix (Pack of 3)",
+      "summary": [
+        "Luxurious, creamy sauce for pasta, seafood, fish, and chicken."
+      ]
+    },
+    {
+      "slug": "crispy___crunchy_coating__pkg_of_3_",
+      "name": "Crispy & Crunchy Coating (Pkg of 3)",
+      "summary": [
+        "Craving the crunch? Add a crispy gluten free coating – that’s never soggy or bland – to protein and veggies and bake them in the oven. You’ll get all the taste of your fave fried foods without a trace of greasiness, so you can enjoy them whenever the craving strikes!&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "name": "Big Batch Summer Burgers",
+  "slug": "big-batch-summer-burgers",
+  "description": "We love the full flavour of these burgers made with our Burger Seasoning and a hit of our Honey Mustard, too.",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "quantity": "3 <sup>1</sup>&frasl;<sub>2</sub> lbs (1 <sup>1</sup>&frasl;<sub>2</sub> kg)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Burger Seasoning or Beef & Steak Seasoning",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": " Honey Mustard , Sweet & Spicy Mustard or Dijon-style mustard",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ketchup",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "12 - 14 patties",
+  "preparation": [
+    "Crumble beef into a large bowl.",
+    "Add seasoning, mustard, and ketchup.",
+    "Using your hands, gently mix to combine evenly.",
+    "Divide mixture into 12–14 portions and form each into a ball. Flatten to form patties.",
+    "Individually wrap burgers, or portion into family-sized packs. Be sure to separate each burger with a piece of parchment or waxed paper. Snugly wrap with plastic, then place in freezer bags. Freeze up to 2 months."
+  ],
+  "tags": [
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 270,
+    "fat": 13,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 460,
+    "carbohydrate": 11,
+    "fiber": 2,
+    "sugars": 7,
+    "protein": 26
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve on a burger bun with your choice of burger toppings and with 1 cup sliced veggies.",
+  "image": "Big-Batch-Summer-Burgers-Main.jpg",
+  "thumbnail": "Big-Batch-Summer-Burgers-Main.webp",
+  "products": [
+    {
+      "slug": "burger_seasoning_5d205ac",
+      "name": "Burger Seasoning",
+      "summary": [
+        "Tired of bland burgers? Level up with one simple seasoning that’s packed with the robust flavours of onion, garlic, and red bell pepper, and a mild paprika kick. Just combine the seasoning with ground beef, chicken, pork, or turkey for mouth-watering burgers every single time.&nbsp;"
+      ]
+    },
+    {
+      "slug": "beef___steak_seasoning",
+      "name": "Beef & Steak Seasoning",
+      "summary": [
+        "An all-purpose blend with mild heat &amp; aromatic flavour."
+      ]
+    },
+    {
+      "slug": "honey_mustard",
+      "name": "Honey Mustard",
+      "summary": [
+        "A bold twist on a classic condiment made with 100% Canadian mustard seed and organic honey.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sweet___spicy_organic_mustard_a09b01b",
+      "name": "Sweet & Spicy Organic Mustard",
+      "summary": [
+        "Golden, sweet, with just the right heat. You’ll love this on burgers and Nashville Hot Chicken Sandwiches—or as a dip for chicken fingers. It’s also amazing in potato salad and salad dressings.&nbsp;"
+      ]
+    }
+  ]
+}

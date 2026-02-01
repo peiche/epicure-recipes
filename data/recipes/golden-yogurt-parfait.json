@@ -1,0 +1,106 @@
+{
+  "name": "Golden Yogurt Parfait",
+  "slug": "golden-yogurt-parfait",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "2% plain Greek yogurt",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Mango Lassi Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen sliced strawberries",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh or frozen blueberries",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "granola",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chia seeds",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded coconut",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a bowl, stir together yogurt and mix.",
+    "In four glasses, alternate layers of yogurt, strawberries, blueberries, granola, chia seeds, and shredded coconut until glasses are filled to the top."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 400,
+    "fat": 16,
+    "saturatedFat": 8,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 135,
+    "carbohydrate": 44,
+    "fiber": 10,
+    "sugars": 22,
+    "protein": 25
+  },
+  "tips": [
+    "Best eaten right away to keep the granola crunchy."
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced breakfast—yogurt to be kidding me!",
+  "image": "mango_lassi_parfait_1036x583.jpg",
+  "thumbnail": "mango_lassi_parfait_1036x583.webp",
+  "products": []
+}

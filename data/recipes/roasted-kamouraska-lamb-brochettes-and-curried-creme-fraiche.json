@@ -1,0 +1,146 @@
+{
+  "name": "Roasted Kamouraska Lamb Brochettes and Curried Crème Fraîche",
+  "slug": "roasted-kamouraska-lamb-brochettes-and-curried-creme-fraiche",
+  "description": "The chefs at Ateliers et Saveurs in Montreal developed this recipe for Epicure’s 2011 Wine & Dine celebration. Long name, deliciously easy recipe!",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Moroccan seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cheese & Jalapeño Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "or your choice"
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste "
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "lamb or pork shoulder",
+      "quantity": "16 oz (450 g)",
+      "additionalInstruction": "cut in cubes"
+    },
+    {
+      "name": "bamboo skewers",
+      "quantity": "24",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sour cream or 2% Greek yogurt",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "zest of 1 lemon and its juice",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "curry seasoning",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "2 hr 15 min",
+  "servings": "24 Brochettes",
+  "preparation": [
+    "In a large bowl, combine first six ingredients and stir to combine. Add lamb cubes and mix well. Allow to marinate for 1–2 hours, or preferably overnight.",
+    "Preheat oven to 450° F (230° C).",
+    "Divide lamb onto bamboo skewers. Discard marinade.",
+    "Heat oil in a frying pan on medium. Add skewers and fry for 2 minutes on each side.",
+    "Place skewers on a Sheet Pan lined with a Sheet Pan Liner and place in oven for 5–7 minutes, or until desired doneness.",
+    "Meanwhile, in a Prep Bowl, combine sour cream, lemon zest and juice, and curry to make curried crème fraiche. Season to taste and stir to combine. Serve skewers with curried crème fraiche."
+  ],
+  "tags": [
+    {
+      "slug": "community_recipe",
+      "name": "Community Recipe"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "4",
+    "calories": 180,
+    "fat": 11,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 50,
+    "sodium": 95,
+    "carbohydrate": 4,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 17
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Roasted-Kamouraska-Lamb-Brochettes-and-Curried-Creme-Fraiche-Main.jpg",
+  "thumbnail": "Roasted-Kamouraska-Lamb-Brochettes-and-Curried-Creme-Fraiche-Main.webp",
+  "products": [
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-export interface SearchResult {
+export default interface SearchResult {
     slug: string;
     name: string;
     description?: string;

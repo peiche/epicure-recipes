@@ -1,0 +1,163 @@
+{
+  "name": "Awesome Salmon Tacos",
+  "slug": "awesome-salmon-tacos",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "grilled salmon",
+      "quantity": "1 cup",
+      "additionalInstruction": "shredded"
+    },
+    {
+      "name": "mixed shredded cabbage and carrot",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Italian Dressing",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Italian Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "white vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small corn or whole-wheat tortillas or hard taco shells",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa",
+      "quantity": "1 cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "cilantro",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Guacamole",
+      "quantity": "1 cup",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "ripe avocados",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Guacamole Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice, optional",
+      "quantity": null,
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "8 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Toss cabbage and carrots with Italian Dressing, then blend in salmon.",
+    "Divide between tortillas, spooning mixture over right side of each. Top each with a spoonful of Poco Picante Salsa. Fold tortillas over and place on plates. Serve with remaining salsa on the side."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 240,
+    "fat": 14,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 25,
+    "sodium": 290,
+    "carbohydrate": 19,
+    "fiber": 8,
+    "sugars": 3,
+    "protein": 12
+  },
+  "tips": [
+    "For a shortcut, buy and dress a bag of coleslaw mix with your favourite Epicure Dressing.",
+    "This recipe is easy to double."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Awesome-Salmon-Tacos-Main.jpg",
+  "thumbnail": "Awesome-Salmon-Tacos-Main.webp",
+  "products": [
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chilies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "guacamole_dip_mix_dc7efdb",
+      "name": "Guacamole Dip Mix",
+      "summary": [
+        "An all-natural blend of sweet peppers, garlic, and chilies comes together to create the perfect guacamole––minus the sodium and additives! &nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Banoffee Protein Milkshake",
+  "slug": "banoffee-protein-milkshake",
+  "description": "Get ready to shake things up! Channel your inner kid with a nostalgic banana milkshake with an adult twist. A little caffeine boost and protein powder punch keeps you satisfied and avoids that pesky sugar crash.",
+  "ingredients": [
+    {
+      "name": "banana",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla ice cream",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "plain 2% Greek yogurt",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "cold coffee",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Power Up Salted Caramel Protein Blend",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "4 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Measure banana, ice cream, yogurt, coffee, milk, and protein blend into a blender.",
+    "Blend on high until well incorporated, about 45 sec.",
+    "Divide between two chilled glasses. Garnish with chocolate shavings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "epic_life_beverages",
+      "name": "Beverages"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 260,
+    "fat": 8,
+    "saturatedFat": 4.5,
+    "transFat": 0.1,
+    "cholesterol": 25,
+    "sodium": 250,
+    "carbohydrate": 32,
+    "fiber": 3,
+    "sugars": 21,
+    "protein": 19
+  },
+  "tips": [
+    "Epicure protein blends are plant-based, made with pea and fava bean protein. Make vegan milkshakes with vegan ice cream and yogurt.",
+    "For an Epic Life friendly dessert, make mini shakes. One shake will serve two Epic friends!",
+    "To chill glasses, rinse with cold water and freeze for 10 minutes."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Banoffee-Protein-Milkshake_1036x583.jpg",
+  "thumbnail": "Banoffee-Protein-Milkshake_1036x583.webp",
+  "products": [
+    {
+      "slug": "power_up_salted_caramel_protein_blend",
+      "name": "Power Up Salted Caramel Protein Blend",
+      "summary": [
+        "We like to fuel our bodies and satisfy our sweet tooth with the decadent salted caramel flavour of this pea and fava bean protein. It blends effortlessly into a morning smoothie with a creamy texture, not chalky like a lot of protein powders. It also handles the heat, so we can bake it into a batch of waffles and enjoy our day knowing that we'll have that extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    }
+  ]
+}

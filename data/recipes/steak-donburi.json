@@ -1,0 +1,177 @@
+{
+  "name": "Steak Donburi",
+  "slug": "steak-donburi",
+  "description": "In Japanese Cuisine, donburi refers to rice bowls with meat and vegetables that can come in endless varieties.",
+  "ingredients": [
+    {
+      "name": "uncooked rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tsp + 1 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "beef strips",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Yaki Udon Stir-Fry Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "matchstick carrots",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "4",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Steamer, combine rice and water. Top with tray; microwave uncovered on high for 16–18 min, or until tender.",
+    "Meanwhile, heat 1 tsp oil in Sauté Pan over medium-high heat. Add beef and stir-fry for 3–5 min, or until lightly browned.",
+    "Combine seasoning with hot water and soy sauce. Thinly slice peppers and onion. Add vegetables to pan and cook until slightly soft.",
+    "Stir in seasoning mixture; cook until slightly thickened, about 6 min. Turn into 4-Cup Prep Bowl; cover and set aside.",
+    "Using a damp cloth or paper towel, gently wipe pan clean and return to stovetop. Add remaining 1 tbsp oil. When pan is hot, crack in eggs. Cover and cook eggs until egg whites are set, about 2–3 min.",
+    "Divide rice, beef, and veggie mixture between 4 bowls. Top each bowl with one cooked egg. Add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 480,
+    "fat": 18,
+    "saturatedFat": 5,
+    "transFat": 0.3,
+    "cholesterol": 225,
+    "sodium": 410,
+    "carbohydrate": 56,
+    "fiber": 4,
+    "sugars": 11,
+    "protein": 23
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "Steak Donburi Lg.jpg",
+  "thumbnail": "Steak Donburi Lg.webp",
+  "products": [
+    {
+      "slug": "chicken_yaki_udon_seasoning__pack_of_3_",
+      "name": "Yaki Udon Stir-Fry Seasoning (Pack of 3)",
+      "summary": [
+        "An Epicure take on Japanese street food that the whole family will love!"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "n4_cup_prep_bowl_a951863",
+      "name": "4-Cup Prep Bowl",
+      "summary": [
+        "Meal prep like a pro with this multipurpose, glass bowl &amp; silicone lid."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

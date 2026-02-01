@@ -1,0 +1,120 @@
+{
+  "name": "Le Taj Lemon Rice Pilaf",
+  "slug": "le-taj-lemon-rice-pilaf",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "small onions",
+      "quantity": "2",
+      "additionalInstruction": "finely chopped"
+    },
+    {
+      "name": "celery stalks",
+      "quantity": "2",
+      "additionalInstruction": "finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "long grain rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth",
+      "quantity": "2 cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon rind",
+      "quantity": null,
+      "additionalInstruction": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Le Taj Sauce",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a medium saucepan, sauté onions and celery in oil until tender.",
+    "Add rice, broth, and lemon zest. Bring to a boil, reduce heat to low, and let simmer for 20 minutes.",
+    "Remove from heat, add lemon juice and Le Taj Sauce."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 8,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 160,
+    "carbohydrate": 47,
+    "fiber": 3,
+    "sugars": 3,
+    "protein": 5
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Le-Taj-Lemon-Rice-Pilaf-Main.jpg",
+  "thumbnail": "Le-Taj-Lemon-Rice-Pilaf-Main.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    }
+  ]
+}

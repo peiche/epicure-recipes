@@ -1,0 +1,103 @@
+{
+  "name": "Easy Maple Oatmeal",
+  "slug": "easy-maple-oatmeal",
+  "description": "Make a large batch of tasty oatmeal to give the whole family a great start to the day!",
+  "ingredients": [
+    {
+      "name": "water",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oats",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "maple syrup",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Maple Kettle Popcorn Seasoning",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hemp hearts",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Round or Multipurpose Steamer, combine water, oats, maple syrup, and seasoning. Microwave uncovered on high for 5 min. Stir and cook additional 1—2 min.",
+    "Divide between 4 bowls and top with hemp hearts and berries, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "3/4 cup oatmeal",
+    "calories": 320,
+    "fat": 12,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 390,
+    "carbohydrate": 39,
+    "fiber": 4,
+    "sugars": 14,
+    "protein": 11
+  },
+  "tips": [
+    "Looking for breakfast on a budget? Try substituting roasted, unsalted peanuts for hemp hearts to make sure you still get your protein!"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with a hard boiled egg and 1&frasl;2 cup fruit.",
+  "image": "easy_maple_oatmeal_1036x583.jpg",
+  "thumbnail": "easy_maple_oatmeal_1036x583.webp",
+  "products": [
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "name": "Shepherds Pie Pasta",
+  "slug": "shepherds-pie-pasta",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "uncooked penne pasta",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef or ground turkey",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Shepherds Pie Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "no salt diced tomatoes",
+      "quantity": "1 can (14.5 oz/398 ml) ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen peas",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt ",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper ",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place pasta in Multipurpose Steamer. Stir in 4 cups water. Cover; microwave on high until al dente, 12 min.",
+    "Meanwhile, heat oil in a large fry pan or wok over medium-high heat. Crumble in beef; cook, breaking up meat using the Ground Meat Separator, until meat is cooked through, 3–5 min.",
+    "Stir in seasoning and tomatoes; bring to a boil. Reduce heat and simmer, 5 min.",
+    "Once cooked, drain pasta, then add to pan. Stir in peas and spinach until warm, 1 min. Taste and  season with salt and pepper, if desired.",
+    "To serve, spoon into bowls. Add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 500,
+    "fat": 11,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 45,
+    "sodium": 590,
+    "carbohydrate": 68,
+    "fiber": 9,
+    "sugars": 14,
+    "protein": 31
+  },
+  "tips": [
+    "Make it vegetarian by using soy ground round instead of ground beef.",
+    "Swap baby spinach for 2 cups favourite frozen veggies."
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "92296894-b8ce-41a5-ab03-e98fdff53202.jpg",
+  "thumbnail": "92296894-b8ce-41a5-ab03-e98fdff53202.webp",
+  "products": [
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

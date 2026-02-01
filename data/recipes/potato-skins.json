@@ -1,0 +1,110 @@
+{
+  "name": "Potato Skins",
+  "slug": "potato-skins",
+  "description": "Dare to compare? This favourite pub-style appetizer can weigh in at over 830 calories! Make Epicure’s leaner version and save over 440 calories, 62 g fat and 690 mg sodium (almost half the recommended daily intake). Enjoy this cheesy, herby appy with prepared Poco Picante Salsa!",
+  "ingredients": [
+    {
+      "name": "baking potatoes",
+      "quantity": "3",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated mixed low-fat cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "3 servings",
+  "preparation": [
+    "Preheat oven to 475° F.",
+    "Pierce each potato in several places with a fork. Place in Multipurpose Steamer and microwave for 5–7 min, until easily pierced with a fork.",
+    "Cut potatoes in half lengthwise and carefully scoop out insides, leaving a 1&frasl;4\" thick shell. Refrigerate or freeze insides for another meal.",
+    "Arrange skins on parchment-lined Sheet Pan. Drizzle with oil. Sprinkle with 3 Onion Dip Mix, Sea Salt and Black Pepper. Divide cheese between skins.",
+    "Bake for about 7–10 minutes, until cheese melts and bottoms of potatoes are crispy."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 7,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 260,
+    "carbohydrate": 39,
+    "fiber": 4,
+    "sugars": 2,
+    "protein": 14
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein and 2 cups leafy greens with 1 tbsp Epicure Dressing.",
+  "image": "Potato-Skins-Main.jpg",
+  "thumbnail": "Potato-Skins-Main.webp",
+  "products": [
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Raspberry, Beet, Feta & Quinoa Salad",
+  "slug": "raspberry-beet-feta-quinoa-salad",
+  "description": "Turn leftover cooked beets into a hearty salad. Makes a great side dish with dinner, or roll up in tortillas with your favourite lunch meat for easy lunches.",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "quantity": "1 cup",
+      "additionalInstruction": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "beets",
+      "quantity": "3",
+      "additionalInstruction": "cooked and chopped"
+    },
+    {
+      "name": "Raspberry Vinaigrette Dressing",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crumbled light feta cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Combine quinoa and water in Multipurpose Pot - 8 cup. Bring to a boil over medium-high heat.",
+    "Reduce heat to medium-low, and simmer for 15 minutes, or until water is absorbed. Remove and let stand for 5 minutes.",
+    "Turn quinoa into a bowl, and add beets. Drizzle with Raspberry Vinaigrette, then toss to mix. Sprinkle with cheese. Serve warm, or refrigerate until chilled. Salad will keep well for up to 3 days."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 360,
+    "fat": 22,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 200,
+    "carbohydrate": 34,
+    "fiber": 4,
+    "sugars": 3,
+    "protein": 9
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Raspberry-Beet-Feta-Quinoa-Salad-Main.jpg",
+  "thumbnail": "Raspberry-Beet-Feta-Quinoa-Salad-Main.webp",
+  "products": []
+}

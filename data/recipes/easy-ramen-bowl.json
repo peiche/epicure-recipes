@@ -1,0 +1,166 @@
+{
+  "name": "Easy Ramen Bowl",
+  "slug": "easy-ramen-bowl",
+  "description": "Make your own ramen bowl at home—customize with your favourite protein and veggies! Prep & cook the ingredients ahead of time to easily assemble this meal in less than 20 min.",
+  "ingredients": [
+    {
+      "name": "ground pork or chicken",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "6 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Ramen Broth Mix",
+      "quantity": "8 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby bok choy",
+      "quantity": "2 heads",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hard-boiled eggs",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mushrooms, such as sliced cremini or enoki",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cooked rice noodles",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bean sprouts",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "corn niblets",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sesame oil",
+      "quantity": "4 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose or Round Steamer, crumble in pork. Cover; microwave on high, 3 min, or until cooked. Using Ground Meat Separator, break up chunks. Drain liquid.",
+    "In Multipurpose Pot, combine boiling water and broth mix.",
+    "Coarsely chop bok choy. You should have about 2 cups. Peel eggs; slice in half.",
+    "Place four large serving bowls (like 4-Cup Prep Bowls) on the counter. Divide noodles between bowls. Pour broth over noodles. Arrange bok choy, eggs, mushrooms, bean sprouts, and corn on top. Drizzle with oil. Add additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 430,
+    "fat": 20,
+    "saturatedFat": 6,
+    "transFat": 0.1,
+    "cholesterol": 280,
+    "sodium": 570,
+    "carbohydrate": 38,
+    "fiber": 4,
+    "sugars": 6,
+    "protein": 25
+  },
+  "tips": [
+    "To make jammy eggs, boil 7 min. Drain, cool in ice water, then peel. The yolk will be soft and jammy.",
+    "Purchase rice noodles in the international grocery aisle. Follow on-pack instructions—typically all you need to do is pour boiling water on top and wait 6-7 min until tender. Can’t find rice noodles? Swap with 2 pkgs (3 oz/85 g each) instant noodles.",
+    "Swap bean sprouts with bamboo shoots. You can usually find them canned, in the international food aisle."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "easy_ramen_bowl_1036x583.jpg",
+  "thumbnail": "easy_ramen_bowl_1036x583.webp",
+  "products": [
+    {
+      "slug": "ramen_broth_mix",
+      "name": "Ramen Broth Mix",
+      "summary": [
+        "Warming flavors of tamari and garlic, with a hint of smokiness. Just add water!&nbsp;"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Vanilla Yogurt Parfait",
+  "slug": "vanilla-yogurt-parfait",
+  "description": "Wonderful as a topping on French Toast, fresh fruit, granola and fruit crumbles.",
+  "ingredients": [
+    {
+      "name": "plain yogurt",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Whisk together all ingredients and serve."
+  ],
+  "tags": [
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 70,
+    "fat": 2,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 30,
+    "carbohydrate": 9,
+    "fiber": 0,
+    "sugars": 9,
+    "protein": 2
+  },
+  "tips": [
+    "For added body building protein try making with Greek Yogurt."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Vanilla-Yogurt-Parfait-Main.jpg",
+  "thumbnail": "Vanilla-Yogurt-Parfait-Main.webp",
+  "products": []
+}

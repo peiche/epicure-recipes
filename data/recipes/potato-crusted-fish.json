@@ -1,0 +1,106 @@
+{
+  "name": "Potato-crusted Fish",
+  "slug": "potato-crusted-fish",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 - 2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "new potato",
+      "quantity": "1",
+      "additionalInstruction": "skin on, thinly sliced"
+    },
+    {
+      "name": "halibut or salmon fillets",
+      "quantity": "2 (4–6 oz/ 110 -170 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Preheat oven to 425° F (220° C).",
+    "Stir mayonnaise with Lemon Dilly Dip Mix. Spread overtop fish.",
+    "Arrange potato slices overtop (to look like scales). Cover each fillet with a piece of plastic and firmly press to make potato scales stick. Remove plastic. Season fillets with Sea Salt",
+    "Coat frying pan with oil and set over medium-high heat. Carefully add fish, potato-side down. Reduce heat to medium. Cook for 4–6 minutes, until deep golden. Gently turn fish over with a wide spatula.",
+    "Place pan in oven and bake for 6–8 minutes, until fish is cooked through."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 230,
+    "fat": 6,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 40,
+    "sodium": 130,
+    "carbohydrate": 17,
+    "fiber": 2,
+    "sugars": 1,
+    "protein": 26
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Potato-crusted-Fish-Main.jpg",
+  "thumbnail": "Potato-crusted-Fish-Main.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

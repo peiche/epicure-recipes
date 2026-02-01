@@ -1,0 +1,106 @@
+{
+  "name": "Big Batch Bali Chicken",
+  "slug": "big-batch-bali-chicken",
+  "description": "Cook once, eat twice! This makes enough cooked chicken for tomorrow’s Bali Chicken Quesadillas.",
+  "ingredients": [
+    {
+      "name": "Bali Glow Dry Glaze",
+      "quantity": "6 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless chicken breast",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>4</sub> lbs (1 kg)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "juice of one lime",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "17 - 20 min",
+  "servings": "8 - 10 servings",
+  "preparation": [
+    "Combine Bali Glow Dry Glaze and oil in a resealable bag, add chicken and coat well. Let marinate in fridge for at least 10 minutes, and up to 24 hours.",
+    "Preheat grill to medium, and cook chicken with lid closed, for approximately 6–8 minutes per side, until cooked through, and chicken has reached a Food Safe temperature of 165° F (74° C).",
+    "No barbecue? No problem! Lightly oil a fry pan with a basting brush. Cook chicken over medium-low heat for 5 minutes, turn over, and place in a pre-heated 350° F (175° C) oven and cook for another 10–15 minutes, until chicken, is cooked through.",
+    "Using 2-in-1 Citrus Press, squeeze lime over chicken and let rest for 5 minutes before serving."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 220,
+    "fat": 8,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 85,
+    "sodium": 270,
+    "carbohydrate": 4,
+    "fiber": 0,
+    "sugars": 2,
+    "protein": 31
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Big-Batch-Bali-Chicken-Main.jpg",
+  "thumbnail": "Big-Batch-Bali-Chicken-Main.webp",
+  "products": [
+    {
+      "slug": "bali_glow_dry_glaze_776cddf",
+      "name": "Bali Glow Dry Glaze",
+      "summary": [
+        "A fragrant blend infused with garlic, lemongrass, and lime leaves that's sure to get your grill sizzling!"
+      ]
+    },
+    {
+      "slug": "n2_in_1_citrus_press_329bead",
+      "name": "2-in-1 Citrus Press",
+      "summary": [
+        "Easily squeeze the juice from small citrus fruits like lemons, limes, clementines &amp; tangerines."
+      ]
+    }
+  ]
+}

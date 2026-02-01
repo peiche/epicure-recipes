@@ -1,0 +1,111 @@
+{
+  "name": "Easy Roast Turkey Breast",
+  "slug": "easy-roast-turkey-breast",
+  "description": "Tired of the turkey chaos of cooking a whole bird for the holidays? Try this roasted turkey breast for all of the flavour and none of the fuss. It’s a hassle-free, mess-free alterative—and think of all that oven space you’ll save!",
+  "ingredients": [
+    {
+      "name": "boneless turkey breast",
+      "quantity": "2 - 2 <sup>1</sup>&frasl;<sub>2</sub> lbs (900 g - 1.1 kg)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roast Turkey Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "50 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 425° F. Line Sheet Pan with Sheet Pan Liner.",
+    "Using a basting brush, brush turkey breast with olive oil, and Seasoning.",
+    "Roast for 45 minutes.",
+    "Cook until the temperature of the thickest part of the breast is at least 170° F (77° C). Remove the turkey from the oven. Cover loosely with foil and let it rest for 5–10 minutes before carving and serving."
+  ],
+  "tags": [
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 160,
+    "fat": 4.5,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 210,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 27
+  },
+  "tips": [
+    "Swap 3 tbsp Holiday Seasoning for Rotisserie Chicken Seasoning."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup mashed potatoes and 2 cups leafy greens with 1 tbsp Epicure dressing.",
+  "image": "Easy-Roast-Turkey-Breast-Main.jpg",
+  "thumbnail": "Easy-Roast-Turkey-Breast-Main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

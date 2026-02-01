@@ -1,0 +1,147 @@
+{
+  "name": "Sheet Pan Mediterranean Chops",
+  "slug": "sheet-pan-mediterranean-chops",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "zucchini",
+      "quantity": "1 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sweet potato or yam (about 1/2 lb/225 g)",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chicken Souvlaki Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "pork loin centre chops (about 2.2 lbs/1 kg)",
+      "quantity": "4",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "35 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 425°F. Line Sheet Pan with Sheet Pan Liner.",
+    "Drain and rinse chickpeas, pat dry. Place on pan.",
+    "Slice zucchini on the diagonal. Cut peeled sweet potato in half lengthwise; thinly slice halves. Place on pan with chickpeas. Coat with 1 tbsp oil and 1&frasl;2 pkg seasoning; spread out in a single layer on pan.",
+    "Coat chops with remaining oil and seasoning. Arrange on top of veggies.",
+    "Roast, without stirring, until pork is cooked through, about 30 min."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 440,
+    "fat": 19,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 29,
+    "sodium": 330,
+    "carbohydrate": 29,
+    "fiber": 7,
+    "sugars": 5,
+    "protein": 38
+  },
+  "tips": [
+    "Prep all the ingredients while the oven preheats then pop it into the oven and bake everything at once.",
+    "Swap pork for boneless, skinless chicken breasts or tofu steaks."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced veggies, your choice",
+  "image": "1568662390853-recipeMainImagePath.jpg",
+  "thumbnail": "1568662390853-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "chicken_souvlaki_seasoning__pkg_of_3_",
+      "name": "Chicken Souvlaki Seasoning (Pkg of 3)",
+      "summary": [
+        "A Greek-inspired meal, souvlaki is marinated meat grilled on a skewer, often served with warm pita bread and tzatziki. No grill? No problem. Skip the skewers and put your Sheet Pan to work to make equally tasty Chicken Souvlaki in 20 minutes in the oven.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

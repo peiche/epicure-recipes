@@ -1,0 +1,135 @@
+{
+  "name": "Marinara Sauce with Vegetables",
+  "slug": "marinara-sauce-with-vegetables",
+  "description": "A classic Italian tomato sauce, rich in herbs and vegetables. This sauce is lower in sodium than most store-bought sauces and makes a delicious, healthy base for pastas, lasagnas, soups and a great sauce for pizza.",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "onions",
+      "quantity": "2 large",
+      "additionalInstruction": null
+    },
+    {
+      "name": "carrots",
+      "quantity": "2 large",
+      "additionalInstruction": null
+    },
+    {
+      "name": "celery ribs",
+      "quantity": "4 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "(28 oz/796 ml) diced tomatoes",
+      "quantity": "1 can",
+      "additionalInstruction": null
+    },
+    {
+      "name": "(28 oz/796 ml) crushed tomatoes",
+      "quantity": "1 can",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "1 hr",
+  "servings": "12 cups",
+  "preparation": [
+    "Heat a Multipurpose Pot over medium heat. Add oil and sauté onions, carrots and celery for approximately 5 minutes. Add Minced Garlic and sauté until vegetables are soft.",
+    "Add tomatoes and Marinara Sauce Mix. Bring to a boil, reduce heat to low and simmer covered for at least 30 minutes, or until sauce reaches desired consistency and flavours are well combined. Season with Pepper."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cup",
+    "calories": 80,
+    "fat": 2,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 125,
+    "carbohydrate": 14,
+    "fiber": 3,
+    "sugars": 4,
+    "protein": 2
+  },
+  "tips": [
+    "Freeze this big batch of sauce for an easy Italian-inspired meal any time."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Marinara-Sauce-with-Vegetables-Main.jpg",
+  "thumbnail": "Marinara-Sauce-with-Vegetables-Main.webp",
+  "products": [
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    },
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavor of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

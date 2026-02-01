@@ -1,0 +1,144 @@
+{
+  "name": "Roasted Rainbow Veggies",
+  "slug": "roasted-rainbow-veggies",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "quantity": "10 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "carrots",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "yellow zucchini",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small red onion",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herb & Garlic Dip Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "\nSea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste (optional)"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste (optional)"
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "6  servings",
+  "preparation": [
+    "Preheat oven to 425° F. Line Sheet Pan with Sheet Pan Liner.",
+    "Trim stem ends and discard outer leaves from sprouts. Cut sprouts into halves (or quarters, if large). Slice carrots into 1&frasl;4” thick coins. Slice pepper into strips. Cut zucchini in half lengthwise, then slice. Slice onion into thick strips. Toss all veggies with oil and dip mix. Season to taste, if desired.",
+    "Spread out veggies on pan—they may overlap as it will be full.",
+    "Roast in oven until tender, about 20–25 min; rotate pan halfway through (no need to stir)."
+  ],
+  "tags": [
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 90,
+    "fat": 5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 70,
+    "carbohydrate": 9,
+    "fiber": 2,
+    "sugars": 3,
+    "protein": 3
+  },
+  "tips": [
+    "Use 2 cups chopped broccoli florets instead of Brussels sprouts."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Best_Turkey_Dinner_veg-1036x583.jpg",
+  "thumbnail": "Best_Turkey_Dinner_veg-1036x583.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

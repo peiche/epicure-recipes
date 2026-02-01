@@ -1,0 +1,193 @@
+{
+  "name": "Thai Coconut Chicken",
+  "slug": "thai-coconut-chicken",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "uncooked jasmine rice or white rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light coconut milk",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Thai Coconut Soup Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "about 2 breasts"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fish sauce",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "snap peas",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime",
+      "quantity": "1",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Steamer, combine rice and water. Top with tray; microwave uncovered, on high, 16–18 min, or until tender.",
+    "In bowl, combine coconut milk and seasoning. Set aside.",
+    "To thinly slice chicken, place one hand on one breast and press down firmly. Curve fingers up slightly for safety. Carefully slice meat horizontally. Repeat with remaining chicken. You should have four pieces in total. Season chicken with salt and pepper.",
+    "Heat oil in large sauté pan over medium-high heat. Add chicken to pan; cook 4–5 min per side until golden brown and cooked through. Place on a plate; cover to keep warm.",
+    "In the same pan (don’t wash), add coconut milk mixture and fish sauce, if using. Bring to a boil over high heat.",
+    "Meanwhile, slice bell peppers. Trim snap peas. Reduce heat to medium-high, add bell peppers and snap peas. Cook until vegetables are tender-crisp and liquid has reduced slightly, about 2 min.",
+    "Serve chicken over rice; spoon vegetables and sauce on top. Using 2-in-1 Citrus Press, squeeze in juice from lime on top, add additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 450,
+    "fat": 11,
+    "saturatedFat": 6,
+    "transFat": 0,
+    "cholesterol": 85,
+    "sodium": 320,
+    "carbohydrate": 53,
+    "fiber": 4,
+    "sugars": 8,
+    "protein": 33
+  },
+  "tips": [
+    "Although fish sauce is optional, it’s worth adding to this recipe! It adds a little saltiness and funkiness (it is made from fermented fish after all!). You can usually find it in the international food aisle in the grocery store."
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "thai_coconut_chicken_breast_1036x583.jpg",
+  "thumbnail": "thai_coconut_chicken_breast_1036x583.webp",
+  "products": [
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    },
+    {
+      "slug": "n2_in_1_citrus_press_329bead",
+      "name": "2-in-1 Citrus Press",
+      "summary": [
+        "Easily squeeze the juice from small citrus fruits like lemons, limes, clementines &amp; tangerines."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

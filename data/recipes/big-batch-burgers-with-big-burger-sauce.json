@@ -1,0 +1,167 @@
+{
+  "name": "Big-Batch Burgers with Big Burger Sauce",
+  "slug": "big-batch-burgers-with-big-burger-sauce",
+  "description": "Cook once, eat twice! Save 2 cooked burgers for tomorrow’s Falafels. It’s a great way to get dinner on the table fast!",
+  "ingredients": [
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Burger Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ground beef",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (675 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "breadcrumbs",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": null,
+      "additionalInstruction": "for grilling"
+    },
+    {
+      "name": "whole-grain hamburger buns",
+      "quantity": "6",
+      "additionalInstruction": "split"
+    },
+    {
+      "name": "Big Burger Sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Big Burger Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ketchup",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "relish",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "slices low-fat cheddar cheese",
+      "quantity": "6",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomato",
+      "quantity": "1",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "pickles",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "red onion",
+      "quantity": "1",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "lettuce leaves",
+      "quantity": "6",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In a bowl, using the Piano Wire Whisk, whisk first 3 ingredients together.",
+    "Crumble in beef and sprinkle with breadcrumbs. Mix to combine. Wet hands to prevent sticking and form mixture into 6 patties, or use a Burger Press.",
+    "Oil the grill and grill patties over medium-high heat with lid closed for 5 minutes. Flip and continue grilling for approximately 5 more minutes, or until an instant-read thermometer indicates a Food Safe internal temperature of 160° F (71° C). Top patties with cheese during last minutes of cooking to melt, if you wish.",
+    "Place grilled burgers on bottoms of buns. Top each with 1 tbsp Big Burger Sauce, cheese, tomato, pickle (if desired), onions, and lettuce.",
+    "Dish up with baked Oven Fries and your favourite Epicure Dips and custom-made condiments."
+  ],
+  "tags": [
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 380,
+    "fat": 14,
+    "saturatedFat": 4,
+    "transFat": 0.5,
+    "cholesterol": 110,
+    "sodium": 620,
+    "carbohydrate": 31,
+    "fiber": 5,
+    "sugars": 7,
+    "protein": 33
+  },
+  "tips": [
+    "Serving Suggestion: Dish up a jar of Epicure Sweet & Spicy Mustard at the table. It’s a match made in burger heaven!"
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1610138788123-recipeMainImagePath.jpg",
+  "thumbnail": "1610138788123-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "burger_seasoning_5d205ac",
+      "name": "Burger Seasoning",
+      "summary": [
+        "A classic blend that pairs well with any type of protein."
+      ]
+    }
+  ]
+}

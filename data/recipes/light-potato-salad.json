@@ -1,0 +1,112 @@
+{
+  "name": "Light Potato Salad",
+  "slug": "light-potato-salad",
+  "description": "This creamy, low-sodium potato salad has a ton of flavour.",
+  "ingredients": [
+    {
+      "name": "light mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light sour cream",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dijon-style mustard",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Ranch Dip Mix or Caesar Dressing Mix ",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "freshly ground, to taste"
+    },
+    {
+      "name": "cooked diced potatoes",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "peels on"
+    },
+    {
+      "name": "hard-boiled eggs",
+      "quantity": null,
+      "additionalInstruction": "sliced, optional"
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a large serving bowl, whisk first 5 ingredients together.",
+    "Add potatoes and toss to combine.",
+    "Top with sliced eggs (optional), and serve."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 290,
+    "fat": 7,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 180,
+    "carbohydrate": 51,
+    "fiber": 5,
+    "sugars": 4,
+    "protein": 7
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein and 1 cup sliced veggies.",
+  "image": "Light-Potato-Salad-Main.jpg",
+  "thumbnail": "Light-Potato-Salad-Main.webp",
+  "products": [
+    {
+      "slug": "creamy_ranch_dip_mix_7cfe081",
+      "name": "Creamy Ranch Dip Mix",
+      "summary": [
+        "Go beyond your classic ranch dressing and create spreads, dips, or seasonings with this versatile blend!&nbsp;"
+      ]
+    },
+    {
+      "slug": "caesar_dressing_mix_e72947d",
+      "name": "Caesar Dressing Mix",
+      "summary": [
+        "This dressing is a little bit of magic: It’s rich, creamy, full of flavor, and it has zero sodium! Take it far beyond Caesar salad and use it as a sauce for pizza, a dip for veggies, chicken fingers, and zucchini fries, or mix it in your white pasta sauce.&nbsp;Simply mix the blend with mayo or Greek yogurt, lemon juice, olive oil, and milk, and it’s ready for anything!&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "name": "Cheese-Stuffed Mini Meatballs",
+  "slug": "cheese-stuffed-mini-meatballs",
+  "description": "A sweet and garlicky appy with a surprise centre! These will be the first dish gone at your next potluck event. Dish up with Roasted Garlic Aioli for dunking.",
+  "ingredients": [
+    {
+      "name": "ground turkey or chicken",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Honey Garlic Meatball Seasoning or Sweet Garlic Chicken Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "soft goat cheese or cream cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "22 mini meatballs",
+  "preparation": [
+    "Preheat oven to 425° F. Line Sheet Pan with Sheet Pan Liner.",
+    "In a large bowl, crumble in ground meat; add seasoning. Mix well. Using 1 tbsp as a guide, form meatballs; place on pan. Flatten slightly into discs and put about 1&frasl;2 tsp cheese in the centre of each disc. Reshape into a ball, sealing meat around cheese.",
+    "In a bowl, melt honey in the microwave for about 20 sec.",
+    "Brush meatballs with melted honey. Bake until cooked through, about 10 min.",
+    "Insert a toothpick into each ball—they’ll be easier for guests to pick up."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 60,
+    "fat": 2,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 85,
+    "carbohydrate": 5,
+    "fiber": 0,
+    "sugars": 4,
+    "protein": 5
+  },
+  "tips": [
+    "Try flavoured goat cheese, such as cranberry or herbed."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "cheese_stuffed_mini_meatballs_1036x583.jpg",
+  "thumbnail": "cheese_stuffed_mini_meatballs_1036x583.webp",
+  "products": [
+    {
+      "slug": "honey_garlic_meatball_seasoning__pkg_of_3_",
+      "name": "Honey Garlic Meatball Seasoning (Pack of 3)",
+      "summary": [
+        "Who doesn't love a saucy meatball!? This protein-packed, family-friendly meal comes together in just 15 minutes with simple pantry ingredients.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sweet_garlic_chicken_seasoning__pkg_of_3___1501808",
+      "name": "Sweet Garlic Chicken Seasoning (Pack of 3)",
+      "summary": [
+        "Sweet &amp; garlicky, family-friendly meal that goes from raw-to-ready in 20 minutes.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

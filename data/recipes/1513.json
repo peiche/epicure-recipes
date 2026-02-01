@@ -1,0 +1,87 @@
+{
+  "name": "Classic Canadian Caesar",
+  "slug": "classic-canadian-caesar",
+  "description": "Canada's favourite drink. We consume over 250 million Casears in Canada every year!",
+  "ingredients": [
+    {
+      "name": "lemon or lime wedge",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Caesar Rim Trimmer™",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "ice cubes",
+      "quantity": "4 - 5",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vodka",
+      "quantity": "1 - 1 <sup>1</sup>&frasl;<sub>2</sub> oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Caesar Mix",
+      "quantity": "1 - 2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Worcestershire sauce",
+      "quantity": "3 drops",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot sauce",
+      "quantity": "3 drops",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Clamato® juice",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 serving",
+  "preparation": [
+    "Moisten rim of a tall glass with lemon or lime wedge and dip into Caesar Rim Trimmer™. Rotate gently to \"frost\" glass rim.",
+    "Place ice cubes in glass. Add vodka, mix, Worcestershire sauce and hot sauce (if you like it spicy). Stir to mix",
+    "Fill glass with Clamato® juice.",
+    "Garnish with a toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 100,
+    "fat": 0.5,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 710,
+    "carbohydrate": 20,
+    "fiber": 1,
+    "sugars": 6,
+    "protein": 1
+  },
+  "tips": [
+    "For a twist, garnish with a pickled carrot, asparagus stalk, dill pickle, or a green bean instead of celery.",
+    "Make a Bold and Sassy Caesar by adding fresh or bottled horseradish, or Japanese wasabi.",
+    "Simply omit vodka to make a mocktail."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Classic-Canadian-Caesar-Main.jpg",
+  "thumbnail": "Classic-Canadian-Caesar-Main.webp",
+  "products": []
+}

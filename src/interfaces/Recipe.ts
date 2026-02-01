@@ -1,14 +1,12 @@
-import { Tag } from "./Tag";
-import { Product } from "./Product";
+import Tag from "./Tag";
+import Product from "./Product";
 
-export interface RecipeLite {
+export default interface Recipe {
     name: string;
     slug: string;
     description: string;
     image: string;
-}
-
-export interface Recipe extends RecipeLite {
+    thumbnail: string;
     totalTime: string;
     servings: string;
     ingredients: Ingredient[];

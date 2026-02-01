@@ -1,0 +1,81 @@
+{
+  "name": "Morning Glory Apple Loaf",
+  "slug": "morning-glory-apple-loaf",
+  "description": "Turn Morning Glory Muffin Mix into a stellar, gluten-free loaf with real bits of real carrot, apple, cranberry, and coconut.",
+  "ingredients": [
+    {
+      "name": "apple",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cold, unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Morning Glory Muffin Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Lightly oil Rectangular Steamer.",
+    "Dice unpeeled apple. Chop cold butter into small pieces and set aside.",
+    "In a large bowl, whisk egg and milk. Stir in muffin mix. Using a spoon, fold in diced apple and butter; don’t overwork batter.",
+    "Scrape batter into steamer. Microwave uncovered on high for 8 min. Rest in steamer 6 min; invert onto Cooling Rack. Cool completely before serving. Or, bake in preheated 350° F oven, 50–55 min. Cool in steamer 15 min, then unmold."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 240,
+    "fat": 10,
+    "saturatedFat": 6,
+    "transFat": 0.4,
+    "cholesterol": 55,
+    "sodium": 330,
+    "carbohydrate": 35,
+    "fiber": 2,
+    "sugars": 12,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Morning-Glory-Apple-Loaf_1036x583.jpg",
+  "thumbnail": "Morning-Glory-Apple-Loaf_1036x583.webp",
+  "products": [
+    {
+      "slug": "cooling_rack__set_of_2___1701277_",
+      "name": "Cooling Rack (Set of 2)",
+      "summary": [
+        "These space-saving cooling racks are an absolute must-have for every at-home baker or chef.&nbsp;"
+      ]
+    },
+    {
+      "slug": "morning_glory_muffin_mix__2pk_",
+      "name": "Morning Glory Muffin Mix (2pk)",
+      "summary": [
+        "Say good morning to moist, gluten free muffins packed with chunks of carrots, apples, coconut, and cranberries. Bake a batch in the microwave in just 15 mins and take a moment to enjoy a warm fruity muffin with your fave warm drink – or easily take them on the go any time of day!&nbsp;"
+      ]
+    },
+    {
+      "slug": "rectangular_steamer_efd7225",
+      "name": "Rectangular Steamer",
+      "summary": [
+        "Easy to clean. Easy to serve. Rectangular, silicone steamer is perfect for side dishes &amp; desserts."
+      ]
+    }
+  ]
+}

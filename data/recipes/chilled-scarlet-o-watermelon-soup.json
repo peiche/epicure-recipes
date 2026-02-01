@@ -1,0 +1,57 @@
+{
+  "name": "Chilled Scarlet O Watermelon Soup",
+  "slug": "chilled-scarlet-o-watermelon-soup",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "boiled water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Scarlet O tea leaves",
+      "quantity": "1 tsp",
+      "additionalInstruction": "or tea leaves of your choice"
+    },
+    {
+      "name": "watermelon",
+      "quantity": "4 cups",
+      "additionalInstruction": "cubed"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "liquid honey",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "5 cups",
+  "preparation": [
+    "Steep tea in boiling water for 5 minutes, strain, and cool completely.",
+    "Combine all ingredients in a blender, pulse until smooth, and chill before serving."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "1 cup",
+    "calories": 70,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 20,
+    "carbohydrate": 16,
+    "fiber": 1,
+    "sugars": 15,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Chilled-Scarlet-O-Watermelon-Soup-Main.jpg",
+  "thumbnail": "Chilled-Scarlet-O-Watermelon-Soup-Main.webp",
+  "products": []
+}

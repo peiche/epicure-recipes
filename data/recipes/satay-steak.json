@@ -1,0 +1,119 @@
+{
+  "name": "Satay Steak",
+  "slug": "satay-steak",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "flank steaks",
+      "quantity": "4 (3 oz/90 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "100% orange juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Satay Sauce Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice wine vinegar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ginger (ground)",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "2 hrs & 10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place all ingredients in a sealed plastic bag. Marinate in refrigerator for at least 2 hours.",
+    "Grill steaks over medium-high heat until desired doneness. Serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 170,
+    "fat": 7,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 35,
+    "sodium": 480,
+    "carbohydrate": 6,
+    "fiber": 0,
+    "sugars": 3,
+    "protein": 21
+  },
+  "tips": [
+    "Serve with Epicure Caesar Salad for a fuss-free, good-for-you fusion meal!"
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Satay-Steak-Main.jpg",
+  "thumbnail": "Satay-Steak-Main.webp",
+  "products": [
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    }
+  ]
+}

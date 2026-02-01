@@ -1,0 +1,85 @@
+{
+  "name": "Blue Cheese and Onion Cheese Ball",
+  "slug": "blue-cheese-and-onion-cheese-ball",
+  "description": "Make into a cheese ball or simply roll into a ‘log’. Perfect when served with Red Pepper Jelly.",
+  "ingredients": [
+    {
+      "name": "light cream cheese",
+      "quantity": "1 - 8 oz brick",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crumbled blue cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Worcestershire sauce",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pecan or walnut crumbs",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "1 cheese ball (approx. 24 servings)",
+  "preparation": [
+    "Combine cream cheese, blue cheese, Worcestershire sauce and 3 Onion Dip Mix.",
+    "Form into ball or log.",
+    "Roll in nuts to coat."
+  ],
+  "tags": [
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 80,
+    "fat": 7,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 135,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 3
+  },
+  "tips": [
+    "Cheese balls can be frozen for up to 1 month. Unwrap and thaw to room temperature before serving with crackers or bread."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Blue-Cheese-and-Onion-Cheese-Ball-Main.jpg",
+  "thumbnail": "Blue-Cheese-and-Onion-Cheese-Ball-Main.webp",
+  "products": [
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    }
+  ]
+}

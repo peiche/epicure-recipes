@@ -1,0 +1,93 @@
+{
+  "name": "Marinara Sauce",
+  "slug": "marinara-sauce",
+  "description": "The Audrey Hepburn of pasta sauces. Marinara is a simple, yet beautiful tomato-based sauce. The robust flavours of garlic, herb and oregano in Marinara Sauce Mix brings a taste of elegance to any pasta dish. Use for pasta, pizza, or add to soups for a burst of bright tomato flavor. Use as a dipping sauce—a healthier, lower-sugar alternative to ketchup.",
+  "ingredients": [
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 cups",
+  "preparation": [
+    "In Multipurpose Pot - 8 cup, combine diced tomatoes, crushed tomatoes and sauce mix. Simmer for 15 min."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1/2 cup",
+    "calories": 40,
+    "fat": 0.2,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 250,
+    "carbohydrate": 9,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 2
+  },
+  "tips": [
+    "Portion into Prep Bowls. Freeze leftovers up to three months."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1543_Marinara_Sauce_1036x583.jpg",
+  "thumbnail": "1543_Marinara_Sauce_1036x583.webp",
+  "products": [
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavour of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

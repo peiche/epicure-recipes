@@ -1,0 +1,139 @@
+{
+  "name": "Pumpkin Ale Braised Pork",
+  "slug": "pumpkin-ale-braised-pork",
+  "description": "This method of slow-cooking is called “braising” and it’s a great way of cooking with liquids to make tougher cuts of meat tasty and fork tender.",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "quantity": "2 lbs (900 g)",
+      "additionalInstruction": "cut into cubes"
+    },
+    {
+      "name": "pumpkin ale",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Beef & Steak Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sage & Apple Stuffing Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "carrots",
+      "quantity": "6 ",
+      "additionalInstruction": "cut into thick pieces"
+    },
+    {
+      "name": "onions",
+      "quantity": "2 ",
+      "additionalInstruction": "cut into large chunks"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "",
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "1 hr 20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "In a large bowl, combine pork, ale, and seasonings.",
+    "Heat oil in a large pot over medium-high heat. Remove pork from ale mixture and sear until brown on all sides.",
+    "Add ale mixture and vegetables to pot. Cover and simmer on low for 1–1 1&frasl;2 hours.",
+    "Season with Salt and Pepper to taste and serve."
+  ],
+  "tags": [
+    {
+      "slug": "st__patrick_s_day",
+      "name": "St. Patrick’s Day"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "slow_cooker",
+      "name": "Slow Cookers & Roasts"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 270,
+    "fat": 7,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 90,
+    "sodium": 115,
+    "carbohydrate": 11,
+    "fiber": 2,
+    "sugars": 4,
+    "protein": 33
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Pumpkin-Ale-Braised-Pork-Main.jpg",
+  "thumbnail": "Pumpkin-Ale-Braised-Pork-Main.webp",
+  "products": [
+    {
+      "slug": "beef___steak_seasoning",
+      "name": "Beef & Steak Seasoning",
+      "summary": [
+        "Take simple grilled steaks and oven-roasted beef up a notch! Sprinkle this sodium-free blend liberally to complement the taste of the meat.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sage___apple_stuffing_seasoning_32d0fa0",
+      "name": "Sage & Apple Stuffing Seasoning",
+      "summary": [
+        "Prepare to wow your guests with this simple yet show-stopping Sage &amp; Apple Stuffing. It’s a holiday must-have!&nbsp;"
+      ]
+    }
+  ]
+}

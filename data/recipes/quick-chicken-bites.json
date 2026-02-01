@@ -1,0 +1,135 @@
+{
+  "name": "Quick Chicken Bites ",
+  "slug": "quick-chicken-bites",
+  "description": "Whether you’re hosting a laid-back get-together, a kid’s birthday party, or a fancy soirée, these little nuggets are an awesome, crowd-pleasing appy. Got surprise guests at your door? These are a breeze to whip up in your air fryer in no time at all!",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise or plain 2% Greek yogurt",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Crispy & Crunchy Coating Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat air fryer to 375° F.",
+    "Cut chicken breast into 1 1&frasl;2\" chunks; toss in a bowl with mayonnaise to coat.",
+    "Place coating mix in a shallow dish. Using tongs or your hands, add chicken one chunk at a time, rotating and pressing to coat.",
+    "Place in air fryer basket and cook 10 min, or until golden brown and cooked through, turning halfway."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "air_fryer",
+      "name": "Air Fryer"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "cook_the_catalogue",
+      "name": "Cook the Catalogue"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 240,
+    "fat": 9,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 70,
+    "sodium": 370,
+    "carbohydrate": 14,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 25
+  },
+  "tips": [
+    "Serve with Creamy Ranch Dip or Honey Mustard for dipping.",
+    "Trick your picky eaters into enjoying something healthier by cutting chicken breast into their favourite fast food nugget shapes before coating and cooking.",
+    "Don't have an air fryer? Place two Cooling Racks on a Sheet Pan; lightly brush with oil to prevent sticking. Place chicken on racks in a single layer. Bake in a preheated oven at 425° F for 15 min, or until chicken reaches an internal temperature of 165° F."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "quick_chicken_bites_1036x583.jpg",
+  "thumbnail": "quick_chicken_bites_1036x583.webp",
+  "products": [
+    {
+      "slug": "crispy___crunchy_coating__pkg_of_3_",
+      "name": "Crispy & Crunchy Coating (Pkg of 3)",
+      "summary": [
+        "Craving the crunch? Add a crispy gluten free coating – that’s never soggy or bland – to protein and veggies and bake them in the oven. You’ll get all the taste of your fave fried foods without a trace of greasiness, so you can enjoy them whenever the craving strikes!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "honey_mustard",
+      "name": "Honey Mustard",
+      "summary": [
+        "A bold twist on a classic condiment made with 100% Canadian mustard seed and organic honey.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "cooling_rack__set_of_2___1701277_",
+      "name": "Cooling Rack (Set of 2)",
+      "summary": [
+        "These space-saving cooling racks are an absolute must-have for every at-home baker or chef.&nbsp;"
+      ]
+    }
+  ]
+}

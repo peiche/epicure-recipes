@@ -1,0 +1,139 @@
+{
+  "name": "Black Bean Quesadilla",
+  "slug": "black-bean-quesadilla",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "mayonnaise or 2% Greek yogurt",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nacho Cheese Dip Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "black beans",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated cheese, your choice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "flour or corn tortillas",
+      "quantity": "4 (6\"/15 cm)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large tomato",
+      "quantity": "1 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Line a Sheet Pan with a Sheet Pan Liner. Preheat oven to 400° F.",
+    "Meanwhile, in bowl, stir together mayonnaise with dip mix. Set aside.",
+    "Drain and rinse beans.",
+    "Arrange tortillas on pan. Spread dip on half of each tortilla. Top with beans and cheese, then fold tortillas over filling.",
+    "Bake for 10 min or until cheese melts and tortillas are light golden.",
+    "Meanwhile, prepare salsa. Dice tomato; place in a bowl and stir in salsa mix. Using the 2-in-1 Citrus Press, squeeze in 1 tsp lime juice. Stir to mix.",
+    "Cut tortillas into wedges and serve with salsa."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 390,
+    "fat": 12,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 1040,
+    "carbohydrate": 51,
+    "fiber": 10,
+    "sugars": 4,
+    "protein": 20
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups sliced vegetables, your choice.",
+  "image": "Quickie_Black_Bean_Quesadilla_1036x583.jpg",
+  "thumbnail": "Quickie_Black_Bean_Quesadilla_1036x583.webp",
+  "products": [
+    {
+      "slug": "nacho_cheese_dip_mix_ff77f80",
+      "name": "Nacho Cheese Dip Mix",
+      "summary": [
+        "A delicious blend of bold chili with real Parmesan makes for a creamy nacho cheese dip or seasoning.&nbsp;"
+      ]
+    },
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chillies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

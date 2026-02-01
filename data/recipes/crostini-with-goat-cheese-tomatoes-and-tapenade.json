@@ -1,0 +1,120 @@
+{
+  "name": "Crostini with Goat Cheese, Tomatoes and Tapenade",
+  "slug": "crostini-with-goat-cheese-tomatoes-and-tapenade",
+  "description": "Crostini is Italian for “little toasts.” Try them topped with this savoury blend of ingredients.",
+  "ingredients": [
+    {
+      "name": "crostinis (small toasted rounds of French bread)",
+      "quantity": "12 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "goat cheese or cream cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "tomato",
+      "quantity": "1 ",
+      "additionalInstruction": "halved, then thinly sliced"
+    },
+    {
+      "name": "Olive Tapenade",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "pitted olives",
+      "quantity": "2 cups",
+      "additionalInstruction": "brined or oil cured"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> - <sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": " Rosemary Garlic Seasoning or Herb & Garlic Dip Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "capers",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "anchovy filets",
+      "quantity": "2 ",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "12 pieces",
+  "preparation": [
+    "Spread each crostini with goat cheese.",
+    "Top with a slice of tomato and a dollop of Tapenade.",
+    "Arrange on a platter and serve."
+  ],
+  "tags": [
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 piece",
+    "calories": 120,
+    "fat": 3.5,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 240,
+    "carbohydrate": 17,
+    "fiber": 1,
+    "sugars": 0,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Crostini-with-Goat-Cheese-Tomatoes-and-Tapenade-Main.jpg",
+  "thumbnail": "Crostini-with-Goat-Cheese-Tomatoes-and-Tapenade-Main.webp",
+  "products": [
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavours on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    },
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    }
+  ]
+}

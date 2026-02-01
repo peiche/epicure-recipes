@@ -1,0 +1,95 @@
+{
+  "name": "Soft Serve S’mores Chocolate Yogurt ",
+  "slug": "soft-serve-s-mores-chocolate-yogurt",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "plain yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chocolate Fudge Sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chocolate Fudge Sauce Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whipping cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "graham cracker sheets",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": "crumbled"
+    },
+    {
+      "name": "miniature marshmallows",
+      "quantity": "30",
+      "additionalInstruction": null
+    },
+    {
+      "name": "miniature chocolate chips",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Combine all ingredients in an airtight freezer-proof container. Freeze for 30 minutes and serve immediately or freeze for at least 2 hours for a more solid consistency.",
+    "Divide among Epicure Prep Bowls for individual portions."
+  ],
+  "tags": [
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 130,
+    "fat": 3,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 50,
+    "carbohydrate": 21,
+    "fiber": 1,
+    "sugars": 15,
+    "protein": 6
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Soft-Serve-S-mores-Chocolate-Yogurt-Main.jpg",
+  "thumbnail": "Soft-Serve-S-mores-Chocolate-Yogurt-Main.webp",
+  "products": [
+    {
+      "slug": "chocolate_fudge_sauce_mix__pkg_of_2_",
+      "name": "Chocolate Fudge Sauce Mix (Pack of 2)",
+      "summary": [
+        "Rich, chocolatey and sweet. A fudge sauce made with organic cane sugar and organic cocoa powder.&nbsp;"
+      ]
+    },
+    {
+      "slug": "prep_bowls__set_of_4__f30391c",
+      "name": "Prep Bowls (Set of 4)",
+      "summary": [
+        "Prep, serve, &amp; store—a kitchen essential!"
+      ]
+    }
+  ]
+}

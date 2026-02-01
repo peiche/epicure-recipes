@@ -1,0 +1,143 @@
+{
+  "name": "Penne with Cherry Tomato Sauce",
+  "slug": "penne-with-cherry-tomato-sauce",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "whole-grain penne",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "3 cups",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dry white wine",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large basil leaves",
+      "quantity": "8",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed chilies",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": "or to taste"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Pot, cook penne according to package directions.",
+    "In a frying pan or Wok over high heat, add tomatoes, oil, wine, Bouillon, basil, Minced Garlic, sugar and crushed chilies, and cook until boiling. Reduce heat to medium-low and simmer approximately 10 minutes.",
+    "Add pasta to sauce, toss, sprinkle with Parmesan cheese and toss again. Serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 480,
+    "fat": 10,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 110,
+    "carbohydrate": 72,
+    "fiber": 9,
+    "sugars": 7,
+    "protein": 15
+  },
+  "tips": [
+    "Double the recipe and freeze half for an easy meal next week.",
+    "Serve with seasonal greens and your favourite Epicure's Dressing."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Penne-with-Cherry-Tomato-Sauce_1036x583.jpg",
+  "thumbnail": "Penne-with-Cherry-Tomato-Sauce_1036x583.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavours of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "name": "Crispy & Crunchy Tofu Bites",
+  "slug": "crispy-crunchy-tofu-bites",
+  "description": "Crispy delicious morsels of goodness that you can bake or air fry to perfection. Serve with a dollop of CCB Dip for a delicious appetizer or follow the “perfectly balance your plate” suggestion to make it a meal!",
+  "ingredients": [
+    {
+      "name": "firm or extra-firm tofu",
+      "quantity": "2 blocks (350 g each)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise or 2% plain Greek yogurt",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Crispy & Crunchy Coating Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 425° F. Place two Cooling Racks on Sheet Pan lined with Sheet Pan Liner; lightly brush racks with oil to prevent sticking.",
+    "Drain and pat tofu dry. Slice each block in two, lengthwise. Using your hands, tear the tofu into bite-sized nuggets. Place in a bowl with mayo; toss to coat.",
+    "Place coating mix in a shallow dish. Using tongs or your hands, add tofu pieces one at a time, rotating and pressing to coat.",
+    "Place tofu on racks, leaving some space between each piece. Bake 15 min or until golden."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 270,
+    "fat": 15,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 310,
+    "carbohydrate": 18,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 17
+  },
+  "tips": [
+    "Coat nuggets with your favourite Epicure Dip instead of mayo for extra flavour.",
+    "If you have time, layer paper towel around your blocks of tofu. Place heavy items—cutting board, cookbooks, or bowls—on top to weigh down tofu and remove extra liquid. Let sit 20 min. Alternatively, look for already pressed tofu (it will be vacuumed packed, with no liquid in it) at the grocery store. It’ll give your nuggets an irresistible texture."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced veggies, 2 tbsp favourite Epicure Dip, and 1&frasl;2 cup cooked grains or oven fries, your choice.",
+  "image": "crispy_crunchy_tofu_bites_1036x583.jpg",
+  "thumbnail": "crispy_crunchy_tofu_bites_1036x583.webp",
+  "products": [
+    {
+      "slug": "crispy___crunchy_coating__pkg_of_3_",
+      "name": "Crispy & Crunchy Coating (Pkg of 3)",
+      "summary": [
+        "Craving the crunch? Add a crispy gluten free coating – that’s never soggy or bland – to protein and veggies and bake them in the oven. You’ll get all the taste of your fave fried foods without a trace of greasiness, so you can enjoy them whenever the craving strikes!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    },
+    {
+      "slug": "cooling_rack__set_of_2___1701277_",
+      "name": "Cooling Rack (Set of 2)",
+      "summary": [
+        "These space-saving cooling racks are an absolute must-have for every at-home baker or chef.&nbsp;"
+      ]
+    }
+  ]
+}

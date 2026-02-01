@@ -1,0 +1,156 @@
+{
+  "name": "Herbed Saucy Risotto",
+  "slug": "herbed-saucy-risotto",
+  "description": "Make a mish-mash of crave-worthy flavours easily by pairing with seasoning and finishing sauce. Customize to create your own sensational risotto using the base recipe below.",
+  "ingredients": [
+    {
+      "name": "Vegetable Broth",
+      "quantity": "5 cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Arborio rice or other medium-grain rice",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "curry seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water or dry white wine",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pesto Sauce",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Pesto Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pine nuts or pistachio nuts",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a Multipurpose Pot - 8 cup, heat broth to a gentle simmer. Reduce heat and keep warm.",
+    "Heat a Multipurpose Pot - 12 cup to medium; add olive oil and rice. Toast rice for about 2 minutes before adding seasoning and water or wine. Stir well and cook until nearly all liquid evaporates.",
+    "Add one ladle of warm broth to rice, stir, and cook until stock is absorbed. Continue to add broth to rice 2–3 ladles at a time, stirring and cooking after each addition, until liquid is absorbed. This process can take 15–20 minutes. Stop adding liquid once rice is al dente or tender, yet still firm.",
+    "Remove rice from heat and drizzle with prepared finishing sauce. Serve."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 6,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 115,
+    "carbohydrate": 32,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 9
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 protein serving and 1&frasl;2 cup of veggies.",
+  "image": "1603133851722-recipeMainImagePath.jpg",
+  "thumbnail": "1603133851722-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    }
+  ]
+}

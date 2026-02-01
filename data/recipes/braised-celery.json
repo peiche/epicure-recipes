@@ -1,0 +1,130 @@
+{
+  "name": "Braised Celery",
+  "slug": "braised-celery",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "onions",
+      "quantity": "1 cup",
+      "additionalInstruction": "sliced thin"
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "celery",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "cut into 3-inch pieces"
+    },
+    {
+      "name": "Rosemary Garlic Seasoning",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "finely grated Parmesan",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "23 min",
+  "servings": "4–6 servings    ",
+  "preparation": [
+    "In a fry pan, sauté onion and garlic in olive oil over medium heat, until onion wilts completely and starts to turn brown.",
+    "Add bouillon, celery, and seasonings to the pan. Cover and adjust to a steady simmer for 15 minutes or until the celery is soft when prodded with a fork.",
+    "Uncover and increase the heat to high to reduce any remaining liquid.",
+    "Top with Salt, Pepper, and Parmesan."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 50,
+    "fat": 2.5,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 75,
+    "carbohydrate": 6,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 2
+  },
+  "tips": [
+    "Braised celery is a perfect match with roast chicken or pork and is a tasty twist on everyone’s fridge staple."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Braised-Celery-Main.jpg",
+  "thumbnail": "Braised-Celery-Main.webp",
+  "products": [
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    },
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavours of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavours on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    }
+  ]
+}

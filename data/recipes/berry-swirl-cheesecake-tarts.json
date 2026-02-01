@@ -1,0 +1,129 @@
+{
+  "name": "Berry Swirl Cheesecake Tarts",
+  "slug": "berry-swirl-cheesecake-tarts",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "frozen tart shells",
+      "quantity": "24",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Berry Swirl No-Bake Cheesecake Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "frozen raspberries",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cream cheese",
+      "quantity": "1 brick (8 oz/250 g)",
+      "additionalInstruction": "room temperature"
+    },
+    {
+      "name": "whipping cream",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "24 servings",
+  "preparation": [
+    "Preheat oven to 375° F.",
+    "Place tart shells on Sheet Pan. Bake for 10–12 min, or until golden.",
+    "Let cool. Remove tarts from foil cups.",
+    "Meanwhile, in 4-Cup Prep Bowl, combine 1 tbsp mix with raspberries. Microwave, uncovered, 1 min or until hot. Mash and stir together; set aside in the fridge.",
+    "Using a stand mixer or hand mixer, beat cream cheese with remaining mix on medium-high until smooth. Scrape the sides of the bowl.",
+    "Gradually add cream, whipping until soft peaks form. Fold in berries.",
+    "Using a pastry bag, fill prebaked, cooled tart shells with cheesecake filling. Chill until ready to serve."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "easter",
+      "name": "Easter"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 tart",
+    "calories": 190,
+    "fat": 14,
+    "saturatedFat": 7,
+    "transFat": 0,
+    "cholesterol": 30,
+    "sodium": 130,
+    "carbohydrate": 15,
+    "fiber": 1,
+    "sugars": 4,
+    "protein": 2
+  },
+  "tips": [
+    "You can use mini tart shells to make mini tarts for a bite-sized dessert. This recipe makes enough filling for 48 mini tarts.",
+    "For a more extravagant presentation, using a toothpick, swirl the raspberry mixture into the tart after cream cheese mixture has been added."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "berry_swirl_cheesecake_tarts_1036x583.jpg",
+  "thumbnail": "berry_swirl_cheesecake_tarts_1036x583.webp",
+  "products": [
+    {
+      "slug": "berry_swirl_cheesecake_mix__pack_of_2_",
+      "name": "Berry Swirl Cheesecake Mix (Pack of 2)",
+      "summary": [
+        "When the summer temperatures start to rise, keep your kitchen cool and enjoy the best no-bake cheesecake around! Easily whip up cheesecake, icebox cakes, ice pops, tarts and more, packed with the taste of vine-ripened, juicy berries.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

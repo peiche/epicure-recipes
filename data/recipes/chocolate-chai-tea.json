@@ -1,0 +1,52 @@
+{
+  "name": "Chocolate Chai Tea",
+  "slug": "chocolate-chai-tea",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "low-fat chocolate milk",
+      "quantity": "5 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "or to taste"
+    },
+    {
+      "name": "Chai Tea",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 - 20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Combine ingredients in Multipurpose Pot - 8 cup. Stir well and bring to a simmer over medium heat.",
+    "Strain, then froth in a milk frother."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 270,
+    "fat": 6,
+    "saturatedFat": 3.5,
+    "transFat": 0.2,
+    "cholesterol": 25,
+    "sodium": 210,
+    "carbohydrate": 48,
+    "fiber": 2,
+    "sugars": 39,
+    "protein": 10
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Chocolate-Chai-Tea-Main.jpg",
+  "thumbnail": "Chocolate-Chai-Tea-Main.webp",
+  "products": []
+}

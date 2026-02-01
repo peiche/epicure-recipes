@@ -1,0 +1,110 @@
+{
+  "name": "Sesame Crunch Chickpea Burger",
+  "slug": "sesame-crunch-chickpea-burger",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "quantity": "1 can (19 oz/540 ml)",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "small zucchini",
+      "quantity": "1",
+      "additionalInstruction": "grated"
+    },
+    {
+      "name": "sandwich bread (gluten-free, if desired)",
+      "quantity": "2 slices",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crunchy peanut or almond butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sesame Ginger Dressing Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sesame Crunch Topper",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": null,
+      "additionalInstruction": "for grilling"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a food processor, or with a masher, combine chickpeas, zucchini, bread, nut butter, Sesame Ginger Dressing Seasoning, Sesame Crunch Topper, Sea Salt, and Black Pepper. Pulse until roughly chopped.",
+    "Form the mixture into four patties. Patties can be stored in the refrigerator for up to 2 days. Heat a fry pan to medium. Add oil and pan-fry patties for approximately 5 minutes per side, until crisp and brown on the outside and warmed through. Serve with your favourite burger buns and fixings."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 300,
+    "fat": 8,
+    "saturatedFat": 1,
+    "transFat": 0.1,
+    "cholesterol": 0,
+    "sodium": 490,
+    "carbohydrate": 47,
+    "fiber": 9,
+    "sugars": 4,
+    "protein": 13
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sesame-Crunch-Chickpea-Burger-Main.jpg",
+  "thumbnail": "Sesame-Crunch-Chickpea-Burger-Main.webp",
+  "products": []
+}

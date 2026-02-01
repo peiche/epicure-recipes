@@ -1,0 +1,109 @@
+{
+  "name": "Chocolate Cream Pudding Pie",
+  "slug": "chocolate-cream-pudding-pie",
+  "description": "Chocolate lovers rejoice! This no-bake pie is requires minimal effort (aka you don’t need to be a star baker) but it delivers on presentation and taste. Swap vanilla extract with orange extract to intensify the chocolate & orange flavour combination.",
+  "ingredients": [
+    {
+      "name": "vanilla or chocolate graham wafer crumbs",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whipping cream",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "orange zest",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chocolate Pudding",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chocolate Instant Pudding Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "2 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "mocha beans",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "1 hr 20 min",
+  "servings": "10 servings",
+  "preparation": [
+    "Stir graham wafer crumbs with butter. Press over bottom and part-way up the side of a pie dish.",
+    "Using an electric mixer, whip cream with sugar, orange zest, and vanilla extract until soft peaks form.",
+    "Beat Chocolate Pudding with one-third of the whipped cream. Gently fold in remaining whipped cream until no streaks remain.",
+    "Turn mixture into pie crust and smooth top. Freeze for at least 2 hours or until firm. Top with mocha beans before serving, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 410,
+    "fat": 27,
+    "saturatedFat": 15,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 260,
+    "carbohydrate": 42,
+    "fiber": 2,
+    "sugars": 22,
+    "protein": 5
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "What-s-for-Dessert-Chocolate-Cream-Pudding-Pie-Main.jpg",
+  "thumbnail": "What-s-for-Dessert-Chocolate-Cream-Pudding-Pie-Main.webp",
+  "products": [
+    {
+      "slug": "chocolate_instant_pudding_mix__pack_of_3___caldic__bc2ef56",
+      "name": "Chocolate Instant Pudding Mix (Pack of 2)",
+      "summary": [
+        "Spoon after delicious spoon, satisfy your sweet tooth with a low-calorie chocolate pudding that’s decadent and oh-so-good.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

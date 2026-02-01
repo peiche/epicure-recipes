@@ -1,0 +1,157 @@
+{
+  "name": "Southern Baked Popcorn Chicken Dinner",
+  "slug": "southern-baked-popcorn-chicken-dinner",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "2 lbs (900 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Southern Baked Gluten Free Crumb Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Yukon Gold potatoes",
+      "quantity": "4 medium",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Rosemary Garlic Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "butter",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 400° F. Line Sheet Pan with Sheet Pan Liner.",
+    "Cut chicken into 2\" pieces. Place in a bowl; coat with oil. Add mix; toss to evenly coat. Spread out on sheet pan. Bake until cooked through, 15–18 min.",
+    "Meanwhile, cut unpeeled potatoes into 2\" pieces. Place in Multipurpose Steamer. Cover; microwave on high 8 min or until tender.",
+    "Add seasoning; mash potatoes, then stir in milk and butter. If needed, cover and microwave on high, 1 min or until warm."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 390,
+    "fat": 9,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 85,
+    "sodium": 430,
+    "carbohydrate": 40,
+    "fiber": 8,
+    "sugars": 2,
+    "protein": 36
+  },
+  "tips": [
+    "Vegetarian option: swap chicken for 2 pkgs (350 g each) extra-firm tofu. Follow directions above and bake 10–15 min."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup Tangy Coleslaw.",
+  "image": "southern_baked_popcorn_chicken_1036x583.jpg",
+  "thumbnail": "southern_baked_popcorn_chicken_1036x583.webp",
+  "products": [
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavours on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

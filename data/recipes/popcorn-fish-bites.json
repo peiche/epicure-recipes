@@ -1,0 +1,110 @@
+{
+  "name": "Popcorn Fish Bites",
+  "slug": "popcorn-fish-bites",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Pakora Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "cubed fish",
+      "quantity": "10 oz (285 g)",
+      "additionalInstruction": "about 2 cups"
+    },
+    {
+      "name": "grated zucchini",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a large bowl, combine Pakora Mix with 1&frasl;2 cup hot water and lemon juice. Let stand 5 minutes.",
+    "Season fish with salt; fold into mixture along with zucchini.",
+    "Preheat large frying pan over medium heat; add oil. Using a tablespoon, drop batter into pan; flatten slightly. Cook until golden on both sides. Serve with tartar sauce, Lemon Dilly Dip, or your favourite aioli."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 350,
+    "fat": 18,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 40,
+    "sodium": 600,
+    "carbohydrate": 25,
+    "fiber": 5,
+    "sugars": 4,
+    "protein": 23
+  },
+  "tips": [
+    "Make tartar sauce by stirring chopped pickles or capers into prepared Lemon Dilly Dip."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup Sweet Potato Fries and 1 cup sliced mixed veggies.",
+  "image": "1600357470661-recipeMainImagePath.jpg",
+  "thumbnail": "1600357470661-recipeMainImagePath.webp",
+  "products": []
+}

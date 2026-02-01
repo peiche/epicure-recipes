@@ -1,0 +1,75 @@
+{
+  "name": "Quick Molto Bene Tapenade",
+  "slug": "quick-molto-bene-tapenade",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "pitted olives (like Kalamatas or Sicilian)",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Molto Bene Sauce",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "2 cups",
+  "preparation": [
+    "Finely chop olives and place in serving bowl.",
+    "Combine with prepared Molto Bene Sauce and serve with your favourite crackers, or plain crostinis."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 35,
+    "fat": 3.5,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 160,
+    "carbohydrate": 2,
+    "fiber": 1,
+    "sugars": 0,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Quick-Molto-Bene-Tapenade-Main.jpg",
+  "thumbnail": "Quick-Molto-Bene-Tapenade-Main.webp",
+  "products": []
+}

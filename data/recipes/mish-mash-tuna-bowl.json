@@ -1,0 +1,153 @@
+{
+  "name": "Mish Mash Tuna Bowl",
+  "slug": "mish-mash-tuna-bowl",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Guacamole",
+      "quantity": "2 cups prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ripe avocados",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Guacamole Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice, optional",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa",
+      "quantity": "2 cups prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "cilantro",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "light tuna",
+      "quantity": "2 cans (6 oz each)",
+      "additionalInstruction": "packed in water, drained"
+    },
+    {
+      "name": "mixed veggies",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice or whole-grain crackers",
+      "quantity": "3 <sup>1</sup>&frasl;<sub>2</sub> oz",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In four bowls, divide Guacamole and top with Salsa and tuna. Serve each with 1 cup veggies and rice crackers."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 470,
+    "fat": 19,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 25,
+    "sodium": 900,
+    "carbohydrate": 48,
+    "fiber": 14,
+    "sugars": 8,
+    "protein": 30
+  },
+  "tips": [
+    "Need a lunch or dinner quick? Keep homemade Salsa and Guacamole in your fridge for a quick anytime meal."
+  ],
+  "perfectlyBalanceYourPlate": "This is a Perfectly Balanced Plate",
+  "image": "Mish-Mash-Tuna-Bowl_1036x583.jpg",
+  "thumbnail": "Mish-Mash-Tuna-Bowl_1036x583.webp",
+  "products": [
+    {
+      "slug": "guacamole_dip_mix_dc7efdb",
+      "name": "Guacamole Dip Mix",
+      "summary": [
+        "An all-natural blend of sweet peppers, garlic, and chilies comes together to create the perfect guacamole––minus the sodium and additives! &nbsp;"
+      ]
+    },
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chillies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    }
+  ]
+}

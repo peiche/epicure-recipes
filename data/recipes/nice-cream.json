@@ -1,0 +1,84 @@
+{
+  "name": "\"Nice\" Cream",
+  "slug": "nice-cream",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "frozen bananas",
+      "quantity": "6",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix or Strawberry Margarita Mix",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Power Up Vanilla Protein Blend",
+      "quantity": "2 scoops",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "mixed frozen berries such as strawberries, cherries, raspberries, or blueberries",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Cut peeled bananas into small pieces. Place in a food processor; add dip mix, protein blend, and vanilla, if desired.",
+    "Pulse until creamy, scraping down the sides as necessary. Turn into a bowl and stir in berries; freeze until ready to use. Serve with toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 190,
+    "fat": 1,
+    "saturatedFat": 0.3,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 100,
+    "carbohydrate": 40,
+    "fiber": 7,
+    "sugars": 22,
+    "protein": 9
+  },
+  "tips": [
+    "Sandwich Nice Cream between waffles."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Nice cream waffles-161.jpg",
+  "thumbnail": "Nice cream waffles-161.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    }
+  ]
+}

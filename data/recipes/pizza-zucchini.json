@@ -1,0 +1,120 @@
+{
+  "name": "Pizza Zucchini",
+  "slug": "pizza-zucchini",
+  "description": "Pizza and zucchini haven’t been close culinary friends, until now! Crispy fries meet iconic pizza flavours. And hey, we’re not in the habit of telling you what to do, but you should really try dunking these in warm Marinara Sauce.",
+  "ingredients": [
+    {
+      "name": "zucchinis",
+      "quantity": "2",
+      "additionalInstruction": "cut into thin sticks"
+    },
+    {
+      "name": "egg white ",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pizza Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "or your favourite"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 425° F (220° C)",
+    "Whisk egg white with milk in a small bowl.",
+    "Combine Parmesan, breadcrumbs, and seasoning in a separate bowl.",
+    "Dip zucchini sticks into egg mixture, and then roll in breadcrumb mixture.",
+    "Place on a crisper and bake for 25–30 minutes or until golden brown."
+  ],
+  "tags": [
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 100,
+    "fat": 4,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 50,
+    "sodium": 45,
+    "carbohydrate": 9,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 8
+  },
+  "tips": [
+    "Serve with warm Marinara Sauce or kick up the heat with Chipotle Aioli."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 protein serving and 1 cup veggies.",
+  "image": "1605551885934-recipeMainImagePath.jpg",
+  "thumbnail": "1605551885934-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "pizza_seasoning_2308099",
+      "name": "Pizza Seasoning (1002291)",
+      "summary": [
+        "In a world of complex gastronomy, pizza is a testament to the simple pleasures we all crave. Now you can get it by the spoonful! This blend delivers the nostalgic flavours and feeling of eating pizza, with notes of basil, oregano, garlic, tomato, and green bell peppers with loads of Parmesan. And yes, there is a mild whisper of chilli, too!&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

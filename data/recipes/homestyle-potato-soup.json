@@ -1,0 +1,152 @@
+{
+  "name": "Homestyle Potato Soup",
+  "slug": "homestyle-potato-soup",
+  "description": "A warming way to satisfy your hunger and your taste buds.",
+  "ingredients": [
+    {
+      "name": "Nourish Broth",
+      "quantity": "4 cups prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium potatoes",
+      "quantity": "3",
+      "additionalInstruction": "peeled and cut into large pieces"
+    },
+    {
+      "name": "milk",
+      "quantity": "2 cups",
+      "additionalInstruction": "heated"
+    },
+    {
+      "name": "French Onion Dip Mix or CCB Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a Multipurpose Pot, bring Nourish Broth and potatoes to a boil over high heat. Reduce temperature and simmer for 15 minutes until potatoes are tender.",
+    "Using a potato masher, break potatoes into smaller pieces. Soup should still be 'lumpy'.",
+    "Stir in hot milk and dip mix.",
+    "Season to taste with salt and pepper. Reheat until hot. To prevent curdling, do not boil."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "st__patrick_s_day",
+      "name": "St. Patrick’s Day"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 200,
+    "fat": 2.5,
+    "saturatedFat": 1.5,
+    "transFat": 0.1,
+    "cholesterol": 10,
+    "sodium": 210,
+    "carbohydrate": 36,
+    "fiber": 4,
+    "sugars": 2,
+    "protein": 9
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein and 2 cups leafy greens with 1 tbsp Epicure Dressing.",
+  "image": "Homestyle-Potato-Soup_1036x583.jpg",
+  "thumbnail": "Homestyle-Potato-Soup_1036x583.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "french_onion_dip_mix_9a610da",
+      "name": "French Onion Dip Mix",
+      "summary": [
+        "Ruffled chips and crunchy veggies don’t stand a chance when French Onion is on the table! Gluten and sodium free, and packed with all the delicious taste of toasted onion and parsley, this blend makes a kid-friendly dip, but it doesn’t stop there. Use it to season any savory dish where you’d like to liven up the flavur with onion — without having to chop or roast a bunch of onions!&nbsp;"
+      ]
+    },
+    {
+      "slug": "ccb_dip_mix_b61a530",
+      "name": "CCB Dip Mix",
+      "summary": [
+        "<strong>Cheese. Chives. Bacon. </strong>How's that for a totally irresistible trio? Our very own smoky vegetarian bacon, made from pinto beans, is the secret star of this oh-so-yummy dip.",
+        "This blend is all about versatility and we recommend taking it way beyond the dip bowl—use CCB in any dish that could use a little levelling up.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    }
+  ]
+}

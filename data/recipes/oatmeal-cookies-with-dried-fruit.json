@@ -1,0 +1,156 @@
+{
+  "name": "Oatmeal Cookies with Dried Fruit",
+  "slug": "oatmeal-cookies-with-dried-fruit",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whole-wheat flour",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking soda",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "non-hydrogenated margarine",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "applesauce",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs, or 1 egg plus 2 egg whites",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dried fruit",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "old-fashioned oats or quick oats",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "36 cookies",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Combine first 6 ingredients in a small mixing bowl.",
+    "Combine margarine, applesauce, sugars and vanilla extract in a large mixing bowl. Add eggs one at a time, beating well after each addition.",
+    "Combine wet and dry ingredients. Stir in dried fruit and oats.",
+    "Drop dough by heaping teaspoons 3\" apart onto Sheet Pan lined with Sheet Pan Liner. Lightly press cookies down with a fork.",
+    "Bake for approximately 10–12 minutes, or until lightly browned around edges."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cookie",
+    "calories": 130,
+    "fat": 3.5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 25,
+    "sodium": 100,
+    "carbohydrate": 22,
+    "fiber": 1,
+    "sugars": 10,
+    "protein": 2
+  },
+  "tips": [
+    "To reduce fat content in your favourite baking recipes, substitute applesauce for some of the fat."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Oatmeal-Cookies-with-Dried-Fruit-Main.jpg",
+  "thumbnail": "Oatmeal-Cookies-with-Dried-Fruit-Main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

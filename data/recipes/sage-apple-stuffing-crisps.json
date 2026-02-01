@@ -1,0 +1,86 @@
+{
+  "name": "Sage & Apple Stuffing Crisps",
+  "slug": "sage-apple-stuffing-crisps",
+  "description": "Choose a whole-grain baguette for added fibre - important for heart health and weight maintenance.",
+  "ingredients": [
+    {
+      "name": "butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "at room temperature"
+    },
+    {
+      "name": "Sage & Apple Stuffing Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "of a thin French baguette",
+      "quantity": "18 slices",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "18 crisps",
+  "preparation": [
+    "Preheat oven to 400° F (205° C).",
+    "Combine butter with Sage & Apple Stuffing.",
+    "Thinly spread mixture on to bread slices.",
+    "Place on parchment-lined Sheet Pan. Bake for 5 minutes, until crisp and fragrant."
+  ],
+  "tags": [
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 crisp",
+    "calories": 110,
+    "fat": 3.5,
+    "saturatedFat": 2,
+    "transFat": 0.1,
+    "cholesterol": 5,
+    "sodium": 210,
+    "carbohydrate": 17,
+    "fiber": 1,
+    "sugars": 0,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sage-Apple-Stuffing-Crisps_1036x583.jpg",
+  "thumbnail": "Sage-Apple-Stuffing-Crisps_1036x583.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

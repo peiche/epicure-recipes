@@ -1,0 +1,130 @@
+{
+  "name": "Cocoa Crunch Banana Tarts",
+  "slug": "cocoa-crunch-banana-tarts",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "large bananas",
+      "quantity": "2 ",
+      "additionalInstruction": "peeled"
+    },
+    {
+      "name": "DIY New-Tella",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "natural peanut butter butter or almond butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cocoa Açai Smoothie Booster",
+      "quantity": "2 scoops",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey",
+      "quantity": null,
+      "additionalInstruction": "to taste, optional"
+    },
+    {
+      "name": "raspberries or sliced strawberries",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cocoa Crunch Whole Food Topper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Slice each banana on the diagonal, into six pieces.",
+    "Spread with New-tella. Top with berries.",
+    "Generously shake on topper."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "gfrr_desserts",
+      "name": "Desserts"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 70,
+    "fat": 3,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 25,
+    "carbohydrate": 12,
+    "fiber": 2,
+    "sugars": 6,
+    "protein": 2
+  },
+  "tips": [
+    "Be extra decadent and drizzle with Chocolate Fudge Sauce."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1577997357789-recipeMainImagePath.jpg",
+  "thumbnail": "1577997357789-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "cocoa_acai_smoothie_booster_cd69388",
+      "name": "Cocoa Açai Smoothie Booster",
+      "summary": []
+    },
+    {
+      "slug": "cocoa_crunch_whole_food_topper_7e4c688",
+      "name": "Cocoa Crunch Whole Food Topper",
+      "summary": []
+    }
+  ]
+}

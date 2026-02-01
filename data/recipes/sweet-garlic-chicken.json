@@ -1,0 +1,129 @@
+{
+  "name": "Sweet Garlic Chicken",
+  "slug": "sweet-garlic-chicken",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "small sweet potatoes",
+      "quantity": "3",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken thighs",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sweet Garlic Chicken Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 450° F. Line Sheet Pan with Sheet Pan Liner.",
+    "Meanwhile, cut sweet potatoes into small cubes, you should have about 3 cups.",
+    "In a large bowl, add sweet potatoes, oil, chicken, and seasoning. Toss until well-coated.",
+    "Arrange chicken and sweet potatoes on Sheet Pan. Roast 16–18 min, or until cooked through."
+  ],
+  "tags": [
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 300,
+    "fat": 8,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 90,
+    "sodium": 450,
+    "carbohydrate": 31,
+    "fiber": 4,
+    "sugars": 10,
+    "protein": 25
+  },
+  "tips": [
+    "Make it vegan: Replace chicken with 1 lb (450 g) medium-firm tofu, cubed."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy green salad and 1 tbsp Epicure Dressing, your choice.",
+  "image": "6864_Sweet_Garlic_Chicken_1036x583.jpg",
+  "thumbnail": "6864_Sweet_Garlic_Chicken_1036x583.webp",
+  "products": [
+    {
+      "slug": "sweet_garlic_chicken_seasoning__pkg_of_3___1501808",
+      "name": "Sweet Garlic Chicken Seasoning (Pack of 3)",
+      "summary": []
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": []
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": []
+    }
+  ]
+}

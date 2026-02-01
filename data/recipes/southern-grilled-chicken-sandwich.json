@@ -1,0 +1,102 @@
+{
+  "name": "Southern Grilled Chicken Sandwich",
+  "slug": "southern-grilled-chicken-sandwich",
+  "description": "Southern charm on a bun! In just 20 minutes, get this easy weeknight win or backyard party champion with creamy aioli, a touch of medium heat, and classic Southern flavours. Plus, we’re keeping it lean with protein-packed chicken breast.",
+  "ingredients": [
+    {
+      "name": "Chipotle Aioli Mix or Roasted Garlic Aioli Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "BBQ Chicken & Rib Rub or Buffalo Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil + more for brushing",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "about 2 breasts"
+    },
+    {
+      "name": "burger buns",
+      "quantity": "4",
+      "additionalInstruction": "split"
+    },
+    {
+      "name": "medium tomato",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "leaves butter lettuce",
+      "quantity": "8",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a small bowl, combine aioli mix, mayo, and lemon juice, if using. Set aside.",
+    "Preheat grill to medium-high. Lightly brush with oil.",
+    "In a small bowl, whisk together rub and oil. Cut chicken breasts in half, widthwise. Coat chicken with wet rub. Place on grill. Grill with lid closed until cooked, about 7–8 min per side. Add buns for the last 1 min of cooking; grill until lightly toasted.",
+    "Meanwhile, slice tomato.",
+    "To assemble, spread toasted buns with 1 tbsp aioli per sandwich, or more, as desired. Divide chicken, tomato, and lettuce between buns."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "with 1 tbsp aioli",
+    "calories": 390,
+    "fat": 17,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 460,
+    "carbohydrate": 29,
+    "fiber": 2,
+    "sugars": 4,
+    "protein": 29
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced fresh veggies of your choice.",
+  "image": "southern_grilled_chicken_sandwich_1036x583.jpg",
+  "thumbnail": "southern_grilled_chicken_sandwich_1036x583.webp",
+  "products": [
+    {
+      "slug": "buffalo_seasoning",
+      "name": "Buffalo Seasoning (1011492)",
+      "summary": [
+        "Feel the heat with this low-sodium, spicy blend that goes way beyond wings! &nbsp;"
+      ]
+    },
+    {
+      "slug": "chipotle_aioli_mix",
+      "name": "Chipotle Aioli Mix",
+      "summary": [
+        "Medium-spicy Southwestern flavour with noteworthy chipotle chili and smoked paprika. A crowd-pleasing condiment for your burgers, fries, fish tacos, burritos and anything else that needs a little extra kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "roasted_garlic_aioli_mix",
+      "name": "Roasted Garlic Aioli Mix",
+      "summary": [
+        "A creamy roasted garlic condiment for your burger, sandwich or use as a dip for fries or veg.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

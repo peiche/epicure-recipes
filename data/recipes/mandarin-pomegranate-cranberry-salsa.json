@@ -1,0 +1,98 @@
+{
+  "name": "Mandarin, Pomegranate & Cranberry Salsa",
+  "slug": "mandarin-pomegranate-cranberry-salsa",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "mandarin segments",
+      "quantity": "1 cup",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "pomegranate seeds ",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh cranberries",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "chopped "
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "1 - 2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "2 cups",
+  "preparation": [
+    "In a small mixing bowl, combine all ingredients.",
+    "Refrigerate for 30 minutes prior to serving."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 20,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 15,
+    "carbohydrate": 3,
+    "fiber": 0,
+    "sugars": 4,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Mandarin-Pomegranate-Cranberry-Salsa-Main.jpg",
+  "thumbnail": "Mandarin-Pomegranate-Cranberry-Salsa-Main.webp",
+  "products": [
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chillies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    }
+  ]
+}

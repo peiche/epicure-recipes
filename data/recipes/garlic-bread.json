@@ -1,0 +1,89 @@
+{
+  "name": "Garlic Bread",
+  "slug": "garlic-bread",
+  "description": "Pairs perfectly with a salad, soup, or bowl of saucy pasta.",
+  "ingredients": [
+    {
+      "name": "Italian bread",
+      "quantity": "4 slices",
+      "additionalInstruction": "thickly sliced"
+    },
+    {
+      "name": "Herb & Garlic Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 400° F (200° C).",
+    "Place bread on a crisper or the Sheet Pan. Sprinkle each with Herb & Garlic Dip Mix and drizzle with a little olive oil. Top with a layer of Parmesan.",
+    "Bake for 10 minutes, or until cheese is melted and bread is lightly golden."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 300,
+    "fat": 5,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 630,
+    "carbohydrate": 51,
+    "fiber": 3,
+    "sugars": 1,
+    "protein": 12
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Garlic-Bread-Main.jpg",
+  "thumbnail": "Garlic-Bread-Main.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

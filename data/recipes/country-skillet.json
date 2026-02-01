@@ -1,0 +1,144 @@
+{
+  "name": "Country Skillet",
+  "slug": "country-skillet",
+  "description": "Have breakfast for brunch, lunch, and dinner!",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small potato",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "cilantro",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "chopped cooked ham, chicken or turkey",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "CCB Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Heat oil in frying pan over medium-high heat. Add potato slices and stir-fry until lightly golden. Add water and simmer for 2–3 minutes, until potatoes absorb liquid.",
+    "Stir in salsa and ham. Stir often for about 3—5 minutes, until heated through.",
+    "Meanwhile, stir eggs with dip mix. Pour into warm potato mixture and stir for 2—3 minutes, until eggs are scrambled."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 290,
+    "fat": 16,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 300,
+    "sodium": 450,
+    "carbohydrate": 12,
+    "fiber": 2,
+    "sugars": 3,
+    "protein": 25
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Country-Skillet-Main.jpg",
+  "thumbnail": "Country-Skillet-Main.webp",
+  "products": [
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chilies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "ccb_dip_mix_b61a530",
+      "name": "CCB Dip Mix",
+      "summary": [
+        "Irresistible flavours of smoky bacon (plant-based), real Parmesan &amp; chives.&nbsp;"
+      ]
+    }
+  ]
+}

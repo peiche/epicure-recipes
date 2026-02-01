@@ -1,0 +1,92 @@
+{
+  "name": "Grilled Montreal Steak",
+  "slug": "grilled-montreal-steak",
+  "description": "When it comes to grilling steaks, you can’t go wrong with strip loin. It's the best of both worlds with good marbling for a tender, juicy and flavourful steak, but is still considered a lean cut. Paired with bold, peppery Montreal Steak Rub, you’re in for a treat! Cook an extra steak tonight, then make Epicure Steak Sandwich for an easy dinner another night.",
+  "ingredients": [
+    {
+      "name": "strip loin steaks",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Montreal Steak Rub or Beef & Steak Seasoning",
+      "quantity": "3 - 4 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "11 min",
+  "servings": "4 - 8 servings",
+  "preparation": [
+    "Using a basting brush, brush both sides of each steak with oil. Sprinkle both sides with Montreal Steak Rub, then rub into meat on both sides.",
+    "Grill over medium-high heat, turning often, until cooked as you like. For medium-rare, estimate 4–6 minutes. Remove from grill and let stand 5 minutes before slicing."
+  ],
+  "tags": [
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 440,
+    "fat": 31,
+    "saturatedFat": 11,
+    "transFat": 0,
+    "cholesterol": 140,
+    "sodium": 320,
+    "carbohydrate": 2,
+    "fiber": 1,
+    "sugars": 0,
+    "protein": 36
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Grilled-Montreal-Steak-Main.jpg",
+  "thumbnail": "Grilled-Montreal-Steak-Main.webp",
+  "products": [
+    {
+      "slug": "beef___steak_seasoning",
+      "name": "Beef & Steak Seasoning",
+      "summary": [
+        "An all-purpose blend with mild heat &amp; aromatic flavour."
+      ]
+    }
+  ]
+}

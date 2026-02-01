@@ -1,0 +1,140 @@
+{
+  "name": "Creamy Mushroom & Chicken Pasta",
+  "slug": "creamy-mushroom-chicken-pasta",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast fillets",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "uncooked extra broad egg noodles",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "hot water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Wintry Mushroom Soup Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen peas",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose or Round Steamer, add chicken in a single layer (it’s OK if the fillets touch). Cover; cook on high 4 min.",
+    "Add noodles, milk, hot water, and seasoning; stir to mix. Microwave on high, uncovered, 5 min. Remove from microwave and stir; cook for an additional 3 min 30 sec.",
+    "Stir in peas. Microwave on high, uncovered, for 4 min or until pasta is tender and sauce has thickened."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 390,
+    "fat": 6,
+    "saturatedFat": 2.5,
+    "transFat": 0.1,
+    "cholesterol": 125,
+    "sodium": 360,
+    "carbohydrate": 41,
+    "fiber": 5,
+    "sugars": 6,
+    "protein": 38
+  },
+  "tips": [
+    "For a thicker sauce, let the dish rest 10 min before serving. The sauce will thicken as it sits."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups mixed greens and 1 tbsp Epicure dressing of your choice.",
+  "image": "creamy_mushroom_chicken_pasta_1036x583.jpg",
+  "thumbnail": "creamy_mushroom_chicken_pasta_1036x583.webp",
+  "products": [
+    {
+      "slug": "wintry_mushroom_soup_seasoning__pkg_of_3_",
+      "name": "Wintry Mushroom Soup Seasoning (Pack of 3)",
+      "summary": [
+        "Where are all our mushroom lovers? This one's for you! A creamy, comforting classic with just a touch of heat, Wintry Mushroom Soup is easily made with three simple ingredients: Milk, butter, and mushrooms. A winter warmer you'll enjoy over and over again!"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "name": "Mexican Corn Chowder",
+  "slug": "mexican-corn-chowder",
+  "description": "An elote-ally awesome chowder inspired by your favourite street corn! Whether you like your chowder chunky, silky smooth, or somewhere in between, this spicy chowder is a winner. Use fresh, frozen, or canned corn—it's your call! Too hot to handle? A spoonful of sour cream on top will tame the flame.",
+  "ingredients": [
+    {
+      "name": "Yukon Gold potatoes",
+      "quantity": "2 large",
+      "additionalInstruction": null
+    },
+    {
+      "name": "corn kernels, fresh, frozen or canned",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Mexican Street Corn Dip Hot Dip Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Better Than Beef Broth Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "half & half (10%) cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Peel and cube potatoes.",
+    "In a large pot, add potatoes, corn, boiling water, hot dip mix, and broth mix. Cover; bring to a boil. Once boiling, reduce heat. Partially cover and simmer 8-10 min, stirring occasionally, until potatoes are tender.",
+    "Remove from heat. Using an immersion blender, blend half the soup until smooth.",
+    "Stir in cream. Ladle into bowls and add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 220,
+    "fat": 5,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 160,
+    "carbohydrate": 38,
+    "fiber": 5,
+    "sugars": null,
+    "protein": 6
+  },
+  "tips": [
+    "Top with Better Than Bacon Topper."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Mexican Corn Chowder_retouched_2000x200.jpg",
+  "thumbnail": "Mexican Corn Chowder_retouched_2000x200.webp",
+  "products": [
+    {
+      "slug": "mexican_street_corn_dip_hot_dip_mix__pack_of_3_",
+      "name": "Mexican Street Corn Dip Hot Dip Mix (Pack of 2)",
+      "summary": [
+        "A delightful variation on Mexican street corn, or “elote,” this is a creamy, zesty, and oh-so-addictive appetizer that'll have everyone coming back for more. With warming spices and chiles, complemented by bursts of corn, it’s the perfect addition to game days, streaming binges, and happy hours!&nbsp;"
+      ]
+    },
+    {
+      "slug": "better_than_beef_broth_mix",
+      "name": "Better Than Beef Broth Mix",
+      "summary": [
+        "You won’t believe it’s not beef! This vegan/plant-based broth mix is packed with beefy flavour, mushroom and inactive nutritional yeast powders, and organic tamari powder. Ready in minutes, this one-step broth creates a rich base for your favourite soups and can be used anywhere you want to “beef” things up!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "better_than_bacon_topper__1701207_",
+      "name": "Better Than Bacon Topper",
+      "summary": [
+        "Ok, bacon lovers; we see you. We know that bacon made from ‘pinto beans’ has you feeling a kind of way: Skeptical. But trust us, this fan fave does not disappoint and it’s so easy to use. No need to grab a frying pan — just pop the top and shake on the taste of bacon with way less sodium, zero cholesterol, and no artificial flavours or colours (unlike popular brands).&nbsp;These crunchy bites are layered with smoky bacon flavor and are an amazing addition to salads, potatoes, eggs, and more!&nbsp;"
+      ]
+    }
+  ]
+}

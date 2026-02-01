@@ -1,0 +1,68 @@
+{
+  "name": "Scarlet O Sangria",
+  "slug": "scarlet-o-sangria",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "apple juice, cranberry or grape juice",
+      "quantity": "2 cups",
+      "additionalInstruction": "for ice cubes"
+    },
+    {
+      "name": "Scarlet O Tea leaves",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "or tea leaves of your choice"
+    },
+    {
+      "name": "water",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "peeled and sliced fresh fruit (berries, oranges, kiwi, pears or apples)",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "apple juice, cranberry or grape juice",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red wine, white wine, or sparkling wine",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "17 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Freeze first 2 cups of juice in an Iceberg Mold.",
+    "Simmer tea leaves and water in a Multipurpose pot over medium heat for 7 minutes. Strain into a pitcher and allow to cool before refrigerating.",
+    "Before serving, add fruit juice ice cubes, fruit, and juice to pitcher. Serve in chilled glasses."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 140,
+    "fat": 0.3,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 10,
+    "carbohydrate": 24,
+    "fiber": 1,
+    "sugars": 20,
+    "protein": 0.5
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Scarlet-O-Sangria-Main.jpg",
+  "thumbnail": "Scarlet-O-Sangria-Main.webp",
+  "products": []
+}

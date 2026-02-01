@@ -1,0 +1,139 @@
+{
+  "name": "Crab and Lemon Dilly Pasta",
+  "slug": "crab-and-lemon-dilly-pasta",
+  "description": "Using whole-wheat pasta is a great way to boost daily fibre.",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red bell pepper",
+      "quantity": "1 small",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "onion",
+      "quantity": "1 small",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "quantity": "2 ",
+      "additionalInstruction": "crushed"
+    },
+    {
+      "name": "fresh lemon zest",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "(4 oz/120 g) crab meat",
+      "quantity": "2 cans",
+      "additionalInstruction": "drained"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "",
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Pot, cook pasta according to package directions. Drain and reserve 1 cup of cooking liquid.",
+    "While pasta is cooking, heat oil in a frying pan. Cook pepper, onion and garlic over medium heat for 3 minutes. Add lemon zest, lemon juice, Lemon Dilly Dip Mix and crab. Cook only until crab is heated through.",
+    "Season to taste with Salt and Pepper. Add reserved pasta water for additional moisture. Toss with hot pasta and serve."
+  ],
+  "tags": [
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 550,
+    "fat": 9,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 45,
+    "sodium": 300,
+    "carbohydrate": 89,
+    "fiber": 4,
+    "sugars": 6,
+    "protein": 29
+  },
+  "tips": [
+    "Substitute crab with thinly sliced, cooked chicken breast."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with steamed in-season veggies.",
+  "image": "Crab-and-Lemon-Dilly-Pasta_1036x583.jpg",
+  "thumbnail": "Crab-and-Lemon-Dilly-Pasta_1036x583.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

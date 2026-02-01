@@ -1,0 +1,107 @@
+{
+  "name": "Lunch Bento Box",
+  "slug": "lunch-bento-box",
+  "description": "A bento-style lunchbox makes creating healthy, balanced meals a breeze! The compartments help you remember to include each food group and you can mix and match various foods to keep it exciting. Listen in disbelief as your kids tell you their favourite part was eating the veggie sticks, because they could dunk them in 3 Onion Dip.",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "quantity": "8",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% plain Greek yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "celery",
+      "quantity": "4 stalks",
+      "additionalInstruction": "cut into sticks"
+    },
+    {
+      "name": "baby carrots or carrot sticks",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "nuts",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "unsalted"
+    },
+    {
+      "name": "whole-grain mini pitas",
+      "quantity": "8",
+      "additionalInstruction": null
+    },
+    {
+      "name": "berries",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place a saucepan half filled with water on high heat. Once water is boiling, add eggs, place lid on pot, and turn off heat. Let eggs sit in boiled water for 10 min.",
+    "While eggs are sitting in boiled water, combine Greek yogurt and 3 Onion Dip Mix in a small bowl. Portion 1&frasl;4 cup of dip into each of 4, small containers.",
+    "Drain eggs and run under cold water for 2 min. Then, peel eggs and set aside.",
+    "Assemble all ingredients in bento-style lunch boxes or meal prep containers. Will last up to 3 days in your fridge. Enjoy!"
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 520,
+    "fat": 21,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 440,
+    "sodium": 440,
+    "carbohydrate": 55,
+    "fiber": 7,
+    "sugars": 7,
+    "protein": 30
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Bento-Lunchbox_1036x583.jpg",
+  "thumbnail": "Bento-Lunchbox_1036x583.webp",
+  "products": [
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    }
+  ]
+}

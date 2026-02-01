@@ -1,0 +1,91 @@
+{
+  "name": "Black Forest Smoothie",
+  "slug": "black-forest-smoothie",
+  "description": "Decadent cherries and chocolate make you feel like you're drinking cake for breakfast. Not only are they sweet and sour and all kinds of delicious, cherries are also jam packed with anti-inflammatories, antioxidants for healthy cells, and vitamins like Vitamin C to support a strong immune system!",
+  "ingredients": [
+    {
+      "name": "frozen cherries or your favorite berries (raspberries, cherries or strawberries)",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk, your choice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach or kale, optional",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Power Up Chocolate Protein Blend or Power Up Vanilla Protein Blend",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    },
+    {
+      "name": "banana, chopped",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "2 servings",
+  "preparation": [
+    "In a blender, combine all ingredients until smooth."
+  ],
+  "tags": [
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 190,
+    "fat": 3.5,
+    "saturatedFat": 2,
+    "transFat": 0.1,
+    "cholesterol": 10,
+    "sodium": 230,
+    "carbohydrate": 27,
+    "fiber": 4,
+    "sugars": 19,
+    "protein": 15
+  },
+  "tips": [
+    "If you like it thicker, blend with ice cubes; for a thinner consistency, add water.",
+    "If you’re opting for vanilla protein blend, add 1 tsp of unsweetened cocoa powder to the smoothie so you can still get that smooth chocolatey flavour."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 slice whole-grain bread and 2 tsp nut butter.",
+  "image": "Black-Forest-Smoothie_1036x583.jpg",
+  "thumbnail": "Black-Forest-Smoothie_1036x583.webp",
+  "products": [
+    {
+      "slug": "power_up_chocolate_protein_blend__pouch_",
+      "name": "Power Up Chocolate Protein Blend (Pouch)",
+      "summary": [
+        "We like to fuel our bodies and satisfy those chocolate cravings at the same time. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    },
+    {
+      "slug": "power_up_vanilla_protein_blend__pouch_",
+      "name": "Power Up Vanilla Protein Blend (Pouch)",
+      "summary": [
+        "Fuel up first thing and stay fuller longer with rich smooth-tasting vanilla blend. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "name": "Spiral Greek Salad",
+  "slug": "spiral-greek-salad",
+  "description": "Veggie spirals add a twist to the classic Greek salad recipe.",
+  "ingredients": [
+    {
+      "name": "English cucumbers",
+      "quantity": "2 ",
+      "additionalInstruction": "cut into 3” long rounds"
+    },
+    {
+      "name": "red onion",
+      "quantity": "1 small",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "quantity": "1",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "tomatoes",
+      "quantity": "4",
+      "additionalInstruction": "cut into wedges"
+    },
+    {
+      "name": "Greek or black olives",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat feta cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Dressing",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Greek Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red wine vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Turn the cucumber into spirals with a Veggie Twist & Spiral Slicer.",
+    "Combine with remaining ingredients in a large mixing bowl.",
+    "Toss to coat with Greek Dressing. Serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 180,
+    "fat": 11,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 370,
+    "carbohydrate": 17,
+    "fiber": 4,
+    "sugars": 11,
+    "protein": 6
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Spiral-Greek-Salad-Main.jpg",
+  "thumbnail": "Spiral-Greek-Salad-Main.webp",
+  "products": [
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    }
+  ]
+}

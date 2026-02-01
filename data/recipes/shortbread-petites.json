@@ -1,0 +1,119 @@
+{
+  "name": "Shortbread Petites",
+  "slug": "shortbread-petites",
+  "description": "These bite-sized shortbread wonders are perfect for those gluten-free and nut-free pals! They’re easy to make and unmold thanks to the Perfect Petites. They also stack and store like a dream for your next cookie exchange.",
+  "ingredients": [
+    {
+      "name": "Shortbread Cookie Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "water",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "15 petites",
+  "preparation": [
+    "Preheat oven to 375°F. Place Perfect Petites on Sheet Pan. Using a basting brush, brush with oil.",
+    "Using a stand mixer (with paddle attachment) or hand mixer, on medium speed, beat mix with butter and water for 2–3 min or until a soft, uniform dough forms.",
+    "Divide between 15 wells in Perfect Petites, about one heaping tbsp per well. Using the back of the spoon, press evenly into wells. Using a fork or toothpick, dock shortbread (poke holes in it).",
+    "Bake 14–16 min or until edges are light golden. Let cool on pan completely before unmolding."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 petite",
+    "calories": 100,
+    "fat": 7,
+    "saturatedFat": 4,
+    "transFat": 0.2,
+    "cholesterol": 15,
+    "sodium": 35,
+    "carbohydrate": 11,
+    "fiber": 1,
+    "sugars": 3,
+    "protein": 1
+  },
+  "tips": [
+    "Make it vegan— swap butter for unsalted margarine or vegan butter sticks.",
+    "Use Prep Pro Scoop (2 tbsp) to easily divide dough between wells."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "shortbread_petites_1036x583.jpg",
+  "thumbnail": "shortbread_petites_1036x583.webp",
+  "products": [
+    {
+      "slug": "shortbread_cookies_mix__2pk_",
+      "name": "Shortbread Cookie Mix (2pk)",
+      "summary": [
+        "We’re taking Shortbread Cookies beyond the holiday season and making them an everyday delight because they are just too good to only be enjoyed once a year! Our gluten free baking mix is a dream to work with. Just add butter and water (and salt, if you like) and stir it up! It’s super easy to work with and a great way to get kids involved in baking without a ton of mess — and the cookies turn out perfectly each and every time.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "perfect_petites_a4d39ed",
+      "name": "Perfect Petites",
+      "summary": [
+        "A versatile non-stick silicone pan that makes baking the cutest bite-sized portions easy and fun! Go beyond baking and use the Perfect Petites to make ice cubes, portion baby food and sauces, and more!&nbsp;"
+      ]
+    }
+  ]
+}

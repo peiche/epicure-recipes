@@ -1,0 +1,115 @@
+{
+  "name": "Black Olive Salsa",
+  "slug": "black-olive-salsa",
+  "description": "A perfect bruschetta topping!",
+  "ingredients": [
+    {
+      "name": "(14 oz/398 ml) sliced black olives",
+      "quantity": "1 can",
+      "additionalInstruction": "drained and coarsely chopped"
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vinegar",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dash of hot sauce",
+      "quantity": "",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 10 min",
+  "servings": "3 cups",
+  "preparation": [
+    "Combine all ingredients.",
+    "Refrigerate one hour before serving."
+  ],
+  "tags": [
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 30,
+    "fat": 3,
+    "saturatedFat": 0.4,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 120,
+    "carbohydrate": 2,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 0.3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Black-Olive-Salsa-Main.jpg",
+  "thumbnail": "Black-Olive-Salsa-Main.webp",
+  "products": [
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chilies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    }
+  ]
+}

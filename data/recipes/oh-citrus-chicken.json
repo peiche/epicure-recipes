@@ -1,0 +1,132 @@
+{
+  "name": "Oh Citrus Chicken",
+  "slug": "oh-citrus-chicken",
+  "description": "When life gives you lemons (or limes) …grill them! The heat deepens the flavours, loosens up the juices, and adds a bright finish to this outrageously good grilled chicken. The sweet Canadian maple & garlicky goodness will have no singing “Oh Canada” in no time.",
+  "ingredients": [
+    {
+      "name": "lime",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Oh Canada Dry Glaze or Sweet Garlic Chicken Seasoning",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil + more for brushing",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken thighs",
+      "quantity": "2 lbs (900 g)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat grill to medium-high. Lightly brush with oil.",
+    "Slice lemon and lime in half and set aside.",
+    "In a large bowl, combine glaze with oil; add chicken and toss to coat. If you have time, let stand 10 min, or cover and refrigerate overnight to marinate.",
+    "Place chicken on grill, reduce heat to medium. Cook with lid closed, 5–7 min. Flip chicken; add lemon and lime to grill, cut side down. Cook lemon, lime and chicken 4–5 min, or until chicken is cooked through.",
+    "Once lemon and lime have cooled slightly, squeeze citrus juice over chicken and serve."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 195,
+    "fat": 10,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 105,
+    "sodium": 170,
+    "carbohydrate": 5,
+    "fiber": 0,
+    "sugars": 3,
+    "protein": 20
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 large dinner roll and 2 cups leafy greens with 1 tbsp prepared Epicure Dressing.",
+  "image": "Oh-Citrus-Chicken_1036x583.jpg",
+  "thumbnail": "Oh-Citrus-Chicken_1036x583.webp",
+  "products": [
+    {
+      "slug": "oh_canada_dry_glaze_ea4bf73",
+      "name": "Oh Canada Dry Glaze",
+      "summary": [
+        "In true Canadian style, this sweet and sticky maple blend is totally nice. Every summer, it's an Epicure fan fave and easily the talk of every backyard BBQ and get-together!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sweet_garlic_chicken_seasoning__pkg_of_3___1501808",
+      "name": "Sweet Garlic Chicken Seasoning (Pack of 3)",
+      "summary": [
+        "Sweet &amp; garlicky, family-friendly meal that goes from raw-to-ready in 20 minutes.&nbsp;"
+      ]
+    }
+  ]
+}

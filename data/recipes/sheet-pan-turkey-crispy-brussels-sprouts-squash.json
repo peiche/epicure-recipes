@@ -1,0 +1,143 @@
+{
+  "name": "Sheet Pan Turkey, Crispy Brussels Sprouts & Squash",
+  "slug": "sheet-pan-turkey-crispy-brussels-sprouts-squash",
+  "description": "Not only does this recipe make hosting a breeze, it’s a great go-to for those weeknights when you’re craving a taste of the holidays. Clean-up is a cinch—no need for a mountain of dishes. You can even serve this feast right off the pan!",
+  "ingredients": [
+    {
+      "name": "turkey breasts",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (675 g)",
+      "additionalInstruction": "about 3 or 4"
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Holiday Seasoning",
+      "quantity": "4 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Sea salt",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "trimmed Brussels sprouts",
+      "quantity": "3 cups",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "acorn squash",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small red onion",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 425° F. Line Sheet Pan with Sheet Pan Liner.",
+    "Place turkey on pan and drizzle with oil. Sprinkle with 2 tbsp seasoning and salt, if using.",
+    "Cut sprouts in half lengthwise (cut larger ones into quarters). Slice unpeeled squash in half; discard seeds. Slice halves into skinny wedges. Thinly slice onion.",
+    "Place sprouts, squash, and onion in a large bowl; toss with olive oil and remaining 2 tbsp seasoning. Arrange on pan (it’s okay if some cover the turkey).",
+    "Roast 35–45 min, or until edges of sprouts are crispy and turkey is cooked through.",
+    "Remove from oven and let rest 5 min. Thickly slice turkey. Serve family-style from sheet pan at the table."
+  ],
+  "tags": [
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 310,
+    "fat": 12,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 90,
+    "sodium": 130,
+    "carbohydrate": 14,
+    "fiber": 4,
+    "sugars": 2,
+    "protein": 37
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup mashed potatoes.",
+  "image": "1599760966705-recipeMainImagePath.jpg",
+  "thumbnail": "1599760966705-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

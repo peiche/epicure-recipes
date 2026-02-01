@@ -1,0 +1,108 @@
+{
+  "name": "Barbecued Asparagus and Green Bean Salad",
+  "slug": "barbecued-asparagus-and-green-bean-salad",
+  "description": "A medley of fresh asparagus and green beans, grilled to perfection.",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "asparagus",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "balsamic vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "feta cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Fill frying pan with water and bring to a boil. Add beans and boil for 30 seconds, then add asparagus (pan will be full) and boil for 1–2 more minutes, until tender-crisp.",
+    "Drain vegetables and place in a bowl. Drizzle with Dressing and toss to coat.",
+    "Turn mixture into a mesh grilling pan and barbecue for 3–5 minutes, shaking pan often, until vegetables are lightly charred.",
+    "Add feta and cook for 1 minute, until it just starts to melt. Serve."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 180,
+    "fat": 0.5,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 85,
+    "carbohydrate": 30,
+    "fiber": 15,
+    "sugars": 13,
+    "protein": 11
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Barbecued-Asparagus-and-Green-Bean-Salad-Main.jpg",
+  "thumbnail": "Barbecued-Asparagus-and-Green-Bean-Salad-Main.webp",
+  "products": [
+    {
+      "slug": "balsamic_vinaigrette_dressing_mix",
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "summary": [
+        "A classic for a reason, this dressing mix is full of flavour and uber versatile. Use it as salad or nourish bowl dressing, marinade protein including chicken and beef, or glaze grilled veggies and fresh fruit. Any way you serve it, it’s sure to be a hit!&nbsp;"
+      ]
+    }
+  ]
+}

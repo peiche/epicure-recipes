@@ -1,0 +1,124 @@
+{
+  "name": "Grilled Tandoori Tofu & Cauliflower Steaks",
+  "slug": "grilled-tandoori-tofu-cauliflower-steaks",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "quantity": "1 head",
+      "additionalInstruction": null
+    },
+    {
+      "name": "extra firm tofu",
+      "quantity": "2 blocks (350 g each)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "3 – 4 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "maple syrup",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Tandoori Chicken Curry Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% plain Greek yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat grill to medium-high.",
+    "Trim leaves and bottom stalk from cauliflower, making sure not to remove the core. Place cauliflower in Round Steamer. Cover; microwave on high 5–6 min or until a knife can easily slide into it.",
+    "Meanwhile, cut each tofu block in half, lengthwise. You should have four pieces. Pat dry with a paper or kitchen towel.",
+    "Whisk together water, maple syrup, oil, and seasoning. Brush sauce on one side of tofu steaks. Place on grill, saucy side down. Brush sauce on top. Grill with lid closed for 10 min, flipping once, until lightly charred.",
+    "Brush the remaining sauce all over cauliflower. Place on grill, florets side down. Grill 5 min, then flip and cook 2 more min.",
+    "To serve, slice cauliflower into steaks or wedges. Top cauliflower and tofu with yogurt, and additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 360,
+    "fat": 17,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 80,
+    "carbohydrate": 29,
+    "fiber": 8,
+    "sugars": 15,
+    "protein": 24
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup rice or quinoa.",
+  "image": "8cf53390-07bd-4ccc-bbd9-f7998f70fde3_Grilled_TandorTofu_Cauliflower_1036x583.jpg",
+  "thumbnail": "8cf53390-07bd-4ccc-bbd9-f7998f70fde3_Grilled_TandorTofu_Cauliflower_1036x583.webp",
+  "products": [
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Chocolate Iced Cap",
+  "slug": "chocolate-iced-cap",
+  "description": "Frosty, filling, and full of flavour! With less sugar, wholesome ingredients, and a full serving of plant-based protein, this blended iced coffee will leave you feeling satisfied.",
+  "ingredients": [
+    {
+      "name": "Power Up Chocolate Protein Blend ",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brewed dark roast coffee",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 serving",
+  "preparation": [
+    "In a blender, combine ingredients. If you like it thicker, add ice cubes; for a thinner consistency, add water. Blend until smooth, pour into a tall glass."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 120,
+    "fat": 2.5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 289,
+    "carbohydrate": 7,
+    "fiber": 4,
+    "sugars": 3,
+    "protein": 20
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "iced cap large.jfif",
+  "thumbnail": "iced cap large.webp",
+  "products": [
+    {
+      "slug": "power_up_chocolate_protein_blend__pouch_",
+      "name": "Power Up Chocolate Protein Blend (Pouch)",
+      "summary": [
+        "We like to fuel our bodies and satisfy those chocolate cravings at the same time. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    }
+  ]
+}

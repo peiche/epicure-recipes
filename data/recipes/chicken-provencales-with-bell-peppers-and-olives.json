@@ -1,0 +1,128 @@
+{
+  "name": "Chicken Provençales with Bell Peppers and Olives",
+  "slug": "chicken-provencales-with-bell-peppers-and-olives",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herbes Provencales",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small red bell pepper",
+      "quantity": "1",
+      "additionalInstruction": "sliced into thin strips"
+    },
+    {
+      "name": "small green bell pepper",
+      "quantity": "1",
+      "additionalInstruction": "sliced into thin strips"
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dry white wine",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pitted and halved black olives",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "25 - 30 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Sprinkle both sides of chicken breasts with Herbes Provençales, Salt and Pepper. Heat a frying pan to medium; add olive oil and cook chicken until well browned on both sides.",
+    "Remove chicken from pan; add sliced peppers and Roasted Garlic and sauté for about 3 minutes. Pour in dry white wine and stir, scraping up all flavourful brown bits from pan. Reduce heat to medium low and return chicken to pan.",
+    "Cover and cook at a gentle simmer until chicken is cooked through, about 10 minutes. Add olives and heat 1 more minute before serving."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 220,
+    "fat": 7,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 130,
+    "carbohydrate": 5,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 27
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Chicken-Provencales-with-Bell-Peppers-and-Olives_1036x583.jpg",
+  "thumbnail": "Chicken-Provencales-with-Bell-Peppers-and-Olives_1036x583.webp",
+  "products": [
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    }
+  ]
+}

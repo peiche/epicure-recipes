@@ -1,0 +1,103 @@
+{
+  "name": "Mac & Cheese with Trees",
+  "slug": "mac-cheese-with-trees",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "uncooked macaroni",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "broccoli florets",
+      "quantity": "2 cups",
+      "additionalInstruction": "fresh or frozen"
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Mac & Cheese Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Pot set over high heat, boil macaroni until tender, about 6–8 min.",
+    "Meanwhile, chop broccoli florets (aka trees) into bite sized pieces. Stir in trees for the last 1 min of cooking.",
+    "Carefully drain, then return noodles and trees to pot. Add milk, seasoning and butter, if using. Stir until evenly mixed. Spoon into bowls."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 270,
+    "fat": 5,
+    "saturatedFat": 2.5,
+    "transFat": 0.2,
+    "cholesterol": 15,
+    "sodium": 340,
+    "carbohydrate": 45,
+    "fiber": 3,
+    "sugars": 3,
+    "protein": 12
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein (tuna, ground meat, chicken, tofu) and 1 cup mixed veggies and 2 tsp prepared Epicure Dip.",
+  "image": "6733_mac_and_cheese_with_trees_1036x583.jpg",
+  "thumbnail": "6733_mac_and_cheese_with_trees_1036x583.webp",
+  "products": [
+    {
+      "slug": "mac___cheese_seasoning__pkg_of_3_",
+      "name": "Mac & Cheese Seasoning (Pack of 3)",
+      "summary": [
+        "An all-time best-seller, this is the Mac &amp; Cheese you’ve been craving – and that your kids will LOVE to eat! Creamy, cheesy, and super comforting, it’s free of unnecessary additives and packed with flavour thanks to real cheddar cheese. Take it from the stovetop (or microwave) to the table in under 10 minutes and dig in!&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

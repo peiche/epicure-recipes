@@ -1,0 +1,169 @@
+{
+  "name": "Sweet & Sour Rice Bowl",
+  "slug": "sweet-sour-rice-bowl",
+  "description": "Inspired by the Korean dish “Bibimbap,” this bowl is quick and easy to make. Choose your favourite protein and veggies, serve over rice, and don’t forget to put a fried egg on top! Health tip: Use ground turkey to keep this dish low in fat.",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Sweet & Sour Stir-Fry Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "sliced mushrooms",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ground turkey",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "matchstick carrots",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Steamer, combine rice and 2 cups water. Top with tray; microwave uncovered on high for about 16–18 min, or until tender.",
+    "Meanwhile, in a bowl, combine seasoning and remaining 1&frasl;4 cup water. Set aside.",
+    "In Wok, heat 1&frasl;2 tbsp oil over medium-high heat. Add mushrooms and soy sauce. Stir-fry 3–4 min, or until softened. Remove from pan and set aside.",
+    "In same (unwashed) wok, heat 1&frasl;2 tbsp oil. Add turkey and stir-fry 2 min. Add reserved seasoning mixture, stirring to combine. Cover and simmer on low heat until turkey is cooked through, 1 min. Remove from wok and set aside.",
+    "Using a damp cloth or paper towel, gently wipe down wok. In two batches, heat remaining oil over medium heat and gently crack in two eggs per batch. Cover and cook until egg whites are set, about 2–3 min. Repeat with remaining two eggs for second batch.",
+    "Dice cucumber.",
+    "Divide rice, mushrooms, turkey, cucumber, and carrots between four bowls. Top each bowl with one egg. Add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 470,
+    "fat": 18,
+    "saturatedFat": 3.5,
+    "transFat": 0.1,
+    "cholesterol": 285,
+    "sodium": 430,
+    "carbohydrate": 51,
+    "fiber": 4,
+    "sugars": 5,
+    "protein": 27
+  },
+  "tips": [
+    "As the cooked mushrooms sit, they release liquid. For extra umami flavour, add the liquid to the turkey while it’s cooking.",
+    "Using leftover rice? Give it a quick stir-fry before plating; the extra, crispy bits are delicious!"
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "aug_sweet_sour_rice_bowl_1036x583.jpg",
+  "thumbnail": "aug_sweet_sour_rice_bowl_1036x583.webp",
+  "products": [
+    {
+      "slug": "sweet___sour_stir_fry_seasoning__pkg_of_3__6383458",
+      "name": "Sweet & Sour Stir-Fry Seasoning (Pack of 3)",
+      "summary": [
+        "Enjoy flavours of chives, garlic, ginger &amp; sweet pineapple in this stir-fry that takes just 20 minutes to make.&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

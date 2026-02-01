@@ -1,0 +1,110 @@
+{
+  "name": "Parsnip & Carrot Oven Fries",
+  "slug": "parsnip-carrot-oven-fries",
+  "description": "These are delicious, with a slightly sweeter taste than potatoes, and just as satisfying!",
+  "ingredients": [
+    {
+      "name": "medium carrots",
+      "quantity": "2 - 3",
+      "additionalInstruction": "peeled"
+    },
+    {
+      "name": "parsnips",
+      "quantity": "2 - 3",
+      "additionalInstruction": "peeled"
+    },
+    {
+      "name": "SPG Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "or your choice"
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 - 6 servings",
+  "preparation": [
+    "Preheat oven to 400 °F (200 °C).",
+    "Cut carrots and parsnips in half, widthwise, and then cut into sticks.",
+    "Place in a bowl with seasoning and oil, tossing to coat.",
+    "Arrange in a single layer on a crisper. Bake for 20 minutes, until lightly crispy, but cooked."
+  ],
+  "tags": [
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 50,
+    "fat": 2.5,
+    "saturatedFat": 0.2,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 15,
+    "carbohydrate": 7,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 1
+  },
+  "tips": [
+    "Serve your veggie fries standing upright in a teacup, or small stoneware bowl, accompanied by your favourite Epicure dip!",
+    "Experiment with other firm root vegetables, like sweet potatoes and yams. Cooking time may vary."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Parsnip-Carrot-Oven-Fries-Main.jpg",
+  "thumbnail": "Parsnip-Carrot-Oven-Fries-Main.webp",
+  "products": [
+    {
+      "slug": "spg_seasoning_5edecfd",
+      "name": "SPG Seasoning",
+      "summary": [
+        "Salt. Pepper. Garlic. Your go-to for chicken, fish, seafood, roasted potatoes, veggies, &amp; even popcorn!"
+      ]
+    }
+  ]
+}

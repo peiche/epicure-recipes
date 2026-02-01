@@ -1,0 +1,98 @@
+{
+  "name": "Teriyaki-glazed Chicken Strips",
+  "slug": "teriyaki-glazed-chicken-strips",
+  "description": "Marinate chicken ahead of time for an easy, flavourful meal.",
+  "ingredients": [
+    {
+      "name": "Teriyaki Dry Glaze or Asian Stir-Fry Seasoning\n",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light soy sauce",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "orange juice",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "4",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 45 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Combine glaze or seasoning with brown sugar, soy sauce, and orange juice in a food-safe plastic bag.",
+    "Add chicken and marinate for 1 1&frasl;2 – 2 hours.",
+    "Heat frying pan over medium-high heat. Add chicken and cook approximately 15 minutes, or until cooked through."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 390,
+    "fat": 8,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 190,
+    "sodium": 610,
+    "carbohydrate": 4,
+    "fiber": 0,
+    "sugars": 3,
+    "protein": 20
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Teriyaki-glazed-Chicken-Strips-Main.jpg",
+  "thumbnail": "Teriyaki-glazed-Chicken-Strips-Main.webp",
+  "products": [
+    {
+      "slug": "teriyaki_dry_glaze_8be7254",
+      "name": "Teriyaki Dry Glaze",
+      "summary": [
+        "A versatile blend with notes of garlic, ginger, and soy that works both as a glaze for grilling or a sauce!"
+      ]
+    },
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice &amp; noodle dish."
+      ]
+    }
+  ]
+}

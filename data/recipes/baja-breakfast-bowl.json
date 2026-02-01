@@ -1,0 +1,236 @@
+{
+  "name": "Baja Breakfast Bowl",
+  "slug": "baja-breakfast-bowl",
+  "description": "A quick, delicious breakfast, or make it \"brinner\"!",
+  "ingredients": [
+    {
+      "name": "Steamer Polenta",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": " prepared and heated"
+    },
+    {
+      "name": "water or Nourish Broth or Vegetable Broth",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat milk",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salt",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "polenta (coarse yellow cornmeal)",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pesto Sauce",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pesto Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pine nuts or pistachio nuts",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby kale",
+      "quantity": "2 cups",
+      "additionalInstruction": "shredded"
+    },
+    {
+      "name": "canned red kidney beans",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "rinsed and drained, heated"
+    },
+    {
+      "name": "Poco Picante Salsa",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "cilantro",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Guacamole",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "ripe avocados",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Guacamole Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice, optional",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "large egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "1 serving",
+  "preparation": [
+    "Place warm polenta into a serving bowl.",
+    "Add kale and warmed beans and top with salsa and guacamole.",
+    "Preheat a lightly greased frying pan on medium heat. Crack egg into pan and let cook for 1–2 minutes, or until the egg white begins to turn solid.",
+    "Top bowl with egg, season with salt and pepper, if desired, and serve."
+  ],
+  "tags": [
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 470,
+    "fat": 11,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 250,
+    "sodium": 620,
+    "carbohydrate": 71,
+    "fiber": 21,
+    "sugars": 14,
+    "protein": 29
+  },
+  "tips": [
+    "Flavour the polenta with your favourite flavours: Poco Picante Salsa Mix and Guacamole Dip Mix are great for this recipe.",
+    "Make it Vegan: Swap egg for tofu and use soy cheese."
+  ],
+  "perfectlyBalanceYourPlate": "This is a Perfectly Balanced Plate.",
+  "image": "1601674347404-recipeMainImagePath.jpg",
+  "thumbnail": "1601674347404-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chillies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "guacamole_dip_mix_dc7efdb",
+      "name": "Guacamole Dip Mix",
+      "summary": [
+        "An all-natural blend of sweet peppers, garlic, and chilies comes together to create the perfect guacamole––minus the sodium and additives! &nbsp;"
+      ]
+    },
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chillies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "guacamole_dip_mix_dc7efdb",
+      "name": "Guacamole Dip Mix",
+      "summary": [
+        "An all-natural blend of sweet peppers, garlic, and chilies comes together to create the perfect guacamole––minus the sodium and additives! &nbsp;"
+      ]
+    }
+  ]
+}

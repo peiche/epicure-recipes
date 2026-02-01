@@ -1,0 +1,55 @@
+{
+  "name": "Really Simple Pink Lemonade Herbal Tea Infused Syrup",
+  "slug": "really-simple-pink-lemonade-herbal-tea-infused-syrup",
+  "description": "A refreshing twist on a classic simple syrup! The vibrant pink hue is not only visually stunning, but it also promises a burst of citrus flavor that will elevate your beverages and culinary creations to new heights. Whether you're stirring up a refreshing iced tea, crafting a signature cocktail, or drizzling it over desserts, this homemade syrup is the perfect way to add a touch of sunshine to your day.",
+  "ingredients": [
+    {
+      "name": "sugar",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pink Lemonade Herbal Tea Blend",
+      "quantity": "4 bags",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "18 min",
+  "servings": "2 cups",
+  "preparation": [
+    "Whisk sugar and water in Multipurpose Pot. Add tea bags. Bring to a boil; reduce heat and simmer until slightly thickened, about 15 min. Gently press tea bags with the back of a spoon to release more flavour and colour.",
+    "Strain and refrigerate up to 10 days until ready to serve."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 100,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 0,
+    "carbohydrate": 25,
+    "fiber": 0,
+    "sugars": 25,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Really-Simple-Pink-Lady-Herbal-Blossom-Tea-infused-Syrup-Main.jpg",
+  "thumbnail": "Really-Simple-Pink-Lady-Herbal-Blossom-Tea-infused-Syrup-Main.webp",
+  "products": [
+    {
+      "slug": "pink_lemonade_herbal_tea_blend",
+      "name": "Pink Lemonade Herbal Tea Blend",
+      "summary": [
+        "A versatile sipper reminiscent of old-time lemonade and packed with thirst-busting citrusy flavor!"
+      ]
+    }
+  ]
+}

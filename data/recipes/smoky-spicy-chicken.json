@@ -1,0 +1,142 @@
+{
+  "name": "Smoky & Spicy Chicken",
+  "slug": "smoky-spicy-chicken",
+  "description": "A BBQ-themed dinner, without the grill!",
+  "ingredients": [
+    {
+      "name": "water",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> - 1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "applesauce",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ketchup",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pulled Pork Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mini potatoes",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (675 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bone-in, skin on chicken, such as thighs or breasts",
+      "quantity": "2 lbs (900 g)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr & 40 min (programmable pressure cooker)",
+  "servings": "6 servings",
+  "preparation": [
+    "Add 1 1&frasl;2 cups water, applesauce, ketchup, vinegar, and seasoning to an 8-quart programmable pressure cooker. Stir to combine.",
+    "Slice potatoes in half. Add potatoes and chicken to pot; stir to coat.",
+    "Secure lid. Place steam release valve in SEALING position. Press MANUAL button, select HIGH, and set the time to 30 min. This will take some time to get up to temperature before the timer starts to count down.",
+    "When the cook time has finished, naturally release pressure for 10 min.",
+    "Using a long-handled spoon, push the steam release valve to VENTING position. Release pressure completely before opening lid.",
+    "Press SAUTÉ and let sauce simmer. Simmer, stirring gently to prevent sticking, 15–20 min or until sauce has reduced to your liking.",
+    "In a 6-quart slow cooker, combine 3&frasl;4 cup water, applesauce, ketchup, vinegar, and seasoning.",
+    "Slice potatoes in half. Add potatoes and chicken to slow cooker; stir to coat.",
+    "Cover and cook 5 hrs on low. Potatoes should be tender, and chicken cooked through.",
+    "Partially cover slow cooker with lid. Cook 2 hrs on high. This will reduce the liquid and thicken the sauce."
+  ],
+  "tags": [
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "slow_cooker",
+      "name": "Slow Cookers & Roasts"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "programmable_pressure_cooker",
+      "name": "Programmable Pressure Cooker"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "instant_pottm",
+      "name": "Instant Pot™"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 360,
+    "fat": 13,
+    "saturatedFat": 3.5,
+    "transFat": 0.1,
+    "cholesterol": 115,
+    "sodium": 480,
+    "carbohydrate": 37,
+    "fiber": 3,
+    "sugars": 11,
+    "protein": 24
+  },
+  "tips": [
+    "If you have time, broil cooked chicken pieces in the oven on high, 5 min, for crispier skin and stickier sauce."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup coleslaw.",
+  "image": "smoky_spicy_chicken_1036x583.jpg",
+  "thumbnail": "smoky_spicy_chicken_1036x583.webp",
+  "products": [
+    {
+      "slug": "pulled_pork_seasoning__pkg_of_3_",
+      "name": "Pulled Pork Seasoning (Pack of 3)",
+      "summary": [
+        "Classic BBQ flavor with notes of chipotle &amp; a pinch of allspice.&nbsp;"
+      ]
+    }
+  ]
+}

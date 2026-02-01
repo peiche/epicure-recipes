@@ -1,0 +1,162 @@
+{
+  "name": "Garlicky Shrimp Pasta",
+  "slug": "garlicky-shrimp-pasta",
+  "description": "This Mediterranean-inspired pasta is bursting with goodness! Herb & Garlic Dip Mix brings classic flavours, but you can also try this recipe with Ramen Broth Mix for satisfying tamari, smoky flavours and a boost of Vitamin B thanks to your new best friend nutritional yeast. Sweet cherry tomatoes and creamy, salty feta cheese will have you coming back for more!",
+  "ingredients": [
+    {
+      "name": "uncooked penne pasta",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "frozen uncooked peeled shrimp",
+      "quantity": "1 bag (340 g)",
+      "additionalInstruction": "defrosted & drained"
+    },
+    {
+      "name": "Herb & Garlic Dip Mix or Creamy Garlic Hummus Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "1 pint",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crumbled feta cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Steamer, combine pasta and hot water. Cover; microwave on high until tender, about 7–8 min. Once cooked, drain and set aside.",
+    "Meanwhile, in Wok, heat 1&frasl;2 tbsp oil over medium-high heat. In a bowl, coat shrimp with dip mix, then add to wok. Stir-fry until slightly pink, about 2 min. Don’t over cook the shrimp—they will continue to cook in the next step.",
+    "Reduce heat to medium. Add tomatoes, cooked pasta, and remaining 2 1&frasl;2 tbsp oil. Stir until shrimp are cooked through and tomatoes start to burst. Add feta cheese. Season with salt and pepper, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 400,
+    "fat": 14,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 150,
+    "sodium": 360,
+    "carbohydrate": 42,
+    "fiber": 3,
+    "sugars": 4,
+    "protein": 26
+  },
+  "tips": [
+    "If you have time, place Wok in pre-heated 450° F oven and let the feta melt before serving."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy greens—try arugula!",
+  "image": "garlicky_shrimp_pasta_1036x583.jpg",
+  "thumbnail": "garlicky_shrimp_pasta_1036x583.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

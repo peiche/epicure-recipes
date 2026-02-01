@@ -1,0 +1,116 @@
+{
+  "name": "Maple Bacon Braised Kale",
+  "slug": "maple-bacon-braised-kale",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "strips bacon",
+      "quantity": "3",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "kale",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "stems and inner ribs removed"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Cook bacon in a frying pan until crisp. Stir in Minced Garlic and Bouillon. Bring to a boil.",
+    "Add kale a handful at a time, letting it wilt before adding more. Season with Sea Salt and Pepper.",
+    "Cover and cook over medium heat for 5 minutes, or until kale is tender.",
+    "Uncover and cook until liquid has evaporated. Transfer to a bowl and serve."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 60,
+    "fat": 2,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 125,
+    "carbohydrate": 7,
+    "fiber": 2,
+    "sugars": 3,
+    "protein": 3
+  },
+  "tips": [
+    "Make up to a day ahead and simply reheat before serving."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Maple-Bacon-Braised-Kale_1036x583.jpg",
+  "thumbnail": "Maple-Bacon-Braised-Kale_1036x583.webp",
+  "products": [
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    },
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    }
+  ]
+}

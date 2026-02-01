@@ -1,0 +1,106 @@
+{
+  "name": "Pears Poached with Mulling Spices",
+  "slug": "pears-poached-with-mulling-spices",
+  "description": "This simple, yet elegant, dessert is sure to wow friends and family alike!",
+  "ingredients": [
+    {
+      "name": "Mulled Wine",
+      "quantity": "4 cups",
+      "additionalInstruction": "prepared, or prepared Mulled Cider"
+    },
+    {
+      "name": "red wine",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Mulling Spices",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brandy",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "cinnamon sticks",
+      "quantity": null,
+      "additionalInstruction": "for garnish - optional"
+    },
+    {
+      "name": "oranges",
+      "quantity": "2",
+      "additionalInstruction": "thinly sliced, for garnish - optional"
+    },
+    {
+      "name": "lemons",
+      "quantity": "2",
+      "additionalInstruction": "thinly sliced, for garnish - optional"
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large pears or apples",
+      "quantity": "4",
+      "additionalInstruction": "peeled"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In Multipurpose Pot, simmer first 2 ingredients in a saucepan for 5 minutes.",
+    "Add pears and simmer until barely fork tender, 15 minutes. Remove from heat and cool to room temperature."
+  ],
+  "tags": [
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 190,
+    "fat": 0.2,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 4,
+    "carbohydrate": 52,
+    "fiber": 3,
+    "sugars": 46,
+    "protein": 0.4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Pears-Poached-with-Mulling-Spices-Main.jpg",
+  "thumbnail": "Pears-Poached-with-Mulling-Spices-Main.webp",
+  "products": []
+}

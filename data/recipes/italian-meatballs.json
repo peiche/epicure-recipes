@@ -1,0 +1,144 @@
+{
+  "name": "Italian Meatballs",
+  "slug": "italian-meatballs",
+  "description": "Mamma mia, we’ve got meatballs! These are so easy, they practically cook themselves. Yet, they give off that fancy, “I spent hours in the kitchen” vibe. And, they’re gluten free, low sodium, and kid friendly—all the good stuff. These meatballs are great for meal prep: freeze the extras for a hassle-free dinner later. Use ‘em in pasta dishes, pizzas, sammies, soups, stir-fries, and more, or serve them on their own for a happy appy. Mangia!",
+  "ingredients": [
+    {
+      "name": "Italian Meatball Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground pork",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "16 servings",
+  "preparation": [
+    "Preheat oven to 400° F. Line Sheet Pan with Sheet Pan Liner.",
+    "In a large bowl, combine seasoning with beef, pork, eggs, milk, and Parmesan cheese, if using.",
+    "Moisten hands with water and form mixture into 32 meatballs, about 2 tbsp each. Arrange on pan.",
+    "Bake 15–18 min, or until cooked through."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 meatballs",
+    "calories": 120,
+    "fat": 6,
+    "saturatedFat": 2.5,
+    "transFat": 0.1,
+    "cholesterol": 55,
+    "sodium": 190,
+    "carbohydrate": 4,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 12
+  },
+  "tips": [
+    "For a vegetarian option, swap 2 lbs eggplant for ground meat. Dice eggplant into small cubes. Place in Multipurpose Steamer. Cover; microwave on high 5–7 min, or until tender. Lightly mash. Stir in 2 eggs, seasoning, and 1&frasl;4 cup Parmesan cheese (optional). Form into meatballs and continue with recipe directions above."
+  ],
+  "perfectlyBalanceYourPlate": "Serve 4 meatballs with 1&frasl;2 cup rice or pasta, and 2 cups leafy greens with 1 tbsp Epicure Dressing.",
+  "image": "italian_meatball_seasoning_1036x583.jpg",
+  "thumbnail": "italian_meatball_seasoning_1036x583.webp",
+  "products": [
+    {
+      "slug": "italian_meatball_seasoning__pack_of_3_",
+      "name": "Italian Meatball Seasoning (Pack of 3)",
+      "summary": [
+        "You’ve gotta love a juicy meatball! Our gluten free blends makes perfectly shaped, moist meatballs that are the perfect partners for spaghetti and marinara sauce, stuffed into sandwiches, smashed onto pizza, or added to soup. Make a big batch and freeze them to use whenever your meatball craving strikes!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

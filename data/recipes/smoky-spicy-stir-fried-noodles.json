@@ -1,0 +1,152 @@
+{
+  "name": "Smoky & Spicy Stir-Fried Noodles",
+  "slug": "smoky-spicy-stir-fried-noodles",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "fresh Udon noodles",
+      "quantity": "2 pkgs (200 g each)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pulled Pork Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "orange juice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar snap peas or snow peas",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Fill Multipurpose Pot three-quarters full of hot water. Bring to a boil over high heat. Add noodles and boil 4–5 min, stirring noodles gently until each strand has separated. The noodles will soften, but still be chewy. Strain, rinse under cold water, and set aside.",
+    "Meanwhile, in a small bowl, whisk together seasoning, juice, and soy sauce. Set aside.",
+    "Cut chicken into small, bite-size pieces. In Wok, heat oil over medium-high heat; add chicken. Stir-fry until golden and cooked through, about 6–8 min.",
+    "Slice peppers into thin strips. Add peppers and snap peas to wok; stir-fry until tender-crisp, 2–3 min. Add strained noodles and reserved sauce. Stir gently to combine and simmer until sauce has heated through, 1 min.",
+    "Divide between 4 bowls and add green onion, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 400,
+    "fat": 8,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 85,
+    "sodium": 380,
+    "carbohydrate": 49,
+    "fiber": 4,
+    "sugars": 10,
+    "protein": 33
+  },
+  "tips": [
+    "Find fresh Udon noodles in the international section of most grocery stores. Look for noodles in vacuum-sealed plastic packages—these noodles are pre-cooked and require a short time in boiling water to separate the strands."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup steamed veggies.",
+  "image": "may_smoky_spicy_stirfry_noodles_1036x583.jpg",
+  "thumbnail": "may_smoky_spicy_stirfry_noodles_1036x583.webp",
+  "products": [
+    {
+      "slug": "pulled_pork_seasoning__pkg_of_3_",
+      "name": "Pulled Pork Seasoning (Pack of 3)",
+      "summary": [
+        "Classic BBQ flavor with notes of chipotle &amp; a pinch of allspice.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_pot___12_c",
+      "name": "Multipurpose Pot - 12 Cup",
+      "summary": [
+        "A 12 cup, multi-use, stainless-steel cooking pot with a lid made of glass, steel &amp; silicone rubber."
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

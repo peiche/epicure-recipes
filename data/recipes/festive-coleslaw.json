@@ -1,0 +1,146 @@
+{
+  "name": "Festive Coleslaw",
+  "slug": "festive-coleslaw",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "shredded green cabbage",
+      "quantity": "6 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded red cabbage",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green onions",
+      "quantity": "6",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "red apple",
+      "quantity": "1",
+      "additionalInstruction": "diced, skin on"
+    },
+    {
+      "name": "green apple",
+      "quantity": "1",
+      "additionalInstruction": "diced, skin on"
+    },
+    {
+      "name": "chopped walnuts",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vinegar",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dijon-style mustard",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Combine cabbage, onions and apples in large bowl.",
+    "Whisk together dressing ingredients. Add to coleslaw, stirring to combine all ingredients. Sprinkle walnuts over top."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 270,
+    "fat": 25,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 125,
+    "carbohydrate": 13,
+    "fiber": 3,
+    "sugars": 9,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Festive-Coleslaw-Main.jpg",
+  "thumbnail": "Festive-Coleslaw-Main.webp",
+  "products": [
+    {
+      "slug": "balsamic_vinaigrette_dressing_mix",
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "summary": [
+        "Fresh, bright &amp; bold blend of Mediterranean herbs with notes of garlic &amp; rosemary. Our most versatile dressing."
+      ]
+    }
+  ]
+}

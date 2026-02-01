@@ -1,0 +1,137 @@
+{
+  "name": "Beefed Up Shish Kebabs",
+  "slug": "beefed-up-shish-kebabs",
+  "description": "A great choice for potlucks! Choose top sirloin—it cooks quickly at hot temperatures while staying juicy and flavourful, and it doesn’t break the bank.",
+  "ingredients": [
+    {
+      "name": "top sirloin steak",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (675 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Shish Kebab Seasoning or Montreal Steak Rub",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large bell pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small button mushrooms",
+      "quantity": "3 cups",
+      "additionalInstruction": "about 8 oz"
+    },
+    {
+      "name": "Sea Salt (Grinder)",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper (Grinder)",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat grill to medium-high. Lightly brush with oil.",
+    "Chop steak, peppers, and onion into 1\" pieces. Place steak pieces in a large bowl and toss with seasoning and 1 tbsp oil. Add chopped veggies and mushrooms to bowl and drizzle with remaining oil. Season with salt and pepper, if desired.",
+    "Thread onto Grill Boss Skewers. Grill skewers with lid closed, 2–4 min per side, until lightly charred and steak is cooked to your liking.",
+    "If you have time, let kebabs rest 5 min before serving. Serve with sauce, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 290,
+    "fat": 19,
+    "saturatedFat": 7,
+    "transFat": 0.5,
+    "cholesterol": 75,
+    "sodium": 95,
+    "carbohydrate": 5,
+    "fiber": 1,
+    "sugars": 2,
+    "protein": 25
+  },
+  "tips": [
+    "For more robust flavour, marinate seasoned steak overnight."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 large dinner roll.",
+  "image": "Beefed-Up-Shish-Kebabs_1036x583.jpg",
+  "thumbnail": "Beefed-Up-Shish-Kebabs_1036x583.webp",
+  "products": []
+}

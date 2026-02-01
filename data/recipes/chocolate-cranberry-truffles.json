@@ -1,0 +1,76 @@
+{
+  "name": "Chocolate Cranberry Truffles",
+  "slug": "chocolate-cranberry-truffles",
+  "description": "Sweet gift idea: tuck these into a small box lined with tissue paper.",
+  "ingredients": [
+    {
+      "name": "dark chocolate chips",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cranberry sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whipping cream",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "icing sugar",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "45 min",
+  "servings": "20 - 30 truffles",
+  "preparation": [
+    "Melt first 3 ingredients in a metal or glass bowl over steaming (not boiling) water, stirring regularly.",
+    "Remove mixture from heat. Cool to room temperature. Once cool, place bowl in refrigerator for minimum 30 minutes.",
+    "Place cocoa and icing sugar on separate plates. Roll teaspoons of chilled truffle mixture in hands (truffles can be irregular in shape), then roll in either Cocoa or icing sugar.",
+    "Store in refrigerator and remove 5 minutes prior to serving."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 truffle",
+    "calories": 70,
+    "fat": 4,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 2,
+    "carbohydrate": 9,
+    "fiber": 1,
+    "sugars": 7,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Chocolate-Cranberry-Truffles-Main.jpg",
+  "thumbnail": "Chocolate-Cranberry-Truffles-Main.webp",
+  "products": []
+}

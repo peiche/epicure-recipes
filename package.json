@@ -1,6 +1,7 @@
 {
   "name": "epicure-recipes",
   "version": "1.0.0",
+  "type": "module",
   "private": true,
   "description": "epicure-recipes",
   "author": "Paul",
@@ -9,15 +10,19 @@
     "recipes"
   ],
   "scripts": {
+    "sync-assets": "node sync-assets.js",
+    "predev": "npm run sync-assets",
     "dev": "next dev",
+    "prebuild": "npm run sync-assets",
     "build": "next build",
     "start": "next start",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "scrape": "node scraper/scraper.js",
+    "sync-search": "node scraper/sync.js"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
-    "@fontsource/roboto": "^5.1.1",
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
     "@fortawesome/react-fontawesome": "^0.2.2",
     "@mui/icons-material": "^7.0.0",
@@ -26,14 +31,19 @@
     "@next/third-parties": "^15.3.1",
     "@reduxjs/toolkit": "^2.7.0",
     "algoliasearch": "^5.20.1",
+    "dotenv": "^17.2.3",
     "fs": "^0.0.1-security",
+    "fs-extra": "^11.3.3",
     "instantsearch.js": "^4.86.1",
+    "jsonfile": "^6.2.0",
     "next": "^15.5.9",
+    "puppeteer": "^24.36.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-instantsearch": "^7.22.1",
-    "react-redux": "^9.2.0",
-    "redux-persist": "^6.0.0"
+    "react-instantsearch-router-nextjs": "^7.23.0",
+    "sharp": "^0.34.5",
+    "vm": "^0.1.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.19",

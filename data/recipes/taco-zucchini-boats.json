@@ -1,0 +1,162 @@
+{
+  "name": "Taco Zucchini Boats",
+  "slug": "taco-zucchini-boats",
+  "description": "Looking for a healthy & delicious recipe to use up your summer zucchini bounty? Look no further! These taco-filled zucchini boats are filled with warm Taco Filling and topped with melty cheese. If you’re eating lower carb meals, this fits the bill and is still incredibly satisfying.",
+  "ingredients": [
+    {
+      "name": "medium zucchinis, cut in half lengthwise",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Taco Filling",
+      "quantity": "2 cups prepared",
+      "additionalInstruction": "warmed"
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Taco Seasoning ",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa",
+      "quantity": "2 cups prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "cilantro",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Mexican blend shredded cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat broiler to high.",
+    "Using the tip of a spoon, scrape out centers of zucchini halves, leaving 1&frasl;4” thick shell on each half. Chop and stir zucchini centres into taco filling; set aside.",
+    "Place zucchini shells in Multipurpose Steamer. Cover and microwave on high for 4 min, or just until tender.",
+    "Spread salsa in bottom of a large baking dish. Tuck in zucchini halves (they can touch).",
+    "Fill zucchini hollows with taco filling; press in to pack down. Sprinkle cheese on top.",
+    "Place dish on a Sheet Pan. Broil, rotating pan, until cheese evenly melts, 1–2 min. Garnish with toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 boats",
+    "calories": 260,
+    "fat": 11,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 50,
+    "sodium": 670,
+    "carbohydrate": 17,
+    "fiber": 3,
+    "sugars": 4,
+    "protein": 27
+  },
+  "tips": [
+    "Add a dollop of sour cream or Greek yogurt—they taste great with salsa!"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups mixed greens and veggies and 1&frasl;2 cup brown rice.",
+  "image": "1568760307541-recipeMainImagePath.jpg",
+  "thumbnail": "1568760307541-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "taco_seasoning__1701317_",
+      "name": "Taco Seasoning (Jar)",
+      "summary": [
+        "Classic Tex-Mex flavor with medium heat."
+      ]
+    },
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chilies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

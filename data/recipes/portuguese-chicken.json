@@ -1,0 +1,116 @@
+{
+  "name": "Portuguese Chicken",
+  "slug": "portuguese-chicken",
+  "description": "By now, you know how easy it is to prepare a whole chicken in the microwave, thanks to our innovative steamers and exclusive spice blends like Rotisserie Chicken Seasoning and Lemon Garlic Chicken Seasoning. But now we’re turning up the heat with a spicier option featuring chilies, paprika, and cayenne. It’s a whole new level of 20-minute, speedy, spicy deliciousness!",
+  "ingredients": [
+    {
+      "name": "Portuguese Chicken Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whole chicken",
+      "quantity": "3 lbs (1.36 kg)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Whisk seasoning with water and oil. Let stand 5 min.",
+    "Place chicken, breast side down, in Round or Multipurpose Steamer. Rub with half the seasoning mixture. Turn chicken over, breast side up, and rub with remaining seasoning mixture.",
+    "Cover; microwave on high 15 min. Remove lid and microwave additional 5 min, or until internal temperature reaches 180° F. Or, roast, uncovered, in preheated 375° F oven 70–80 min, or until internal temperature reaches 180° F."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 230,
+    "fat": 13,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 70,
+    "sodium": 180,
+    "carbohydrate": 5,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 23
+  },
+  "tips": [
+    "If you have time, let the chicken rest for 15 min before slicing it. This gives it time to absorb the yummy juices. Pour any drippings from the steamer over your chicken.",
+    "Don’t waste the bones! Boil the leftover carcass in water to make a bone broth. Bone broth contains collagen and may help support your immune system, digestion, and joint health"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with a whole-grain dinner roll and 1 cup steamed veggies.",
+  "image": "portuguese_chicken_1036x583.jpg",
+  "thumbnail": "portuguese_chicken_1036x583.webp",
+  "products": [
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

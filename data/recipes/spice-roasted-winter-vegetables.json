@@ -1,0 +1,130 @@
+{
+  "name": "Spice-roasted Winter Vegetables",
+  "slug": "spice-roasted-winter-vegetables",
+  "description": "A great way to add more veggies to your seasonal diet.",
+  "ingredients": [
+    {
+      "name": "cubed, diced and peeled butternut squash",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coarsely chopped and peeled parsnips",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small onions",
+      "quantity": "2",
+      "additionalInstruction": "cut in small wedges with stem end attached"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Rosemary Garlic Seasoning",
+      "quantity": "1 tsp",
+      "additionalInstruction": "or Vegetable Seasoing"
+    },
+    {
+      "name": "Apple Pie Spice",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "coarsely ground, to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "coarsely ground, to taste"
+    }
+  ],
+  "totalTime": "45 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 450° F (230° C). Place rack in middle of oven.",
+    "Place all ingredients in centre of parchment-lined Sheet Pan. Using your fingers, toss vegetables to coat with Spices.",
+    "Spread vegetables evenly on pan. Do not crowd, or they will steam rather than roast.",
+    "Bake for 35 minutes, or until vegetables are tender and lightly browned."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 130,
+    "fat": 5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 75,
+    "carbohydrate": 22,
+    "fiber": 5,
+    "sugars": 6,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Spice-roasted-Winter-Vegetables-Main.jpg",
+  "thumbnail": "Spice-roasted-Winter-Vegetables-Main.webp",
+  "products": [
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavours on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    },
+    {
+      "slug": "apple_pie_spice",
+      "name": "Apple Pie Spice",
+      "summary": [
+        "Move over pumpkin spice; it's time for Apple Pie Spice to shine! Perfect for leveling up the taste of fall-inspired baking, it's also great on top of oatmeal, in a frothy late or smoothie – or anywhere you want a punch of apple pie flavour.&nbsp;"
+      ]
+    }
+  ]
+}

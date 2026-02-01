@@ -1,0 +1,100 @@
+{
+  "name": "Rustic Marinated Olives",
+  "slug": "rustic-marinated-olives",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "olives",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "balsamic vinegar",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pizza Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "8 hours",
+  "servings": "2 cups",
+  "preparation": [
+    "Place all ingredients in a container with a tight fitting lid. Shake well and refrigerate for at least 8 hours.",
+    "Remove from refrigerator and allow to come up to room temperature before serving."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1/4 cup",
+    "calories": 80,
+    "fat": 7,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 290,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 0.3
+  },
+  "tips": [
+    "Great as a gift — place marinated olives in a Mason jar with the recipe tied on with a ribbon."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Rustic-Marinated-Olives-Main.jpg",
+  "thumbnail": "Rustic-Marinated-Olives-Main.webp",
+  "products": [
+    {
+      "slug": "pizza_seasoning_2308099",
+      "name": "Pizza Seasoning (1002291)",
+      "summary": [
+        "In a world of complex gastronomy, pizza is a testament to the simple pleasures we all crave. Now you can get it by the spoonful! This blend delivers the nostalgic flavours and feeling of eating pizza, with notes of basil, oregano, garlic, tomato, and green bell peppers with loads of Parmesan. And yes, there is a mild whisper of chilli, too!&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

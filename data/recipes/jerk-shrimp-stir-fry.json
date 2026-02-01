@@ -1,0 +1,145 @@
+{
+  "name": "Jerk Shrimp Stir Fry",
+  "slug": "jerk-shrimp-stir-fry",
+  "description": "Shrimp and pineapple coated in Jerk Seasoning is guaranteed to take your tastebuds to the next level. It’s loaded with medium-hot notes of all spice, cayenne pepper and chilies. Flavour tip: Don’t like spice? Opt for one tbsp of Jerk Seasoning instead of two!",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg (396 g/14 oz)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small red onion",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "snap peas",
+      "quantity": "1 pkg (227 g/8 oz)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen, cooked, large shrimp",
+      "quantity": "1 pkg (340 g/12 oz)",
+      "additionalInstruction": "thawed"
+    },
+    {
+      "name": "pineapple chunks",
+      "quantity": "1 can (13.5 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Jerk Seasoning",
+      "quantity": "1–2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Cook noodles according to package instructions.",
+    "Heat oil in Wok over medium-high heat. Chop peppers and onion. Add onion to wok and cook 2 min. Add peppers and peas; cook 3 min or until veggies begin to soften.",
+    "Stir in thawed shrimp and pineapple (including juice); simmer until heated through, 1 min.",
+    "Add seasoning and rice noodles. Cook 3–4 min or until sauce thickens."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 410,
+    "fat": 5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 165,
+    "sodium": 490,
+    "carbohydrate": 64,
+    "fiber": 5,
+    "sugars": 18,
+    "protein": 24
+  },
+  "tips": [
+    "Jerk seasoning is made with habanero pepper, which is very spicy! If you are sensitive to spice, try using 1 tbsp; if you are feeling adventurous, go for 2 tbsp!",
+    "Use the Multipurpose Pot to prepare the rice noodles—it’s built for heat and has an easy drain spout and lid built right in."
+  ],
+  "perfectlyBalanceYourPlate": "Top with 1&frasl;4 avocado.",
+  "image": "jerk_chicken_stirfry_1036x583.jpg",
+  "thumbnail": "jerk_chicken_stirfry_1036x583.webp",
+  "products": [
+    {
+      "slug": "jerk_seasoning",
+      "name": "Jerk Seasoning (1011634)",
+      "summary": [
+        "Slightly spicy, sweet, and versatile, this blend screams summer and is a great way to liven up your grilling game!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

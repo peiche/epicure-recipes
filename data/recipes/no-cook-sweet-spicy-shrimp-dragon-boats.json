@@ -1,0 +1,129 @@
+{
+  "name": "No-Cook Sweet & Spicy Shrimp Dragon Boats",
+  "slug": "no-cook-sweet-spicy-shrimp-dragon-boats",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "mayonnaise",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sweet & Spicy Mustard",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Potato Salad Dressing Mix",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water or milk",
+      "quantity": "1–2 tbsp",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "frozen cooked peeled shrimp",
+      "quantity": "1 bag (340 g)",
+      "additionalInstruction": "defrosted"
+    },
+    {
+      "name": "avocado",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "romaine spears",
+      "quantity": "16",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a large bowl, stir together mayonnaise, mustard and dressing mix. Portion half into a Prep Bowl; stir in water or milk to make a thin dressing. Set aside.",
+    "Pull off and discard shrimp tails, if you wish. Cut shrimps in half or thirds; add to large bowl; toss to evenly coat with mayo mixture.",
+    "Dice avocado and pepper.",
+    "Spoon shrimp mixture into lettuce leaves (use 2 leaves per boat); top with avocado and pepper. Arrange on plates; drizzle with reserved dressing (from Prep Bowl). Add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 boats",
+    "calories": 290,
+    "fat": 17,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 170,
+    "sodium": 310,
+    "carbohydrate": 14,
+    "fiber": 7,
+    "sugars": 6,
+    "protein": 21
+  },
+  "tips": [
+    "Swap shrimp for leftover cooked chicken."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup rice.",
+  "image": "6853_No_Cook_Sweet_Spicy_Shrimp_Dragon_Boats_1036x583.jpg",
+  "thumbnail": "6853_No_Cook_Sweet_Spicy_Shrimp_Dragon_Boats_1036x583.webp",
+  "products": [
+    {
+      "slug": "prep_bowls__set_of_4__f30391c",
+      "name": "Prep Bowls (Set of 4)",
+      "summary": [
+        "Prep, serve, &amp; store—a kitchen essential!"
+      ]
+    }
+  ]
+}

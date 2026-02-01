@@ -1,0 +1,139 @@
+{
+  "name": "El Dorado Slow Cooker Pork Chops",
+  "slug": "el-dorado-slow-cooker-pork-chops",
+  "description": "Here’s a gorgeous meal bursting with Tex-Mex flavours!",
+  "ingredients": [
+    {
+      "name": "unpeeled sweet potatoes",
+      "quantity": "4",
+      "additionalInstruction": "cut into small cubes"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red bell pepper",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "Toasted Onion",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cider vinegar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless pork loin chops",
+      "quantity": "6 (1 inch thick)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "black beans",
+      "quantity": "1 can (15 oz/425 ml)",
+      "additionalInstruction": "rinsed and drained"
+    },
+    {
+      "name": "corn",
+      "quantity": "1 can (15oz/425 ml)",
+      "additionalInstruction": "drained"
+    },
+    {
+      "name": "El Dorado Sauce",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 10 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 375° F (190° C) if cooking in the oven.",
+    "In a large mixing bowl, combine potatoes, oil, peppers, Toasted Onion, sugar, and vinegar. Set aside.",
+    "Place pork chops in a slow cooker or baking dish and season with Sea Salt and Black Pepper.",
+    "Pour potato mixture evenly over pork. Cook on high in a slow cooker or in the oven until potatoes are soft and pork is no longer pink and has reached an internal temperature of 160° F (70° C), 30 – 40 minutes, or 1 hour in a slow cooker.",
+    "In the last 10 minutes of cooking, add the beans and corn.",
+    "Arrange on a platter and spoon El Dorado Sauce on each chop."
+  ],
+  "tags": [
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "slow_cooker",
+      "name": "Slow Cookers & Roasts"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 460,
+    "fat": 15,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 60,
+    "sodium": 510,
+    "carbohydrate": 57,
+    "fiber": 9,
+    "sugars": 19,
+    "protein": 26
+  },
+  "tips": [
+    "If you are using a slow cooker, brown the pork chops in a frying pan before cooking for added caramelized flavour."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "El-Dorado-Slow-Cooker-Pork-Chops-Main.jpg",
+  "thumbnail": "El-Dorado-Slow-Cooker-Pork-Chops-Main.webp",
+  "products": [
+    {
+      "slug": "toasted_onion",
+      "name": "Toasted Onion",
+      "summary": [
+        "Sweet flavour of lightly toasted onion."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "name": "Summer Chickpea Lettuce Wraps",
+  "slug": "summer-chickpea-lettuce-wraps",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "unsalted chickpeas",
+      "quantity": "2 cans (19 oz/540 ml each)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Crispy & Crunchy Lettuce Wrap Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lettuce leaves",
+      "quantity": "16",
+      "additionalInstruction": "about 1 small head"
+    },
+    {
+      "name": "crumbled goat or feta cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Drain and rinse chickpeas; place in a large bowl. Add seasoning; stir to combine.",
+    "In Sauté Pan, heat oil over medium-high heat. Add chickpea mixture; cook, stirring occasionally, until heated through, about 6 min. Remove from heat. Slice lemon in half. Using 2-in-1 Citrus Press, squeeze in juice; stir to combine.",
+    "Dice pepper and onion.",
+    "To assemble, make eight stacks of two lettuce leaves. Add about 1&frasl;2 cup chickpea and seasoning mixture to each stack. Top with peppers, onion, and cheese."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 410,
+    "fat": 10,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 260,
+    "carbohydrate": 56,
+    "fiber": 13,
+    "sugars": 5,
+    "protein": 21
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup corn kernels—try adding them to the wraps!",
+  "image": "aug_summer_chickpea_lettuce_wraps_1036x583.jpg",
+  "thumbnail": "aug_summer_chickpea_lettuce_wraps_1036x583.webp",
+  "products": [
+    {
+      "slug": "ginger_pork_lettuce_wrap_seasoning__pkg_of_3_",
+      "name": "Crispy & Crunchy Lettuce Wrap Seasoning (Pack of 3)",
+      "summary": [
+        "Enjoy a garlic &amp; ginger taste with your choice of protein. Makes 8 sets of 2 stacked lettuce leaves.&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    }
+  ]
+}

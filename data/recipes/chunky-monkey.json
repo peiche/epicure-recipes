@@ -1,0 +1,78 @@
+{
+  "name": "Chunky Monkey",
+  "slug": "chunky-monkey",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "frozen banana",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "nut or seed butter",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Power Up Vanilla Protein Blend",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk, dairy alternative or water",
+      "quantity": "1 cup",
+      "additionalInstruction": "your choice"
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 serving",
+  "preparation": [
+    "In a blender, combine all ingredients. If you like it thicker, add ice cubes; for a thinner consistency, add water",
+    "Blend until smooth and pour into a tall glass."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 460,
+    "fat": 16,
+    "saturatedFat": 4.5,
+    "transFat": 0.2,
+    "cholesterol": 20,
+    "sodium": 410,
+    "carbohydrate": 51,
+    "fiber": 7,
+    "sugars": 30,
+    "protein": 33
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "double_chocolate_chunky_monkey_1036x583.jpg",
+  "thumbnail": "double_chocolate_chunky_monkey_1036x583.webp",
+  "products": [
+    {
+      "slug": "power_up_vanilla_protein_blend__pouch_",
+      "name": "Power Up Vanilla Protein Blend (Pouch)",
+      "summary": [
+        "Fuel up first thing and stay fuller longer with rich smooth-tasting vanilla blend. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "name": "Grilled Summer Vegetable Salad",
+  "slug": "grilled-summer-vegetable-salad",
+  "description": "This recipe provides almost 2 of your recommended 8 servings of fruit and veggies.",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": "cut into thick strips"
+    },
+    {
+      "name": "medium zucchinis",
+      "quantity": "2",
+      "additionalInstruction": "sliced 1/4\" thick"
+    },
+    {
+      "name": "medium onion",
+      "quantity": "1",
+      "additionalInstruction": "sliced 1/4\" thick"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mixed greens",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "or Raspberry Vinaigrette Dressing"
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "balsamic vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "freshly ground, to taste"
+    }
+  ],
+  "totalTime": "16 - 18 min",
+  "servings": "4 - 6 servings",
+  "preparation": [
+    "Preheat barbecue to medium-high.",
+    "Toss all vegetables except greens with oil.",
+    "Place vegetables in a grilling basket on grill. Using tongs, turn often, until lightly charred, 5 - 8 minutes.",
+    "Place greens in a large salad bowl and add grilled vegetables. Drizzle with Vinaigrette. Season to taste. Toss to mix."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 150,
+    "fat": 13,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 10,
+    "carbohydrate": 7,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Grilled-Summer-Vegetable-Salad-Main.jpg",
+  "thumbnail": "Grilled-Summer-Vegetable-Salad-Main.webp",
+  "products": [
+    {
+      "slug": "balsamic_vinaigrette_dressing_mix",
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "summary": [
+        "A classic for a reason, this dressing mix is full of flavour and uber versatile. Use it as salad or nourish bowl dressing, marinade protein including chicken and beef, or glaze grilled veggies and fresh fruit. Any way you serve it, it’s sure to be a hit!&nbsp;"
+      ]
+    }
+  ]
+}

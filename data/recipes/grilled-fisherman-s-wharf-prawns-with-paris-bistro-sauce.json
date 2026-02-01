@@ -1,0 +1,109 @@
+{
+  "name": "Grilled Fisherman’s Wharf Prawns with Paris Bistro Sauce",
+  "slug": "grilled-fisherman-s-wharf-prawns-with-paris-bistro-sauce",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "prawns",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "shelled and deveined"
+    },
+    {
+      "name": "Fisherman’s Wharf Sea Salt Blend Grinder",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "Paris Bistro Sauce",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Paris Bistro Finishing Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "shake jar before use"
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon wedges for serving",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Using a basting brush, brush prawns with oil, then liberally grind with Fisherman’s Wharf and rub in.",
+    "Lightly oil grill and cook with barbecue lid closed, over medium heat, until cooked through, 2 minutes per side. Serve hot with lemon wedges and a dollop of Sauce."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 310,
+    "fat": 16,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 90,
+    "sodium": 430,
+    "carbohydrate": 9,
+    "fiber": 2,
+    "sugars": 1,
+    "protein": 31
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Grilled-Fisherman-s-Wharf-Prawns-with-Paris-Bistro-Finishing-Sauce-Main.jpg",
+  "thumbnail": "Grilled-Fisherman-s-Wharf-Prawns-with-Paris-Bistro-Finishing-Sauce-Main.webp",
+  "products": []
+}

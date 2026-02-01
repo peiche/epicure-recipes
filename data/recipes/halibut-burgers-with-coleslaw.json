@@ -1,0 +1,132 @@
+{
+  "name": "Halibut Burgers with Coleslaw",
+  "slug": "halibut-burgers-with-coleslaw",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "halibut or salmon fillets",
+      "quantity": "4 (4oz/113g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "plus more for grilling"
+    },
+    {
+      "name": "Rosemary Garlic Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crusty buns",
+      "quantity": "4",
+      "additionalInstruction": "split"
+    },
+    {
+      "name": "homemade or store-bought coleslaw",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Big Burger Sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Big Burger Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ketchup",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "relish",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Using a basting brush, brush fish with oil, then sprinkle with Rosemary Garlic Seasoning, and rub in.",
+    "Grill, with barbecue lid closed, over medium-high heat (or broil in oven) until cooked through, 4 minutes per side. Grill or broil buns during the last minute of cooking, if you wish.",
+    "Meanwhile, place coleslaw in a bowl. Add Big Burger Sauce and toss to mix. Add water to thin, if needed.",
+    "Place fish on bottom halves of buns, then divide coleslaw overtop. Cover with top buns, and serve."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 360,
+    "fat": 16,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 380,
+    "carbohydrate": 25,
+    "fiber": 1,
+    "sugars": 4,
+    "protein": 27
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Halibut-Burgers-with-Coleslaw-Main.jpg",
+  "thumbnail": "Halibut-Burgers-with-Coleslaw-Main.webp",
+  "products": [
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavours on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    },
+    {
+      "slug": "big_burger_sauce_mix_d51f091",
+      "name": "Big Burger Sauce Mix",
+      "summary": [
+        "The tastiest burger sauce on this side of the golden arches. Best of all, it’s free of sodium and preservatives. Simply mix the seasoning with mayo, ketchup, and relish, and you’ve got saucy goodness to slather on burgers, sandwiches, sausages, and hot dogs.&nbsp;&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "name": "Better Than Mayo",
+  "slug": "better-than-mayo",
+  "description": "Easily make vegan mayo at home—without the need for stabilizer preservatives or gums. Use as you would store-bought mayo.",
+  "ingredients": [
+    {
+      "name": "Better Than Mayo Mix",
+      "quantity": "2 scoops",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "white or apple cider vinegar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "about 1 cup",
+  "preparation": [
+    "In a bowl, combine mix with water. Mix on high until emulsified, 30–60 sec.",
+    "While mixing, slowly blend in oil. Reduce speed and add vinegar. Mix for 30 sec or until thick and creamy. Do not overmix.",
+    "In a 2-cup measuring cup, combine mix with water. Slowly blend in oil, then vinegar, until thick and creamy."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 tbsp",
+    "calories": 90,
+    "fat": 10,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 65,
+    "carbohydrate": 0,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 0.2
+  },
+  "tips": [
+    "For best results, choose a light flavoured oil such as canola, grapeseed, light olive oil, or blended ( a mix of olive and vegetable oils)",
+    "Great base to flavour with Roasted Garlic or Chipotle Aioli Mix.",
+    "Volume may vary based on blender speed.",
+    "Store up to 2 weeks in the fridge."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "better_than_mayo_1036x583.jpg",
+  "thumbnail": "better_than_mayo_1036x583.webp",
+  "products": [
+    {
+      "slug": "beyond_mayo_mix",
+      "name": "Better Than Mayo Mix",
+      "summary": [
+        "100% plant-based mayo mix with a tangy but neutral base—perfect for use with dip and aioli mixes."
+      ]
+    },
+    {
+      "slug": "roasted_garlic_aioli_mix",
+      "name": "Roasted Garlic Aioli Mix",
+      "summary": [
+        "A creamy roasted garlic condiment for your burger, sandwich or use as a dip for fries or veg.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "chipotle_aioli_mix",
+      "name": "Chipotle Aioli Mix",
+      "summary": [
+        "Medium-spicy Southwestern flavor with noteworthy chipotle chili and smoked paprika. A crowd-pleasing condiment for your burgers, fries, fish tacos, burritos and anything else that needs a little extra kick.&nbsp;"
+      ]
+    }
+  ]
+}

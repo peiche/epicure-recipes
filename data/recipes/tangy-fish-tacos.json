@@ -1,0 +1,154 @@
+{
+  "name": "Tangy Fish Tacos",
+  "slug": "tangy-fish-tacos",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Potato Salad Dressing Mix or Lemon Dilly Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coleslaw mix",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "white fish",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "such as tilapia, cod, or haddock, about 4 fillets"
+    },
+    {
+      "name": " Honey Mustard or Dijon-style mustard ",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small whole-grain or corn tortillas",
+      "quantity": "8 ",
+      "additionalInstruction": "warmed"
+    }
+  ],
+  "totalTime": "12 min",
+  "servings": "4 serving",
+  "preparation": [
+    "Whisk together olive oil, apple cider vinegar, and dressing mix. Add coleslaw mix. Toss to combine. Set aside.",
+    "Place fish in Multipurpose Steamer. Cover; microwave  on high 3 min.",
+    "Remove fish from microwave; let stand, covered, 1 min. Drain excess liquid from steamer.",
+    "Break fish into small chunks with fork; add mustard and mix well. Divide fish between tortillas. Top with coleslaw and other toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tacos",
+    "calories": 310,
+    "fat": 11,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 55,
+    "sodium": 140,
+    "carbohydrate": 28,
+    "fiber": 4,
+    "sugars": 4,
+    "protein": 26
+  },
+  "tips": [
+    "Use the 4-in-1 Mandoline to thinly shave toppings such as radish. Try it with onion too."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup veggies and 1 tbsp of your favourite Epicure dip.",
+  "image": "6826_tangy_fish_tacos_1036x583.jpg",
+  "thumbnail": "6826_tangy_fish_tacos_1036x583.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "n4_in_1_mandoline_97d6780",
+      "name": "4-in-1 Mandoline",
+      "summary": [
+        "Perfect for cutting thin slices &amp; shredding veggies. 4 slicer settings: 2 slice &amp; 2 julienne options."
+      ]
+    }
+  ]
+}

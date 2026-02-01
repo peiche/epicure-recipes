@@ -1,0 +1,76 @@
+{
+  "name": "Pink Lemonade Herbal Tea",
+  "slug": "pink-lemonade-herbal-tea",
+  "description": "Perfect for those hot summer days, we’re crushing on this citrusy & refreshing drink. With no added sweeteners and zero artificial colours, the pretty pink hue comes from a blend of rosehips and hibiscus.",
+  "ingredients": [
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pink Lemonade Herbal Tea Blend",
+      "quantity": "1 bag",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "1 serving",
+  "preparation": [
+    "Pour boiling water over tea bag. Steep 5–7 min. Chill for a refreshing, caffeine-free iced tea."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 0,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 1,
+    "carbohydrate": 1,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 0.1
+  },
+  "tips": [
+    "Try cold brew iced tea. Fill a pitcher with cold water. For each cup of water used, add 1 tea bag. Place in the fridge at least 2 hrs or overnight."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "pink_lemonade_iced_tea_1036x583.jpg",
+  "thumbnail": "pink_lemonade_iced_tea_1036x583.webp",
+  "products": [
+    {
+      "slug": "pink_lemonade_herbal_tea_blend",
+      "name": "Pink Lemonade Herbal Tea Blend",
+      "summary": [
+        "A versatile sipper reminiscent of old-time lemonade and packed with thirst-busting citrusy flavor!"
+      ]
+    }
+  ]
+}

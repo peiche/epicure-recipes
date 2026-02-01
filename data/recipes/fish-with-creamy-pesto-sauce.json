@@ -1,0 +1,123 @@
+{
+  "name": "Fish with Creamy Pesto Sauce",
+  "slug": "fish-with-creamy-pesto-sauce",
+  "description": "Calling all seafood enthusiasts! This one-dish wonder is ridiculously easy to make, with a restaurant quality sauce. The best part? You won’t have to spend hours in the kitchen or endure the noise of a busy restaurant.",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "white fish fillets, skinless, such as cod, haddock, or tilapia",
+      "quantity": "4 (4 oz/113 g each)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Creamy Pesto Parmesan Chicken Skillet Sauce",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "zucchini",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pint",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a large non-stick fry pan or skillet, heat oil over medium-high. Add fish, cooking 2–3 min per side. Fish should be slightly undercooked at this point. Place on plate; cover to keep warm.",
+    "In same pan (don’t discard any liquid from the fish), whisk together milk and seasoning. Reduce heat to medium, stirring occasionally, until sauce thickens, about 3 min.",
+    "Gently place fish back into pan. Let simmer 2 min to finish cooking through. Fish should flake easily.",
+    "Meanwhile, fit the 4-in-1 Mandoline with the 1.5 mm slicer plate and slice zucchini thinly. Slice tomatoes in half. Scatter veggies on top of fish. Season to taste and serve."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 230,
+    "fat": 7,
+    "saturatedFat": 3,
+    "transFat": 0.1,
+    "cholesterol": 60,
+    "sodium": 260,
+    "carbohydrate": 12,
+    "fiber": 1,
+    "sugars": 2,
+    "protein": 27
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy greens, 1 tbsp Greek Dressing, and 1&frasl;2 cup rice or pasta.",
+  "image": "Fish-with-Creamy-Pesto-Sauce-1036x583.jpg",
+  "thumbnail": "Fish-with-Creamy-Pesto-Sauce-1036x583.webp",
+  "products": [
+    {
+      "slug": "mel_pour_poelee_poulet_parmesan_et_pesto",
+      "name": "Creamy Pesto Parmesan Chicken Skillet Sauce Mix (Pkg of 3)",
+      "summary": [
+        "A family-friendly dish perfect for busy weeknights or an elevated dinner for entertaining! This versatile recipe is sure to please everyone.&nbsp;"
+      ]
+    }
+  ]
+}

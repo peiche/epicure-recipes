@@ -1,0 +1,152 @@
+{
+  "name": "Herb & Garlic Roasted Vegetables",
+  "slug": "herb-garlic-roasted-vegetables",
+  "description": "Luscious roasted vegetables – a great side dish to any meal!",
+  "ingredients": [
+    {
+      "name": "small eggplant",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "zucchini",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "yellow pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red onion",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roma tomatoes",
+      "quantity": "6",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herb & Garlic Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "balsamic vinegar",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 450° F (230° C).",
+    "Combine first 8 ingredients in a mixing bowl and toss to coat.",
+    "Place in a single layer on Sheet Pan lined with Sheet Pan Liner. Roast for 20 minutes, or until peppers are slightly charred.",
+    "Drizzle with balsamic vinegar and season with Sea Salt and Pepper. Serve warm or at room temperature."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 120,
+    "fat": 7,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 85,
+    "carbohydrate": 14,
+    "fiber": 5,
+    "sugars": 6,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Herb-Garlic-Roasted-Vegetables-Main.jpg",
+  "thumbnail": "Herb-Garlic-Roasted-Vegetables-Main.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

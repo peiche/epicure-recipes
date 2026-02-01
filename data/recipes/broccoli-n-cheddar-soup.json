@@ -1,0 +1,138 @@
+{
+  "name": "Broccoli 'n Cheddar Soup",
+  "slug": "broccoli-n-cheddar-soup",
+  "description": "This homey favourite will take you back to your childhood days, one spoonful at a time! Creamy, cheesy, and full of antioxidant-rich veggies, it’s the ultimate comfort food for all ages. Don’t worry if you don’t have a wok to prepare this recipe, a large pot works just as well.",
+  "ingredients": [
+    {
+      "name": "Home-Style Chicken Stew Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water or low-sodium broth",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "broccoli crown",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium-sized carrots",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "2 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "In Wok, add seasoning and water; stir to combine. Cover and start to heat over medium heat.",
+    "Meanwhile, chop broccoli into small, bite-sized pieces. You should have about 4 cups. Using the smaller holes on a box grater, grate carrots. You should have about 2 cups. Add veggies to wok. Simmer, covered, until broccoli is vibrant green, about 2 min. The soup will have thickened at this point.",
+    "Add milk; stir in cheese. Keep uncovered and bring back to a simmer, stirring occasionally. Simmer until broccoli is tender, about 2 min. Taste and season with pepper. Add toppings just before serving, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "about 1 cup",
+    "calories": 170,
+    "fat": 9,
+    "saturatedFat": 6,
+    "transFat": 0.1,
+    "cholesterol": 30,
+    "sodium": 360,
+    "carbohydrate": 12,
+    "fiber": 2,
+    "sugars": 3,
+    "protein": 10
+  },
+  "tips": [
+    "Use freshly grated cheddar instead of pre-grated cheese. Pre-grated cheese will work—but it’s coated with anticaking agents that will give the soup a grainy texture, and it doesn’t melt as smoothly."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with an open-faced or half sandwich made with 1 slice whole-grain bread, 1&frasl;2 tbsp mayo, 1&frasl;2 cup lean protein, and 1&frasl;2 cup leafy greens.",
+  "image": "Broccoli-and-Cheddar-Soup-1036x583.jpg",
+  "thumbnail": "Broccoli-and-Cheddar-Soup-1036x583.webp",
+  "products": [
+    {
+      "slug": "home_style_chicken_stew_seasoning__pkg_of_3___1501",
+      "name": "Home-Style Chicken Stew Seasoning (Pack of 3)",
+      "summary": [
+        "Cozy up this season with a creamy, rich, and comforting chicken stew perfect for busy weeknights, cozy nights in, or to feed a crowd.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

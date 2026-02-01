@@ -1,0 +1,105 @@
+{
+  "name": "Pecan Pie Tarts",
+  "slug": "pecan-pie-tarts",
+  "description": "Easily turn True North Butter Tart Mix into pecan pie bites!",
+  "ingredients": [
+    {
+      "name": "frozen mini tart shells",
+      "quantity": "18",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "True North Butter Tart Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "warm water",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pecan halves",
+      "quantity": "28",
+      "additionalInstruction": null
+    },
+    {
+      "name": "miniature chocolate chips",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "18 Mini Tarts",
+  "preparation": [
+    "Preheat oven to 375° F. Place tart shells on Sheet Pan. Bake 10-12 min, or until golden.",
+    "Meanwhile, melt butter in the microwave, about 30 sec. In a bowl, whisk melted butter with mix and warm water until well combined.",
+    "Roughly chop ten pecan halves, you should have about 2 tbsp. Stir in chopped pecans and chocolate chips.",
+    "Divide filling into cooled tart shells. Top each tart with one pecan half. Bake 10 min or until filling is lightly browned and bubbling. Filling will thicken as it cools; cool completely before serving."
+  ],
+  "tags": [
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 140,
+    "fat": 8,
+    "saturatedFat": 3,
+    "transFat": 0.1,
+    "cholesterol": 5,
+    "sodium": 90,
+    "carbohydrate": 15,
+    "fiber": 1,
+    "sugars": 8,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "true_north_buttertarts_CEO_1036x583.jpg",
+  "thumbnail": "true_north_buttertarts_CEO_1036x583.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

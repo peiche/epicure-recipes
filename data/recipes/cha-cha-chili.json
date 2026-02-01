@@ -1,0 +1,129 @@
+{
+  "name": "Cha Cha Chili",
+  "slug": "cha-cha-chili",
+  "description": "Chili is the perfect one-dish dinner for weeknights, potlucks, and those all-important game days. Great for lunches, too! Not to mention, this sweet yet zesty meal packs a serious health punch—kidney beans are a good source of iron, protein and fibre, and tomatoes are rich in potassium and a nutrient called lycopene, which contributes to a healthy heart.",
+  "ingredients": [
+    {
+      "name": "lean ground beef, ground chicken or turkey",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "kidney beans",
+      "quantity": "1 can (19 oz/540 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cha Cha Chili Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a large Multipurpose Pot or fry pan over medium heat, cook beef until browned, 3–4 min, using Ground Meat Separator to break up chunks. Drain excess fat.",
+    "Meanwhile, drain and rinse beans.",
+    "Stir in seasoning, beans, tomatoes, and water. Simmer 12–15 min, stirring occasionally."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "about 1 ¾ cups",
+    "calories": 360,
+    "fat": 12,
+    "saturatedFat": 4.5,
+    "transFat": 0.5,
+    "cholesterol": 60,
+    "sodium": 490,
+    "carbohydrate": 30,
+    "fiber": 10,
+    "sugars": 6,
+    "protein": 30
+  },
+  "tips": [
+    "Lucky enough to have leftovers? Simply freeze for an easy meal later."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced veggies and 2 tbsp Epicure Dip.",
+  "image": "Cha_Cha_Chili_1036x583.jpg",
+  "thumbnail": "Cha_Cha_Chili_1036x583.webp",
+  "products": [
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

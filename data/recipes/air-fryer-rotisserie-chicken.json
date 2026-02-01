@@ -1,0 +1,100 @@
+{
+  "name": "Air Fryer Rotisserie Chicken",
+  "slug": "air-fryer-rotisserie-chicken",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "whole chicken",
+      "quantity": "3 lbs (1.36 kg)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Rotisserie Chicken Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "52 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat air fryer to 350° F.",
+    "Shake half the seasoning on chicken and rub over meat. Turn chicken over, breast side up, and rub remaining seasoning all over to evenly coat.",
+    "Place in basket. Cook 50–60 min or until cooked through. To test for doneness, insert an instant read thermometer into the thickest part of the meat (all the way to the middle, not touching any bone). It should register at 180° F."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "air_fryer",
+      "name": "Air Fryer"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 12,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 240,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 21
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup steamed veggies, and 1 cup rice or 1 whole grain roll.",
+  "image": "Air-Fryer-Rotisserie-Chicken_1036x583.jpg",
+  "thumbnail": "Air-Fryer-Rotisserie-Chicken_1036x583.webp",
+  "products": [
+    {
+      "slug": "rotissiere_chicken_seasoning__pkg_of_3_",
+      "name": "Rotisserie Chicken Seasoning (Pack of 3)",
+      "summary": [
+        "The days&nbsp;of dry oven-roasted chicken that takes forever to&nbsp;make&nbsp;are over!&nbsp;There’s&nbsp;a&nbsp;better way, and&nbsp;it’s&nbsp;quick,&nbsp;juicy, and oh-so-tasty&nbsp;with&nbsp;Rotisserie Chicken&nbsp;Seasoning.&nbsp;In&nbsp;20&nbsp;minutes, you&nbsp;can cook a&nbsp;whole&nbsp;chicken&nbsp;in the microwave&nbsp;using the&nbsp;<a data-item-id=\"38e9c45d-465e-4a8b-8c16-5f437f361347\" href=\"\">Round&nbsp;Steamer</a>.&nbsp;With&nbsp;a&nbsp;flavour&nbsp;that outshines the store-bought kin —free of unnecessary&nbsp;additives and&nbsp;too&nbsp;much sodium—Rotisserie Chicken is so fast and easy it’s perfect for any night of the week!&nbsp;&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Pesto Pasta Primavera",
+  "slug": "pesto-pasta-primavera",
+  "description": "We’re putting homemade pesto front and centre, right where it belongs! This dish gets “fresh” with a medley of colourful, vibrant, garden goodies. Swap in whatever veggies showcase the best of what’s in season, or even lean on your trusty, frozen faves like broccoli, peppers, and squash.",
+  "ingredients": [
+    {
+      "name": "bite-size pasta",
+      "quantity": "2 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "zucchini",
+      "quantity": "1",
+      "additionalInstruction": "green or yellow"
+    },
+    {
+      "name": "red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> small",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen peas",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Super Green Pesto",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup prepared ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Salt & pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "13 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Cook pasta according to package directions. Drain.",
+    "While pasta is cooking, thinly slice zucchini into half-moons. Thinly slice onion and halve tomatoes.",
+    "Place zucchini, onion, and peas in Multipurpose or Round Steamer. Cover; microwave on high 2 min. Remove from microwave and stir in tomatoes. Cover; microwave 2–3 min, or until veggies are tender.",
+    "Add cooked pasta and pesto to steamer with veggies; stir to combine. Season with salt and pepper."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 370,
+    "fat": 16,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 140,
+    "carbohydrate": 47,
+    "fiber": 5,
+    "sugars": 5,
+    "protein": 11
+  },
+  "tips": [
+    "Stir in chopped sundried tomatoes for extra flavour."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein, such as chicken or shrimp.",
+  "image": "Pesto Pasta Primavera.jpg",
+  "thumbnail": "Pesto Pasta Primavera.webp",
+  "products": [
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "super_green_pesto_seasoning__pack_of_3__7d38024",
+      "name": "Super Green Pesto Seasoning (Pack of 3)",
+      "summary": [
+        "Eat your greens in the best way possible with this punchy pesto! This sauce is packed with nutrients, fiber, antioxidants, and vitamins, combining healthy fats with fresh green vegetables. But don't let that throw you off; it's amazingly delicious. It's customizable, too, so if you're nut-free, that's no problem. Skip adding them or add seeds instead. Use the greens of your choice (we usually go for what's on sale at the grocery store), and you'll soon be drenching every meal with this saucy goodness!&nbsp;"
+      ]
+    }
+  ]
+}

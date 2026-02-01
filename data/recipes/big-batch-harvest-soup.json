@@ -1,0 +1,139 @@
+{
+  "name": "Big Batch Harvest Soup",
+  "slug": "big-batch-harvest-soup",
+  "description": "Welcome fall with this hearty soup.",
+  "ingredients": [
+    {
+      "name": "Vegetable Broth",
+      "quantity": "8 cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "carrots",
+      "quantity": "4",
+      "additionalInstruction": "sliced into rounds"
+    },
+    {
+      "name": "parsnips",
+      "quantity": "2 ",
+      "additionalInstruction": "sliced into rounds"
+    },
+    {
+      "name": "bell peppers",
+      "quantity": "2",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "potato",
+      "quantity": "1",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "green cabbage",
+      "quantity": "1",
+      "additionalInstruction": "shredded"
+    },
+    {
+      "name": "can (14 oz/398 ml) diced tomatoes",
+      "quantity": "1  ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Pour broth into a large pot. Bring to a boil over high heat. Stir in 3 Onion Dip Mix and carrots. Reduce heat to medium. Cover and simmer for 6 min.",
+    "Add parsnips, peppers and potato. Bring back to a boil, cover and simmer until soft, 6 to 8 min.",
+    "Stir in cabbage and tomatoes. Cover and simmer until cabbage is tender, 5 min. Stir in Lemon Dilly Dip Mix. For a thicker soup, puree 1&frasl;4 of soup, then stir back into remaining soup."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 1,
+    "saturatedFat": 0.1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 260,
+    "carbohydrate": 45,
+    "fiber": 9,
+    "sugars": 12,
+    "protein": 7
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein—try adding it to the soup!",
+  "image": "1575672835412-recipeMainImagePath.jpg",
+  "thumbnail": "1575672835412-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

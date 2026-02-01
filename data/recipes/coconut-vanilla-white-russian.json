@@ -1,0 +1,62 @@
+{
+  "name": "Coconut Vanilla White Russian ",
+  "slug": "coconut-vanilla-white-russian",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "coconut vanilla white tea",
+      "quantity": "1 cup",
+      "additionalInstruction": "brewed"
+    },
+    {
+      "name": "vodka",
+      "quantity": "2 oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coffee liqueur of your choice",
+      "quantity": "1 oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ice-cold milk",
+      "quantity": "1 oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ice cubes",
+      "quantity": null,
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Combine all ingredients in a cocktail shaker, and shake vigorously.",
+    "Pour into 2 old fashioned glasses."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 130,
+    "fat": 0.1,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 10,
+    "carbohydrate": 9,
+    "fiber": 0,
+    "sugars": 9,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Coconut-Vanilla-White-Russian-Main.jpg",
+  "thumbnail": "Coconut-Vanilla-White-Russian-Main.webp",
+  "products": []
+}

@@ -1,0 +1,140 @@
+{
+  "name": "Chicken Ranchero Skillet",
+  "slug": "chicken-ranchero-skillet",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "low-sodium black beans",
+      "quantity": "1 can (19 oz/540 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Huevos Rancheros Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "about 2"
+    },
+    {
+      "name": "grated cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": "your choice"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Drain and rinse beans. In a sauté pan set over medium-high heat, combine beans, tomatoes, water, and seasoning. Using Ground Meat Separator, mash some of the beans. Sauce should be chunky.",
+    "Bring to a boil over high heat, stirring often. Reduce heat to medium-low; cover and simmer 5 min.",
+    "Meanwhile, cube chicken. Place in Round Steamer. Cover; microwave on high, 5 min, stirring halfway through, until chicken is cooked. Remove from microwave. Let rest, and leave it covered, 1 min to let heat redistribute.",
+    "Place chicken into pan with sauce (discard liquid in steamer). Stir to coat. Top with cheese. Cover 1 min or until cheese has melted."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 290,
+    "fat": 9,
+    "saturatedFat": 4.5,
+    "transFat": 0,
+    "cholesterol": 60,
+    "sodium": 410,
+    "carbohydrate": 28,
+    "fiber": 10,
+    "sugars": 2,
+    "protein": 28
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup cooked grains such as rice or quinoa and 1 cup sliced veggies.",
+  "image": "ranchero_chicken_march_global_exp_box_1036x583.jpg",
+  "thumbnail": "ranchero_chicken_march_global_exp_box_1036x583.webp",
+  "products": [
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

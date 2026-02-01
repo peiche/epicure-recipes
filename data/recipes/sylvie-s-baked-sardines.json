@@ -1,0 +1,109 @@
+{
+  "name": "Sylvie’s Baked Sardines",
+  "slug": "sylvie-s-baked-sardines",
+  "description": "Sardines are a staple in southern France. This recipe is based on a little dish I loved in a bistro in Suzette, France — it makes the perfect pantry dinner, baked and served right in the tin.",
+  "ingredients": [
+    {
+      "name": "sardines in olive oil",
+      "quantity": "2 cans (4 oz/ 120 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pitted black olives",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shallots",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dijon mustard",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "plain crackers",
+      "quantity": "4",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Preheat oven to 400° F (205° C).",
+    "Remove tails and mash sardines (keeping the tiny bones – they give it all the more flavour). Mix in olives, sun-dried tomatoes, shallots, dip mix, and mustard.",
+    "Refill cans with sardine mixture, spreading evenly with the back of a spoon. Top with crackers and bake 10 minutes, or until crisp and golden."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 90,
+    "fat": 4,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 240,
+    "carbohydrate": 7,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sylvie-s-Baked-Sardines-Main.jpg",
+  "thumbnail": "Sylvie-s-Baked-Sardines-Main.webp",
+  "products": [
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "name": "Tex-Mex Pizza",
+  "slug": "tex-mex-pizza",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Tex-Mex Grilling Sauce",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ketchup",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "molasses",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Taco Seasoning ",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Fajita Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dijon-style mustard",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pre-baked pizza shell",
+      "quantity": "1 (12 in/30 cm)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sriracha seasoning",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chicken breast",
+      "quantity": "1",
+      "additionalInstruction": "cooked and diced"
+    },
+    {
+      "name": "chopped tomatoes",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat mozzarella cheese",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 400° F (205° C).",
+    "Spoon Tex-Mex Grilling Sauce over pizza shell.",
+    "Toss the sriracha seasoning with the chicken. Add chicken and tomatoes to pizza.",
+    "Top with mozzarella and bake approximately 10 minutes, or until crust is golden brown and cheese is melted."
+  ],
+  "tags": [
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 230,
+    "fat": 5,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 550,
+    "carbohydrate": 30,
+    "fiber": 2,
+    "sugars": 6,
+    "protein": 17
+  },
+  "tips": [
+    "Serve with seasonal dark greens and mandarin oranges lightly drizzled with prepared Greek Dressing.",
+    "Whole-wheat pita bread is great for making extra pizzas; simply cook and freeze. Perfect for easy weekday lunches."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Tex-Mex-Chicken-Pizza-Main.jpg",
+  "thumbnail": "Tex-Mex-Chicken-Pizza-Main.webp",
+  "products": [
+    {
+      "slug": "taco_seasoning__1701317_",
+      "name": "Taco Seasoning (Jar)",
+      "summary": [
+        "Classic Tex-Mex flavor with medium heat."
+      ]
+    },
+    {
+      "slug": "fajita_seasoning_ceb100c",
+      "name": "Fajita Seasoning",
+      "summary": [
+        "A lively, mild blend for seasoning beef, chicken, or fish fajitas &amp; enchiladas."
+      ]
+    }
+  ]
+}

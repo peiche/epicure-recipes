@@ -1,0 +1,96 @@
+{
+  "name": "Iced Hibiscus Bliss Tea Paletas ",
+  "slug": "iced-hibiscus-bliss-tea-paletas",
+  "description": "A cool treat for hot days. A perfect choice for Good Food. Real Results.™ dessert.",
+  "ingredients": [
+    {
+      "name": " Pink Lemonade Herbal Tea Blend or Blue Butterfly Herbal Tea Blend",
+      "quantity": "4 bags",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "6 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped mixed fruit",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated lime peel (optional)",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 40 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Place tea bags in a large measuring cup and pour boiling water over top. Steep 10 minutes; discard bags. Refrigerate tea until cold, about 30 min.",
+    "Meanwhile, in bowl, combine fruit with lime peel, if using.",
+    "Divide fruit between ice pop molds; pour cool tea over top.",
+    "Insert sticks; freeze until firm, about 1 hour",
+    "Remove from molds and serve."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 20,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 0,
+    "carbohydrate": 5,
+    "fiber": 1,
+    "sugars": 3,
+    "protein": 0
+  },
+  "tips": [
+    "Use a variety of fruit, from raspberries and chopped cherries to blueberries and blackberries. To prevent floating or sinking fruit, freeze in layers, gradually adding berries and tea. For added colour, fill tips of molds with Summer Berry Sweet Dip Mix before filling with tea."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1600372975327-recipeMainImagePath.jpg",
+  "thumbnail": "1600372975327-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "pink_lemonade_herbal_tea_blend",
+      "name": "Pink Lemonade Herbal Tea Blend",
+      "summary": [
+        "A versatile sipper reminiscent of old-time lemonade and packed with thirst-busting citrusy flavor!"
+      ]
+    },
+    {
+      "slug": "blue_butterfly_herbal_tea_blend__stapless_",
+      "name": "Blue Butterfly Herbal Tea Blend (staples)",
+      "summary": [
+        "A refreshing sipper that's mildly sweet with hint of grape and vibrant pea flowers."
+      ]
+    },
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    }
+  ]
+}

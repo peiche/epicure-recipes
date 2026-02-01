@@ -1,0 +1,82 @@
+{
+  "name": "Roasted Garlic & Parmesan Hot Dip",
+  "slug": "roasted-garlic-parmesan-hot-dip",
+  "description": "A crowd-pleasing appy that’s ready in 5 minutes. Perfect for entertaining!",
+  "ingredients": [
+    {
+      "name": "Roasted Garlic & Parmesan Hot Dip Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cream cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayo",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "2 cups",
+  "preparation": [
+    "In a bowl, combine mix with cream cheese and mayo. Scrape into a heat-safe dish.",
+    "Microwave uncovered on medium until heated through, about 3 min. Or, bake in preheated 375° F oven for 15 min, or until warm and bubbly."
+  ],
+  "tags": [
+    {
+      "slug": "new_year_s_eve",
+      "name": "New Year’s Eve"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 110,
+    "fat": 10,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 180,
+    "carbohydrate": 3,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 2
+  },
+  "tips": [
+    "Serve with crackers, pita wedges, or bread slices."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Roasted-Garlic_Parmesan_Hot_Dip_CAT_1036x583.jpg",
+  "thumbnail": "Roasted-Garlic_Parmesan_Hot_Dip_CAT_1036x583.webp",
+  "products": []
+}

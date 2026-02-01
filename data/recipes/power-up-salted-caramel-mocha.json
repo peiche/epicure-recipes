@@ -1,0 +1,121 @@
+{
+  "name": "Power Up Salted Caramel Mocha",
+  "slug": "power-up-salted-caramel-mocha",
+  "description": "A cool and frosty pick-me-up. Bananas and dates create a rich, caramelly experience, mixed with a boost from protein powder. For a sweeter version, add vanilla extract.",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small frozen banana",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "heaping cup ice cubes",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cold coffee",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Power Up Salted Caramel Protein Blend",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Coarsely chop dates. Slice banana into chunks. Place both in a blender.",
+    "Add ice cubes, coffee, milk, protein blend, cocoa powder, and vanilla, if using.",
+    "Cover and blend until just slushy; add more milk, as needed, to reach desired consistency. Pour into chilled glasses."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 190,
+    "fat": 2.5,
+    "saturatedFat": 1,
+    "transFat": 0.1,
+    "cholesterol": 5,
+    "sodium": 200,
+    "carbohydrate": 31,
+    "fiber": 4,
+    "sugars": 20,
+    "protein": 13
+  },
+  "tips": [
+    "If dates are too hard or brittle, pre-soak them in boiling water until soft, about 10 min. Drain and then chop.",
+    "For easier prep, slice banana before freezing. Store slices in a freezer bag or air-tight container."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 slice of buttered multigrain toast, and 3 tbsp unsalted almonds.",
+  "image": "Power Up Caramel Mocha Lg.jpg",
+  "thumbnail": "Power Up Caramel Mocha Lg.webp",
+  "products": [
+    {
+      "slug": "power_up_salted_caramel_protein_blend",
+      "name": "Power Up Salted Caramel Protein Blend",
+      "summary": [
+        "We like to fuel our bodies and satisfy our sweet tooth with the decadent salted caramel flavour of this pea and fava bean protein. It blends effortlessly into a morning smoothie with a creamy texture, not chalky like a lot of protein powders. It also handles the heat, so we can bake it into a batch of waffles and enjoy our day knowing that we'll have that extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "name": "Fagioli e Tonno",
+  "slug": "fagioli-e-tonno",
+  "description": "Central Italy is famous for its cannellini beans. Blended with canned tuna and lots of spring vegetables, this makes for a flavourful no-cook lunch or great side salad for potluck or other festive occasions. Make it a few hours before serving so flavours can meld.",
+  "ingredients": [
+    {
+      "name": "light tuna packed in water",
+      "quantity": "2 cans (6 oz/ 170 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cannellini beans or northern beans",
+      "quantity": "2 cans (14 oz/ 398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "artichoke hearts",
+      "quantity": "1 can (14 oz/ 398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing or Greek Dressing",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> - <sup>3</sup>&frasl;<sub>4</sub> cup prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "balsamic vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Greek Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red wine vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herbed Garlic Sea Salt Blend or sea salt",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black pepper",
+      "quantity": null,
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "6 - 8 servings",
+  "preparation": [
+    "In a very large bowl, toss 1 can tuna with beans, artichoke hearts and spinach. Drizzle with 1&frasl;2 cup dressing, sea salt, and pepper. Toss to mix.",
+    "Taste, add remaining 1&frasl;4 cup dressing if needed. Turn onto a serving platter and crumble remaining tuna overtop."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 190,
+    "fat": 4,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 280,
+    "carbohydrate": 21,
+    "fiber": 6,
+    "sugars": 1,
+    "protein": 17
+  },
+  "tips": [
+    "Flavour Changer:  Make it creamy with Epicure’s Caesar Dressing!"
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Fagioli-e-Tonno-Main.jpg",
+  "thumbnail": "Fagioli-e-Tonno-Main.webp",
+  "products": [
+    {
+      "slug": "balsamic_vinaigrette_dressing_mix",
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "summary": [
+        "Fresh, bright &amp; bold blend of Mediterranean herbs with notes of garlic &amp; rosemary. Our most versatile dressing."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    },
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    }
+  ]
+}

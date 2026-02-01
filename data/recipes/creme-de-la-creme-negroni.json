@@ -1,0 +1,56 @@
+{
+  "name": "Crème de la Crème Negroni",
+  "slug": "creme-de-la-creme-negroni",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Really Simple Crème de la Crème Earl Grey Tea-infused Spirits",
+      "quantity": "1 oz",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "campari",
+      "quantity": "1 oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sweet vermouth",
+      "quantity": "1 oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "orange twist",
+      "quantity": null,
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "2 min",
+  "servings": "1 serving",
+  "preparation": [
+    "Stir first three ingredients into a glass over ice, garnish with orange twist, and serve."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 250,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 10,
+    "carbohydrate": 11,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Creme-de-la-Creme-Negroni-Main.jpg",
+  "thumbnail": "Creme-de-la-Creme-Negroni-Main.webp",
+  "products": []
+}

@@ -1,0 +1,161 @@
+{
+  "name": "Poke-Inspired Bowl",
+  "slug": "poke-inspired-bowl",
+  "description": "Poke bowls are traditionally served using raw tuna. This recipe uses canned tuna so you can enjoy this dish any time of the year— even if you do not have access to fresh tuna.",
+  "ingredients": [
+    {
+      "name": "rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Asian Stir Fry Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cucumber",
+      "quantity": "2 cups",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "quantity": "1",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "coleslaw mix",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "avocado",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "light, canned tuna",
+      "quantity": "450 g",
+      "additionalInstruction": "or 2 cups edamame, shelled"
+    },
+    {
+      "name": "hot sauce",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a Round or Multipurpose Steamer, add rice and water; cook on high for 8–10 min.",
+    "While rice is cooking, combine sauce ingredients in a small bowl. Set aside.",
+    "Prep veggies.",
+    "Assemble 4 bowls with rice, veggies and tuna. Serve with sauce and hot sauce, if desired. Enjoy!"
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 510,
+    "fat": 20,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 430,
+    "carbohydrate": 51,
+    "fiber": 3,
+    "sugars": 3,
+    "protein": 34
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "poke-inspired-bowl_1036x583.jpg",
+  "thumbnail": "poke-inspired-bowl_1036x583.webp",
+  "products": [
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice and noodle dish."
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

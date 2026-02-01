@@ -1,0 +1,124 @@
+{
+  "name": "Instant Pot™ Hearty Minestrone",
+  "slug": "instant-pottm-hearty-minestrone",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "quantity": "1 can (19 oz/540 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water or broth",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen mixed vegetables",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "uncooked small shell pasta",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Hearty Minestrone Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Drain and rinse lentils. Add lentils, tomatoes, water, vegetables, pasta, and seasoning to an 8-quart programmable pressure cooker. Stir to combine.",
+    "Secure lid. Place steam release valve in SEALING position. Press MANUAL button, select HIGH, and set the time to 5 min. This will take some time to get up to temperature before the timer starts to count down.",
+    "When the cook time has finished, naturally release pressure for 10–15 min.",
+    "Using a long-handled spoon, push the steam release valve to VENTING position. Release pressure completely before opening lid.",
+    "Serve with pesto, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "slow_cooker",
+      "name": "Slow Cookers & Roasts"
+    },
+    {
+      "slug": "programmable_pressure_cooker",
+      "name": "Programmable Pressure Cooker"
+    },
+    {
+      "slug": "instant_pottm",
+      "name": "Instant Pot™"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "about 2 ¼ cups",
+    "calories": 270,
+    "fat": 1,
+    "saturatedFat": 0.1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 440,
+    "carbohydrate": 49,
+    "fiber": 17,
+    "sugars": 8,
+    "protein": 17
+  },
+  "tips": [
+    "Replace lentils with white beans or ground meat."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 whole-grain roll.",
+  "image": "1590786857322-recipeMainImagePath.jpg",
+  "thumbnail": "1590786857322-recipeMainImagePath.webp",
+  "products": []
+}

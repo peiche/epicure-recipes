@@ -1,11 +1,11 @@
 import * as React from "react"
 import NextLink from 'next/link'
-import Layout from "../components/layout"
+import Layout from "../components/ui/layout"
 import { Link, Typography } from "@mui/material"
-import Wrapper from "../components/wrapper"
-import SEO from "../components/seo"
+import Wrapper from "../components/layout/wrapper"
+import SEO from "../components/layout/seo"
 
-const NotFoundPage: React.FC = () => {
+export default function NotFoundPage() {
   return (
     <Layout>
       <SEO title='Not Found' />
@@ -21,5 +21,3 @@ const NotFoundPage: React.FC = () => {
     </Layout>
   )
 }
-
-export default NotFoundPage

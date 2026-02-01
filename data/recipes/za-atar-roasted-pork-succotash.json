@@ -1,0 +1,147 @@
+{
+  "name": "Za’atar Roasted Pork & Succotash",
+  "slug": "za-atar-roasted-pork-succotash",
+  "description": "This hearty and flavorful sheet pan meal is ready to go in the oven in 5 min—set it, then forget it!",
+  "ingredients": [
+    {
+      "name": "medium zucchini",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chickpeas",
+      "quantity": "1 can (398 ml/13 oz)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pork tenderloin",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen corn niblets",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Za’atar Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 425° F. Line Sheet Pan with Sheet Pan Liner.",
+    "Chop zucchini and slice cherry tomatoes in half. Drain and rinse chickpeas.",
+    "Place zucchini, tomatoes, chickpeas, pork, and corn on pan. Drizzle with olive oil and sprinkle with seasoning; gently rub into pork and toss vegetables to evenly coat.",
+    "Bake 20–25 min, or until pork is cooked and veggies are tender."
+  ],
+  "tags": [
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 400,
+    "fat": 17,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 310,
+    "carbohydrate": 28,
+    "fiber": 6,
+    "sugars": 6,
+    "protein": 32
+  },
+  "tips": [
+    "Need dinner in a hurry? Slice tenderloin in half, lengthwise, to speed up the baking time.",
+    "Use an instant read meat thermometer to ensure pork has reached an internal temperature of at least 145° F."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup cooked white rice and 1 cup steamed veggies.",
+  "image": "Zaatar-Roasted-Pork-Succotash_1036x583.jpg",
+  "thumbnail": "Zaatar-Roasted-Pork-Succotash_1036x583.webp",
+  "products": [
+    {
+      "slug": "za_atar_seasoning_7a3a209",
+      "name": "Za’atar Seasoning",
+      "summary": [
+        "Bring home restaurant-style Middle Eastern flavours with this multi-purpose blend designed to kick mealtime boredom to the curb!&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

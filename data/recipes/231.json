@@ -1,0 +1,169 @@
+{
+  "name": "Greek Lemon Chicken Soup (Avgolemono)",
+  "slug": "greek-lemon-chicken-soup-avgolemono",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth",
+      "quantity": "8 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": "",
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "eggs",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemons",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "",
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "uncooked orzo or rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced cooked chicken",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Dressing Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "or your choice Dressing Mix or Dip Mix"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Pour broth in Multipurpose Pot. Cover; bring to a boil over medium-high heat. Once boiling, add orzo and cook, partially covered, until tender, about 10 min. If using rice, about 20 min. Once cooked, reduce heat and simmer, uncovered.",
+    "Meanwhile, in a large bowl, add eggs and dressing mix. Using 2-in-1 Citrus Press, squeeze in juice from lemons. Whisk to combine.",
+    "Slowly whisk in 2 cups of hot broth into egg and lemon mixture. This tempers the eggs and prevents curdling.",
+    "Whisk the tempered egg mixture into remaining broth.",
+    "Add chicken and simmer until heated through, about 2 min. Season with salt and pepper to taste. Serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 320,
+    "fat": 8,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 265,
+    "sodium": 280,
+    "carbohydrate": 42,
+    "fiber": 3,
+    "sugars": 4,
+    "protein": 22
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy greens and 1 tbsp Epicure Dressing, your choice.",
+  "image": "Greek-Lemon-Chicken-Soup-Avgolemono-Main.jpg",
+  "thumbnail": "Greek-Lemon-Chicken-Soup-Avgolemono-Main.webp",
+  "products": [
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": []
+    },
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": []
+    },
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": []
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": []
+    },
+    {
+      "slug": "multipurpose_pot___12_c",
+      "name": "Multipurpose Pot - 12 Cup",
+      "summary": []
+    },
+    {
+      "slug": "n2_in_1_citrus_press_329bead",
+      "name": "2-in-1 Citrus Press",
+      "summary": []
+    }
+  ]
+}

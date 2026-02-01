@@ -1,0 +1,88 @@
+{
+  "name": "Uber Green Sencha & Jasmine Mojito",
+  "slug": "uber-green-sencha-jasmine-mojito",
+  "description": "Following Good Food. Real Results.™? Swap a cocktail for dessert to stay on track.",
+  "ingredients": [
+    {
+      "name": "large mint leaves",
+      "quantity": "8 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "freshly squeezed lime juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sencha & Jasmine Green Tea Blend",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "double-strength steeped, chilled"
+    },
+    {
+      "name": "white rum",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime slices (optional)",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh mint sprig (optional)",
+      "quantity": null,
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 serving",
+  "preparation": [
+    "Place mint in large tumbler. Add juice and sugar; muddle to bruise the leaves (which releases the flavourful oils).",
+    "Fill tumbler 3&frasl;4 full of ice cubes.",
+    "Pour tea and rum over top. Stir to mix.",
+    "Garnish with lime slices and mint sprigs, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    },
+    {
+      "slug": "epic_life_beverages",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 90,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 0,
+    "carbohydrate": 6,
+    "fiber": 0,
+    "sugars": 4,
+    "protein": 0
+  },
+  "tips": [
+    "Skip the rum and make it a virgin Mojito Iced Tea."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Uber-Green-Sencha-Jasmine-Mojito-Main.jpg",
+  "thumbnail": "Uber-Green-Sencha-Jasmine-Mojito-Main.webp",
+  "products": []
+}

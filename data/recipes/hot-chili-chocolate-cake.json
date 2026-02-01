@@ -1,0 +1,117 @@
+{
+  "name": "Hot Chili Chocolate Cake",
+  "slug": "hot-chili-chocolate-cake",
+  "description": "The richness of the chocolate and chili combination is an ideal finish to a Mexican feast.",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "quantity": "1 <sup>3</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking soda",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chili Seasoning",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salt",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cold, strong coffee",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "buttermilk",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "55 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Preheat oven to 350° F (175° C). Lightly spray a 9 x 13” pan with vegetable oil.",
+    "Whisk together flour, sugar, cocoa, baking soda, baking powder, crushed chilies and salt into mixing bowl.",
+    "Add eggs, oil, coffee, buttermilk and vanilla extract. Beat with an electric mixer at medium speed for 2 minutes. Pour batter into prepared pan.",
+    "Bake for 40 minutes or until toothpick inserted in centre of cake comes out clean."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 12,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 40,
+    "sodium": 470,
+    "carbohydrate": 43,
+    "fiber": 3,
+    "sugars": 25,
+    "protein": 5
+  },
+  "tips": [
+    "Dust cake with cocoa, and for an extra touch, decorate with a couple of fresh chilies to let people know they are in for a special treat."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Hot-Chili-Chocolate-Cake_1036x583.jpg",
+  "thumbnail": "Hot-Chili-Chocolate-Cake_1036x583.webp",
+  "products": []
+}

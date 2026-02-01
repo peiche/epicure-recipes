@@ -1,0 +1,200 @@
+{
+  "name": "Mango Curry Chicken Stir-Fry",
+  "slug": "mango-curry-chicken-stir-fry",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "dry white rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> cups ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "3 tbsp ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low sodium soy sauce",
+      "quantity": "2 tbsp ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sesame oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Mango Curry Dip Mix",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roasted Garlic Aioli Mix",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cornstarch",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts, cubed",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Mango Curry Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "snow peas",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mango pieces",
+      "quantity": "1 cup ",
+      "additionalInstruction": "frozen"
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime wedges",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place rice in Multipurpose Steamer. Stir in hot water. Cover; microwave on high, about 15 min.",
+    "In a small mixing bowl, whisk together water, soy sauce, sesame oil, dip mix, aioli mix, and cornstarch. Set aside.",
+    "For the stir-fry, heat oil in a wok over medium-high heat. In a separate bowl, season chicken with dip mix.",
+    "Add chicken to wok; stir-fry until golden, 6–8 min. Reduce heat to medium; add sauce. Simmer, stirring often, until sauce is thickened.",
+    "Add snow peas and mango; cook until snow peas are tender-crisp, 1–2 min. Stir in spinach until just wilted.",
+    "Serve over rice and garnish with lime wedges, if desired"
+  ],
+  "tags": [
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 480,
+    "fat": 11,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 470,
+    "carbohydrate": 62,
+    "fiber": 6,
+    "sugars": 11,
+    "protein": 32
+  },
+  "tips": [
+    "Make it vegetarian: replace chicken with smoked tofu or tempeh."
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate",
+  "image": "mango_curry_chicken_stirfry_1036x583.jpg",
+  "thumbnail": "mango_curry_chicken_stirfry_1036x583.webp",
+  "products": [
+    {
+      "slug": "roasted_garlic_aioli_mix",
+      "name": "Roasted Garlic Aioli Mix",
+      "summary": [
+        "A creamy roasted garlic condiment for your burger, sandwich or use as a dip for fries or veg.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

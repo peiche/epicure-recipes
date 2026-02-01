@@ -1,0 +1,107 @@
+{
+  "name": "Extraordinary Crostini",
+  "slug": "extraordinary-crostini",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "French baguette",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "plain cream cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg (8 oz/250 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated mixed cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "CCB Dip Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "16–18 servings",
+  "preparation": [
+    "Preheat oven to 375° F.",
+    "Thinly slice baguette on the diagonal; you should have around 16–18 slices. Lightly brush slices with oil and place on Sheet Pan. Bake for 2–3 min per side, or until golden.",
+    "Meanwhile, in bowl, combine cream cheese, grated cheese, and mayonnaise with dip mixes.",
+    "Remove crostini from oven; spread with cheese mixture. Return to oven and broil until bubbly, 1–2 min."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 100,
+    "fat": 10,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 105,
+    "carbohydrate": 1,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 2
+  },
+  "tips": [
+    "Prep toasts up to 2 days before serving. Store in an air-tight container in a cool place. Refrigerate dip mixture up to 3 days; mixture will thicken as is sits—stir in a little milk or water to thin, if needed."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "6701_Extraordinary-Crostini_1036x583.jpg",
+  "thumbnail": "6701_Extraordinary-Crostini_1036x583.webp",
+  "products": [
+    {
+      "slug": "ccb_dip_mix_b61a530",
+      "name": "CCB Dip Mix",
+      "summary": [
+        "<strong>Cheese. Chives. Bacon. </strong>How's that for a totally irresistible trio? Our very own smoky vegetarian bacon, made from pinto beans, is the secret star of this oh-so-yummy dip.",
+        "This blend is all about versatility and we recommend taking it way beyond the dip bowl—use CCB in any dish that could use a little levelling up.&nbsp;",
+        "<br>"
+      ]
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "name": "Le Taj Sweet Potato & Spinach Dahl ",
+  "slug": "le-taj-sweet-potato-spinach-dahl",
+  "description": "A fresh look at a classic Indian dish, this is a great source of protein, and it’s vegan as well!",
+  "ingredients": [
+    {
+      "name": "Toasted Onion",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "curry seasoning",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dry red lentils",
+      "quantity": "2 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sweet potatoes",
+      "quantity": "3",
+      "additionalInstruction": "peeled and cut into 1/2” pieces"
+    },
+    {
+      "name": "low-sodium diced tomatoes",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth",
+      "quantity": "5 - 6 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "fresh or frozen spinach",
+      "quantity": "2 cups",
+      "additionalInstruction": "coarsely chopped"
+    },
+    {
+      "name": "Le Taj Sauce",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 - 35 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In a large pan, over medium heat, combine Toasted Onion, curry, lentils, potatoes, tomatoes, and Bouillon. Season with Sea Salt, and bring to a simmer over medium-high heat.",
+    "Reduce heat to low, cover and cook, stirring occasionally, until lentils and potatoes are tender, 20–25 minutes. Add extra Bouillon if required.",
+    "Add spinach and Le Taj Sauce, and cook briefly, until heated through."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 400,
+    "fat": 7,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 160,
+    "carbohydrate": 65,
+    "fiber": 14,
+    "sugars": 11,
+    "protein": 21
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve over rice, quinoa, or bulgar.",
+  "image": "Le-Taj-Sweet-Potato-Spinach-Dahl-Main.jpg",
+  "thumbnail": "Le-Taj-Sweet-Potato-Spinach-Dahl-Main.webp",
+  "products": [
+    {
+      "slug": "toasted_onion",
+      "name": "Toasted Onion",
+      "summary": [
+        "Sweet flavour of lightly toasted onion."
+      ]
+    },
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    }
+  ]
+}

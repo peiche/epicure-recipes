@@ -1,0 +1,105 @@
+{
+  "name": "Piri Piri Grilled Chicken Thighs",
+  "slug": "piri-piri-grilled-chicken-thighs",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Piri Piri Dry Glaze",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken thighs",
+      "quantity": "2 lbs (900 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "limes, halved",
+      "quantity": "2",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat grill to medium-high.",
+    "Meanwhile, in a bowl or plastic bag, combine glaze with oil; add chicken and toss (or massage bag) to evenly coat. If you have extra time, let stand 10 min or cover and refrigerate overnight.",
+    "Place chicken on grill; reduce heat to medium. Barbecue with lid closed, 6–8 min per side or until cooked all the way through.  If using, add limes, cut side down, for last minute of grilling.",
+    "Remove from grill. Once cooled slightly, squeeze limes over chicken and serve."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 190,
+    "fat": 9,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 95,
+    "sodium": 170,
+    "carbohydrate": 3,
+    "fiber": 1,
+    "sugars": 2,
+    "protein": 22
+  },
+  "tips": [
+    "Since the grill is already on, take advantage of the heat and barbecue a big batch of mixed veggies (peppers, zucchini, broccoli, and cauliflower florets) to use in nourish bowls."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup quinoa and 1 cup mixed veggies.",
+  "image": "piri_piri_grilled_chicken_1036x583.jpg",
+  "thumbnail": "piri_piri_grilled_chicken_1036x583.webp",
+  "products": []
+}

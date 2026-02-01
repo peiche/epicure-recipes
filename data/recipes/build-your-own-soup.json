@@ -1,0 +1,134 @@
+{
+  "name": "Build Your Own Soup",
+  "slug": "build-your-own-soup",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "or your choice of broth mix\n"
+    },
+    {
+      "name": "cooked pasta or steamed chopped potatoes",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cooked beef, chicken, shrimp, or tofu",
+      "quantity": "4 oz (110 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped steamed veggies, your choice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach or kale",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "1 serving",
+  "preparation": [
+    "In a large mason jar, layer broth mix, pasta, protein, veggies, and spinach.",
+    "Prior to serving, add boiling water. Secure lid and let rest 5 min.",
+    "Remove lid, stir, and enjoy. Caution: mason jar will be hot."
+  ],
+  "tags": [
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 350,
+    "fat": 5,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 95,
+    "sodium": 340,
+    "carbohydrate": 30,
+    "fiber": 5,
+    "sugars": 4,
+    "protein": 42
+  },
+  "tips": [
+    "Easily prep your soup jar a day ahead, stash in the fridge, and take it to go on busy workdays!"
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced dish.",
+  "image": "build_your_own_soup_1036x583.jpg",
+  "thumbnail": "build_your_own_soup_1036x583.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavours of onion, celery, and herbs. Just add water!"
+      ]
+    }
+  ]
+}

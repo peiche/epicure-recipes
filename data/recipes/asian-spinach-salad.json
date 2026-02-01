@@ -1,0 +1,146 @@
+{
+  "name": "Asian Spinach Salad",
+  "slug": "asian-spinach-salad",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "baby spinach",
+      "quantity": "10 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced button mushrooms",
+      "quantity": "1 pkg (8 oz/227 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "avocado",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sesame Ginger Dressing",
+      "quantity": "1 cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Sesame Ginger Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low sodium soy sauce or gluten free soy sauce",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sesame Crunch Topper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place spinach in a large serving bowl. Add mushrooms, avocado, and onion. Season with Sea Salt and Black Pepper, then drizzle with Sesame Ginger Dressing.",
+    "Gently toss to mix. Shake Sesame Crunch Topper overtop."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 200,
+    "fat": 15,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 350,
+    "carbohydrate": 14,
+    "fiber": 6,
+    "sugars": 2,
+    "protein": 4
+  },
+  "tips": [
+    "Make a big batch of Sesame Ginger Dressing for zesty salads throughout the week. Also makes a great marinade for steaks, chops, and ribs."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Asian-Spinach-Salad-Main.jpg",
+  "thumbnail": "Asian-Spinach-Salad-Main.webp",
+  "products": [
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    }
+  ]
+}

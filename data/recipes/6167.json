@@ -1,0 +1,99 @@
+{
+  "name": "Poco Picante Salsa Dressing",
+  "slug": "poco-picante-salsa-dressing",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Poco Picante Salsa",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "cilantro",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "olive oil ",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar ",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt ",
+      "quantity": null,
+      "additionalInstruction": "optional, to taste "
+    },
+    {
+      "name": "Black Pepper ",
+      "quantity": null,
+      "additionalInstruction": "optional, to taste "
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 cup ",
+  "preparation": [
+    "Blend all ingredients in a blender until smooth. Refrigerate up to 1 week."
+  ],
+  "tags": [
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp ",
+    "calories": 45,
+    "fat": 3.5,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 105,
+    "carbohydrate": 3,
+    "fiber": 1,
+    "sugars": 2,
+    "protein": 0
+  },
+  "tips": [
+    "This dressing can be served cold or warm. Use it to top grilled chicken, fish, or vegetables."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Pico-Salsa-Dressing-Main.jpg",
+  "thumbnail": "Pico-Salsa-Dressing-Main.webp",
+  "products": [
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chillies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    }
+  ]
+}

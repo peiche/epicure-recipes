@@ -1,0 +1,145 @@
+{
+  "name": "Cauli Kebabs",
+  "slug": "cauli-kebabs",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "quantity": "2 heads",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Fajita Seasoning or Shish Kebab Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Teriyaki Dry Glaze",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Red Pepper Jelly",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "soy sauce",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat grill to medium high.",
+    "Chop cauliflower into small pieces. Place in Multipurpose Steamer; cover and microwave on high for 2 min.",
+    "Uncover; drizzle with 2 tbsp oil and seasoning. Stir to coat.",
+    "Thread onto 12\" metal skewers. Grill for 6–8 min, or until lightly charred.",
+    "Meanwhile, in bowl, stir together dry glaze, jelly, soy sauce, and 1 tbsp oil.",
+    "Place skewers onto a large platter; drizzle with sauce and sprinkle with toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 250,
+    "fat": 12,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 570,
+    "carbohydrate": 31,
+    "fiber": 14,
+    "sugars": 14,
+    "protein": 10
+  },
+  "tips": [
+    "Let cauliflower marinate for 15 min before grilling to absorb flavours."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups mixed greens, 1&frasl;2 cup cooked grains, and 1&frasl;2 cup chickpeas.",
+  "image": "1599148565763-recipeMainImagePath.jpg",
+  "thumbnail": "1599148565763-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "fajita_seasoning_ceb100c",
+      "name": "Fajita Seasoning",
+      "summary": [
+        "A lively, mild blend for seasoning beef, chicken, or fish fajitas &amp; enchiladas."
+      ]
+    },
+    {
+      "slug": "shish_kebab_seasoning_3fb9909",
+      "name": "Shish Kebab Seasoning",
+      "summary": [
+        "Create restaurant-quality meals this summer with a Middle Eastern inspired blend infused with earthy and aromatic spices!"
+      ]
+    },
+    {
+      "slug": "teriyaki_dry_glaze_8be7254",
+      "name": "Teriyaki Dry Glaze",
+      "summary": [
+        "A versatile blend with notes of garlic, ginger, and soy that works both as a glaze for grilling or a sauce!"
+      ]
+    },
+    {
+      "slug": "red_pepper_jelly",
+      "name": "Red Pepper Jelly (new)",
+      "summary": [
+        "A sweet red pepper flavor with a mild heat from cayenne.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

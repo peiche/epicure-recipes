@@ -1,0 +1,142 @@
+{
+  "name": "Skinny French Onion Soup",
+  "slug": "skinny-french-onion-soup",
+  "description": "Makes enough for a buffet – keep warm in a crock pot with a platter of cheesy toasts on the side. Or, consider coffee mugs, and tuck toasts on the saucer.",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small cooking onions",
+      "quantity": "3",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "sweet onions",
+      "quantity": "2",
+      "additionalInstruction": "such as Walla Walla, thinly sliced"
+    },
+    {
+      "name": "Herb & Garlic Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dry sherry or white wine",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth",
+      "quantity": "6 cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "baguette",
+      "quantity": "12 slices",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek yogurt",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Gruyère cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "55 - 65 min",
+  "servings": "10 cups (2.4 L) ",
+  "preparation": [
+    "In a large pot, heat oil over medium-high heat. Add onions, and reduce heat to medium. Stir often until onions are soft and caramelized, approximately 20–30 minutes.",
+    "Stir in Herb & Garlic Dip Mix, then pour in sherry. Using a spoon, scrape up, and stir in any brown bits from the bottom of the pan.",
+    "Stir in Nourish Broth, and season with Salt and Pepper. Bring to a boil, then cover, and simmer to let flavours blend, approximately 15 minutes.",
+    "Just before serving, preheat broiler to high with rack in highest position. Lightly spread each baguette slice with yogurt, then sprinkle with cheese. Spread out on a crisper, and broil until golden and melted, approximately 1 minute.",
+    "Ladle soup into bowls, and top with cheesy toasts."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cup",
+    "calories": 180,
+    "fat": 5,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 320,
+    "carbohydrate": 25,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 7
+  },
+  "tips": [
+    "Add or substitute chopped leeks for onion to give your soup a creamier, mellower texture and taste."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Skinny-French-Onion-Soup-Main.jpg",
+  "thumbnail": "Skinny-French-Onion-Soup-Main.webp",
+  "products": [
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, parsley, &amp; garlic.&nbsp;"
+      ]
+    },
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavours of onion, celery, and herbs. Just add water!"
+      ]
+    }
+  ]
+}

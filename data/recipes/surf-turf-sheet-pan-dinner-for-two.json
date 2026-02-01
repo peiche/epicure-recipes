@@ -1,0 +1,161 @@
+{
+  "name": "Surf & Turf Sheet Pan Dinner For Two",
+  "slug": "surf-turf-sheet-pan-dinner-for-two",
+  "description": "Create a romantic dinner experience at home for a fraction of the cost of dining out. Cook everything on one pan for easy cleanup, so you can focus on enjoying your evening!",
+  "ingredients": [
+    {
+      "name": "medium Yukon Gold potatoes",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "SPG Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Beef & Steak Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless sirloin steaks",
+      "quantity": "2 (4 oz/113 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large shrimp",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green beans",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": "trimmed"
+    },
+    {
+      "name": "Hollandaise Sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Hollandaise Sauce Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "17 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Set oven to broil with rack in the middle of the oven. Lightly brush Sheet Pan with oil (do not use liner).",
+    "Thinly slice unpeeled potatoes and arrange on one side of pan, overlapping slightly. Sprinkle with 1&frasl;2 tbsp SPG Seasoning.  Sprinkle Beef & Steak Seasoning over both sides of steaks; place steaks on pan. Broil 5–7 min, until steaks start to brown.",
+    "Remove pan from oven and flip steaks. Add shrimp in the shape of hearts (2 shrimp per heart) and green beans to pan; sprinkle with remaining SPG Seasoning. Broil 6 min, until steaks start to char slightly and reach an internal temperature of 125° F (for medium-rare).",
+    "If desired, spoon Hollandaise Sauce over steak, shrimp, and veggies before serving."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 460,
+    "fat": 15,
+    "saturatedFat": 6,
+    "transFat": 0.5,
+    "cholesterol": 100,
+    "sodium": 560,
+    "carbohydrate": 49,
+    "fiber": 8,
+    "sugars": 6,
+    "protein": 33
+  },
+  "tips": [
+    "Swap 1&frasl;2 lb trimmed asparagus for green beans.",
+    "The thickness of your steak will affect the level of doneness. For a more well-done steak, choose a thinner cut. For a rarer steak, choose a thicker one."
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "surf_turf_sheet_pan_1036x583.jpg",
+  "thumbnail": "surf_turf_sheet_pan_1036x583.webp",
+  "products": [
+    {
+      "slug": "spg_seasoning_5edecfd",
+      "name": "SPG Seasoning",
+      "summary": [
+        "Salt. Pepper. Garlic. Your go-to for chicken, fish, seafood, roasted potatoes, veggies, &amp; even popcorn!"
+      ]
+    },
+    {
+      "slug": "beef___steak_seasoning",
+      "name": "Beef & Steak Seasoning",
+      "summary": [
+        "An all-purpose blend with mild heat &amp; aromatic flavour."
+      ]
+    },
+    {
+      "slug": "hollandaise_sauce_mix__3pk_",
+      "name": "Hollandaise Sauce Mix (3pk)",
+      "summary": [
+        "A healthier &amp; lighter alternative to hollandaise sauce—skip the mess &amp; complicated steps with this no-fail recipe.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

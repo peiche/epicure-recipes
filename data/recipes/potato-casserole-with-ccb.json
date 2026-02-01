@@ -1,0 +1,129 @@
+{
+  "name": "Potato Casserole with CCB",
+  "slug": "potato-casserole-with-ccb",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "large potatoes, peeled, cubed",
+      "quantity": "12",
+      "additionalInstruction": "and boiled in salted water until tender"
+    },
+    {
+      "name": "sour cream",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green onions",
+      "quantity": "1 bunch",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "quantity": "3 cups",
+      "additionalInstruction": "reserve 1 cup"
+    },
+    {
+      "name": "CCB Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "1 hour",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Drain potatoes and mash until lump-free.",
+    "Stir in remaining ingredients and spoon into an oven-proof casserole dish lightly sprayed with vegetable oil.",
+    "Sprinkle with reserved cheese. Cover and refrigerate for up to 2 days.",
+    "Bake uncovered for 45 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 700,
+    "fat": 23,
+    "saturatedFat": 16,
+    "transFat": 0,
+    "cholesterol": 80,
+    "sodium": 350,
+    "carbohydrate": 101,
+    "fiber": 11,
+    "sugars": 8,
+    "protein": 23
+  },
+  "tips": [
+    "Use low-fat cheese and light sour cream to save 260 calories and 20 g of fat (12 g saturated) per serving."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Potato-Casserole-with-Cheese-Chives-Bacon-Main.jpg",
+  "thumbnail": "Potato-Casserole-with-Cheese-Chives-Bacon-Main.webp",
+  "products": [
+    {
+      "slug": "ccb_dip_mix_b61a530",
+      "name": "CCB Dip Mix",
+      "summary": [
+        "Irresistible flavours of smoky bacon (plant-based), real Parmesan &amp; chives.&nbsp;"
+      ]
+    }
+  ]
+}

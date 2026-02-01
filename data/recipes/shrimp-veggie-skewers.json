@@ -1,0 +1,163 @@
+{
+  "name": "Shrimp & Veggie Skewers",
+  "slug": "shrimp-veggie-skewers",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "large bell pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large zucchini",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "peeled, large shrimp",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pad Thai Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil + more for brushing",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "maple syrup",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat grill to medium-high heat. Lightly brush with oil to prevent sticking.",
+    "Cut pepper into 1\" pieces. Slice zucchini into 1&frasl;2\" rounds.",
+    "In a large bowl, add pepper, zucchini, shrimp, seasoning, oil, maple syrup, and soy sauce. Mix to combine. If you have time, let sit 10 min to marinate.",
+    "Line Sheet Pan with Sheet Pan Liner. Thread shrimp and veggies onto skewers. Place on pan and head to the grill.",
+    "Grill skewers with lid closed, 3 min per side, or until shrimp is cooked through and lightly charred. Remove Sheet Pan Liner from pan. Place skewers on pan and drizzle with lime juice, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 260,
+    "fat": 8,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 170,
+    "sodium": 360,
+    "carbohydrate": 25,
+    "fiber": 2,
+    "sugars": 15,
+    "protein": 21
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup rice or rice noodles, 2 cups mixed greens, and 1 tbsp Epicure Salad Dressing, your choice.",
+  "image": "aug_shrimp_veggie_skewers_1036x583.jpg",
+  "thumbnail": "aug_shrimp_veggie_skewers_1036x583.webp",
+  "products": [
+    {
+      "slug": "pad_thai_seasoning__pkg_3_",
+      "name": "Pad Thai Seasoning (Pack of 3)",
+      "summary": [
+        "&nbsp;A Thai favourite you can easily make at home."
+      ]
+    },
+    {
+      "slug": "pad_thai_seasoning_40b523f",
+      "name": "Pad Thai Seasoning (Single)",
+      "summary": [
+        "<sup>Skip the takeout and make a better-for-you Pad Thai right at home in 15 minutes. A quick and easy meal you can make with a handful of ingredients.</sup>&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    },
+    {
+      "slug": "grill_boss_skewers__set_of_6___1701226_",
+      "name": "Grill Boss Skewers (Set of 6)",
+      "summary": [
+        "Start grilling up praise-worthy meals&nbsp;this season with these made-to-last reusable skewers!"
+      ]
+    }
+  ]
+}

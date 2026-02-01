@@ -1,0 +1,134 @@
+{
+  "name": "Arrabbiata Fish Fillets",
+  "slug": "arrabbiata-fish-fillets",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "crushed or diced tomatoes",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": " Marinara Sauce Mix or Bruschetta Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chipotle Aioli Mix or Chili Seasoning",
+      "quantity": "1 Tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "(6 oz/170 g) cod fillets, or any firm white fish",
+      "quantity": "4 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Mix together crushed tomatoes and Marinara Sauce Mix in a microwave safe dish. Microwave on high for 3 - 4 minutes, stirring every minute. Keep warm.",
+    "Season fish fillets with Sea Salt and Pepper. Heat a frying pan over medium heat; add olive oil and saute fish until both sides are browned and fish is just beginning to flake.",
+    "Place fish fillets on serving plate and top with prepared Marinara sauce."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 290,
+    "fat": 14,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 105,
+    "sodium": 210,
+    "carbohydrate": 6,
+    "fiber": 2,
+    "sugars": 0,
+    "protein": 35
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Arrabbiata-Fish-Fillets-Main.jpg",
+  "thumbnail": "Arrabbiata-Fish-Fillets-Main.webp",
+  "products": [
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavour of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "bruschetta_seasoning",
+      "name": "Bruschetta Seasoning",
+      "summary": [
+        "An aromatic blend of basil, garlic and parsley."
+      ]
+    },
+    {
+      "slug": "chipotle_aioli_mix",
+      "name": "Chipotle Aioli Mix",
+      "summary": [
+        "Medium-spicy Southwestern flavor with noteworthy chipotle chili and smoked paprika. A crowd-pleasing condiment for your burgers, fries, fish tacos, burritos and anything else that needs a little extra kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "chili_seasoning",
+      "name": "Chili Seasoning (1001136)",
+      "summary": [
+        "Make classic, restaurant-quality chili at home with better-for-you ingredients."
+      ]
+    }
+  ]
+}

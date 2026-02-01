@@ -1,0 +1,88 @@
+{
+  "name": "Cranberry Bites",
+  "slug": "cranberry-bites",
+  "description": "Cranberry sauce isn’t just for turkey! It makes a flavourful finisher for creamy, brie-topped crostini too.",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sage & Apple Stuffing Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "of a thin French baguette",
+      "quantity": "16 slices",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brie cheese wheel",
+      "quantity": "1 (4 oz/114 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cranberry sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "12 min",
+  "servings": "16 servings",
+  "preparation": [
+    "Preheat oven to 400° F (205° C).",
+    "Combine oil with Sage & Apple Stuffing Seasoning.",
+    "Using a basting brush, lightly brush oil mixture on baguette slices. Place on a Sheet Pan. Bake until crisp and fragrant, approximately 5 minutes. Let cool.",
+    "Just before serving, slice cheese into 16 pieces. Arrange toasted slices on a serving platter. Top each with a piece of cheese and a dollop of cranberry sauce."
+  ],
+  "tags": [
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 crisp",
+    "calories": 80,
+    "fat": 6,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 85,
+    "carbohydrate": 5,
+    "fiber": 1,
+    "sugars": 2,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Cranberry-Bites-Main.jpg",
+  "thumbnail": "Cranberry-Bites-Main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

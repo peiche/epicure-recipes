@@ -1,0 +1,181 @@
+{
+  "name": "Sylvie’s Beef Merlot",
+  "slug": "sylvie-s-beef-merlot",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "stewing beef cubes",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "juniper berries",
+      "quantity": "6",
+      "additionalInstruction": "crushed with a knife blade"
+    },
+    {
+      "name": "fresh parsley",
+      "quantity": "4 sprigs",
+      "additionalInstruction": null
+    },
+    {
+      "name": "garlic cloves",
+      "quantity": "3",
+      "additionalInstruction": "minced"
+    },
+    {
+      "name": "onion",
+      "quantity": "1",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "celery stalk (including leaves)",
+      "quantity": "1",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "bay leaf",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Merlot or other dry red wine",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Beef & Steak Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "black peppercorns",
+      "quantity": "1 tsp",
+      "additionalInstruction": "whole"
+    },
+    {
+      "name": "all-purpose flour",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "beef broth",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "carrots",
+      "quantity": "2",
+      "additionalInstruction": "coarsely chopped"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "whole button mushrooms",
+      "quantity": "8 oz (225 g)",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "2 hours",
+  "servings": "6 servings",
+  "preparation": [
+    "In a large bowl, stir beef, juniper berries, parsley, garlic, onion, celery, bay leaf, wine, Beef & Steak Seasoning and Black Peppercorns. Cover and refrigerate to marinate at least 4 hours (preferably overnight).",
+    "Remove beef from marinade and place in a bowl. Sprinkle with flour and stir to coat. Strain marinade. Reserve onion, bay leaf and celery.",
+    "Working in batches, brush Wok or frying pan with oil and brown meat over medium-high heat. Remove pieces to a bowl as they are done.",
+    "When all beef is browned, melt butter in wok or frying pan over medium-high heat. Add sugar and stir often until it is a deep nutty brown. Stir in reserved marinade, onion, bay leaf, celery and beef broth.",
+    "Bring to a boil, then add beef, carrots and Sea Salt. Reduce heat to medium-low. Cover and simmer, stirring occasionally, for about 1 1&frasl;2 hours, until beef is tender. Stir in mushrooms for the last 15-20 minutes of cooking.",
+    "Serve with boiled potatoes."
+  ],
+  "tags": [
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "slow_cooker",
+      "name": "Slow Cookers & Roasts"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 320,
+    "fat": 12,
+    "saturatedFat": 4.5,
+    "transFat": 0.1,
+    "cholesterol": 65,
+    "sodium": 80,
+    "carbohydrate": 15,
+    "fiber": 2,
+    "sugars": 7,
+    "protein": 27
+  },
+  "tips": [
+    "For best results, marinate beef overnight before cooking. Skip it if you’re time-pressed.",
+    "Make it a Big Batch: Double the recipe and cook in a slow cooker."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sylvies-Beef-Merlot_1036x583.jpg",
+  "thumbnail": "Sylvies-Beef-Merlot_1036x583.webp",
+  "products": [
+    {
+      "slug": "beef___steak_seasoning",
+      "name": "Beef & Steak Seasoning",
+      "summary": [
+        "An all-purpose blend with mild heat &amp; aromatic flavour."
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

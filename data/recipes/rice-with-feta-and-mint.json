@@ -1,0 +1,102 @@
+{
+  "name": "Rice with Feta and Mint",
+  "slug": "rice-with-feta-and-mint",
+  "description": "This savoury side will delight the senses.",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "long grain rice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth",
+      "quantity": "2 cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crumbled feta cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mint",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Heat olive oil in Multipurpose Pot - 8 cup over medium heat. Stir in rice and cook for 1 minute. Add Nourish Bouillon, reduce heat to low, cover and cook for 20 minutes. Remove from heat and let stand for 5 minutes. Fluff with a fork.",
+    "Stir in crumbled feta cheese and Mint. Season with Sea Salt and Pepper."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 310,
+    "fat": 12,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 690,
+    "carbohydrate": 40,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 9
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Rice-with-Feta-and-Mint-Main.jpg",
+  "thumbnail": "Rice-with-Feta-and-Mint-Main.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavours of onion, celery, and herbs. Just add water!"
+      ]
+    }
+  ]
+}

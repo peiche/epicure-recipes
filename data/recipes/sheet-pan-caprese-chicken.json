@@ -1,0 +1,183 @@
+{
+  "name": "Sheet Pan Caprese Chicken",
+  "slug": "sheet-pan-caprese-chicken",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "ball fresh mozzarella",
+      "quantity": "1 large",
+      "additionalInstruction": "about 226 g"
+    },
+    {
+      "name": "medium field tomatoes",
+      "quantity": "2 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken breasts",
+      "quantity": "2 lbs (900 g)",
+      "additionalInstruction": "about 4"
+    },
+    {
+      "name": "Rosemary Garlic Seasoning",
+      "quantity": "4 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Dressing",
+      "quantity": "1 cup",
+      "additionalInstruction": "or your choice of dressing, prepared"
+    },
+    {
+      "name": "Greek Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red wine vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 425° F. Line Sheet Pan with Sheet Pan Liner.",
+    "Slice cheese into eight slices. Slice tomatoes into four slices each. Set aside.",
+    "Cut chicken breasts in half. Place chicken on lined pan; coat with seasoning.",
+    "Roast until chicken is cooked through, about 15–18 min. Top chicken with sliced tomato and cheese during the last 5 min of cooking.",
+    "To serve, drizzle dressing on top. Season with salt and pepper, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 320,
+    "fat": 20,
+    "saturatedFat": 6,
+    "transFat": 0,
+    "cholesterol": 90,
+    "sodium": 160,
+    "carbohydrate": 5,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 31
+  },
+  "tips": [
+    "Swap field tomatoes for cherry tomatoes—simply toss on sheet pan while chicken is cooking."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy green salad and 1&frasl;2 cup pasta or rice.",
+  "image": "6814_sheet-pan-caprese-chicken_1036x583.jpg",
+  "thumbnail": "6814_sheet-pan-caprese-chicken_1036x583.webp",
+  "products": [
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavors on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    },
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Garlic, oregano &amp; mint blend with a classic Mediterranean taste."
+      ]
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

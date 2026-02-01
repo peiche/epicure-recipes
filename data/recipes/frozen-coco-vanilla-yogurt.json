@@ -1,0 +1,58 @@
+{
+  "name": "Frozen Coco Vanilla Yogurt",
+  "slug": "frozen-coco-vanilla-yogurt",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "vanilla Greek yogurt",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coconut vanilla white tea leaves",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coconut milk",
+      "quantity": "1 can (400 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "4 - 5 hours",
+  "servings": "4 servings",
+  "preparation": [
+    "Heat coconut milk and add tea leaves. Let steep for 5 minutes, strain, and chill completely.",
+    "Combine all ingredients together in a bowl, mix well. Transfer the mixture to freezable container.",
+    "Seal the container and put in the freezer for at least 4 hours. It’s best if you can stir the yogurt around every hour or so, just to keep it soft. Once frozen, allow it to thaw a little before serving."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 5,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 50,
+    "carbohydrate": 30,
+    "fiber": 0,
+    "sugars": 27,
+    "protein": 10
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Frozen-Coco-Vanilla-Yogurt-Main.jpg",
+  "thumbnail": "Frozen-Coco-Vanilla-Yogurt-Main.webp",
+  "products": []
+}

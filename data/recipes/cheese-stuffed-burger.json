@@ -1,0 +1,181 @@
+{
+  "name": "Cheese-Stuffed Burger",
+  "slug": "cheese-stuffed-burger",
+  "description": "Say cheese! Bite into this ooey gooey, juicy patty and you’ll see why burgers are our favourite food group. Perfect for any occasion, from backyard BBQ’s to birthday parties to game day celebrations. Customize your toppings to please any picky eaters, but our Big Burger Sauce is a must—it’s a healthier version of “special sauce” made with wholesome ingredients.",
+  "ingredients": [
+    {
+      "name": "lean ground turkey, chicken, pork or beef",
+      "quantity": "1 lb (450 g) ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Burger Seasoning",
+      "quantity": "1 - 2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Honey Mustard",
+      "quantity": "2 tbsp ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "1 - 2 tbsp",
+      "additionalInstruction": "or finely diced onion"
+    },
+    {
+      "name": "mozzarella or cheddar cheese, cut in 4 cubes",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup (2 oz)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded mixed greens",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": " tomato",
+      "quantity": "1",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "Big Burger Sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Big Burger Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ketchup",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "relish",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small multigrain or gluten-free buns",
+      "quantity": "4 ",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a large bowl, combine ground meat, seasoning, mustard, and dip mix.",
+    "Using 2&frasl;3 of the meat mixture, form 4 patties using the 3-in-1 Burger Press. Then use the press to indent each burger patty in the middle. Place cheese cube in the centre of each patty and cover with remaining meat mixture.",
+    "Cook for 7–8 minutes on greased grill over medium-high heat or in a frying pan with lid closed, flipping once, or until cooked through and an instant read thermometer indicates a Food Safe internal temperature of 175° F (80° C).",
+    "Top each bottom half of the buns with 1&frasl;4 cup greens, followed by a burger patty and a tomato slice. Spread burger sauce evenly over remaining four bun halves, and place on top to enclose. Serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 380,
+    "fat": 13,
+    "saturatedFat": 6,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 660,
+    "carbohydrate": 34,
+    "fiber": 0,
+    "sugars": 12,
+    "protein": 39
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup veggies and 2 tbsp of your fave dip.",
+  "image": "cheese_stuffed_Burger_1036x583.jpg",
+  "thumbnail": "cheese_stuffed_Burger_1036x583.webp",
+  "products": [
+    {
+      "slug": "burger_seasoning_5d205ac",
+      "name": "Burger Seasoning",
+      "summary": [
+        "Tired of bland burgers? Level up with one simple seasoning that’s packed with the robust flavours of onion, garlic, and red bell pepper, and a mild paprika kick. Just combine the seasoning with ground beef, chicken, pork, or turkey for mouth-watering burgers every single time.&nbsp;"
+      ]
+    },
+    {
+      "slug": "honey_mustard",
+      "name": "Honey Mustard",
+      "summary": [
+        "A bold twist on a classic condiment made with 100% Canadian mustard seed and organic honey.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "big_burger_sauce_mix_d51f091",
+      "name": "Big Burger Sauce Mix",
+      "summary": [
+        "The tastiest burger sauce on this side of the golden arches. Best of all, it’s free of sodium and preservatives. Simply mix the seasoning with mayo, ketchup, and relish, and you’ve got saucy goodness to slather on burgers, sandwiches, sausages, and hot dogs.&nbsp;&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

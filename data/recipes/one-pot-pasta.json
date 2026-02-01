@@ -1,0 +1,130 @@
+{
+  "name": "One Pot Pasta",
+  "slug": "one-pot-pasta",
+  "description": "One pot pasta dishes are great to make in a pinch on busy weeknights with whatever’s in your fridge and pantry. Follow the recipe for a perfectly balanced plate or choose your own adventure with your choice of protein, veggies, pasta, and liquid (try milk, tomato juice, or prepared Nourish Broth instead of water). The pasta-bilities are endless! Marinara Sauce Mix and Pizza Seasoning offer aromatic garlic and herb flavours to make any dish delicious no matter what ingredients you choose to use.",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix or Bruschetta Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bite-sized pasta",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (14 oz/400 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (14 oz/400 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a large pan, brown beef. Drain excess fat.",
+    "Add seasoning, pasta, water, crushed and diced tomatoes, and olive oil",
+    "Bring to a boil, reduce heat, and simmer for 12–15 min.",
+    "Stir in spinach until wilted."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 490,
+    "fat": 18,
+    "saturatedFat": 5,
+    "transFat": 0.5,
+    "cholesterol": 60,
+    "sodium": 160,
+    "carbohydrate": 49,
+    "fiber": 7,
+    "sugars": 8,
+    "protein": 31
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "1600378326864-recipeMainImagePath.jpg",
+  "thumbnail": "1600378326864-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavor of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "bruschetta_seasoning",
+      "name": "Bruschetta Seasoning",
+      "summary": [
+        "An aromatic blend of basil, garlic and parsley."
+      ]
+    }
+  ]
+}

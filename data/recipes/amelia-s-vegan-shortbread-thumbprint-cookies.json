@@ -1,0 +1,131 @@
+{
+  "name": "Amelia’s Vegan Shortbread Thumbprint Cookies",
+  "slug": "amelia-s-vegan-shortbread-thumbprint-cookies",
+  "description": "Who says vegans can't have fun (or dessert)? Try this delish vegan shortbread with raspberry jam kissed with Summer Berry Sweet Dip Mix.",
+  "ingredients": [
+    {
+      "name": "rice or almond flour",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ground flax seeds",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking soda ",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cinnamon or Apple Pie Spice",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> - 1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "coconut oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "melted"
+    },
+    {
+      "name": "pure maple syrup",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pure vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pure almond extract",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "raspberry jam",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "13 cookies",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "In a bowl, combine flour, coconut, flax seeds, baking soda, spice, and salt.",
+    "In a separate larger bowl, whisk together oil, maple syrup, vanilla, and almond extract.",
+    "Add flour mixture and combine until dough comes together.",
+    "Spoon approximately 2 tbsp of dough onto a Sheet Pan lined with a Sheet Pan Liner, leaving 1&frasl;2” between cookies. Press your thumb into the middle of each cookie. Fill each dent with jam, about 1 1&frasl;2 tsp per cookie.",
+    "Bake for 18–20 minutes, until bottoms brown lightly. Sprinkle with Summer Berry Sweet Dip Mix, and once slightly cooled, gently move them to a cooling rack."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cookie",
+    "calories": 140,
+    "fat": 6,
+    "saturatedFat": 4.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 110,
+    "carbohydrate": 18,
+    "fiber": 2,
+    "sugars": 6,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Amelia-s-Vegan-Shortbread-Thumbprint-Cookies-Main.jpg",
+  "thumbnail": "Amelia-s-Vegan-Shortbread-Thumbprint-Cookies-Main.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

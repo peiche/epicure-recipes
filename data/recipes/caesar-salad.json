@@ -1,0 +1,156 @@
+{
+  "name": "Caesar Salad",
+  "slug": "caesar-salad",
+  "description": "All hail Caesar…salad! Crisp romaine, crunchy croutons, and funky parmesan come together with savoury, tangy, garlicky dressing that’s known worldwide. It’s easy to make at home and healthier than store-bought with less fat, less sodium, and more deliciousness. This isn’t a purist’s version of a Caesar salad, but it’s perfect for a weeknight meal.",
+  "ingredients": [
+    {
+      "name": "Caesar Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "1 - 2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "coarsely ground, to taste"
+    },
+    {
+      "name": "Romaine lettuce",
+      "quantity": "12 cups",
+      "additionalInstruction": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Garlic Croutons",
+      "quantity": "2 cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "cubed crusty bread",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "garlic clove",
+      "quantity": "1 ",
+      "additionalInstruction": "crushed"
+    },
+    {
+      "name": "Herb & Garlic Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Whisk first 7 ingredients in a large serving bowl. Season with Black Pepper.",
+    "Add Romaine lettuce and toss to coat.",
+    "Stir in croutons and serve."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 170,
+    "fat": 12,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 130,
+    "carbohydrate": 11,
+    "fiber": 2,
+    "sugars": 3,
+    "protein": 5
+  },
+  "tips": [
+    "Lighten Up! Skip the oil and mayo and use instead 1&frasl;4 cup low-fat yogurt. You'll save 80 calories and 9 g of fat per serving!"
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1601324551728-recipeMainImagePath.jpg",
+  "thumbnail": "1601324551728-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "caesar_dressing_mix_e72947d",
+      "name": "Caesar Dressing Mix",
+      "summary": [
+        "This dressing is a little bit of magic: It’s rich, creamy, full of flavor, and it has zero sodium! Take it far beyond Caesar salad and use it as a sauce for pizza, a dip for veggies, chicken fingers, and zucchini fries, or mix it in your white pasta sauce.&nbsp;Simply mix the blend with mayo or Greek yogurt, lemon juice, olive oil, and milk, and it’s ready for anything!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    },
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, onion &amp; garlic.&nbsp;"
+      ]
+    }
+  ]
+}

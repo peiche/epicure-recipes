@@ -1,0 +1,81 @@
+{
+  "name": "Hot Buttered Pecan Baked Brie",
+  "slug": "hot-buttered-pecan-baked-brie",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "brie cheese or camembert cheese",
+      "quantity": "1 wheel (4 oz/125 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chopped pecans or walnuts",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Hot Buttered Rum Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Unwrap brie and place into mini baker.",
+    "Toast nuts in frying pan for 5 minutes, stirring frequently.",
+    "Add Hot Buttered Rum and stir until bubbling.",
+    "Pour mixture overtop brie and bake for 10 minutes, or until brie starts to melt."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 140,
+    "fat": 10,
+    "saturatedFat": 4.5,
+    "transFat": 0,
+    "cholesterol": 25,
+    "sodium": 140,
+    "carbohydrate": 8,
+    "fiber": 0,
+    "sugars": 8,
+    "protein": 5
+  },
+  "tips": [
+    "Serve with plain crackers, melba toast or French baguette rounds."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Hot-Buttered-Pecan-Baked-Brie_1036x583.jpg",
+  "thumbnail": "Hot-Buttered-Pecan-Baked-Brie_1036x583.webp",
+  "products": []
+}

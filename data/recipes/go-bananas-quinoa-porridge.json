@@ -1,0 +1,129 @@
+{
+  "name": "Go Bananas! Quinoa Porridge",
+  "slug": "go-bananas-quinoa-porridge",
+  "description": "Feel full and satisfied all morning long with this protein-packed twist on oatmeal.",
+  "ingredients": [
+    {
+      "name": "uncooked white quinoa",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chocolate or Vanilla Power Up Protein Blend",
+      "quantity": "2 scoops",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsweetened soy milk",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "or milk of your choice"
+    },
+    {
+      "name": "small bananas",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cocoa Crunch Whole Food Topper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Round Steamer, add quinoa, protein blend, and milk. Stir well to combine. Microwave, uncovered, on high 6 min. Stir; microwave an additional 5–6 min. There will still be liquid in the steamer, but it will have thickened. Remove from microwave. Stir, then let sit 5 min to allow quinoa to absorb more liquid.",
+    "Meanwhile, slice bananas.",
+    "Divide quinoa between four bowls. Thin out with more milk, if desired. Top with banana slices, whole food topper, and maple syrup, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "about 3/4 cup",
+    "calories": 310,
+    "fat": 6,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 200,
+    "carbohydrate": 45,
+    "fiber": 6,
+    "sugars": 8,
+    "protein": 21
+  },
+  "tips": [
+    "If you have time, rinse and drain quinoa before cooking. This will help remove saponin, a natural coating, which can make quinoa taste bitter.",
+    "Do not cover the quinoa with a lid as it cooks in the microwave; it will create too much steam and may spill over the sides of the steamer.",
+    "Soy milk is comparable to dairy milk in terms of protein content. If using another milk such as almond, rice, or cashew, serve with 1&frasl;2 cup Greek yogurt."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup berries and 1 tbsp nuts or seeds.",
+  "image": "go_bananas_quinoa_porridge_1036x583.jpg",
+  "thumbnail": "go_bananas_quinoa_porridge_1036x583.webp",
+  "products": [
+    {
+      "slug": "power_up_chocolate_protein_blend__pouch_",
+      "name": "Power Up Chocolate Protein Blend (Pouch)",
+      "summary": [
+        "We like to fuel our bodies and satisfy those chocolate cravings at the same time. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    },
+    {
+      "slug": "power_up_vanilla_protein_blend__pouch_",
+      "name": "Power Up Vanilla Protein Blend (Pouch)",
+      "summary": [
+        "Fuel up first thing and stay fuller longer with rich smooth-tasting vanilla blend. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

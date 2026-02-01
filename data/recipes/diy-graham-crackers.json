@@ -1,0 +1,106 @@
+{
+  "name": "DIY Graham Crackers",
+  "slug": "diy-graham-crackers",
+  "description": "It’s easier to buy a box of graham crackers…but these are naturally flavoured and so much tastier!",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cinnamon or Apple Pie Spice",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking soda",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter, cold",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "cut into cubes"
+    },
+    {
+      "name": "molasses",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "about 40 servings",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Add the first six ingredients to an electric mixer and pulse to combine.",
+    "Add the butter and pulse until it’s the consistency of cornmeal.",
+    "Add the remaining ingredients and pulse until combined.",
+    "On a floured board, roll out to 1.3\" thick. Cut into squares and place on a Sheet Pan lined with a Sheet Pan Liner. Use a fork to poke decorative holes into cookies.",
+    "Bake for 20 minutes, or until the edges darken."
+  ],
+  "tags": [
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 70,
+    "fat": 3.5,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 25,
+    "carbohydrate": 9,
+    "fiber": 1,
+    "sugars": 3,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "DIY-Graham-Crackers-Main.jpg",
+  "thumbnail": "DIY-Graham-Crackers-Main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

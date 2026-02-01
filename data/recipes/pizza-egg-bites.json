@@ -1,0 +1,128 @@
+{
+  "name": "Pizza Egg Bites",
+  "slug": "pizza-egg-bites",
+  "description": "Are you a fan of pizza? And breakfast? Well, we’ve got some good news for you! With just a few simple ingredients, you can whip up this satiating breakfast without breaking the bank (Starbucks egg bites cost over $4 per serving!). Not to mention eggs are an amazing source of protein! Make these ahead for the easiest, cheesiest grab-and-go breakfast ever.",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "quantity": "10",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pizza Seasoning or Bruschetta Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated cheddar cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 400° F. Using Basting Brush, lightly oil Muffin Maker and place on Sheet Pan.",
+    "In a bowl, whisk eggs and seasoning. Pour into muffin cavities, filling each about 3&frasl;4 full. Sprinkle with cheese and add your chosen fillings, if desired.",
+    "Bake 15 min or until eggs are set. Let cool slightly before removing from cavities.",
+    "If making ahead, refrigerate up to 5 days or freeze up to 1 month."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "epic_life_breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 egg bites",
+    "calories": 170,
+    "fat": 12,
+    "saturatedFat": 4.5,
+    "transFat": 0.1,
+    "cholesterol": 320,
+    "sodium": 170,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 13
+  },
+  "tips": [
+    "If storing in the freezer, reheat by first defrosting in the fridge overnight and then microwaving for 20 sec on high until warmed through. Or, place in a toaster oven and bake at 350° F for 10 min."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup berries and 1 slice of whole grain toast with 1 tsp butter.",
+  "image": "Pizza-Egg-Bites_1036x583.jpg",
+  "thumbnail": "Pizza-Egg-Bites_1036x583.webp",
+  "products": [
+    {
+      "slug": "pizza_seasoning_2308099",
+      "name": "Pizza Seasoning (1002291)",
+      "summary": [
+        "In a world of complex gastronomy, pizza is a testament to the simple pleasures we all crave. Now you can get it by the spoonful! This blend delivers the nostalgic flavors and feeling of eating pizza, with notes of basil, oregano, garlic, tomato, and green bell peppers with loads of Parmesan. And yes, there is a mild whisper of chilli, too!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "bruschetta_seasoning",
+      "name": "Bruschetta Seasoning",
+      "summary": [
+        "An aromatic blend of basil, garlic and parsley."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "basting_brush_5175217",
+      "name": "Basting Brush (1006236)",
+      "summary": [
+        "This silicone brush is perfect for grilling, roasting &amp; baking.&nbsp;"
+      ]
+    },
+    {
+      "slug": "muffin_maker__2pk_",
+      "name": "Muffin Maker (Set of 2)",
+      "summary": [
+        "Make perfect portions of your favorite sweet or savory cupcakes, muffins, frittatas, meatloaves, &amp; more!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Little Italy Pizza",
+  "slug": "little-italy-pizza",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "large whole-wheat or gluten-free pizza crust",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Little Italy Sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sundried tomatoes",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced ham",
+      "quantity": "6 oz (170 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "partly skimmed mozzarella",
+      "quantity": "1 cup",
+      "additionalInstruction": "grated"
+    }
+  ],
+  "totalTime": "15 - 17 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Preheat oven to 400° F (205° C).",
+    "Spread Little Italy Sauce on pizza crust.",
+    "Sprinkle sundried tomatoes, ham, and cheese evenly over pizza.",
+    "Place in oven and cook for 10–12 minutes, until cheese is melted and golden."
+  ],
+  "tags": [
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 310,
+    "fat": 12,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 650,
+    "carbohydrate": 39,
+    "fiber": 5,
+    "sugars": 1,
+    "protein": 14
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Little-Italy-Pizza-Main.jpg",
+  "thumbnail": "Little-Italy-Pizza-Main.webp",
+  "products": []
+}

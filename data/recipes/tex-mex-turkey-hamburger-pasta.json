@@ -1,0 +1,143 @@
+{
+  "name": "Tex Mex Turkey Hamburger Pasta",
+  "slug": "tex-mex-turkey-hamburger-pasta",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "uncooked macaroni",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "bell pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ground turkey or chicken",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "1 pint",
+      "additionalInstruction": "preferably multicoloured"
+    },
+    {
+      "name": "Ooey Gooey Queso Hot Dip Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In Multipurpose Pot, set over high heat, boil macaroni until tender, about 6–7 min.",
+    "Meanwhile, dice pepper. Add to boiling water for the last 1 min of cooking.",
+    "Place turkey in Multipurpose Steamer. Cover; microwave on high 4 min. Using Ground Meat Separator, break up chunks halfway through cooking.",
+    "Meanwhile, cut cherry tomatoes in half.",
+    "Carefully drain noodles and pepper, set aside. In the same pot, whisk mix with milk. Whisking constantly, bring to a boil over medium-high. Reduce heat; simmer whisking often, for 3 min or until thickened. Remove from heat and stir in grated cheese.",
+    "Return noodles and bell pepper to the pot with queso sauce. Add cooked turkey; stir until evenly mixed. Spoon into bowls and top with cherry tomatoes, and additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 410,
+    "fat": 16,
+    "saturatedFat": 7,
+    "transFat": 0.2,
+    "cholesterol": 80,
+    "sodium": 380,
+    "carbohydrate": 38,
+    "fiber": 3,
+    "sugars": 5,
+    "protein": 29
+  },
+  "tips": [
+    "Use 1 pkg (12 oz/340 g) veggie ground round instead of ground turkey."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy greens and 1 tbsp Epicure Dressing, your choice.",
+  "image": "tex_mex_hamburger_helper_1036x583.jpg",
+  "thumbnail": "tex_mex_hamburger_helper_1036x583.webp",
+  "products": [
+    {
+      "slug": "ooey_gooey_queso_dip_mix__pkg_of_3___1501147_",
+      "name": "Ooey Gooey Queso Dip Mix (Pack of 3)",
+      "summary": [
+        "Warm, cheesy hot dip made with Tex-Mex spices &amp; a touch of heat."
+      ]
+    },
+    {
+      "slug": "multipurpose_pot___12_c",
+      "name": "Multipurpose Pot - 12 Cup",
+      "summary": [
+        "A 12 cup, multi-use, stainless-steel cooking pot with a lid made of glass, steel &amp; silicone rubber."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

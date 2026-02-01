@@ -1,0 +1,132 @@
+{
+  "name": "Mango Granola Bars",
+  "slug": "mango-granola-bars",
+  "description": "Thank you, Marie-Eve Péladeau, for this recipe!",
+  "ingredients": [
+    {
+      "name": "dry instant oats",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "white chocolate chips",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pumpkin seeds",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "toasted or untoasted"
+    },
+    {
+      "name": "dried mango",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "coarsely chopped"
+    },
+    {
+      "name": "honey",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsweetened coconut flakes",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Apple Pie Spice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Mango Lassi Mix",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "4 hrs & 5 min (includes 4 hrs chilling time)",
+  "servings": "8 servings",
+  "preparation": [
+    "In a square container, combine oats, chocolate chips, pumpkin seeds, mango, honey, coconut, Apple Pie Spice, and mix. Using a spoon, press down firmly to pack down.",
+    "Refrigerate 4 hrs until very firm. Cut into eight bars. Store in refrigerator up to 1 week."
+  ],
+  "tags": [
+    {
+      "slug": "community_recipe",
+      "name": "Community Recipe"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 bar",
+    "calories": 150,
+    "fat": 5,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 15,
+    "carbohydrate": 24,
+    "fiber": 2,
+    "sugars": 15,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Mango-Granola-Bars_1036x583.jpg",
+  "thumbnail": "Mango-Granola-Bars_1036x583.webp",
+  "products": [
+    {
+      "slug": "apple_pie_spice",
+      "name": "Apple Pie Spice",
+      "summary": [
+        "It’s apple pie in a jar: aromatic cinnamon &amp; nutmeg."
+      ]
+    },
+    {
+      "slug": "mango_lassi_mix_16d3ed2",
+      "name": "Mango Lassi Mix",
+      "summary": [
+        "A refreshing Indian-inspired drink that’s similar to a smoothie or milkshake."
+      ]
+    }
+  ]
+}

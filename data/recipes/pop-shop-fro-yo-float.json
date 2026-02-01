@@ -1,0 +1,64 @@
+{
+  "name": "Pop Shop Fro-Yo Float",
+  "slug": "pop-shop-fro-yo-float",
+  "description": "There’s always room for ice cream, especially when you swap syrupy coke for zero-sugar iced tea that tastes just as good.",
+  "ingredients": [
+    {
+      "name": "vanilla frozen yogurt or low-fat ice cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pop Shop Herbal Tea",
+      "quantity": "1 cup brewed",
+      "additionalInstruction": "chilled"
+    },
+    {
+      "name": "club soda",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "chilled"
+    }
+  ],
+  "totalTime": "2 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Scoop 1&frasl;2 cup frozen yogurt into two chilled glasses.",
+    "Pour 1&frasl;2 cup prepared tea over each scoop; top with 3&frasl;4 cup club soda each.",
+    "Add toppings, if desired, and serve with straws and spoons."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 110,
+    "fat": 4,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 105,
+    "carbohydrate": 17,
+    "fiber": 0,
+    "sugars": 17,
+    "protein": 3
+  },
+  "tips": [
+    "Ever heard of cold brewed tea? It's much smoother because the cooler temperature slowly extracts flavour over several hours, which helps prevent a bitter or astringent taste. Place 1–2 tea bags per cup of cold water in a sealed container. Refrigerate for at least 6 hours or overnight. Use within 4 days of brewing.",
+    "To chill glasses, rinse with cold water and freeze for 10 minutes."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Pop Shop Fro Yo Float _1036x583.jpg",
+  "thumbnail": "Pop Shop Fro Yo Float _1036x583.webp",
+  "products": [
+    {
+      "slug": "cola_type_herbal_tea_blend",
+      "name": "Pop Shop Herbal Tea Blend",
+      "summary": [
+        "Our cola-flavoured Pop Shop Herbal Tea Blend offers a healthy and guilt-free way to relive our childhood memories of sipping on cold cola. Made with natural ingredients, this tea offers the anti-inflammatory properties of cinnamon and licorice root to help boost our immune systems. Suitable for kids from 1 to 101, this tea is an excellent alternative to sugary soft drinks.&nbsp;"
+      ]
+    }
+  ]
+}

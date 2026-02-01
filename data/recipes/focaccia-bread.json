@@ -1,0 +1,131 @@
+{
+  "name": "Focaccia Bread",
+  "slug": "focaccia-bread",
+  "description": "This recipe makes an amazing pizza dough too.",
+  "ingredients": [
+    {
+      "name": "sugar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "warm water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "active dry yeast",
+      "quantity": "2 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Rosemary Garlic Seasoning",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "plus more to brush Sheet Pan and dough"
+    },
+    {
+      "name": "hot water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "flour",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cornmeal",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "1 hr 15 min",
+  "servings": "1 loaf (8 slices)",
+  "preparation": [
+    "In a small bowl, dissolve sugar in warm water and stir in yeast. Let sit 5 minutes.",
+    "In a large mixing bowl, soften Rosemary Garlic Seasoning in olive oil and hot water. Let cool to lukewarm, then Salt and combine with yeast mixture. Stir in flour, 1 cup at a time.",
+    "On a floured surface, knead dough until smooth, approximately 4 minutes. Let rest 5 minutes.",
+    "Using a basting brush, brush Sheet Pan with olive oil, and sprinkle with cornmeal.",
+    "Roll out dough and transfer onto Sheet Pan. Generously brush with olive oil and let rise 40 minutes.",
+    "Preheat oven to 425° F (220° C).",
+    "Drizzle dough with olive oil and sprinkle with Rosemary Garlic Seasoning and Sea Salt. Bake for 20–25 minutes, until golden."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 340,
+    "fat": 10,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 560,
+    "carbohydrate": 55,
+    "fiber": 3,
+    "sugars": 2,
+    "protein": 8
+  },
+  "tips": [
+    "Slice Focaccia into ‘fingers’ or small squares that are easy to pick up, dip, mop sauces, or munch plain.",
+    "Focaccia is also perfect for pizza crusts and paninis.",
+    "Gluten-free Tip: Swap flour for Epicure Basic Gluten-Free Flour Mix or your favourite gluten-free flour."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Focaccia-Bread-Main.jpg",
+  "thumbnail": "Focaccia-Bread-Main.webp",
+  "products": [
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavors on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Peppermint Matcha Hot Chocolate",
+  "slug": "peppermint-matcha-hot-chocolate",
+  "description": "Warm up on a chilly day with a cup of comfort featuring the goodness of matcha and cocoa. Makes a great combo hot drink/dessert with 70 calories or less when made with water, or less than 200 with 2% milk.",
+  "ingredients": [
+    {
+      "name": "Peppermint Matcha Hot Chocolate Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot milk",
+      "quantity": "1 cup",
+      "additionalInstruction": "or hot water"
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 serving",
+  "preparation": [
+    "Stir mix into hot milk or hot water."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "epic_life_beverages",
+      "name": "Beverages"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cup",
+    "calories": 70,
+    "fat": 1,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 10,
+    "carbohydrate": 14,
+    "fiber": 2,
+    "sugars": 11,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Peppermint-Matcha-Hot-Chocolate-Main.jpg",
+  "thumbnail": "Peppermint-Matcha-Hot-Chocolate-Main.webp",
+  "products": []
+}

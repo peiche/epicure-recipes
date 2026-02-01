@@ -1,0 +1,80 @@
+{
+  "name": "Noggit Back Smoothie",
+  "slug": "noggit-back-smoothie",
+  "description": "Rich, creamy, and perfectly balanced smoothie that puts the merry in your breakfast.",
+  "ingredients": [
+    {
+      "name": "sliced frozen bananas ",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% milk",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% Greek yogurt ",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Power Up Vanilla Protein Blend",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cinnamon or Churro Popcorn Seasoning ",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": "or eggnog spice or nutmeg"
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 serving",
+  "preparation": [
+    "In a blender, combine all ingredients. If you like it thicker, add ice cubes; for a thinner consistency, add water. Blend until smooth and pour into a tall glass or Shaker."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 430,
+    "fat": 8,
+    "saturatedFat": 4,
+    "transFat": 0.3,
+    "cholesterol": 25,
+    "sodium": 460,
+    "carbohydrate": 56,
+    "fiber": 3,
+    "sugars": 38,
+    "protein": 35
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "noggit back smoothie large.jfif",
+  "thumbnail": "noggit back smoothie large.webp",
+  "products": [
+    {
+      "slug": "power_up_vanilla_protein_blend__pouch_",
+      "name": "Power Up Vanilla Protein Blend (Pouch)",
+      "summary": [
+        "Fuel up first thing and stay fuller longer with rich smooth-tasting vanilla blend. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    },
+    {
+      "slug": "churros_popcorn_seasoning",
+      "name": "Churro Popcorn Seasoning",
+      "summary": [
+        "The melt-in-your mouth flavour of biting into a warm churro meets classic movie night popcorn.&nbsp;"
+      ]
+    }
+  ]
+}

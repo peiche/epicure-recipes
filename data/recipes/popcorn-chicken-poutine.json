@@ -1,0 +1,183 @@
+{
+  "name": "Popcorn Chicken Poutine",
+  "slug": "popcorn-chicken-poutine",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "quantity": "6",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "SPG Seasoning",
+      "quantity": null,
+      "additionalInstruction": "to taste, optional"
+    },
+    {
+      "name": "Popcorn Chicken Bites",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless, chicken breasts",
+      "quantity": "2 lbs (900 g)",
+      "additionalInstruction": "cut into chunks"
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Southern Baked Gluten Free Crumb Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Savoury Herb Gravy",
+      "quantity": "1 cup prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Savoury Herb Gravy Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cold water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Fresh Cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> recipe prepared",
+      "additionalInstruction": "crumbled, or 1 cup cheese curds"
+    },
+    {
+      "name": "milk or soy milk",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice ",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "or 1 tbsp  + 1 tsp vinegar"
+    },
+    {
+      "name": "Sea Salt ",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": "or 1 tbsp dip mix, your choice"
+    },
+    {
+      "name": "your favourite Nutritional Yeast or Whole Food Topper",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "50 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 400 °F. Cut potatoes into fry-shaped pieces. Place on a Sheet Pan lined with a Sheet Pan Liner.",
+    "Drizzle with oil and lightly toss using a Grip & Grab. Sprinkle with seasoning, to taste, if desired.",
+    "Bake for 40 min or until crispy. Add chicken bites for the last 10 min of baking.",
+    "Place in bowls. Drizzle with gravy and crumble cheese on top. Sprinkle with topper blend."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 490,
+    "fat": 10,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 50,
+    "sodium": 400,
+    "carbohydrate": 73,
+    "fiber": 9,
+    "sugars": 4,
+    "protein": 28
+  },
+  "tips": [
+    "Try skinny shoe-string fries using the 4-in-1 Mandoline for easy slicing."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup dark leafy greens and 1 cup mixed veggies with 1 Tbsp Epicure Salad Dressing.",
+  "image": "1599773903028-recipeMainImagePath.jpg",
+  "thumbnail": "1599773903028-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "spg_seasoning_5edecfd",
+      "name": "SPG Seasoning",
+      "summary": [
+        "Salt. Pepper. Garlic. Your go-to for chicken, fish, seafood, roasted potatoes, veggies, &amp; even popcorn!"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

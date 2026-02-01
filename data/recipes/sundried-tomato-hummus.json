@@ -1,0 +1,113 @@
+{
+  "name": "Sundried Tomato Hummus ",
+  "slug": "sundried-tomato-hummus",
+  "description": "Let’s talk about making your own hummus. You’re in control of the ingredients (like salt), the freshness, and the flavour. And it’s quick, easy and fun! Perfect for dipping and spreading, this is a must for hummus enthusiasts. Sundried tomatoes add some sweetness to the party!",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "sundried tomatoes packed in oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "drained"
+    },
+    {
+      "name": "olive oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sun-Kissed Tomato Dip Mix or Bruschetta Seasoning",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "each lemon juice, tahini, and water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "2 cups",
+  "preparation": [
+    "In food processor, add chickpeas, tomatoes, olive oil, dip mix, lemon juice, tahini, and water. Blend on high until smooth, about 1–2 min, scraping down the sides as necessary.",
+    "If you have time, let stand 10 min before serving. This allows time for the mix to hydrate and for the flavours to blend.",
+    "Serve with pita wedges or sliced veggies, or spread on sandwiches and tortillas."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "easter",
+      "name": "Easter"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 70,
+    "fat": 4.5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 50,
+    "carbohydrate": 6,
+    "fiber": 2,
+    "sugars": 1,
+    "protein": 2
+  },
+  "tips": [
+    "Swap olive oil for reserved chickpea liquid (aka “aquafaba”) if you fancy a lighter tasting hummus.",
+    "For a thinner hummus, simply add more water, 1 tbsp at time."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "sundried_tomato_hummus_1036x583.jpg",
+  "thumbnail": "sundried_tomato_hummus_1036x583.webp",
+  "products": [
+    {
+      "slug": "sun_kissed_tomato_dip_mix_ae848c4",
+      "name": "Sun-Kissed Tomato Dip Mix",
+      "summary": [
+        "The taste of ripe summer tomatoes with every bite—just mix with two simple ingredients. &nbsp;"
+      ]
+    },
+    {
+      "slug": "bruschetta_seasoning",
+      "name": "Bruschetta Seasoning",
+      "summary": [
+        "An aromatic blend of basil, garlic and parsley."
+      ]
+    }
+  ]
+}

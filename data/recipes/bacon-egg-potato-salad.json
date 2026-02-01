@@ -1,0 +1,142 @@
+{
+  "name": "\"Bacon\" & Egg Potato Salad",
+  "slug": "bacon-egg-potato-salad",
+  "description": "This potato salad has it all! Smoky, vegan bacon bits, bright dill, zesty kicks of honey mustard, and satisfying, creamy dressing. For a lighter, lower-fat option, we’ve swapped half the mayo for Greek yogurt.",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby potatoes",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (675 g)",
+      "additionalInstruction": "about 25"
+    },
+    {
+      "name": "each light mayonnaise and 2% plain Greek yogurt",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Potato Salad Dressing Mix or Lemon Dilly Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": " Honey Mustard or Dijon-style mustard\n",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Better Than Bacon Topper ",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "arugula",
+      "quantity": "4 cups",
+      "additionalInstruction": "(optional)"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Bring water to a boil in Multipurpose Pot - 8 cup with lid on. Place eggs in boiling water. Cook 8 min. Drain, cool in ice water, peel, and chop.",
+    "Meanwhile, slice potatoes in half; place in Multipurpose Steamer. Cover; microwave on high until cooked, about  6 min. Once cooked, uncover and let cool down in steamer for about 2 min.",
+    "In a very large bowl, whisk together mayonnaise, yogurt, dressing mix, and mustard. Stir in potatoes and topper until well combined. Set aside until eggs are ready.",
+    "Add arugula to bowl, stir to combine. Top with eggs and additional toppings, if desired. Serve warm."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 130,
+    "fat": 4.5,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 120,
+    "carbohydrate": 19,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 5
+  },
+  "tips": [
+    "Save time and hard-boil eggs for the week.  They keep for 7 days in your fridge—perfect for a quick breakfast or to make this potato salad even faster!"
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) grilled chicken and 1 cup veggie sticks, your choice.",
+  "image": "1586189563832-recipeMainImagePath.jpg",
+  "thumbnail": "1586189563832-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "better_than_bacon_topper__1701207_",
+      "name": "Better Than Bacon Topper",
+      "summary": [
+        "Ok, bacon lovers; we see you. We know that bacon made from ‘pinto beans’ has you feeling a kind of way: skeptical. But trust us, this fan fave does not disappoint and it’s so easy to use. No need to grab a frying pan — just pop the top and shake on the taste of bacon with way less sodium, zero cholesterol, and no artificial flavors or colors (unlike popular brands).&nbsp;These crunchy bites are layered with smoky bacon flavor and are an amazing addition to salads, potatoes, eggs, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

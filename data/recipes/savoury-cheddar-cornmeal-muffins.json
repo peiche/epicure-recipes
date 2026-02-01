@@ -1,0 +1,115 @@
+{
+  "name": "Savoury Cheddar-Cornmeal Muffins",
+  "slug": "savoury-cheddar-cornmeal-muffins",
+  "description": "Easy and ideal with soup, chili or alongside a salad - or on their own for breakfast or brunch.",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cornmeal",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "CCB Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Louisiana Hot & Spicy Dip Mix",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated low-fat sharp cheddar cheese",
+      "quantity": "2 cups",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "melted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 - 30 min",
+  "servings": "12 muffins or 4 mini loaves",
+  "preparation": [
+    "Preheat oven to 375° F (190° C).",
+    "Place a lightly oiled Perfect Portion Muffin Pan on a Sheet Pan.",
+    "Combine first 5 ingredients in a mixing bowl.",
+    "Add 1 1&frasl;2 cups cheddar and stir with dry ingredients to coat. Make a well in the centre.",
+    "In a separate bowl, beat eggs with milk and butter. Pour into well, and stir with a wooden spoon using swift strokes. Batter will be lumpy.",
+    "Spoon into prepared pan, top with remaining cheddar, and bake for 15–20 minutes (may take 5–7 minutes longer if using Mini-Loaf Pans)."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 muffin",
+    "calories": 230,
+    "fat": 11,
+    "saturatedFat": 6,
+    "transFat": 0.2,
+    "cholesterol": 65,
+    "sodium": 430,
+    "carbohydrate": 26,
+    "fiber": 2,
+    "sugars": 0,
+    "protein": 9
+  },
+  "tips": [
+    "Bake a big batch, cool completely, then freeze separately until firm to prevent sticking together. Store in a large freezer bag labelled with recipe name and date. Can be frozen for up to 3 months."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Savoury-Cheddar-Cornmeal-Muffins-Main.jpg",
+  "thumbnail": "Savoury-Cheddar-Cornmeal-Muffins-Main.webp",
+  "products": [
+    {
+      "slug": "ccb_dip_mix_b61a530",
+      "name": "CCB Dip Mix",
+      "summary": [
+        "Irresistible flavors of smoky bacon (plant-based), real Parmesan &amp; chives.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

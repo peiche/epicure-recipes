@@ -1,0 +1,123 @@
+{
+  "name": "Donair Falafels",
+  "slug": "donair-falafels",
+  "description": "A deliciously creative way to use Donair Seasoning. Chickpeas make the bulk of this recipe – they’re full of fibre and an inexpensive protein (especially if you buy dried). Thank you, Theresa Minnion Wiebe, for this recipe!",
+  "ingredients": [
+    {
+      "name": "dried chickpeas",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "soaked in water at least 24 hrs"
+    },
+    {
+      "name": "fresh parsley",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cloves garlic",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Donair Seasoning",
+      "quantity": "2 pkgs",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Preheat oven to 375° F. Drain chickpeas. Roughly chop parsley, onion, and garlic.",
+    "In a food processor, add chickpeas, parsley, onion, garlic, and seasoning. Blend until crumbly but not chunky.",
+    "Line a Sheet Pan with parchment paper and brush with olive oil. Using Prep Pro Scoop (1&frasl;4 cup) or a large ice cream scoop, form chickpea balls. Place on lined sheet pan 2\" apart and flatten. Bake until browned on top, about 30 min."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "community_recipe",
+      "name": "Community Recipe"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 170,
+    "fat": 2.5,
+    "saturatedFat": 0.3,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 530,
+    "carbohydrate": 29,
+    "fiber": 5,
+    "sugars": 4,
+    "protein": 9
+  },
+  "tips": [
+    "If you have a smaller food processor, blend in two batches. Make sure ingredients are equally doled out."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Donair-Falafels_1036x583.jpg",
+  "thumbnail": "Donair-Falafels_1036x583.webp",
+  "products": [
+    {
+      "slug": "donair_seasoning__pkg_of_3_",
+      "name": "Donair Seasoning (Pack of 3)",
+      "summary": [
+        "Any way you name it – <em>gyro, shawarma, donair, or doner kebab </em>– our Donair Seasoning is what you’re looking for. You won’t believe how easy it is to make the street food staple at home in minutes with this blend and a few simple ingredients. Just add the seasoning to ground beef, press it into a <a href=\"https://epicure.com/product/rectangular-steamer\">Rectangular Steamer</a> and cook it in the microwave for 10 minutes or the oven for 60. Slice thinly and serve on a pita with fresh veggies and tzatziki – dinner is done!&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "prep_pro_scoop_1_4_cup",
+      "name": "Prep Pro Scoop 1/4 Cup",
+      "summary": [
+        "Scoop &amp; serve like a pro with this commercial quality, large scoop."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "name": "Crêpes",
+  "slug": "crepes",
+  "description": "These thin, tender pancakes are perfect as an appetizer, entrée, or dessert. Layer, stack, fold, or roll with your choice of sweet or savoury fillings. In France, crêpes are often prepared with a dab of butter and a sprinkle of cinnamon and sugar.",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "all-purpose flour",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "melted unsalted butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "1 hr 20 min (batter rests 1 hr)",
+  "servings": "10 crêpes",
+  "preparation": [
+    "In a mixing bowl, using Piano Wire Whisk, whisk eggs, water, and milk.",
+    "Whisk in flour and butter until smooth. Let batter rest 1 hour, or make ahead and refrigerate overnight. You can also make batter in a blender.",
+    "Preheat frying pan over medium-high heat. Add 1&frasl;4 cup batter and quickly tilt and swirl to form an even coating.",
+    "Cook 1 minute, until set and golden brown underneath. Gently flip and cook another 1 minute.",
+    "Stack, cover, and keep warm while cooking the remaining batter"
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 90,
+    "fat": 3.5,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 45,
+    "sodium": 40,
+    "carbohydrate": 11,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 3
+  },
+  "tips": [
+    "For Sweet Crêpes:",
+    "Add 1 tbsp sugar and 1 tsp of your favourite sweet blend to your batter; try Apple Pie Spice, Pumpkin Pie Spice, Summer Berry.",
+    "For Savoury Crêpes:",
+    "Add 1–2 tsp of your favourite savoury blend to your batter; try 3 Onion Dip Mix, Spinach Dip Mix, Lemon Dilly Dip Mix, or Herb & Garlic Dip Mix.",
+    "For Gluten-free Crêpes:",
+    "Swap flour for Epicure Gluten-free Flour Mix or your favourite gluten-free flour.",
+    "Crêpe-making Tips:  Rest batter to let the gluten relax for more tender crêpes. Overnight resting is ideal.  Bring batter up to room temperature before cooking   Only brush pan with oil once before the first crêpe. Silicone Basting Brush is ideal.  Try lager beer instead of water. The bubbly carbonation and yeast adds airiness and flavour to your batter.  Crêpes freeze beautifully, so make ahead for brunch, dinner, or after-school roll-ups   You can make and refrigerate batter 24 hours ahead"
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1608247214847-recipeMainImagePath.jpg",
+  "thumbnail": "1608247214847-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "piano_wire_whisk__1707512_",
+      "name": "Piano Wire Whisk",
+      "summary": [
+        "Whisking and whipping made easy with the <strong>Piano Wire Whisk</strong>.&nbsp;"
+      ]
+    },
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    },
+    {
+      "slug": "spinach_dip_mix_6ea8908",
+      "name": "Spinach Dip Mix",
+      "summary": [
+        "Punchy blend with onion &amp; sweet bell pepper."
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "herb___garlic_dip_mix_f3e3a6b",
+      "name": "Herb & Garlic Dip Mix",
+      "summary": [
+        "Classic notes of chives, onion &amp; garlic.&nbsp;"
+      ]
+    }
+  ]
+}

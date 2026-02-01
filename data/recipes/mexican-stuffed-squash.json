@@ -1,0 +1,196 @@
+{
+  "name": "Mexican Stuffed Squash",
+  "slug": "mexican-stuffed-squash",
+  "description": "This recipe offers the lively flavours and classic toppings of Mexican cuisine with a cozy twist! Acorn squash typically needs to roast for over an hour in the oven before stuffing, but with the Multipurpose Steamer, you can cook one in just 15 minutes in the microwave! And, not only is dinner on the table lickity split, acorn squash comes with some serious health benefits: it’s low in calories but full of fibre and nutrients important for healthy hearts, eyes and digestion.",
+  "ingredients": [
+    {
+      "name": "medium acorn squash",
+      "quantity": "2",
+      "additionalInstruction": "cut in half, seeds removed"
+    },
+    {
+      "name": "low-sodium black beans",
+      "quantity": "2 cans (19 oz/540 ml each)",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "steamed seasonal veggies",
+      "quantity": "1 cup",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "Poco Picante Salsa",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "cilantro",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "grated cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Fajita Seasoning or Chipotle Aioli Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Guacamole",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": " prepared"
+    },
+    {
+      "name": "ripe avocados",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Guacamole Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice, optional",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "cilantro",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "to garnish, optional"
+    }
+  ],
+  "totalTime": "50 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place squash, two halves at a time (or all four if small enough), cut-side down, in a Multipurpose Steamer. Cover and microwave on high for 15 minutes. Set aside and repeat with the two other halves, if needed.",
+    "Meanwhile, preheat oven to 350° F (175° C) and prepare filling by combining beans, veggies, salsa, cheese, and seasoning.",
+    "Arrange the acorn squash halves cut-side up on a Sheet Pan lined with a Sheet Pan Liner and divide the stuffing evenly among each.",
+    "Bake for 15 minutes or until the stuffing is heated. Remove from oven and let stand for 2–3 minutes. Garnish with Guacamole and cilantro, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 410,
+    "fat": 7,
+    "saturatedFat": 1.5,
+    "transFat": 0.1,
+    "cholesterol": 5,
+    "sodium": 260,
+    "carbohydrate": 70,
+    "fiber": 20,
+    "sugars": 2,
+    "protein": 21
+  },
+  "tips": [
+    "Prep ahead by stuffing the squash the day before and baking to heat through right before serving."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup chopped veggies.",
+  "image": "Mexican-Stuffed-Squash-Main.jpg",
+  "thumbnail": "Mexican-Stuffed-Squash-Main.webp",
+  "products": [
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chillies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "fajita_seasoning_ceb100c",
+      "name": "Fajita Seasoning",
+      "summary": [
+        "A lively, mild blend for seasoning beef, chicken, or fish fajitas &amp; enchiladas."
+      ]
+    },
+    {
+      "slug": "chipotle_aioli_mix",
+      "name": "Chipotle Aioli Mix",
+      "summary": [
+        "Medium-spicy Southwestern flavour with noteworthy chipotle chili and smoked paprika. A crowd-pleasing condiment for your burgers, fries, fish tacos, burritos and anything else that needs a little extra kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "guacamole_dip_mix_dc7efdb",
+      "name": "Guacamole Dip Mix",
+      "summary": [
+        "An all-natural blend of sweet peppers, garlic, and chilies comes together to create the perfect guacamole––minus the sodium and additives! &nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

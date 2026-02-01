@@ -1,0 +1,114 @@
+{
+  "name": "Creamy Pesto Parmesan Chicken",
+  "slug": "creamy-pesto-parmesan-chicken",
+  "description": "We feel you– those evenings are tough with the sun setting early, the chaos of wrangling kids from school...the struggle is real. But fear not, because we have the ultimate solution to your dinnertime woes! Say hello to this 5 ingredient, 20 min one-pot meal that will rescue your evenings from culinary calamity.",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Creamy Pesto Parmesan Chicken Sauce",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "chicken breast fillets",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat large non-stick frying pan over medium-high heat. Add oil.",
+    "In a bowl, combine sauce mix and milk. Set aside.",
+    "Cook chicken in pan until golden and cooked through. Stir in reserved seasoning mixture. Reduce heat to medium, stirring occasionally, until sauce thickens, about 3 min.",
+    "Gradually stir in spinach until wilted."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 270,
+    "fat": 10,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 290,
+    "carbohydrate": 12,
+    "fiber": 2,
+    "sugars": 1,
+    "protein": 30
+  },
+  "tips": [
+    "Make it vegetarian: Swap chicken with 1 lb (450 g) medium-firm tofu, cubed or plant-based sausages."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup veggies and 1 cup rice or pasta.",
+  "image": "Saute Pan with Creamy Parmesan Chicken (1).jpg",
+  "thumbnail": "Saute Pan with Creamy Parmesan Chicken (1).webp",
+  "products": []
+}

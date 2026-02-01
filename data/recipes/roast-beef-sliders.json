@@ -1,0 +1,118 @@
+{
+  "name": "Roast Beef Sliders",
+  "slug": "roast-beef-sliders",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "thinly sliced roast beef",
+      "quantity": "8 oz",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Montreal Steak Rub",
+      "quantity": "2 - 3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "slider buns",
+      "quantity": "24",
+      "additionalInstruction": "split"
+    },
+    {
+      "name": "grated cheese",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "plum tomatoes",
+      "quantity": "2",
+      "additionalInstruction": "seeded and chopped"
+    },
+    {
+      "name": "small red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": "thickly sliced"
+    },
+    {
+      "name": "butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "melted, optional"
+    },
+    {
+      "name": "BBQ Sauce Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "poppy seeds",
+      "quantity": "2 tsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "45 min",
+  "servings": "24 sliders",
+  "preparation": [
+    "Preheat oven to 375 F. In a bowl, toss beef with rub to lightly coat.",
+    "Slice buns in half; place bottoms, cut sides up, in a 9\" x 13\" baking dish.",
+    "Layer cheese, tomatoes, onion, and beef over top. Cover with top buns.",
+    "Cover dish with foil; bake 20 min.",
+    "If desired, in a small bowl, stir together butter, sauce mix, and poppy seeds.",
+    "Uncover dish. Using a basting brush, brush tops of buns with butter mixture, if using. Bake until deep golden brown, 10 more min."
+  ],
+  "tags": [
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 140,
+    "fat": 1.5,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 430,
+    "carbohydrate": 22,
+    "fiber": 2,
+    "sugars": 0,
+    "protein": 8
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1599596339087-recipeMainImagePath.jpg",
+  "thumbnail": "1599596339087-recipeMainImagePath.webp",
+  "products": []
+}

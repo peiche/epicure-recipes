@@ -1,0 +1,81 @@
+{
+  "name": "Sesame Ginger Miso Dressing",
+  "slug": "sesame-ginger-miso-dressing",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice wine vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "miso paste",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sesame Ginger Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ginger (ground)",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 cup",
+  "preparation": [
+    "Emulsify ingredients together in a blender, or using a hand blender.",
+    "Store in the fridge for up to 1 week."
+  ],
+  "tags": [
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "3 tbsp",
+    "calories": 90,
+    "fat": 10,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 105,
+    "carbohydrate": 1,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 0
+  },
+  "tips": [
+    "Drizzle generously over steamed vegetables, grains, or fish."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Sesame-Ginger-Miso-Dressing-Main.jpg",
+  "thumbnail": "Sesame-Ginger-Miso-Dressing-Main.webp",
+  "products": [
+    {
+      "slug": "sesame_ginger_dressing_mix_ae8ddc9",
+      "name": "Sesame Ginger Dressing Mix",
+      "summary": [
+        "Taste of Asia with ginger, garlic, sesame seeds &amp; herbs."
+      ]
+    }
+  ]
+}

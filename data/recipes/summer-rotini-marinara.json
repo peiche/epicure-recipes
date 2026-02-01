@@ -1,0 +1,95 @@
+{
+  "name": "Summer Rotini Marinara",
+  "slug": "summer-rotini-marinara",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "rotini or fussili",
+      "quantity": "1 pkg (340 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mixed coloured cherry tomatoes",
+      "quantity": "2 cups",
+      "additionalInstruction": " cut in half"
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "freshly grated parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh baby spinach",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Cook rotini in a Multipurpose Pot, according to instructions. Strain and set aside.",
+    "In the Multipurpose Pot, over medium heat, add olive oil and Marinara Sauce Mix, cook for 1 minute, add the tomatoes, and sauté for 5 minutes. Season to taste, toss with cooked rotini, spinach and parmesan cheese."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 390,
+    "fat": 7,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 35,
+    "carbohydrate": 69,
+    "fiber": 5,
+    "sugars": 6,
+    "protein": 15
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Summer-Rotini-Marinara-Main.jpg",
+  "thumbnail": "Summer-Rotini-Marinara-Main.webp",
+  "products": [
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavour of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

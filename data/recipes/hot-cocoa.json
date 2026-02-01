@@ -1,0 +1,58 @@
+{
+  "name": "Hot Cocoa",
+  "slug": "hot-cocoa",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "cocoa powder",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot water",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "warm skim milk",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 serving",
+  "preparation": [
+    "Blend cocoa powder with sugar.",
+    "Mix in hot water until smooth.",
+    "Stir in warm milk."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 5,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 170,
+    "carbohydrate": 47,
+    "fiber": 2,
+    "sugars": 44,
+    "protein": 14
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Hot-Cocoa-Main.jpg",
+  "thumbnail": "Hot-Cocoa-Main.webp",
+  "products": []
+}

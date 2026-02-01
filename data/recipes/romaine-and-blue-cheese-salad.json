@@ -1,0 +1,125 @@
+{
+  "name": "Romaine and Blue Cheese Salad",
+  "slug": "romaine-and-blue-cheese-salad",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Balsamic Vinaigrette",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "balsamic vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Dijon-style mustard",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "",
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "head romaine lettuce",
+      "quantity": "1",
+      "additionalInstruction": "torn or cut into bite-sized pieces"
+    },
+    {
+      "name": "green onions",
+      "quantity": "3",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "crumbled blue cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "6 servings",
+  "preparation": [
+    "With a Piano Wire Whisk, whisk prepared Balsamic Vinaigrette with Dijon-style mustard in mixing bowl. Season to taste with Salt and Pepper.",
+    "Add romaine lettuce and green onions, tossing to coat.",
+    "Top with crumbled blue cheese and serve. Excellent served with grilled steak."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 19,
+    "saturatedFat": 6,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 520,
+    "carbohydrate": 5,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 6
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Romaine-and-Blue-Cheese-Salad-Main.jpg",
+  "thumbnail": "Romaine-and-Blue-Cheese-Salad-Main.webp",
+  "products": [
+    {
+      "slug": "balsamic_vinaigrette_dressing_mix",
+      "name": "Balsamic Vinaigrette Dressing Mix",
+      "summary": [
+        "A classic for a reason, this dressing mix is full of flavour and uber versatile. Use it as salad or nourish bowl dressing, marinade protein including chicken and beef, or glaze grilled veggies and fresh fruit. Any way you serve it, it’s sure to be a hit!&nbsp;"
+      ]
+    },
+    {
+      "slug": "piano_wire_whisk__1707512_",
+      "name": "Piano Wire Whisk",
+      "summary": [
+        "Whisking and whipping made easy with the <strong>Piano Wire Whisk</strong>.&nbsp;"
+      ]
+    }
+  ]
+}

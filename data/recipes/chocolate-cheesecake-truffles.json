@@ -1,0 +1,118 @@
+{
+  "name": "Chocolate Cheesecake Truffles",
+  "slug": "chocolate-cheesecake-truffles",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "semi-sweet chocolate chips, divided",
+      "quantity": "1 pkg (10 oz/300 g) ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cream cheese",
+      "quantity": "1 pkg (8oz/250 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Power Up Vanilla Protein Blend",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chocolate Velvet Cheesecake Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter and oil",
+      "quantity": "3 tbsp each",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "2 hours (includes 1 1/2 hours chill time)",
+  "servings": "32 truffles",
+  "preparation": [
+    "For truffles, measure 1&frasl;4 cup chocolate chips into a bowl; microwave on medium, stirring often, until melted. Set aside to cool. Meanwhile, using an electric mixer, beat cream cheese until fluffy; beat in protein blend and cheesecake mix. Once blended, beat in the cooled chocolate. Refrigerate until firm, about 30–60 min.",
+    "Form into 1-inch (2.5-cm) balls; freeze on a Sheet Pan lined with a Sheet Pan Liner until firm, about 30–60 min.",
+    "Meanwhile, in a heatproof bowl set over a Multipurpose Pot - 8 cup filled with hot (not boiling) water, melt remaining chocolate chips, butter, and oil, stirring frequently. Remove from heat; let cool slightly. Mixture should still be runny.",
+    "Using a fork, dip (don’t poke) truffles, one at a time, into chocolate, tapping fork on edge of bowl to remove excess. Place on a clean Sheet Pan lined with a Sheet Pan Liner. Repeat with remaining truffles. If coating starts to harden, rewarm over pot of steaming water, stirring until softened.",
+    "Sprinkle with toppings if desired, while chocolate coating is still soft. Let cool at room temperature, about 30 min. Refrigerate up to 5 days."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "gfrr_desserts",
+      "name": "Desserts"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 truffle",
+    "calories": 90,
+    "fat": 7,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 1,
+    "sodium": 37,
+    "carbohydrate": 7,
+    "fiber": 1,
+    "sugars": 6,
+    "protein": 2
+  },
+  "tips": [
+    "You’ll have leftover melted chocolate. It’s better to have extra because it makes it easier to coat the truffles. Use it up dipping fresh fruit, or let it harden, chop into pieces, and then stir into cookie or cake batters.",
+    "Swap  Power Up Vanilla Protein Blend for Power Up Chocolate Protein Blend or Cocoa Acai Smoothie Booster."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1587496479390-recipeMainImagePath.jpg",
+  "thumbnail": "1587496479390-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "power_up_vanilla_protein_blend__pouch_",
+      "name": "Power Up Vanilla Protein Blend (Pouch)",
+      "summary": [
+        "<br>"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    },
+    {
+      "slug": "multipurpose_pot___8_c",
+      "name": "Multipurpose Pot - 8 Cup",
+      "summary": [
+        "An 8 cup, multi-use, stainless-steel cooking pot with a lid made of glass, steel &amp; silicone rubber."
+      ]
+    }
+  ]
+}

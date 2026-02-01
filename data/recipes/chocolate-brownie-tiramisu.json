@@ -1,0 +1,145 @@
+{
+  "name": "Chocolate Brownie Tiramisu",
+  "slug": "chocolate-brownie-tiramisu",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Chocolate Bliss Brownies with Chocolate Fudge Sauce",
+      "quantity": "1 recipe",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "melted unsalted "
+    },
+    {
+      "name": "Chocolate Fudge Sauce Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chocolate Bliss Brownie Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whipping cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cocoa Crunch Whole Food Topper",
+      "quantity": null,
+      "additionalInstruction": "to garnish"
+    },
+    {
+      "name": "Chocolate Instant Pudding Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "fresh or frozen berries",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "each vanilla Greek yogurt and whipped cream",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cocoa Crunch Whole Food Topper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Cut brownies into 12 squares (or see tip). Place in 12 stemless wine glasses.",
+    "Spoon pudding on top.",
+    "In a bowl, fold yogurt and whipped cream together.",
+    "Spoon over pudding and top with berries. Sprinkle with topper.",
+    "Pour hot espresso shots on top and garnish with fresh mint, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 340,
+    "fat": 18,
+    "saturatedFat": 11,
+    "transFat": 0.2,
+    "cholesterol": 90,
+    "sodium": 230,
+    "carbohydrate": 43,
+    "fiber": 4,
+    "sugars": 30,
+    "protein": 6
+  },
+  "tips": [
+    "For individual portions, bake brownies in Perfect Petites.",
+    "For a rich coffee flavour, add 1–2 tsp instant coffee granules and 2 tbsp cocoa to pudding mix while preparing. For a darker, richer flavour, add in 1 tbsp Cocoa Acai Smoothie Booster."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1576171403259-recipeMainImagePath.jpg",
+  "thumbnail": "1576171403259-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "chocolate_bliss_brownie_mix__pkg_of_2_",
+      "name": "Chocolate Bliss Brownie Mix (Pack of 2)",
+      "summary": [
+        "Decadent, rich chocolate flavour &amp; smooth fudgy texture. Made with wholesome organic cocoa powder, organic cane sugar, and chickpea flour.&nbsp;"
+      ]
+    },
+    {
+      "slug": "chocolate_instant_pudding_mix__pkg_of_3_",
+      "name": "Chocolate Instant Pudding Mix (Pack of 3)",
+      "summary": [
+        "Rich, smooth, creamy and chocolatey! Made with organic cocoa and organic coconut palm sugar."
+      ]
+    }
+  ]
+}

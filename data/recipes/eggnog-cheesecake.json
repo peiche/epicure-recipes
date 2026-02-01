@@ -1,0 +1,69 @@
+{
+  "name": "Eggnog Cheesecake",
+  "slug": "eggnog-cheesecake",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "gingersnap or graham wafer crumbs",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>3</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "melted butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cream cheese",
+      "quantity": "2 pkg (8 oz /250 g) ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Eggnog Cheesecake Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": "or cheesecake mix of your choice"
+    },
+    {
+      "name": "eggs",
+      "quantity": "4 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek vanilla yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "40 - 50 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Preheat oven to 325° F (160° C).",
+    "Combine gingersnap or graham wafer crumbs with melted butter.Press into 9\" (23 cm) springform pan, or use 2 premade crumb pie shells.",
+    "Blend cream cheese with cheesecake mix until smooth. Beat in eggs, one at a time. Add Greek vanilla yogurt and beat until smooth. Pour into crust.",
+    "Cheesecake: 40 min/Pies: 30 min. Cool to room temperature, then refrigerate before serving."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 slice",
+    "calories": 260,
+    "fat": 12,
+    "saturatedFat": 7,
+    "transFat": 0.1,
+    "cholesterol": 85,
+    "sodium": 330,
+    "carbohydrate": 30,
+    "fiber": 1,
+    "sugars": 23,
+    "protein": 9
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Eggnog-Cheesecake-Main.jpg",
+  "thumbnail": "Eggnog-Cheesecake-Main.webp",
+  "products": []
+}

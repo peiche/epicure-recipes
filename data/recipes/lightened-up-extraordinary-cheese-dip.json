@@ -1,0 +1,114 @@
+{
+  "name": "Lightened-up Extraordinary Cheese Dip",
+  "slug": "lightened-up-extraordinary-cheese-dip",
+  "description": "Bestselling Extraordinary Cheese Dip™ lightens up on calories without sacrificing taste. Dip in today!",
+  "ingredients": [
+    {
+      "name": "low-fat spreadable cream cheese",
+      "quantity": "1 pkg (8 oz/250 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat grated mixed cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat Greek yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "CCB Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Extraordinary Trio",
+      "quantity": "All these are available in the",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "3 cups",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Combine all ingredients until well blended and spoon into a heat-proof serving dish.",
+    "Bake 20–30 minutes, or until heated through and bubbling."
+  ],
+  "tags": [
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 35,
+    "fat": 2,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 80,
+    "carbohydrate": 1,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Lightened-up-Extraordinary-Cheese-Dip-Main.jpg",
+  "thumbnail": "Lightened-up-Extraordinary-Cheese-Dip-Main.webp",
+  "products": [
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Vibrant &amp; fresh with a hint of citrus &amp; fragrant dill."
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "A savory medley of robust onion and herbs. Made with 3 different types of onions: chives, onion, and scallions."
+      ]
+    },
+    {
+      "slug": "ccb_dip_mix_b61a530",
+      "name": "CCB Dip Mix",
+      "summary": [
+        "Irresistible flavors of smoky bacon (plant-based), real Parmesan &amp; chives.&nbsp;"
+      ]
+    },
+    {
+      "slug": "extraordinary_trio",
+      "name": "Extraordinary Trio (Transitioned)",
+      "summary": [
+        "Versatile blends to take you from breakfast to dinner. Use as a seasoning or make dips.&nbsp;"
+      ]
+    }
+  ]
+}

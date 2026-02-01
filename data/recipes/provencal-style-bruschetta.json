@@ -1,0 +1,95 @@
+{
+  "name": "Provencal-style Bruschetta",
+  "slug": "provencal-style-bruschetta",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "French baguette",
+      "quantity": "12 slices",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Herbes Provencales",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Parmesan cheese",
+      "quantity": null,
+      "additionalInstruction": "grated or shaved, to taste"
+    },
+    {
+      "name": "chives, for garnish",
+      "quantity": null,
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "12 pieces",
+  "preparation": [
+    "Preheat oven to broil. Lay bread slices on Sheet Pan with parchment paper and, using a spray pump, lightly spray with oil. Broil for 2 minutes each side, or until golden.",
+    "Combine next 5 ingredients.",
+    "Spoon 1 tbsp onto baguette slices and top with Parmesan.",
+    "Sprinkle with chives and serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 slice",
+    "calories": 110,
+    "fat": 3.5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 220,
+    "carbohydrate": 17,
+    "fiber": 1,
+    "sugars": 0,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1600807224709-recipeMainImagePath.jpg",
+  "thumbnail": "1600807224709-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

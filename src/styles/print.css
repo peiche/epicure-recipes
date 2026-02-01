@@ -1,0 +1,173 @@
+/* Print Styles */
+@media print {
+
+    /* Hide non-essential elements */
+    .hide-on-print,
+    header,
+    footer,
+    nav,
+    .MuiAppBar-root,
+    .MuiDrawer-root {
+        display: none !important;
+    }
+
+    /* Reset page layout */
+    body {
+        background: white !important;
+        color: black !important;
+        font-size: 12pt;
+        line-height: 1.5;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+
+    /* Reset container styles */
+    .MuiContainer-root {
+        max-width: 100% !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .MuiPaper-root {
+        box-shadow: none !important;
+        border: none !important;
+    }
+
+    /* Hero image for print */
+    .print-hero-image {
+        max-height: 200px !important;
+        object-fit: cover;
+        width: 100% !important;
+        margin-bottom: 1rem;
+    }
+
+    /* Recipe header */
+    .print-recipe-header {
+        margin-bottom: 1.5rem;
+        border-bottom: 2px solid #333;
+        padding-bottom: 1rem;
+    }
+
+    .print-recipe-title {
+        font-size: 24pt !important;
+        font-weight: bold !important;
+        margin-bottom: 0.5rem !important;
+        color: black !important;
+    }
+
+    .print-recipe-meta {
+        font-size: 10pt;
+        color: #666 !important;
+    }
+
+    /* Two column layout for ingredients/instructions */
+    .print-content-grid {
+        display: flex !important;
+        gap: 2rem;
+    }
+
+    .print-ingredients {
+        flex: 0 0 35%;
+        page-break-inside: avoid;
+        border-right: 1px solid #ddd;
+        padding-right: 1.5rem;
+    }
+
+    .print-instructions {
+        flex: 1;
+    }
+
+    .print-section-title {
+        font-size: 14pt !important;
+        font-weight: bold !important;
+        margin-bottom: 0.75rem !important;
+        color: black !important;
+        border-bottom: 1px solid #999;
+        padding-bottom: 0.25rem;
+    }
+
+    /* Ingredient list */
+    .print-ingredient-item {
+        font-size: 10pt;
+        margin-bottom: 0.25rem;
+        padding-left: 0.5rem;
+        border-left: 2px solid #f97316;
+    }
+
+    /* Instruction steps */
+    .print-instruction-step {
+        margin-bottom: 0.75rem;
+        page-break-inside: avoid;
+    }
+
+    .print-step-number {
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        background: #f97316 !important;
+        color: white !important;
+        border-radius: 50%;
+        text-align: center;
+        line-height: 20px;
+        font-size: 10pt;
+        font-weight: bold;
+        margin-right: 0.5rem;
+    }
+
+    .print-step-text {
+        font-size: 11pt;
+    }
+
+    /* Footer with source */
+    .print-footer {
+        margin-top: 2rem;
+        padding-top: 1rem;
+        border-top: 1px solid #ddd;
+        font-size: 9pt;
+        color: #666;
+    }
+
+    /* Hide MUI icons in print */
+    .MuiSvgIcon-root {
+        display: none !important;
+    }
+
+    /* Show print-specific icons */
+    .print-show-icon .MuiSvgIcon-root {
+        display: inline-block !important;
+    }
+
+    /* Chips/badges styling */
+    .MuiChip-root {
+        border: 1px solid #999 !important;
+        background: transparent !important;
+        color: black !important;
+    }
+
+    /* Rating - hide stars in print */
+    .MuiRating-root {
+        display: none !important;
+    }
+
+    /* Ensure page breaks don't split content awkwardly */
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        page-break-after: avoid;
+    }
+
+    p,
+    li {
+        orphans: 3;
+        widows: 3;
+    }
+
+    /* Buttons hidden */
+    .MuiButton-root,
+    .MuiIconButton-root {
+        display: none !important;
+    }
+}

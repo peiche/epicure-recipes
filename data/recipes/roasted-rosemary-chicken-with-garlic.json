@@ -1,0 +1,151 @@
+{
+  "name": "Roasted Rosemary Chicken with Garlic",
+  "slug": "roasted-rosemary-chicken-with-garlic",
+  "description": "A delicious, classic French whole-chicken recipe!",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "quantity": "1 (3 <sup>1</sup>&frasl;<sub>2</sub>-4 lb/1.6-1.8 kg)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive or vegetable oil",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Rosemary Garlic Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large onion",
+      "quantity": "1",
+      "additionalInstruction": "cut into 8 wedges"
+    },
+    {
+      "name": "large carrots",
+      "quantity": "2",
+      "additionalInstruction": "peeled and sliced"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "coarsely ground, to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "coarsely ground, to taste"
+    },
+    {
+      "name": "all-purpose flour",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth",
+      "quantity": "2 cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 1/2 hours",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 325° F (160° C).",
+    "Sprinkle inside of chicken with Minced Garlic. Rub chicken with 1 tbsp oil and Rosemary Garlic Seasoning. Tie legs together, set inside a roasting pan and tuck wings underneath.",
+    "Surround with onions and carrots and season with Salt and Pepper.",
+    "Cover with foil and roast 1 hour and 15 minutes.",
+    "Place chicken on a serving platter and surround with roasted vegetables. Cover to keep warm.",
+    "Whisk flour, then Nourish Broth into pan juices to make a smooth gravy."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "slow_cooker",
+      "name": "Slow Cookers & Roasts"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 470,
+    "fat": 32,
+    "saturatedFat": 8,
+    "transFat": 0,
+    "cholesterol": 125,
+    "sodium": 160,
+    "carbohydrate": 11,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 32
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Roasted-Rosemary-Chicken-with-Garlic-Main.jpg",
+  "thumbnail": "Roasted-Rosemary-Chicken-with-Garlic-Main.webp",
+  "products": [
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    },
+    {
+      "slug": "rosemary_garlic_seasoning_286efb2",
+      "name": "Rosemary Garlic Seasoning",
+      "summary": [
+        "Enjoy hearty, robust flavors on chicken, pork, lamb &amp; grilled or roasted vegetables."
+      ]
+    },
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "name": "Stir-fried Noodles with Spinach",
+  "slug": "stir-fried-noodles-with-spinach",
+  "description": "Long, uncut noodles represent longevity – a traditional dish for birthdays and Lunar New Year.",
+  "ingredients": [
+    {
+      "name": "fresh noodles",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice or cider vinegar or sherry",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Thai seasoning",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roasted Garlic Aioli Mix",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sesame oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green onions",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated fresh ginger",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach leaves",
+      "quantity": "1 pkg (10 oz/284 g)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "12 - 15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Boil noodles in lightly salted water until tender. Drain and set aside.",
+    "Whisk soy sauce, sugar, vinegar, Thai seasoning and Roasted Garlic Aioli together in a small mixing bowl. Set aside.",
+    "Heat oil in Wok over medium-high heat. Add onion and ginger and stir-fry for 30 seconds.",
+    "Add spinach and toss until wilted. Add sauce and noodles and stir-fry for an additional 2 minutes. Serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 340,
+    "fat": 6,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 70,
+    "sodium": 480,
+    "carbohydrate": 59,
+    "fiber": 6,
+    "sugars": 2,
+    "protein": 14
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Stir-fried-Noodles-with-Spinach-Main.jpg",
+  "thumbnail": "Stir-fried-Noodles-with-Spinach-Main.webp",
+  "products": [
+    {
+      "slug": "roasted_garlic_aioli_mix",
+      "name": "Roasted Garlic Aioli Mix",
+      "summary": [
+        "A creamy roasted garlic condiment for your burger, sandwich or use as a dip for fries or veg.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

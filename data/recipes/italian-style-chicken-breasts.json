@@ -1,0 +1,82 @@
+{
+  "name": "Italian-style Chicken Breasts",
+  "slug": "italian-style-chicken-breasts",
+  "description": "Packed with protein, this recipe goes with pasta, rice, or you can even add it to a crusty bun for burger night!",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "quantity": "4",
+      "additionalInstruction": "boneless skinless"
+    },
+    {
+      "name": "tomato sauce",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pesto Sauce Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Mozzarella cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "shredded"
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 350°F (175ºC).",
+    "Lightly spray frying pan with vegetable oil.",
+    "Cook chicken breasts over medium high heat until browned on both sides.",
+    "In a small mixing bowl, whisk tomato sauce with Pesto Herbs. Spoon sauce over chicken breasts and sprinkle with Mozzarella cheese.",
+    "Cover and bake in pre-heated oven for 15 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 7,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 85,
+    "sodium": 510,
+    "carbohydrate": 6,
+    "fiber": 1,
+    "sugars": 0,
+    "protein": 31
+  },
+  "tips": [
+    "Serve with pasta or rice, or in a large crusty bun as an Italian style chicken burger."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Italian-style-Chicken-Breasts_1036x583.jpg",
+  "thumbnail": "Italian-style-Chicken-Breasts_1036x583.webp",
+  "products": []
+}

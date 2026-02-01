@@ -1,0 +1,143 @@
+{
+  "name": "Maple Miso Ribs",
+  "slug": "maple-miso-ribs",
+  "description": "Combine the sweet crave of maple with the savoury magic of miso for a finger-licking, protein-packed treat. The Miso powder in the marinade mix is doing double duty: it enhances flavour and contributes to a healthy gut. For something a little saucier, top ribs with one of our prepared, savoury Sauces when they come off the grill!",
+  "ingredients": [
+    {
+      "name": "pork baby back ribs",
+      "quantity": "2 lbs (900 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Maple Miso Marinade Mix or Asian Stir-Fry Seasoning",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "rice vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "maple syrup",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 45 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 300° F. Place Cooling Racks on unlined Sheet Pan. Pour 1 cup water into pan.",
+    "Rub both sides of ribs with 1 tbsp marinade mix each. Place ribs on racks and tightly cover pan with foil.",
+    "Steam ribs in oven 1 1&frasl;2 hrs. Remove from oven.",
+    "Preheat barbecue to medium-high heat.",
+    "In a small bowl, whisk remaining 2 tbsp marinade mix with vinegar, oil, and maple syrup. Use half of the marinade to brush both sides of ribs.",
+    "Grill ribs, with lid open, 2–3 min per side. Remove from grill and brush with remaining marinade."
+  ],
+  "tags": [
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "cook_the_catalogue",
+      "name": "Cook The Catalogue"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "about 2 ribs",
+    "calories": 380,
+    "fat": 27,
+    "saturatedFat": 9,
+    "transFat": 0.2,
+    "cholesterol": 90,
+    "sodium": 310,
+    "carbohydrate": 9,
+    "fiber": 0,
+    "sugars": 7,
+    "protein": 24
+  },
+  "tips": [
+    "Pork ribs will often have a tough membrane on the curved bone side of the rack. Remove it by grabbing one corner of the membrane with a paper towel and pulling it away from the bones.",
+    "No grill? Discard water from pan after steaming. Place ribs back on racks, brush with remaining marinade, and broil on top rack of the oven, 2–3 min per side."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with a dinner roll or 1&frasl;2 cup roasted potato wedges, and 1 cup steamed vegetables.",
+  "image": "Maple-Miso-Ribs_1036x583.jpg",
+  "thumbnail": "Maple-Miso-Ribs_1036x583.webp",
+  "products": [
+    {
+      "slug": "sweet___salty_marinade_mix",
+      "name": "Maple Miso Marinade Mix",
+      "summary": [
+        "Where sweet maple meets earthy miso for a sweet and salty blend you'll want to use on everything!"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "cooling_rack__set_of_2___1701277_",
+      "name": "Cooling Rack (Set of 2)",
+      "summary": [
+        "These space-saving cooling racks are an absolute must-have for every at-home baker or chef."
+      ]
+    }
+  ]
+}

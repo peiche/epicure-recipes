@@ -1,0 +1,152 @@
+{
+  "name": "Cheeseburger Lettuce Wraps",
+  "slug": "cheeseburger-lettuce-wraps",
+  "description": "Skip the boring burger bun and indulge your cravings with this crunchy twist—no messy patty-making required! Lettuce is low in calories and packed with vitamin K for strong bones, vitamin A for radiant skin and healthy eyes, and fibre for a happy gut. Complete the meal by drizzling with any of these delish Sauces & Condiments.",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cheeseburger Pasta Seasoning or Philly-Style Cheesesteak Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated cheddar cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ketchup",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomato",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lettuce leaves, about 1 small head",
+      "quantity": "16",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "12 minutes",
+  "servings": "4 servings",
+  "preparation": [
+    "Add beef and seasoning to Saute Pan; cook over medium-high heat 4–6 min, or until browned. Use Ground Meat Separator to break up chunks.",
+    "Stir in cheese and ketchup; cook until cheese melts, about 1 min.",
+    "Dice tomato and thinly slice onion.",
+    "To assemble, make eight sets of two stacked lettuce leaves. Divide filling between stacks and top with tomato, onion, and additional toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 360,
+    "fat": 21,
+    "saturatedFat": 10,
+    "transFat": 0.5,
+    "cholesterol": 90,
+    "sodium": 540,
+    "carbohydrate": 13,
+    "fiber": 3,
+    "sugars": 6,
+    "protein": 31
+  },
+  "tips": [
+    "Skip the stovetop and microwave ground beef with seasoning and ketchup in Multipurpose Steamer. Cover and microwave on high 4 min, or until cooked through, and then stir in the cheese."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup cooked rice.",
+  "image": "cheeseburger_lettuce_wraps_1036x583.jpg",
+  "thumbnail": "cheeseburger_lettuce_wraps_1036x583.webp",
+  "products": [
+    {
+      "slug": "cheeseburger_pasta_seasoning__pack_of_3_",
+      "name": "Cheeseburger Pasta Seasoning (Pack of 3)",
+      "summary": [
+        "A throwback meal made healthier and tastier! Easily cook Cheeseburger Pasta in one pan—a great meal for budding young cooks. Enjoy the comfort of cheesy goodness with minimal cleanup. A win all around!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "philly_style_cheesesteak_seasoning__3pk_",
+      "name": "Philly-Style Cheesesteak Seasoning (3pk)",
+      "summary": [
+        "An American classic that everyone can make at home in minutes! Bust out your trusty <a href=\"https://epicure.com/product/sheet-pan\">Sheet Pan</a> to roast peppers, mushrooms, and beef with the flavor of garlic and smoked paprika. Layer the mixture on lightly toasted hoagie buns and top with cheese – perfect for a simple weeknight meal or to feed a crowd on game day.&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

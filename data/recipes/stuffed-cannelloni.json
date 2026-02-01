@@ -1,0 +1,134 @@
+{
+  "name": "Stuffed Cannelloni",
+  "slug": "stuffed-cannelloni",
+  "description": "Every forkful is like a warm hug from Nonna! Look for “mini mini” bocconcini cheese balls at the grocery store—no, it’s not a typo! It’s the size that’ll work best here. Can’t find ‘em? Check out the Tip.",
+  "ingredients": [
+    {
+      "name": "cannelloni pasta",
+      "quantity": "1 pkg (9 oz/250 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> pints (9 oz/250 g)",
+      "additionalInstruction": "about 3 cups"
+    },
+    {
+      "name": "mini mini bocconcini",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> containers (7 oz/200 g each)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce",
+      "quantity": "4 cups prepared",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "quantity": "1 can (28 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marinara Sauce Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "50 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 350° F.",
+    "Stuff uncooked cannelloni noodles with tomatoes and bocconcini, one at a time in an alternating pattern.",
+    "Line a 9x13\" oven-safe baking dish with a 1 cup sauce. Arrange stuffed cannelloni over sauce and top with remaining 3 cups sauce and Parmesan.",
+    "Bake 45 min, or until pasta is softened and cheese is golden-brown."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "easter",
+      "name": "Easter"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 470,
+    "fat": 21,
+    "saturatedFat": 12,
+    "transFat": 0.1,
+    "cholesterol": 65,
+    "sodium": 490,
+    "carbohydrate": 47,
+    "fiber": 6,
+    "sugars": 9,
+    "protein": 23
+  },
+  "tips": [
+    "To check if the noodles are cooked, carefully poke them with the tip of a knife to check the tenderness.",
+    "Be sure and get cherry tomatoes and bocconcini balls that are going to fit into your cannelloni noodles. If it’s difficult to find the right size of ingredients, try manicotti noodles instead—they’re a little bigger!"
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "stuffed_cannelloni_1036x583.jpg",
+  "thumbnail": "stuffed_cannelloni_1036x583.webp",
+  "products": [
+    {
+      "slug": "marinara_sauce_mix_1b1cb1a",
+      "name": "Marinara Sauce Mix",
+      "summary": [
+        "A simple, kid-friendly sauce that speaks volumes, Marinara is packed with the bright flavour of garlic, oregano, and basil. Pair it with your fave pasta and use it as a base layer for delicious homemade pizza.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

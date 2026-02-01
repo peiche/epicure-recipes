@@ -1,0 +1,146 @@
+{
+  "name": "Wintry Beef Stroganoff",
+  "slug": "wintry-beef-stroganoff",
+  "description": "Turn Wintry Mushroom Soup Seasoning—with real mushrooms, fire-roasted onions, Hatch chili pepper—into a creamy, comforting sauce. Serve over noodles or rice. Ready in 20 min at under $2.50 per serving!",
+  "ingredients": [
+    {
+      "name": "uncooked extra broad egg noodles",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "4 <sup>3</sup>&frasl;<sub>4</sub> cups",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Wintry Mushroom Soup Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Worcestershire sauce",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp + 1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef or ground meat alternative",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sliced mushrooms",
+      "quantity": "1 pkg (7 oz/200 g)",
+      "additionalInstruction": "about 3 cups"
+    },
+    {
+      "name": "2% plain Greek yogurt or sour cream",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In Multipurpose Steamer, add noodles and 4 cups water. Cover; microwave on high 10 min or until al dente. Once cooked, carefully remove from microwave; drain noodles.",
+    "Meanwhile, in a large bowl, combine seasoning with remaining 3&frasl;4 cup water and Worcestershire sauce. Set aside.",
+    "In Wok, heat 1 tsp oil over medium-high heat. Crumble in ground beef and brown until cooked, about 4–5 min, using Ground Meat Separator to break up chunks. Remove from wok, including any liquid.",
+    "Heat remaining 1 tbsp oil in wok over medium-high heat; add mushrooms and brown, about 4 min. Return beef and any liquid to wok, then stir in seasoning mixture. Simmer, lowering heat if necessary, 2 min.",
+    "Remove from heat. Stir in yogurt. Serve over noodles or add noodles to wok and stir to combine."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 370,
+    "fat": 13,
+    "saturatedFat": 4.5,
+    "transFat": 0.2,
+    "cholesterol": 95,
+    "sodium": 200,
+    "carbohydrate": 35,
+    "fiber": 2,
+    "sugars": 4,
+    "protein": 26
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups mixed greens and 1 tbsp Epicure Dressing, your choice.",
+  "image": "Wintry-Beef-Stroganoff-1036x583.jpg",
+  "thumbnail": "Wintry-Beef-Stroganoff-1036x583.webp",
+  "products": [
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "name": "Madras Curried Potato Salad",
+  "slug": "madras-curried-potato-salad",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Yukon Gold potatoes",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (675 g)",
+      "additionalInstruction": "about 4 medium"
+    },
+    {
+      "name": "lemon",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% plain Greek yogurt",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Keema Curry Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "maple syrup",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green onion",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub>",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Bring water to boil in Multipurpose Pot, with lid on. Slice potatoes in half, lengthwise, then slice crosswise into half-moons, abut 1&frasl;2\" thick. If the half-moons are too large, slice in half.  Add to boiling water. Cook until a knife can easily pierce the flesh, but there is still a little resistance, 6–7 min. Don’t overcook. Drain.",
+    "Using 2-in-1 Citrus Press, squeeze in juice from lemon. Gently stir to combine with potatoes. Let sit to allow some of the liquid to be absorbed, about 5 min.",
+    "Meanwhile, in a large bowl, combine yogurt, mayonnaise, seasoning, and maple syrup.",
+    "Thinly slice onions. Add onions and potatoes to bowl with dressing; toss gently to combine.",
+    "Serve at room temperature or cover and chill until ready to serve—delicious either way!"
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "about 1 cup",
+    "calories": 250,
+    "fat": 12,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 125,
+    "carbohydrate": 33,
+    "fiber": 4,
+    "sugars": 4,
+    "protein": 5
+  },
+  "tips": [
+    "Thinly slice red onion using 4-in-1 Mandoline fitted with 1.5 mm slicer plate.",
+    "Store leftover Keema Curry Seasoning in an empty Epicure seasoning jar for future use.",
+    "Feeding a crowd? This recipe easily doubles or triples."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein and 1 cup veggies, your choice.",
+  "image": "madras_curry_potato_salad_1036x583.jpg",
+  "thumbnail": "madras_curry_potato_salad_1036x583.webp",
+  "products": [
+    {
+      "slug": "n4_in_1_mandoline_97d6780",
+      "name": "4-in-1 Mandoline",
+      "summary": [
+        "Perfect for cutting thin slices &amp; shredding veggies. 4 slicer settings: 2 slice &amp; 2 julienne options."
+      ]
+    }
+  ]
+}

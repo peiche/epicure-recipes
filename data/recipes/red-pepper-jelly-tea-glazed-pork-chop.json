@@ -1,0 +1,131 @@
+{
+  "name": "Red Pepper Jelly & Tea-glazed Pork Chop",
+  "slug": "red-pepper-jelly-tea-glazed-pork-chop",
+  "description": "Fruity and savoury, these pork chops are great for a family dinner or entertaining!",
+  "ingredients": [
+    {
+      "name": "apple juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Assam black tea",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pork loin chops",
+      "quantity": "4 (6 oz/170 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "herbes provencales",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Red Pepper Jelly",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "16 - 20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a Multipurpose Pot heat apple juice. Remove from heat, add tea, and steep for 5 minutes. Strain and set apple tea aside.",
+    "Sprinkle pork chops with herbes provençales, Sea Salt, and Black Pepper.",
+    "Preheat a frying pan to medium. Add vegetable oil and fry pork chops for 3–5 minutes per side. Remove from pan and set aside.",
+    "Pour apple tea into pan and stir vigorously to incorporate all bits. Simmer for 5 minutes. Add Red Pepper Jelly and stir. Once fully incorporated, return pork chops and any juices."
+  ],
+  "tags": [
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 260,
+    "fat": 13,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 85,
+    "sodium": 85,
+    "carbohydrate": 7,
+    "fiber": 0,
+    "sugars": 6,
+    "protein": 28
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with risotto, or roast potatoes.",
+  "image": "Red-Pepper-Jelly-Tea-glazed-Pork-Chop-Main.jpg",
+  "thumbnail": "Red-Pepper-Jelly-Tea-glazed-Pork-Chop-Main.webp",
+  "products": [
+    {
+      "slug": "red_pepper_jelly",
+      "name": "Red Pepper Jelly (new)",
+      "summary": [
+        "A sweet red pepper flavor with a mild heat from cayenne.&nbsp;"
+      ]
+    }
+  ]
+}

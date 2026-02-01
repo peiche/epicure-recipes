@@ -1,0 +1,141 @@
+{
+  "name": "Pink Lady Brined and Roasted Chicken",
+  "slug": "pink-lady-brined-and-roasted-chicken",
+  "description": "Moist and full of flavour, this could become a family favourite!",
+  "ingredients": [
+    {
+      "name": "Pink Lady Tea",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "or tea of your choice"
+    },
+    {
+      "name": "boiling water",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "packed brown sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "medium onions",
+      "quantity": "2",
+      "additionalInstruction": "thinly sliced, divided"
+    },
+    {
+      "name": "lemon",
+      "quantity": "1",
+      "additionalInstruction": "thinly sliced, divided"
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ice cubes",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chicken pieces",
+      "quantity": "3 - 4 lbs (1.3 - 1.8 kg)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "24 hrs",
+  "servings": "6 servings",
+  "preparation": [
+    "In a Multipurpose Pot, steep tea in water for 10 minutes.",
+    "Stir in sugar, Salt, and Pepper until completely dissolved. Add 1 onion, 3&frasl;4 of the lemon, and Minced Garlic. Add ice and cool completely. Put chicken into plastic bags, fill with the tea brine, seal, and marinate in the fridge overnight.",
+    "Pre-heat the oven to 375° F (190° C).",
+    "Take chicken out of the brine, and discard brine. Arrange on a Sheet Pan lined with a Sheet Pan Liner.",
+    "Roast, basting and turning once or twice, until cooked through and juice runs clear, 40–50 minutes. Approximately 10 minutes before chicken is done, add second onion and squeeze remaining lemon overtop."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 420,
+    "fat": 23,
+    "saturatedFat": 6,
+    "transFat": 0,
+    "cholesterol": 110,
+    "sodium": 1220,
+    "carbohydrate": 24,
+    "fiber": 1,
+    "sugars": 19,
+    "protein": 29
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with rice pilaf or roast potatoes.",
+  "image": "Pink-Lady-Brined-and-Roasted-Chicken-Main.jpg",
+  "thumbnail": "Pink-Lady-Brined-and-Roasted-Chicken-Main.webp",
+  "products": [
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

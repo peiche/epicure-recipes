@@ -1,0 +1,131 @@
+{
+  "name": "Easy Tomato Tart",
+  "slug": "easy-tomato-tart",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "pre-rolled sheet of puff pastry",
+      "quantity": "1 (10\" x 10\")",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomatoes",
+      "quantity": "3",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "Vegetable Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "mixed greens",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Paris Bistro Sauce",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": "or sauce of your choice"
+    },
+    {
+      "name": "Paris Bistro Finishing Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "shake jar before use"
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "40 min",
+  "servings": "6 - 8 servings",
+  "preparation": [
+    "Preheat oven to 375° F (190° C).",
+    "On a Sheet Pan, lay out puff pastry. Cover with layers of sliced tomato and sprinkle with seasoning.",
+    "Bake for 30 minutes or until the pastry puffs up and browns at the edges.",
+    "Garnish with mixed greens and drizzle with sauce."
+  ],
+  "tags": [
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 15,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 150,
+    "carbohydrate": 17,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Easy-Tomato-Tart-Main.jpg",
+  "thumbnail": "Easy-Tomato-Tart-Main.webp",
+  "products": [
+    {
+      "slug": "vegetable_seasoning__1701330_",
+      "name": "Vegetable Seasoning",
+      "summary": [
+        "All-in-one herby meal helper. Less measuring &amp; more flavor!"
+      ]
+    },
+    {
+      "slug": "paris_bistro_finishing_sauce_mix_97c8cf5",
+      "name": "Paris Bistro Finishing Sauce Mix",
+      "summary": [
+        "Garlic &amp; parsley finishing sauce is back for a limited-time only. Pairs with fish, chicken &amp; steak. &nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

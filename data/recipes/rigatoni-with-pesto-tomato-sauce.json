@@ -1,0 +1,120 @@
+{
+  "name": "Rigatoni with Pesto Tomato Sauce",
+  "slug": "rigatoni-with-pesto-tomato-sauce",
+  "description": "A delicious tomato pasta with a pesto twist - ideal for busy weeknights.",
+  "ingredients": [
+    {
+      "name": "rigatoni or any bite-sized pasta",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> lb (225 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "(28 oz/796 ml)  low-sodium crushed tomatoes",
+      "quantity": "1 can",
+      "additionalInstruction": null
+    },
+    {
+      "name": "(28 oz/796 ml) low-sodium diced tomatoes",
+      "quantity": "1 can",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pesto Sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Pesto Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pine nuts or pistachio nuts",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "freshly grated Parmesan cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Cook pasta according to package directions in Multipurpose Pot.",
+    "Meanwhile, combine tomatoes and Pesto in a Multipurpose Pot. Simmer for 20 minutes.",
+    "Toss sauce and pasta in a large serving bowl. Season with Salt and Pepper. Top with Parmesan."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 400,
+    "fat": 7,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 260,
+    "carbohydrate": 66,
+    "fiber": 7,
+    "sugars": 16,
+    "protein": 15
+  },
+  "tips": [
+    "Add pitted olives, capers, canned artichokes, or roasted peppers to this simple pasta."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Rigatoni-with-Pesto-Tomato-Sauce-Main.jpg",
+  "thumbnail": "Rigatoni-with-Pesto-Tomato-Sauce-Main.webp",
+  "products": []
+}

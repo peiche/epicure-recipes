@@ -1,0 +1,117 @@
+{
+  "name": "Couscous Salad",
+  "slug": "couscous-salad",
+  "description": "If you don’t already, keep couscous in your pantry for a stress-free side dish to accompany your meals. Couscous is made of semolina flour, think of it as a teeny tiny type of pasta! It’s as easy as boiling water and letting the couscous steam. Customize with the addition of your favourite dressing.",
+  "ingredients": [
+    {
+      "name": "water",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "couscous",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "1 small",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "grated carrot",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Dressing",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red wine vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Boil water in Multipurpose Pot - 8 cup. Remove from heat and stir in couscous. Cover with lid and let steam 10 minutes. Remove lid, fluff with a fork and cool to room temperature.",
+    "Stir cucumber, carrot, cooled couscous and Greek Dressing in a mixing bowl. Serve immediately or chill before serving."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 380,
+    "fat": 29,
+    "saturatedFat": 4,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 40,
+    "carbohydrate": 27,
+    "fiber": 3,
+    "sugars": 3,
+    "protein": 4
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Couscous-Salad-Main.jpg",
+  "thumbnail": "Couscous-Salad-Main.webp",
+  "products": [
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    }
+  ]
+}

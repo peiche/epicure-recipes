@@ -1,0 +1,117 @@
+{
+  "name": "Peanut Butter Cup Smoothie",
+  "slug": "peanut-butter-cup-smoothie",
+  "description": "Tastes just like a chocolate peanut butter cup! It’s like dessert for breakfast and, thanks to the protein, will help keep you full until lunch.",
+  "ingredients": [
+    {
+      "name": "banana",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "peanut or almond butter",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Power Up Chocolate Protein Blend or Power Up Salted Caramel Protein Blend or Power Up Vanilla Protein Blend",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 serving",
+  "preparation": [
+    "In a blender, combine all ingredients. If you like it thicker, add ice cubes; for a thinner consistency, add water. Blend until smooth and pour into a tall glass or take it with you in a Shaker."
+  ],
+  "tags": [
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 11,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 300,
+    "carbohydrate": 24,
+    "fiber": 5,
+    "sugars": 11,
+    "protein": 24
+  },
+  "tips": [
+    "Make it a Smoothie Bowl: Simply pour into a bowl and top with fruit.",
+    "If using Power Up Vanilla Protein Blend, add in 1 tbsp cocoa for the chocolate flavour."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1&frasl;2 cup fresh berries and 1 slice multigrain bread.",
+  "image": "peanut_butter_cup_smoothie_1036x583.jpg",
+  "thumbnail": "peanut_butter_cup_smoothie_1036x583.webp",
+  "products": [
+    {
+      "slug": "power_up_chocolate_protein_blend__pouch_",
+      "name": "Power Up Chocolate Protein Blend (Pouch)",
+      "summary": [
+        "We like to fuel our bodies and satisfy those chocolate cravings at the same time. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    },
+    {
+      "slug": "power_up_salted_caramel_protein_blend",
+      "name": "Power Up Salted Caramel Protein Blend",
+      "summary": [
+        "We like to fuel our bodies and satisfy our sweet tooth with the decadent salted caramel flavour of this pea and fava bean protein. It blends effortlessly into a morning smoothie with a creamy texture, not chalky like a lot of protein powders. It also handles the heat, so we can bake it into a batch of waffles and enjoy our day knowing that we'll have that extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    },
+    {
+      "slug": "power_up_vanilla_protein_blend__pouch_",
+      "name": "Power Up Vanilla Protein Blend (Pouch)",
+      "summary": [
+        "Fuel up first thing and stay fuller longer with rich smooth-tasting vanilla blend. Made with pea and fava bean protein, this blend turns into a velvety shake (just mix with water or milk) or morning smoothie with a luscious creamy texture, not chalky like a lot of other protein powders. It’s made with heat-stable probiotics which means baking with benefits! Add to pancake, waffle, muffin, or cookie batters. Power up your morning with an extra boost from 20 g of plant-based protein and essential amino acids.&nbsp;"
+      ]
+    }
+  ]
+}

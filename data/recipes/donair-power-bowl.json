@@ -1,0 +1,266 @@
+{
+  "name": "Donair Power Bowl",
+  "slug": "donair-power-bowl",
+  "description": "Power Bowls are perfect for meal prep. This one is a great way to use up leftover Donair and then simply assemble with a cooked grain, sliced veggies, and a dressing! You’ll have enough bowls for lunches for the work week.",
+  "ingredients": [
+    {
+      "name": "Roasted Garlic Aioli",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roasted Garlic Aioli Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "hot water",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "large tomatoes",
+      "quantity": "3",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumbers",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small red onion",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cooked quinoa",
+      "quantity": "5 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Donair",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> recipe prepared",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "Donair Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "2 lbs (900 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whole-wheat pitas",
+      "quantity": "10 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "East Coast Donair Sauce or Dillicious Tzatziki",
+      "quantity": "1 cup",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "sugar",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "white vinegar",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roasted Garlic Aioli Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% plain Greek yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "tomatoes",
+      "quantity": "2",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": "sliced"
+    },
+    {
+      "name": "red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": "thinly sliced"
+    },
+    {
+      "name": "head romaine or leafy green lettuce",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> ",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "5 servings",
+  "preparation": [
+    "For dressing, in a small bowl, whisk together aioli, hot water, and sugar, if using. Set aside.",
+    "Chop tomatoes. Using Y Peeler, peel cucumbers lengthwise into ribbons. Cut onion in half; thinly slice.",
+    "Divide quinoa, veggies, and donair between five bowls. Drizzle with dressing and sprinkle with topper, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 510,
+    "fat": 21,
+    "saturatedFat": 5,
+    "transFat": 0.3,
+    "cholesterol": 55,
+    "sodium": 570,
+    "carbohydrate": 53,
+    "fiber": 9,
+    "sugars": 7,
+    "protein": 29
+  },
+  "tips": [
+    "Prepare a large batch of quinoa in the Multipurpose Steamer. Combine 2 cups uncooked quinoa with 4 cups water or broth. Microwave on high, uncovered, 20–22 min, stirring halfway through. Quinoa should be tender. Set aside to cool. Gently fluff with a fork before serving. This recipe yields about 5 cups quinoa (perfect for this power bowl recipe!).",
+    "Tomatoes are so delicious at this time of year. Switch it up and try cherry tomatoes, which come in a variety of shapes and colours; simply slice in half and add to your bowls."
+  ],
+  "perfectlyBalanceYourPlate": "This is a perfectly balanced plate.",
+  "image": "donair_power_bowl_1036x583.jpg",
+  "thumbnail": "donair_power_bowl_1036x583.webp",
+  "products": [
+    {
+      "slug": "roasted_garlic_aioli_mix",
+      "name": "Roasted Garlic Aioli Mix",
+      "summary": [
+        "A creamy roasted garlic condiment for your burger, sandwich or use as a dip for fries or veg.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "donair_seasoning__pkg_of_3_",
+      "name": "Donair Seasoning (Pack of 3)",
+      "summary": [
+        "Any way you name it – <em>gyro, shawarma, donair, or doner kebab </em>– our Donair Seasoning is what you’re looking for. You won’t believe how easy it is to make the street food staple at home in minutes with this blend and a few simple ingredients. Just add the seasoning to ground beef, press it into a <a href=\"https://epicure.com/product/rectangular-steamer\">Rectangular Steamer</a> and cook it in the microwave for 10 minutes or the oven for 60. Slice thinly and serve on a pita with fresh veggies and tzatziki – dinner is done!&nbsp;"
+      ]
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sea_salt__grinder_",
+      "name": "Sea Salt (Grinder)",
+      "summary": [
+        "Crisp, clean salt from the sea."
+      ]
+    },
+    {
+      "slug": "black_pepper__grinder_",
+      "name": "Black Pepper (Grinder)",
+      "summary": [
+        "<br>"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

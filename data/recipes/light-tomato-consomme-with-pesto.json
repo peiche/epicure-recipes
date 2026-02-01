@@ -1,0 +1,96 @@
+{
+  "name": "Light Tomato Consommé with Pesto",
+  "slug": "light-tomato-consomme-with-pesto",
+  "description": "This soup takes its cue from classic consommés served in French restaurants.",
+  "ingredients": [
+    {
+      "name": "Nourish Broth",
+      "quantity": "2 cups",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomato juice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pesto Sauce Mix",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 - 15 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Bring ingredients to a boil in Multipurpose Pot - 8 cup.",
+    "Remove from heat and serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 35,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 530,
+    "carbohydrate": 8,
+    "fiber": 2,
+    "sugars": 4,
+    "protein": 2
+  },
+  "tips": [
+    "Decorate with heart shaped croutons - slice thin pieces of French bread and cut out hearts with a cookie cutter. Pan-fry in olive oil until golden and sprinkle with freshly grated Parmesan cheese. Serve croutons on salad or in soup."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Light-Tomato-Consomme-with-Pesto-Main.jpg",
+  "thumbnail": "Light-Tomato-Consomme-with-Pesto-Main.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "name": "Sweet Summer Sauce",
+  "slug": "sweet-summer-sauce",
+  "description": "Enjoy this ridiculously easy sauce with a spoon, or top smoothie bowls, breakfast parfaits, or oatmeal.",
+  "ingredients": [
+    {
+      "name": "peeled, cored, and cut apples, peaches, or pears",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Apple Pie Spice",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "\nSummer Berry Sweet Dip Mix",
+      "quantity": null,
+      "additionalInstruction": "for garnish"
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place fruit, water, and spice in a Rectangular Steamer. Microwave with lid on for 5–6 minutes.",
+    "Mash with a fork, and stir in a generous amount of Summer Berry Sweet Dip Mix."
+  ],
+  "tags": [
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 60,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 0,
+    "carbohydrate": 18,
+    "fiber": 3,
+    "sugars": 12,
+    "protein": 0
+  },
+  "tips": [
+    "For a nutrition boost, try this recipe using a combination of all three fruits."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Tutti-Fruity-Sauce-Main.jpg",
+  "thumbnail": "Tutti-Fruity-Sauce-Main.webp",
+  "products": [
+    {
+      "slug": "apple_pie_spice",
+      "name": "Apple Pie Spice",
+      "summary": [
+        "Move over pumpkin spice; it's time for Apple Pie Spice to shine! Perfect for leveling up the taste of fall-inspired baking, it's also great on top of oatmeal, in a frothy late or smoothie – or anywhere you want a punch of apple pie flavour.&nbsp;"
+      ]
+    },
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "name": "Tangy Winter Squash and Bean Chili",
+  "slug": "tangy-winter-squash-and-bean-chili",
+  "description": "A hearty veggie twist on a comforting favourite.",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "onion",
+      "quantity": "1",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "peeled, seeded and diced acorn or butternut squash",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "black beans",
+      "quantity": "1 can (14 oz /398 ml)",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "garbanzo beans",
+      "quantity": "1 can (14 oz /398 ml)",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomato juice",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "orange juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "chipotle chili",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": "or to taste"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "40 - 55 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Heat Multipurpose Pot to medium; add vegetable oil and sauté onion and Minced Garlic until soft, about 4 minutes.",
+    "Add squash and cook a further 5 minutes, stirring regularly.",
+    "Add beans and Salsa Mix. Stir in tomato and orange juice and bring to a gentle simmer.",
+    "Reduce heat to low, add chipotle chili and simmer for 15–20 minutes, or until flavours are combined and squash is tender. Season with Sea Salt and Black Pepper before serving."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 320,
+    "fat": 4.5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 870,
+    "carbohydrate": 59,
+    "fiber": 13,
+    "sugars": 7,
+    "protein": 14
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Tangy-Winter-Squash-and-Bean-Chili-Main.jpg",
+  "thumbnail": "Tangy-Winter-Squash-and-Bean-Chili-Main.webp",
+  "products": [
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    },
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chillies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    }
+  ]
+}

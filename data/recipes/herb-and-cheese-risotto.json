@@ -1,0 +1,119 @@
+{
+  "name": "Herb and Cheese Risotto",
+  "slug": "herb-and-cheese-risotto",
+  "description": "An Italian rice dish, cooked in a savoury herb stock.",
+  "ingredients": [
+    {
+      "name": "Vegetable Broth",
+      "quantity": "5 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small onion",
+      "quantity": "1",
+      "additionalInstruction": "minced"
+    },
+    {
+      "name": "arborio or other medium grain rice",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pizza Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dry white wine",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "chives",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated Parmesan or Romano cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "45 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Pot - 8 cup, heat Vegetable Broth to a gentle simmer. Reduce temperature and keep hot.",
+    "Heat Multipurpose Pot - 12 cup to medium; melt butter and sauté onion until aromatic, about 4 minutes. Add arborio rice and Pizza Seasoning. Stir and cook until rice begins to turn slightly translucent. Add dry white wine, stir and cook until wine has evaporated.",
+    "Add 1 ladle full of Broth to rice, stir and cook until stock is absorbed. Continue to add Broth to rice 2 - 3 ladles at a time, stirring and cooking after each addition, until liquid is absorbed. Stop adding Broth once rice is tender but still firm. This process will take 20 - 30 minutes. Remove from heat.",
+    "Stir in chives and grated Parmesan or Romano cheese. Cover and allow to sit for 5 minutes before serving."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 260,
+    "fat": 10,
+    "saturatedFat": 5,
+    "transFat": 0.2,
+    "cholesterol": 20,
+    "sodium": 1210,
+    "carbohydrate": 31,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 12
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1600456715250-recipeMainImagePath.jpg",
+  "thumbnail": "1600456715250-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    },
+    {
+      "slug": "multipurpose_pot___12_c",
+      "name": "Multipurpose Pot - 12 Cup",
+      "summary": [
+        "A 12 cup, multi-use, stainless-steel cooking pot with a lid made of glass, steel &amp; silicone rubber."
+      ]
+    },
+    {
+      "slug": "multipurpose_pot___8_c",
+      "name": "Multipurpose Pot - 8 Cup",
+      "summary": [
+        "An 8 cup, multi-use, stainless-steel cooking pot with a lid made of glass, steel &amp; silicone rubber."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "name": "Slow Cooker Salsa Tacos",
+  "slug": "slow-cooker-salsa-tacos",
+  "description": "Make these tonight or assemble, toss in your slow cooker, and come home to a delicious meal. Take the night off cooking—you deserve it.",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (680 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth or Nourish Broth",
+      "quantity": "2 cups prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vegetable Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa",
+      "quantity": "2 cups prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "cilantro",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Fajita Seasoning or Taco seasoning",
+      "quantity": "1–2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded mixed greens ",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded cheddar ",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Guacamole",
+      "quantity": "1 cup prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ripe avocados",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Guacamole Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice, optional",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "corn tortillas",
+      "quantity": "16",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "3–6 hrs ",
+  "servings": "8 servings",
+  "preparation": [
+    "Combine chicken, broth, salsa, and seasoning in a slow cooker and stir gently.",
+    "Cover; cook for 3 hours on high or 8 hours on low setting.",
+    "With two forks, pull chicken to shred. Stir to combine.",
+    "Divide shredded chicken, mixed greens, cheddar, and guacamole between tortillas to serve."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "slow_cooker",
+      "name": "Slow Cookers & Roasts"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tacos",
+    "calories": 340,
+    "fat": 12,
+    "saturatedFat": 4,
+    "transFat": 0.1,
+    "cholesterol": 75,
+    "sodium": 420,
+    "carbohydrate": 31,
+    "fiber": 7,
+    "sugars": 3,
+    "protein": 27
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy greens and 1 tbsp Epicure Dressing.",
+  "image": "1601670292541-recipeMainImagePath.jpg",
+  "thumbnail": "1601670292541-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "vegetable_broth_mix",
+      "name": "Vegetable Broth Mix",
+      "summary": [
+        "Make a tasty vegetable broth in a matter of seconds! Same garden-fresh flavor as making it from scratch—just add water!"
+      ]
+    },
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chillies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "fajita_seasoning_ceb100c",
+      "name": "Fajita Seasoning",
+      "summary": [
+        "A lively, mild blend for seasoning beef, chicken, or fish fajitas &amp; enchiladas."
+      ]
+    },
+    {
+      "slug": "taco_seasoning__1701317_",
+      "name": "Taco Seasoning (Jar)",
+      "summary": [
+        "Classic Tex-Mex flavour with medium heat."
+      ]
+    },
+    {
+      "slug": "guacamole_dip_mix_dc7efdb",
+      "name": "Guacamole Dip Mix",
+      "summary": [
+        "An all-natural blend of sweet peppers, garlic, and chilies comes together to create the perfect guacamole––minus the sodium and additives! &nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Grilled Greek Lamb",
+  "slug": "grilled-greek-lamb",
+  "description": "Entertain at home with this succulent recipe.",
+  "ingredients": [
+    {
+      "name": "boneless butterflied leg of lamb",
+      "quantity": "3 <sup>1</sup>&frasl;<sub>2</sub> lbs (1.5 kg)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Dressing",
+      "quantity": "1 cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Greek Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red wine vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "30 min (+ 8 hrs to marinate)",
+  "servings": "10 servings",
+  "preparation": [
+    "Place lamb in a large bowl and coat with Greek Dressing. Cover and refrigerate at least 8 hours, preferably overnight.",
+    "Remove lamb from fridge about 1 hour before cooking to bring to room temperature. Scrape excess marinade from lamb, then sprinkle with Sea Salt and Black Pepper.",
+    "Preheat barbecue to medium-high. Place lamb, fat-side down, on grill. Grill for 2 minutes, then turn over and continue to grill for 2 more minutes.",
+    "Reduce heat to medium. Grill, turning occasionally, 18–20 more minutes for medium-rare. To check for doneness, insert an instant-read thermometer into thickest part of meat. It should read 145° F (63° C). Let stand 5 minutes before slicing."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 320,
+    "fat": 24,
+    "saturatedFat": 10,
+    "transFat": 0,
+    "cholesterol": 100,
+    "sodium": 55,
+    "carbohydrate": 0,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 26
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Grilled-Greek-Lamb-Main.jpg",
+  "thumbnail": "Grilled-Greek-Lamb-Main.webp",
+  "products": [
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    }
+  ]
+}

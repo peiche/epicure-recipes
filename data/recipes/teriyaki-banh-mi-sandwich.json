@@ -1,0 +1,143 @@
+{
+  "name": "Teriyaki Banh Mi Sandwich",
+  "slug": "teriyaki-banh-mi-sandwich",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "lean ground pork or beef",
+      "quantity": "1 lb (450 g) ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Teriyaki Dry Glaze or Banh mi Burger Seasoning",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low sodium soy sauce",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dijon-style mustard",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "panini buns or chopped baguette",
+      "quantity": "4 medium-sized",
+      "additionalInstruction": null
+    },
+    {
+      "name": "carrot matchsticks",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "18 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Steamer, add ground meat, water,  dry glaze, and soy sauce. Mix until well combined  and press into bottom of the steamer. Cover; microwave  on high, 4 min or until cooked.",
+    "Meanwhile, in a small bowl, whisk together mayo  and mustard. Set aside.",
+    "Slice cucumber. Cut buns open.",
+    "Remove steamer from microwave. Uncover; let rest 1 min. Using tongs, remove meat from steamer and place onto cutting board; discard any excess liquid in steamer. Slice meat into eight pieces.",
+    "Spread sauce into each bun; fill each bun with  two slices of meat and top with veggies."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 400,
+    "fat": 20,
+    "saturatedFat": 7,
+    "transFat": 0.2,
+    "cholesterol": 75,
+    "sodium": 440,
+    "carbohydrate": 27,
+    "fiber": 2,
+    "sugars": 6,
+    "protein": 27
+  },
+  "tips": [
+    "Looking for a lighter bite to eat? Try swapping bread for lettuce cups."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup veggies.",
+  "image": "6819_teriyaki_banh_mi_sandwich_1036x583.jpg",
+  "thumbnail": "6819_teriyaki_banh_mi_sandwich_1036x583.webp",
+  "products": [
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

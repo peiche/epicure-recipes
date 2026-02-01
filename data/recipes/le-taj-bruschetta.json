@@ -1,0 +1,102 @@
+{
+  "name": "Le Taj Bruschetta",
+  "slug": "le-taj-bruschetta",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "baguette or gluten-free bread",
+      "quantity": "12 slices",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": null,
+      "additionalInstruction": "for brushing"
+    },
+    {
+      "name": "medium tomatoes",
+      "quantity": "4",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "Le Taj Sauce",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Toasted Onion",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat goat cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "crumbled"
+    }
+  ],
+  "totalTime": "12 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Place baguette slices on a Sheet Pan lined with a Sheet Pan Liner. Using a basting brush, lightly brush with oil. Broil until golden, approximately 2 minutes each side.",
+    "In a medium bowl, combine tomatoes, sauce, and Toasted Onion. Mound 1 tbsp of mixture onto each baguette slice.",
+    "Sprinkle with goat cheese, and place under broiler until cheese is lightly golden, 2–3 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 140,
+    "fat": 5,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 250,
+    "carbohydrate": 19,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 5
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Le-Taj-Bruschetta-Main.jpg",
+  "thumbnail": "Le-Taj-Bruschetta-Main.webp",
+  "products": [
+    {
+      "slug": "toasted_onion",
+      "name": "Toasted Onion",
+      "summary": [
+        "Sweet flavour of lightly toasted onion."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

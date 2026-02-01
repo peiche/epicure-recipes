@@ -1,0 +1,127 @@
+{
+  "name": "Tiny Baked Mac & Cheese",
+  "slug": "tiny-baked-mac-cheese",
+  "description": "A dish that’s both perfect for entertaining and fun for kids!",
+  "ingredients": [
+    {
+      "name": "uncooked macaroni noodles",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Mac & Cheese Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "grated cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Crispy & Crunchy Coating Mix",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg",
+      "additionalInstruction": "about 1/3 cup"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 425° F.",
+    "In Multipurpose Pot set over high heat, boil pasta until tender, about 6–8 min. Drain and return to pot.",
+    "Stir in milk, seasoning, and butter, if using. Stir to coat. Spoon into six ramekins. Top with cheese, then sprinkle with coating mix. Place on Sheet Pan and bake 5 min until cheese has melted and top is golden."
+  ],
+  "tags": [
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 230,
+    "fat": 6,
+    "saturatedFat": 3.5,
+    "transFat": 0.1,
+    "cholesterol": 20,
+    "sodium": 370,
+    "carbohydrate": 33,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 10
+  },
+  "tips": [
+    "For a smoky twist, season Mac & Cheese with Smoked Spanish Paprika."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups mixed greens, 1 tbsp favourite Epicure Dressing, and 1&frasl;2 cup cooked chicken, tofu, or fish.",
+  "image": "tiny_baked_mac_cheese_1036x583.jpg",
+  "thumbnail": "tiny_baked_mac_cheese_1036x583.webp",
+  "products": [
+    {
+      "slug": "mac___cheese_seasoning__pkg_of_3_",
+      "name": "Mac & Cheese Seasoning (Pack of 3)",
+      "summary": [
+        "Creamy &amp; comforting, made with real cheddar cheese, no artificial colors or flavors.&nbsp;"
+      ]
+    },
+    {
+      "slug": "crispy___crunchy_coating__pkg_of_3_",
+      "name": "Crispy & Crunchy Coating (Pkg of 3)",
+      "summary": [
+        "A family-friendly, multipurpose blend with notes of onion, garlic &amp; smoked paprika.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_pot___12_c",
+      "name": "Multipurpose Pot - 12 Cup",
+      "summary": [
+        "A 12 cup, multi-use, stainless-steel cooking pot with a lid made of glass, steel &amp; silicone rubber."
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

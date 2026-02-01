@@ -1,0 +1,140 @@
+{
+  "name": "Meatloaf Fried Rice",
+  "slug": "meatloaf-fried-rice",
+  "description": "Make something out of nothing—use your leftover rice and vegetables from last night’s dinner to make a feast you’ll keep coming back for!",
+  "ingredients": [
+    {
+      "name": "Classic Meatloaf Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sesame oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": " lean ground beef, chicken or pork",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cold, cooked white rice",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded coleslaw ",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a small bowl, whisk together seasoning, soy sauce, water, and sesame oil. Set aside.",
+    "In Wok, heat vegetable oil over medium-high heat.",
+    "Crumble beef into wok; stir-fry until cooked through, 3–4 min.",
+    "Increase heat to high; add rice. Stir often to break up clumps and heat through, about 3 min.",
+    "Gradually add coleslaw 1 cup at a time (wok will be full); stir-fry 3–4 min or until coleslaw is tender-crisp.",
+    "Turn off the burner; add reserved seasoning mixture and stir to combine."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "wok",
+      "name": "Wok"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 500,
+    "fat": 24,
+    "saturatedFat": 8,
+    "transFat": 0.5,
+    "cholesterol": 90,
+    "sodium": 520,
+    "carbohydrate": 33,
+    "fiber": 4,
+    "sugars": 3,
+    "protein": 38
+  },
+  "tips": [
+    "Use up those leftovers and add in any cooked vegetables you have in your fridge—there is no wrong answer here!",
+    "Poke Bowl Topper is a mix of sesame seeds, ginger, cilantro, and nori flakes. Shake over any rice dish."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup steamed vegetables.",
+  "image": "meatloaf_fried_rice_1036x583.jpg",
+  "thumbnail": "meatloaf_fried_rice_1036x583.webp",
+  "products": [
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

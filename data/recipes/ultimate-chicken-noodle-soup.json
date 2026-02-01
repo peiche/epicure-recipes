@@ -1,0 +1,158 @@
+{
+  "name": "Ultimate Chicken Noodle Soup",
+  "slug": "ultimate-chicken-noodle-soup",
+  "description": "Having a batch of this on the go will almost make you look forward to cold season.",
+  "ingredients": [
+    {
+      "name": "Nourish Broth",
+      "quantity": "6 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Nourish Broth Mix",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boiling water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "stalk celery",
+      "quantity": "1",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "carrot",
+      "quantity": "1",
+      "additionalInstruction": "diced"
+    },
+    {
+      "name": "broken noodles",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cooked chicken",
+      "quantity": "1 cup",
+      "additionalInstruction": "cubed"
+    },
+    {
+      "name": "peas",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "CCB Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Bring Nourish broth to a boil.",
+    "Add celery, carrots and noodles. Simmer 10 min.",
+    "Add 3 Onion Dip Mix, chicken, peas and CCB Dip Mix, if desired.",
+    "Season with Salt and Pepper. Return to a boil and serve immediately."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 170,
+    "fat": 1,
+    "saturatedFat": 0.3,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 230,
+    "carbohydrate": 18,
+    "fiber": 5,
+    "sugars": 7,
+    "protein": 23
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups mixed greens, 1 tbsp Epicure salad dressing, and 1 whole wheat roll.",
+  "image": "1575582374124-recipeMainImagePath.jpg",
+  "thumbnail": "1575582374124-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "nourish_broth_mix",
+      "name": "Nourish Broth Mix",
+      "summary": [
+        "Rich taste of slowly simmered chicken with garden-fresh flavors of onion, celery, and herbs. Just add water!"
+      ]
+    },
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    },
+    {
+      "slug": "ccb_dip_mix_b61a530",
+      "name": "CCB Dip Mix",
+      "summary": [
+        "<strong>Cheese. Chives. Bacon. </strong>How's that for a totally irresistible trio? Our very own smoky vegetarian bacon, made from pinto beans, is the secret star of this oh-so-yummy dip.",
+        "This blend is all about versatility and we recommend taking it way beyond the dip bowl—use CCB in any dish that could use a little levelling up.&nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "name": "Mexican Street Corn Salad",
+  "slug": "mexican-street-corn-salad",
+  "description": "Corn harvest season has arrived, and we can’t get enough. Mix sweet corn, creamy black beans, and crunchy veggies together, then toss them in a tangy ‘n spicy dressing, inspired by Mexican Street Corn, aka “elotes”! This potluck fave is amazing served with nacho chips—it’s ideal for dipping and sharing with your pals.",
+  "ingredients": [
+    {
+      "name": "corn cobs",
+      "quantity": "4 small",
+      "additionalInstruction": "shucked"
+    },
+    {
+      "name": "Mexican Street Corn Dip Hot Dip Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "plain 2% Greek yogurt",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "mayonnaise or sour cream",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green bell pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> small",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted black beans",
+      "quantity": "1 can (14 oz/398 ml)",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "cojita or feta cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "divided"
+    }
+  ],
+  "totalTime": "12 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Place corn in Multipurpose Steamer. Cover and microwave on high 5 min.",
+    "Meanwhile, in a large bowl, combine hot dip mix, yogurt, mayo, and lime juice.",
+    "Dice pepper and onion.",
+    "Let corn cool slightly, then slice the kernels off the cobs. Add diced veggies, corn, beans, and 1&frasl;4 cup cheese to bowl with sauce; stir to combine. Top with remaining cheese.",
+    "Chill until ready to serve."
+  ],
+  "tags": [
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "about 1 cup",
+    "calories": 230,
+    "fat": 10,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 290,
+    "carbohydrate": 26,
+    "fiber": 6,
+    "sugars": 5,
+    "protein": 10
+  },
+  "tips": [
+    "Swap fresh corn with 2 cups frozen corn kernels. Place in Multipurpose Steamer; cover and microwave on high 3–4 min, stirring halfway. Remove lid and rest 2 min before adding into salad.",
+    "Cojita cheese can either be crumbly or firm and has an awesome funkiness to it (if you know, you know!). Buy it in a block and crumble it by hand or grate it yourself. If you choose to grate it, use the small holes of your cheese grater."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Street-Corn-Salad_2160x1860.jpg",
+  "thumbnail": "Street-Corn-Salad_2160x1860.webp",
+  "products": [
+    {
+      "slug": "mexican_street_corn_dip_hot_dip_mix__pack_of_3_",
+      "name": "Mexican Street Corn Dip Hot Dip Mix (Pack of 2)",
+      "summary": [
+        "A delightful variation on Mexican street corn, or “elote,” this is a creamy, zesty, and oh-so-addictive appetizer that'll have everyone coming back for more. With warming spices and chiles, complemented by bursts of corn, it’s the perfect addition to game days, streaming binges, and happy hours!&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

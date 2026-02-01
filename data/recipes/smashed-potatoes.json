@@ -1,0 +1,139 @@
+{
+  "name": "Smashed Potatoes",
+  "slug": "smashed-potatoes",
+  "description": "Crazy crispy on the outside and fluffy on the inside. Perfect side to add to your holiday dinner—a change from the classic mashed potatoes!",
+  "ingredients": [
+    {
+      "name": "mixed baby potatoes",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter or olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Holiday Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roasted Garlic Aioli",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Roasted Garlic Aioli Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    }
+  ],
+  "totalTime": "23 minutes",
+  "servings": "4 servings",
+  "preparation": [
+    "Preheat oven to 425° F (220° C). Line a Sheet Pan with a Sheet Pan Liner.",
+    "Place potatoes in a Multipurpose Steamer. Microwave on high, with lid on, for 6–8 minutes.",
+    "Add butter and gently toss to coat. Spread potatoes in a single layer on baking sheet.",
+    "Using a Prep Bowl or glass, smash each potato to about 1&frasl;2” thickness.",
+    "Sprinkle with seasoning and bake for 10 minutes, flipping once.",
+    "Once baked, drizzle with Aioli and serve hot."
+  ],
+  "tags": [
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 200,
+    "fat": 11,
+    "saturatedFat": 4.5,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 110,
+    "carbohydrate": 22,
+    "fiber": 2,
+    "sugars": 1,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 serving protein and 2 cups vibrant mixture of raw or cooked veggies.",
+  "image": "1601664196040-recipeMainImagePath.jpg",
+  "thumbnail": "1601664196040-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "roasted_garlic_aioli_mix",
+      "name": "Roasted Garlic Aioli Mix",
+      "summary": [
+        "A creamy roasted garlic condiment for your burger, sandwich or use as a dip for fries or veg.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

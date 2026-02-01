@@ -1,0 +1,78 @@
+{
+  "name": "Tahini Sauce",
+  "slug": "tahini-sauce",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "tahini paste",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "(or more as needed)"
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Roasted Garlic Aioli Mix",
+      "quantity": "1 - 1 <sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "2 cups",
+  "preparation": [
+    "In a blender, combine all ingredients. Process on high speed to make a creamy sauce."
+  ],
+  "tags": [
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tbsp",
+    "calories": 90,
+    "fat": 8,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 5,
+    "carbohydrate": 4,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 3
+  },
+  "tips": [
+    "Serve with falafels, as a dip, or as a dressing."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Tahini-Sauce-Main.jpg",
+  "thumbnail": "Tahini-Sauce-Main.webp",
+  "products": [
+    {
+      "slug": "roasted_garlic_aioli_mix",
+      "name": "Roasted Garlic Aioli Mix",
+      "summary": [
+        "A creamy roasted garlic condiment for your burger, sandwich or use as a dip for fries or veg.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

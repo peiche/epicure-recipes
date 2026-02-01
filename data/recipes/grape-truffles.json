@@ -1,0 +1,87 @@
+{
+  "name": "Grape Truffles",
+  "slug": "grape-truffles",
+  "description": "A savoury twist on truffles. Can be made the day before.",
+  "ingredients": [
+    {
+      "name": "coarsely chopped toasted almonds",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cream cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "at room temperature"
+    },
+    {
+      "name": "milk",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "1 - 2 tsp",
+      "additionalInstruction": " or Epicure’s Guacamole Dip Mix"
+    },
+    {
+      "name": "seedless grapes",
+      "quantity": "30",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "10 - 15 servings (30 pieces)",
+  "preparation": [
+    "Place almonds in a food processor. Pulse until finely chopped. Remove from processor.",
+    "Place cream cheese, milk and 3 Onion Dip Mix into food processor. Whirl until smooth. It should have a creamy but not runny consistency. Scrape into a bowl.",
+    "Working with one grape at a time, dip into cheese mixture, then roll in nuts. (Tip: pierce grape with a toothpick, then swirl in cheese mixture.) Once all grapes are coated, place on a plate and refrigerate for at least 10 minutes, until chilled."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 pieces",
+    "calories": 15,
+    "fat": 1.5,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 0,
+    "carbohydrate": 2,
+    "fiber": 0,
+    "sugars": 1,
+    "protein": 1
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Grape-Truffles-Main.jpg",
+  "thumbnail": "Grape-Truffles-Main.webp",
+  "products": [
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    }
+  ]
+}

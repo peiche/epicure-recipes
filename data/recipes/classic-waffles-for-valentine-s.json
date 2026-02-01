@@ -1,0 +1,130 @@
+{
+  "name": "Classic Waffles for Valentine's",
+  "slug": "classic-waffles-for-valentine-s",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking powder",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking soda",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salt",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "plus extra for brushing"
+    }
+  ],
+  "totalTime": "17 min",
+  "servings": "12 waffles",
+  "preparation": [
+    "Preheat oven to 425° F (220° C).",
+    "In a medium bowl, combine dry ingredients.",
+    "In a separate bowl, using a Piano Wire Whisk, whisk eggs, milk, vanilla extract, and oil.",
+    "Slowly whisk wet ingredients into dry, until just combined.",
+    "Place Waffle Mold on a Sheet Pan. Using a basting brush, lightly brush Waffle Mold with oil.",
+    "Pour approximately 1&frasl;4 cup batter into each mold, filling all corners.",
+    "Bake 12–15 minutes, or until golden.",
+    "When cool to the touch, flip Waffle Mold over a platter, and gently remove waffles. Repeat with remaining batter. Serve immediately, or keep warm in a low oven until ready to serve."
+  ],
+  "tags": [
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 160,
+    "fat": 6,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 40,
+    "sodium": 230,
+    "carbohydrate": 21,
+    "fiber": 1,
+    "sugars": 4,
+    "protein": 5
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Classic-Waffles-for-Valentine-s-Day-Main.jpg",
+  "thumbnail": "Classic-Waffles-for-Valentine-s-Day-Main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "piano_wire_whisk__1707512_",
+      "name": "Piano Wire Whisk",
+      "summary": [
+        "Whisking and whipping made easy with the <strong>Piano Wire Whisk</strong>.&nbsp;"
+      ]
+    },
+    {
+      "slug": "waffle_mold__1704224_",
+      "name": "Waffle Mold",
+      "summary": [
+        "<br>"
+      ]
+    }
+  ]
+}

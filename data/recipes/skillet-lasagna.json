@@ -1,0 +1,89 @@
+{
+  "name": "Skillet Lasagna",
+  "slug": "skillet-lasagna",
+  "description": "One pan, no hassle: skip the tedious lasagna layering and dive straight into saucy, herby tomato bliss, topped off with gooey, melted cheese. Easy prep, easy cleanup—because who has time for more dishes? Serve with a salad and, boom, you're the dinnertime hero everyone needed tonight.",
+  "ingredients": [
+    {
+      "name": "Skillet Lasagna Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "3 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomato paste",
+      "quantity": "1 can (5.5 oz/156 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "uncooked Mafalda pasta or broken-up lasagna noodles ",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded mozzarella",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "25 min",
+  "servings": "5 servings",
+  "preparation": [
+    "In a bowl, whisk seasoning with water and tomato paste.",
+    "In Sauté Pan, cook ground beef over medium-high heat, using Ground Meat Separator to break up beef into small chunks until browned. Drain.",
+    "Add in reserved seasoning mixture, then stir in pasta. Bring to a boil. Reduce heat; cover and simmer 15–17 min, or until pasta is tender, stirring occasionally.",
+    "Remove from heat. Top with mozzarella; cover for 2 min or until melted."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 470,
+    "fat": 16,
+    "saturatedFat": 7,
+    "transFat": 0.4,
+    "cholesterol": 70,
+    "sodium": 440,
+    "carbohydrate": 50,
+    "fiber": 4,
+    "sugars": 8,
+    "protein": 31
+  },
+  "tips": [
+    "Look for Mafalda pasta in the pasta section of your grocery store—it looks like mini lasagna noodles, with its flat surface and wavy, ruffled edges. If you can't find any, simply swap with broken-up lasagna noodles.",
+    "Elevate this everyday dinner by adding dollops of ricotta to the pan once cooked, then top with fresh basil."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 2 cups leafy greens with lemon juice or vinegar.",
+  "image": "Skillet Lasagna.jpg",
+  "thumbnail": "Skillet Lasagna.webp",
+  "products": [
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    },
+    {
+      "slug": "skillet_lasagna_seasoning__pack_of_3_",
+      "name": "Skillet Lasagna Seasoning (Pack of 3)",
+      "summary": [
+        "Why wait on frozen lasagna when you can whip up a quick and tasty one right in your skillet? With easy prep and minimal cleanup, Skillet Lasagna brings all the comforting flavors of the classic Italian dish into one pan. Customize it to suit your taste—try it with the noodles of your choice (we love mafalda pasta for that perfect texture). Enjoy rich layers of sauce, cheese, and pasta in record time—chef’s kiss. &nbsp;"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "name": "Fruit Crumble-Stuffed French Toast",
+  "slug": "fruit-crumble-stuffed-french-toast",
+  "description": "A make-ahead, baked version of a fruity, spiced French toast. Yum!",
+  "ingredients": [
+    {
+      "name": "pears",
+      "quantity": "2",
+      "additionalInstruction": "unpeeled, chopped"
+    },
+    {
+      "name": "oranges",
+      "quantity": "2",
+      "additionalInstruction": "peeled and chopped"
+    },
+    {
+      "name": "Apple Pie Spice",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar or brown sugar",
+      "quantity": "1 - 2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "cubed"
+    },
+    {
+      "name": "large baguette",
+      "quantity": "1",
+      "additionalInstruction": "sliced into 12 thick pieces"
+    },
+    {
+      "name": "eggs",
+      "quantity": "3",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Apple Pie Spice",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "melted, divided"
+    }
+  ],
+  "totalTime": "3 1/2 hrs",
+  "servings": "12 servings",
+  "preparation": [
+    "Place pears and oranges in Multipurpose Steamer. Gently stir in Apple Pie Spice and sugar. Dot butter overtop. Cover and microwave on high until fruit is soft, approximately 3–4 minutes.",
+    "Cut a small hole in the bottom crust of each slice. Widen each hole with your finger.",
+    "Spoon filling into each hole. Stir any leftover filling into maple syrup for a topper.",
+    "Arrange stuffed slices in a 9” x 13” baking dish – it’s okay to bunch together for the next step.",
+    "In a bowl, using Piano Wire Whisk, whisk eggs with milk, sugar, and Apple Pie Spice. Pour over stuffed slices. Turn slices over to soak up all the egg mixture. Cover and refrigerate at least 3 hours, or overnight.",
+    "When ready to bake, preheat oven to 450° F (230° C).",
+    "Brush Sheet Pan with half of the butter. Arrange slices so they don’t touch.",
+    "Bake 8 minutes. Remove, brush with remaining butter, and turn slices over. Continue to bake until toasty and golden, approximately 8 more minutes. Dish up with maple syrup and fresh orange and pear slices."
+  ],
+  "tags": [
+    {
+      "slug": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "slug": "valentine_s_day",
+      "name": "Valentine’s Day"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 300,
+    "fat": 12,
+    "saturatedFat": 6,
+    "transFat": 0.2,
+    "cholesterol": 145,
+    "sodium": 290,
+    "carbohydrate": 41,
+    "fiber": 4,
+    "sugars": 16,
+    "protein": 9
+  },
+  "tips": [
+    "Use Multipurpose Steamer to save time and dishes. No Steamer? No problem! Simply sauté fruit in frying pan."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Fruit-Crumble-Stuffed-French-Toast-Main.jpg",
+  "thumbnail": "Fruit-Crumble-Stuffed-French-Toast-Main.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "piano_wire_whisk__1707512_",
+      "name": "Piano Wire Whisk",
+      "summary": [
+        "Whisking and whipping made easy with the <strong>Piano Wire Whisk</strong>.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

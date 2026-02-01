@@ -1,0 +1,76 @@
+{
+  "name": "Tomato & Basil Baked Brie",
+  "slug": "tomato-basil-baked-brie",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Tomato & Basil Baked Brie Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Brie cheese",
+      "quantity": "1 round (7 oz/200 g)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "10 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In a small bowl, combine seasoning with hot water. Let stand 5 min; stir in oil.",
+    "Place brie in a heat-safe dish; spread tomato mixture on top.",
+    "Microwave uncovered for 30–40 sec or bake in preheated 350° F oven for 10 min or until warmed through."
+  ],
+  "tags": [
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 160,
+    "fat": 14,
+    "saturatedFat": 6,
+    "transFat": 0,
+    "cholesterol": 35,
+    "sodium": 220,
+    "carbohydrate": 2,
+    "fiber": 1,
+    "sugars": 2,
+    "protein": 7
+  },
+  "tips": [
+    "Stir prepared topping with warm fettuccine noodles or spread over pizza before adding toppings."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1598974588303-recipeMainImagePath.jpg",
+  "thumbnail": "1598974588303-recipeMainImagePath.webp",
+  "products": []
+}

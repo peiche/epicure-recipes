@@ -1,0 +1,77 @@
+{
+  "name": "Green Tea Mojito",
+  "slug": "green-tea-mojito",
+  "description": "A refreshing skinny cocktail with antioxidant power.",
+  "ingredients": [
+    {
+      "name": "limes",
+      "quantity": "10",
+      "additionalInstruction": "fresh (pulp and juice)"
+    },
+    {
+      "name": "leaves of fresh mint",
+      "quantity": "30",
+      "additionalInstruction": "washed"
+    },
+    {
+      "name": "sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "white rum",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sencha & Jasmine Green Tea Blend",
+      "quantity": "3 cups",
+      "additionalInstruction": "brewed, chilled"
+    },
+    {
+      "name": "iceberg cubes",
+      "quantity": null,
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "club soda",
+      "quantity": null,
+      "additionalInstruction": "chilled"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Juice lime with 2-in-1 Citrus Press. Place lime juice, mint, and sugar into a pitcher.",
+    "Using a muddle-stick, mash until the leaves bruise slightly and the flavours release.",
+    "Add rum and tea, and stir well.",
+    "Add iceburg cubes and top with club soda."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 120,
+    "fat": 0,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 0,
+    "carbohydrate": 18,
+    "fiber": 2,
+    "sugars": 11,
+    "protein": 1
+  },
+  "tips": [
+    "Elevate the flavours by adding your choice of fresh fruits to the pitcher. Try limes, honey melon, raspberries, strawberries, and even veggies like cucumber or fennel.",
+    "Add more club soda to glasses if a lighter drink is desired. Garnish with additional mint leaves and lime slices."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Green-Tea-Mojito-Main.jpg",
+  "thumbnail": "Green-Tea-Mojito-Main.webp",
+  "products": []
+}

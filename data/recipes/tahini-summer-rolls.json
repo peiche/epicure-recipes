@@ -1,0 +1,175 @@
+{
+  "name": "Tahini Summer Rolls",
+  "slug": "tahini-summer-rolls",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "thin vermicelli noodles",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> package (8 oz/227 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Tahini Power Bowl Dressing Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tahini",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large bell pepper",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "rice paper rounds",
+      "quantity": "12",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cooked baby shrimp",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Fill Multipurpose Pot three-quarters full of water. Bring to a boil. Add noodles and cook until tender, 2 min. Drain and rinse under cold water. Set aside.",
+    "Meanwhile, whisk together dressing mix, water, tahini, and oil in 4-Cup Prep Bowl.",
+    "Julienne pepper and cucumber.",
+    "Fill a shallow pan (a Sauté Pan or pie plate works well) with 1\" warm water. Place one rice paper round in water for 5 sec. The rice paper round will still be stiff, but slightly more pliable—it will continue to soften as you prepare the roll. Place a tea towel on the counter. Remove rice paper round from water and place on top of towel.",
+    "Across the bottom third of the rice paper round, arrange shrimp, veggies, and noodles, and drizzle 1 tsp dressing horizontally across the round. At this point, the rice paper round will be pliable. Fold each side of the round over the middle and roll up the round tightly from the bottom to the top.  Repeat with remaining rice paper rounds and shrimp, veggie and noodle filling.",
+    "Serve with remaining dressing for dipping."
+  ],
+  "tags": [
+    {
+      "slug": "chinese_new_year",
+      "name": "Lunar New Year"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "gfrr_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gfrr_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "3 rolls with dip",
+    "calories": 500,
+    "fat": 18,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 220,
+    "sodium": 490,
+    "carbohydrate": 55,
+    "fiber": 4,
+    "sugars": 6,
+    "protein": 33
+  },
+  "tips": [
+    "Once the ingredients are prepped, this recipe is all about the assembly! Have all your ingredients within reach to get rolling efficiently. You’ll find the assembly gets faster after you’ve made a few rolls.",
+    "Swap baby shrimp with large, peeled shrimp. Simply slice each shrimp in half, lengthwise.",
+    "Look for vermicelli noodles and rice paper rounds in the international aisle of the grocery store."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced veggies, your choice.",
+  "image": "june_tahini_summer_rolls_1036x583.jpg",
+  "thumbnail": "june_tahini_summer_rolls_1036x583.webp",
+  "products": [
+    {
+      "slug": "tahini_power_bowl_dressing_mix__3pk_",
+      "name": "Tahini Power Bowl Dressing Mix (3pk)",
+      "summary": [
+        "Simply whisk the mix with water, tahini &amp; olive oil for a tangy &amp; creamy salad dressing! Makes 6 robust meatless meal bowls.&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_pot___12_c",
+      "name": "Multipurpose Pot - 12 Cup",
+      "summary": [
+        "A 12 cup, multi-use, stainless-steel cooking pot with a lid made of glass, steel &amp; silicone rubber."
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    },
+    {
+      "slug": "n4_cup_prep_bowl_a951863",
+      "name": "4-Cup Prep Bowl",
+      "summary": [
+        "Meal prep like a pro with this multipurpose, glass bowl &amp; silicone lid.&nbsp;"
+      ]
+    }
+  ]
+}

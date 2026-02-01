@@ -1,0 +1,131 @@
+{
+  "name": "Chocolate Nut Biscotti",
+  "slug": "chocolate-nut-biscotti",
+  "description": "Dark chocolate and nuts — perfect accompaniments to a rich cup of coffee!",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baking soda",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salt",
+      "quantity": "1 pinch",
+      "additionalInstruction": null
+    },
+    {
+      "name": "sugar",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "dark chocolate chips",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large eggs",
+      "quantity": "3",
+      "additionalInstruction": "beaten"
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whole pistachios or almonds",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr 15 min",
+  "servings": "36 biscotti",
+  "preparation": [
+    "Preheat oven to 300° F (150° C).",
+    "Line Sheet Pan with Sheet Pan Liner and set aside.",
+    "Combine first 6 ingredients in a food processor. Pulse to break up dark chocolate into small pieces.",
+    "Whisk eggs with vanilla extract and water. Pour into dry ingredients and pulse until a rough dough results.",
+    "Turn out onto floured surface and knead in nuts. When dough is smooth, divide in half and form into logs approximately 12” long x 3” wide. Slightly flatten logs.",
+    "Bake for 35 minutes. Remove from oven and cool for 5 minutes.",
+    "Place biscotti on a cutting board and, using a serrated knife, slice on a slight angle. Return slices to Sheet Pan and bake for an additional 15 minutes, or until biscotti are completely dry."
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 biscotti",
+    "calories": 100,
+    "fat": 3.5,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 20,
+    "sodium": 50,
+    "carbohydrate": 15,
+    "fiber": 1,
+    "sugars": 8,
+    "protein": 2
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1600790519697-recipeMainImagePath.jpg",
+  "thumbnail": "1600790519697-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_liner__1716111_",
+      "name": "Sheet Pan Liner",
+      "summary": [
+        "Nonstick silicone baking sheet. Ideal for baking, roasting, sheet pan meals &amp; more!"
+      ]
+    }
+  ]
+}

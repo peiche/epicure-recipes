@@ -1,0 +1,109 @@
+{
+  "name": "Hamburger Steaks with Gravy",
+  "slug": "hamburger-steaks-with-gravy",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Hearty Beef Stew Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "water",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "2 lbs (900 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cold water",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "corn starch",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Measure out 5 tbsp seasoning into a bowl. Add water; stir to combine. Set aside to hydrate.",
+    "In a separate bowl, crumble in beef and remaining seasoning, about 3 tbsp. Using your hands, mix to combine. Form into eight patties.",
+    "Heat oil in a large non-stick fry pan over medium-high heat. Add patties; cook 4–5 min per side, or until cooked through. Cook in batches if you have a small pan. Once cooked, remove from pan; cover to keep warm.",
+    "In same pan (don’t wash) set over low heat, add reserved seasoning mixture. Bring to a simmer (this will happen quickly), scraping up any brown bits from the bottom of the pan.",
+    "In a small bowl, whisk cold water and corn starch. Stirring constantly, add corn starch slurry to pan. Continue stirring frequently until thickened, 1 min.",
+    "Pour gravy over patties before serving."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 hamburger steak and about 3 tbsp gravy",
+    "calories": 230,
+    "fat": 12,
+    "saturatedFat": 4.5,
+    "transFat": 0,
+    "cholesterol": 60,
+    "sodium": 370,
+    "carbohydrate": 6,
+    "fiber": 1,
+    "sugars": 1,
+    "protein": 23
+  },
+  "tips": [
+    "This gravy loves to be paired with potatoes. Try mashed, boiled, or baked potato wedges."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup steamed veggies and 1 cup potatoes.",
+  "image": "Hamburger-Steaks-and-Gravy-1036x583.jpg",
+  "thumbnail": "Hamburger-Steaks-and-Gravy-1036x583.webp",
+  "products": []
+}

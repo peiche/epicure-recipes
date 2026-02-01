@@ -1,0 +1,78 @@
+{
+  "name": "DIY Eggnog",
+  "slug": "diy-eggnog",
+  "description": "Serve hot or cold. Delicious with a shot of whisky or rum.",
+  "ingredients": [
+    {
+      "name": "milk ",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "egg whites ",
+      "quantity": "3 ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Vanilla Extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Apple Pie Spice",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 cups",
+  "preparation": [
+    "Measure ingredients into an electric blender and blend for 3 minutes.",
+    "Pour mixture into a Multipurpose Pot. Simmer for 15 minutes, stirring frequently.",
+    "Serve or refrigerate."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 cup",
+    "calories": 190,
+    "fat": 2.5,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 150,
+    "carbohydrate": 30,
+    "fiber": 0,
+    "sugars": 29,
+    "protein": 11
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "DIY-Eggnog-Main.jpg",
+  "thumbnail": "DIY-Eggnog-Main.webp",
+  "products": [
+    {
+      "slug": "apple_pie_spice",
+      "name": "Apple Pie Spice",
+      "summary": [
+        "It’s apple pie in a jar: aromatic cinnamon &amp; nutmeg."
+      ]
+    },
+    {
+      "slug": "multipurpose_pot___12_c",
+      "name": "Multipurpose Pot - 12 Cup",
+      "summary": [
+        "A 12 cup, multi-use, stainless-steel cooking pot with a lid made of glass, steel &amp; silicone rubber."
+      ]
+    }
+  ]
+}

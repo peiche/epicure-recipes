@@ -1,46 +1,43 @@
-import { Configure, InstantSearch } from 'react-instantsearch';
-import Layout from '../components/layout';
-import Wrapper from '../components/wrapper';
+import { Configure, InstantSearch, useRefinementList } from 'react-instantsearch';
+import Layout from '../components/ui/layout';
+import Wrapper from '../components/layout/wrapper';
 import { searchClient, searchIndexName } from '../services/api/algolia';
-import SEO from '../components/seo';
-import SearchBoxResults from '../components/searchBoxResults';
-import { history } from 'instantsearch.js/es/lib/routers'
-import { RouterProps } from 'instantsearch.js/es/middlewares';
-import { Box } from '@mui/material';
-import AdSense from '../components/adsense';
+import SEO from '../components/layout/seo';
+import SearchBoxResults from '../components/search/searchBoxResults';
+import { Box, Container } from '@mui/material';
+import { createInstantSearchRouterNext } from 'react-instantsearch-router-nextjs';
+import singletonRouter from 'next/router';
 
-const routing: RouterProps = {
-    router: history({
-        cleanUrlOnDispose: false,
-    }),
-};
+function VirtualRefinementList() {
+    useRefinementList({ attribute: 'tags.name' });
+    return null;
+}
 
-export default function Search() {
+export default function SearchPage() {
     return (
         <Layout>
             <SEO title='Search' />
             <Wrapper>
-                <InstantSearch
-                    searchClient={searchClient}
-                    indexName={searchIndexName}
-                    routing={routing}
-                    insights={false}
-                    future={{
-                        preserveSharedStateOnUnmount: true,
-                    }}
-                >
-                    <Configure ruleContexts={[]} />
-                    <SearchBoxResults />
-                </InstantSearch>
-
-                <Box py={1}>
-                    <AdSense
-                        client="ca-pub-8316336599094727"
-                        slot="3666901353"
-                        format="auto"
-                        style={{ display: 'block' }}
-                        responsive="true"
-                    />
+                <Box component="main">
+                    <Container maxWidth="xl">
+                        <InstantSearch
+                            searchClient={searchClient}
+                            indexName={searchIndexName}
+                            routing={{
+                                router: createInstantSearchRouterNext({
+                                    singletonRouter,
+                                }),
+                            }}
+                            insights={false}
+                            future={{
+                                preserveSharedStateOnUnmount: true,
+                            }}
+                        >
+                            <Configure ruleContexts={[]} />
+                            <VirtualRefinementList />
+                            <SearchBoxResults />
+                        </InstantSearch>
+                    </Container>
                 </Box>
             </Wrapper>
         </Layout>

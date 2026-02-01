@@ -1,0 +1,141 @@
+{
+  "name": "Bison & Three Sisters Chili",
+  "slug": "bison-three-sisters-chili",
+  "description": "In many Indigenous communities, the “Three Sisters” refer to corn, beans, and squash. When planted together, these crops help each other grow and thrive, much like sisters. Thank you, Destiny Moser, for this recipe that highlights indigenous ingredients such as bison, juniper berries, and maple syrup!",
+  "ingredients": [
+    {
+      "name": "ground bison or lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "leeks",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": " juniper berries",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "fresh corn",
+      "quantity": "2 ears",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butternut squash",
+      "quantity": "1 small",
+      "additionalInstruction": null
+    },
+    {
+      "name": "green beans",
+      "quantity": "2 cups",
+      "additionalInstruction": "trimmed"
+    },
+    {
+      "name": "no-salt-added diced tomatoes",
+      "quantity": "1 can (27 oz/796 ml)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chili Seasoning",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh cilantro",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "maple syrup",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "50 min",
+  "servings": "6 servings",
+  "preparation": [
+    "In a large pot, cook bison over medium-high heat until browned and cooked through. Remove from pot and set aside.",
+    "Dice leeks and mince juniper berries; add to pot. Add salt and sauté until leeks are soft, about 3-4 min.",
+    "Remove corn kernels from cobs. Peel butternut squash, remove seeds, and dice. Cut green beans into 1\" pieces.",
+    "Return bison to pot. Add squash, green beans, corn, tomatoes, and seasoning. Cover; bring to a boil.",
+    "Reduce heat to medium-low. Simmer, partially covered, 15-20 min, or until squash is soft and beans and corn are cooked through, stirring occasionally.",
+    "Chop cilantro, if using, and stir in with maple syrup. Enjoy!"
+  ],
+  "tags": [
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "community_recipe",
+      "name": "Community Recipe"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 290,
+    "fat": 10,
+    "saturatedFat": 10,
+    "transFat": 0,
+    "cholesterol": 50,
+    "sodium": 125,
+    "carbohydrate": 37,
+    "fiber": 7,
+    "sugars": 15,
+    "protein": 18
+  },
+  "tips": [
+    "If you’re unable to find juniper berries, use black pepper and bay leaves instead. Add 1&frasl;4 tsp ground black pepper at step 2. Add 2 bay leaves at step 5 – don’t forget to remove them from the chili before serving.",
+    "Depending on the size of your squash, you may need more liquid to help cook everything in the pot. Add 1&frasl;4–1&frasl;2 cup water, as needed, during step 5.",
+    "Swap fresh corn and green beans with 2 cups frozen or canned of each. You can also purchase frozen, cubed squash at most stores to help slash prep time.",
+    "Leftover chili can be stored in an airtight container in the refrigerator for up to 5 days or in the freezer for up to 3 months."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "bison_three_sisters_chili_1036x583.jpg",
+  "thumbnail": "bison_three_sisters_chili_1036x583.webp",
+  "products": [
+    {
+      "slug": "chili_seasoning",
+      "name": "Chili Seasoning (1001136)",
+      "summary": [
+        "Make classic, restaurant-quality chili at home with better-for-you ingredients."
+      ]
+    }
+  ]
+}

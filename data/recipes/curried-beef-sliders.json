@@ -1,0 +1,136 @@
+{
+  "name": "Curried Beef Sliders",
+  "slug": "curried-beef-sliders",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Aloo Gobi Seasoning or Keema Curry Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "slider buns",
+      "quantity": "12",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded coleslaw",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg (16 oz/454 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light mayonnaise",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime",
+      "quantity": "1",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 400° F. Line 1&frasl;4 Sheet Pan with 1&frasl;4 Sheet Pan Liner.",
+    "In a large bowl, combine seasoning and beef. Turn onto pan; press down to flatten and evenly fill pan. Bake 9–11 min until cooked through.",
+    "Meanwhile, without separating rolls, slice entire package of buns in half, lengthwise, to form a top and a bottom sheet of bun halves. Place top and bottom sheets, cut side up, on Sheet Pan. Bake 5 mins, or until slightly toasted.",
+    "In a bowl, combine coleslaw with mayo. Slice lime in half; using 2-in-1 Citrus Press, squeeze in juice. Stir to combine.",
+    "When beef and rolls have finished cooking, carefully place the sheet of beef on bottom bun halves and top with coleslaw; cover with top sheet of bun halves. Slice along sides of each bun to portion into individual sliders, or serve on a tray to be pulled apart."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 sliders",
+    "calories": 350,
+    "fat": 13,
+    "saturatedFat": 5,
+    "transFat": 0.3,
+    "cholesterol": 70,
+    "sodium": 460,
+    "carbohydrate": 39,
+    "fiber": 3,
+    "sugars": 12,
+    "protein": 19
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup chopped veggies and 2 tbsp Epicure Dip.",
+  "image": "Curried-Beef-Sliders_1036x583.jpg",
+  "thumbnail": "Curried-Beef-Sliders_1036x583.webp",
+  "products": [
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_liner__set_of_2___1711227_",
+      "name": "1/4 Sheet Pan Liner (Set of 2)",
+      "summary": [
+        "Easy to clean, nonstick, silicone mat with raised edges.&nbsp;"
+      ]
+    },
+    {
+      "slug": "n1_4_sheet_pan_7a23ca1",
+      "name": "1/4 Sheet Pan (Set of 2)",
+      "summary": [
+        "Smaller size than a standard sheet pan for easy handling."
+      ]
+    }
+  ]
+}

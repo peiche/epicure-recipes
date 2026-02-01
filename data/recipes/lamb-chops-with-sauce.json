@@ -1,0 +1,101 @@
+{
+  "name": "Lamb Chops with Sauce",
+  "slug": "lamb-chops-with-sauce",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shoulder lamb chops",
+      "quantity": "4 (3.5 oz/100g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Souvlaki Seasoning",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon juice",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ripe tomatoes",
+      "quantity": "4",
+      "additionalInstruction": "chopped"
+    },
+    {
+      "name": "red wine",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "El Greco Finishing Sauce",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": "or sauce of your choice"
+    }
+  ],
+  "totalTime": "30 min",
+  "servings": "4 chops",
+  "preparation": [
+    "In a mixing bowl, combine lamb, lemon juice, and seasoning.",
+    "Heat a fry pan over medium-high heat. Add oil and sauté lamb chops for 4–6 minutes on each side or until cooked to taste. Remove from pan and set aside. Add tomatoes and wine to the pan and cook until tomatoes are soft.",
+    "Arrange lamb chops on a platter, top with tomato-wine mixture, and drizzle with sauce."
+  ],
+  "tags": [
+    {
+      "slug": "easter",
+      "name": "Easter"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 500,
+    "fat": 27,
+    "saturatedFat": 7,
+    "transFat": 0,
+    "cholesterol": 160,
+    "sodium": 250,
+    "carbohydrate": 8,
+    "fiber": 2,
+    "sugars": 4,
+    "protein": 52
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Lamb-Chops-with-El-Greco-Finishing-Sauce-Main.jpg",
+  "thumbnail": "Lamb-Chops-with-El-Greco-Finishing-Sauce-Main.webp",
+  "products": []
+}

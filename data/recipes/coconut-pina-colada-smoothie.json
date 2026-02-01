@@ -1,0 +1,73 @@
+{
+  "name": "Coconut Pina Colada Smoothie",
+  "slug": "coconut-pina-colada-smoothie",
+  "description": "Make into delicious frozen Pina Colada Smoothie ice pops. You colada try these!",
+  "ingredients": [
+    {
+      "name": "coco vanilla white tea leaves",
+      "quantity": "1 tbsp",
+      "additionalInstruction": "or tea leaves of your choice"
+    },
+    {
+      "name": "boiled water",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Power Up Vanilla Protein Blend",
+      "quantity": "1 scoop",
+      "additionalInstruction": null
+    },
+    {
+      "name": "frozen banana",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pineapple juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "honey or agave nectar",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 servings",
+  "preparation": [
+    "Combine tea leaves and boiled water, let completely cool down (do not strain).",
+    "In a blender, combine all ingredients, blend until smooth and transfer to 2 tall glasses."
+  ],
+  "tags": [
+    {
+      "slug": "drinks",
+      "name": "Beverages"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 230,
+    "fat": 2,
+    "saturatedFat": 0.4,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 80,
+    "carbohydrate": 36,
+    "fiber": 4,
+    "sugars": 23,
+    "protein": 21
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 slice whole-grain toast and 2 tsp nut butter.",
+  "image": "1606850665546-recipeMainImagePath.jpg",
+  "thumbnail": "1606850665546-recipeMainImagePath.webp",
+  "products": [
+    {
+      "slug": "power_up_vanilla_protein_blend_abee2e0",
+      "name": "Power Up Vanilla Protein Blend",
+      "summary": []
+    }
+  ]
+}

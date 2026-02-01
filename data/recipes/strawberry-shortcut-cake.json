@@ -1,0 +1,123 @@
+{
+  "name": "Strawberry Shortcut Cake",
+  "slug": "strawberry-shortcut-cake",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "Quick Biscuits",
+      "quantity": "2",
+      "additionalInstruction": "halved"
+    },
+    {
+      "name": "egg",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>2</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "cold"
+    },
+    {
+      "name": "Quick Biscuit Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "fresh strawberries—washed, hulled, and sliced",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% Greek yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": "plain"
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "strawberries",
+      "quantity": "4",
+      "additionalInstruction": "sliced"
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place fresh strawberries in a Round or Multipurpose Steamer. Microwave on high for 2–3 min. Then, mash berries with a fork or Ground Meat Separator; set mashed berries aside.",
+    "Meanwhile, combine Greek yogurt and Summer Berry Sweet Dip Mix in a bowl. Set bowl aside.",
+    "Place 1 biscuit half in each of 4 bowls; top each with sliced strawberries and 1&frasl;4 cup Greek yogurt mixture. Garnish each bowl with a mint leaf and halved strawberries, if desired. Enjoy!"
+  ],
+  "tags": [
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 140,
+    "fat": 1.5,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 240,
+    "carbohydrate": 25,
+    "fiber": 2,
+    "sugars": 6,
+    "protein": 8
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "strawberry-shortcake_1036x583.jpg",
+  "thumbnail": "strawberry-shortcake_1036x583.webp",
+  "products": [
+    {
+      "slug": "quick_biscuit_mix__pack_of_2_",
+      "name": "Quick Biscuit Mix (Pack of 2)",
+      "summary": [
+        "Save money and make your own restaurant-quality biscuits right at home with this Quick Biscuit Mix! The perfect side to any soup, stew, or chili dish."
+      ]
+    },
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "If you could capture sweet summer in a jar, this would be it. A tangy, fruity blend of raspberries, strawberries, hibiscus, and a touch of rooibos, Summer Berry works as a dip or seasoning for yogurt, oatmeal, smoothies, and more.&nbsp;"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    },
+    {
+      "slug": "ground_meat_separator",
+      "name": "Ground Meat Separator",
+      "summary": [
+        "Break up ground meat much easier &amp; faster with this purpose-built tool."
+      ]
+    }
+  ]
+}

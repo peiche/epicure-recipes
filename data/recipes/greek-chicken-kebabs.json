@@ -1,0 +1,110 @@
+{
+  "name": "Greek Chicken Kebabs",
+  "slug": "greek-chicken-kebabs",
+  "description": "Make these ahead of time – marinade in dressing the day before. The day of, easily grill these tasty mini kebabs. The perfect addition to a Greek-inspired Mezze board. Serve with Dillicous Tzatzki and Greek Salad.",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (675 g)",
+      "additionalInstruction": "cut into 32 pieces"
+    },
+    {
+      "name": "Greek Dressing ",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red wine vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "1 hr",
+  "servings": "8 servings",
+  "preparation": [
+    "Skewer chicken, 4 cubes per skewer. (If using bamboo skewers soak in water for several hours to prevent burning.)",
+    "Marinate 45 minutes or more. Grill over high heat for 2 minutes on each side."
+  ],
+  "tags": [
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "bbq",
+      "name": "BBQ"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 290,
+    "fat": 20,
+    "saturatedFat": 3,
+    "transFat": 0,
+    "cholesterol": 10,
+    "sodium": 65,
+    "carbohydrate": 1,
+    "fiber": 0,
+    "sugars": 0,
+    "protein": 27
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with Epicure Dillicious Tzatziki and Greek Salad.",
+  "image": "Greek-Chicken-Kebabs-Main.jpg",
+  "thumbnail": "Greek-Chicken-Kebabs-Main.webp",
+  "products": [
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    }
+  ]
+}

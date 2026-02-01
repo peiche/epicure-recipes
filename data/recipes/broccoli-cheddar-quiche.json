@@ -1,0 +1,95 @@
+{
+  "name": "Broccoli Cheddar Quiche",
+  "slug": "broccoli-cheddar-quiche",
+  "description": "Thank you, Jessica Copeland, for this delicious, protein-packed breakfast recipe! Feel free to make your own pie shell using gluten-free Easy As Pie Dough Mix, or save time and use a frozen one.",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "quantity": "5",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "1 cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "Broccoli Cheddar Soup Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "SPG Seasoning",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "broccoli florets",
+      "quantity": "2 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "frozen pie shell",
+      "quantity": "9''",
+      "additionalInstruction": "defrosted"
+    }
+  ],
+  "totalTime": "60 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 375° F.",
+    "In a large bowl, whisk eggs, milk, Broccoli Cheddar Soup Seasoning, and SPG Seasoning. Finely chop broccoli. Add broccoli and 1&frasl;4 cup cheese to egg mixture. Stir to combine.",
+    "Place pie shell on Sheet Pan. Pour egg mixture into pie shell. Top with remaining 1&frasl;4 cup cheese.",
+    "Bake, 40–45 min or until a knife poked in the centre of the quiche comes out mostly clean and crust is golden brown. If the filling is slightly jiggly, it’s almost done.",
+    "Rest 5–10 min before slicing and serving."
+  ],
+  "tags": [],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 280,
+    "fat": 16,
+    "saturatedFat": 6,
+    "transFat": 0.2,
+    "cholesterol": 170,
+    "sodium": 350,
+    "carbohydrate": 23,
+    "fiber": 2,
+    "sugars": 5,
+    "protein": 13
+  },
+  "tips": [
+    "Choose your favourite add-ins, but make sure to stay under 4 cups for total amount of ingredients. Try ham, bacon, or veggies of your choice. Quiches are a great way to use up produce in your fridge.",
+    "Try blending the veggies with the egg mixture if you’ve got picky eaters!"
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "broccoli_cheddar_quiche_1036x583.jpg",
+  "thumbnail": "broccoli_cheddar_quiche_1036x583.webp",
+  "products": [
+    {
+      "slug": "broccoli_cheddar_soup_seasoning__pack_of_3_",
+      "name": "Broccoli Cheddar Soup Seasoning (Pack of 3)",
+      "summary": [
+        "A soup that gives comforting vibes, Broccoli Cheddar is a winter season essential. From raw to ready in just 20 minutes, this gluten free blend beats store-bought brands hands-down! Best of all, if you use frozen broccoli you don’t have to chop a single ingredient – onions, garlic, herbs, and spices are all in the blend.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "spg_seasoning_5edecfd",
+      "name": "SPG Seasoning",
+      "summary": [
+        "Salt. Pepper. Garlic. Your go-to for chicken, fish, seafood, roasted potatoes, veggies, &amp; even popcorn!"
+      ]
+    }
+  ]
+}

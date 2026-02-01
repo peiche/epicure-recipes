@@ -1,0 +1,166 @@
+{
+  "name": "Quick Air Fryer Fries",
+  "slug": "quick-air-fryer-fries",
+  "description": "Crispy on the outside and tender on the inside, pair your air fryer with Epicure’s microwave cookware for perfect fries every time. Beat the summer heat—no hot ovens required here!",
+  "ingredients": [
+    {
+      "name": "large Russet potato",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Cheesy Fries or Cajun Fries Seasoning",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "16 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Preheat air fryer to 400° F.",
+    "Thinly slice potato into fries. Place in Round Steamer with seasoning and oil; gently toss to coat.",
+    "Cover and microwave on high until slightly tender, 3 min.",
+    "Place fries in air fryer basket, spreading them out to avoid clumping.",
+    "Air fry 10 min or until crispy, shaking the basket halfway through."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "air_fryer",
+      "name": "Air Fryer"
+    },
+    {
+      "slug": "birthday",
+      "name": "Birthday"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "sides",
+      "name": "Side Dishes"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "better_than_take_out",
+      "name": "Better Than Takeout"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "father_s_day",
+      "name": "Father’s Day"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 220,
+    "fat": 8,
+    "saturatedFat": 1,
+    "transFat": 0.1,
+    "cholesterol": 5,
+    "sodium": 320,
+    "carbohydrate": 33,
+    "fiber": 4,
+    "sugars": 2,
+    "protein": 5
+  },
+  "tips": [
+    "Upgrade your fries to Truffle Fries.",
+    "No air fryer? Place Cooling Racks on a Sheet Pan; arrange fries on the rack and roast in a preheated 425° F oven for 30–35 min. or until tender and crispy, flipping halfway."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 4 oz (113 g) lean protein and 2 cups leafy greens with 1 tbsp prepared Epicure Dressing.",
+  "image": "Quick-Air-Fryer-Fries_1036x583.jpg",
+  "thumbnail": "Quick-Air-Fryer-Fries_1036x583.webp",
+  "products": [
+    {
+      "slug": "roasted_garlic_parmesan_fries_seasoning",
+      "name": "Cheesy Fries Seasoning",
+      "summary": [
+        "Who can resist restaurant-style cheesy fries? They’re even better when we bake them at home. Made with aromatic garlic, real Parmesan, and premium quality spices, this versatile seasoning is low in sodium, and free from gluten, artificial flavours, colours, and preservatives. Simply sprinkle it on fries, popcorn, pasta, or veggies for a healthy, cheesy family favorite.&nbsp;"
+      ]
+    },
+    {
+      "slug": "cajun_fries_seasoning",
+      "name": "Cajun Fries Seasoning",
+      "summary": [
+        "We love to make our taste buds dance with this <strong>Cajun Fries Seasoning</strong>. This blend of premium herbs and spices creates an earthy, piquant flavour that tastes great and packs a punch. It's perfect for anyone who wants to add excitement and heat to their favourite snack. Sprinkle as much or as little as you like over your spuds for a healthy alternative to restaurant fries with added seasonings.&nbsp;"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    },
+    {
+      "slug": "cooling_rack__set_of_2___1701277_",
+      "name": "Cooling Rack (Set of 2)",
+      "summary": [
+        "These space-saving cooling racks are an absolute must-have for every at-home baker or chef.&nbsp;"
+      ]
+    }
+  ]
+}

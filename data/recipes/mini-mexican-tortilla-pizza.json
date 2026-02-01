@@ -1,0 +1,166 @@
+{
+  "name": "Mini Mexican Tortilla Pizza",
+  "slug": "mini-mexican-tortilla-pizza",
+  "description": "This is the type of leftovers meal that you’ll love so much, you’ll be planning for leftovers...just so you can make it! And that’s not hard to do, considering one pulled pork recipe makes 20 servings. So go on, make some pulled pork and look forward to mini tortilla pizzas the next day.",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "quantity": "8",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Poco Picante Salsa",
+      "quantity": "1 cup",
+      "additionalInstruction": "prepared"
+    },
+    {
+      "name": "Poco Picante Salsa Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "diced tomatoes",
+      "quantity": "1 cup ",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lime juice",
+      "quantity": "1 tsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "cilantro",
+      "quantity": null,
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "Slow Cooker Pulled Pork",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pulled Pork Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ketchup",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "brown sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless pork shoulder or butt roast",
+      "quantity": "5 lbs (2.5 kg)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "low-fat shredded cheese",
+      "quantity": "1 cup",
+      "additionalInstruction": "your choice"
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings (2 tortillas)",
+  "preparation": [
+    "Preheat oven to 350° F (175° C).",
+    "Place tortillas on a parchment-lined Sheet Pan. Top with 1 tbsp Salsa, 2 tbsp Pulled Pork and 1 tbsp cheese.",
+    "Bake for 3–5 minutes, until cheese melts and tortillas are golden. Serve."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "appetizers___small_bites",
+      "name": "Appetizers & Small Bites"
+    },
+    {
+      "slug": "sheet_pan_3e5bebd",
+      "name": "Sheet Pan"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 250,
+    "fat": 7,
+    "saturatedFat": 2.5,
+    "transFat": 0,
+    "cholesterol": 45,
+    "sodium": 350,
+    "carbohydrate": 30,
+    "fiber": 4,
+    "sugars": 5,
+    "protein": 20
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Mini-Mexican-Tortilla-Pizza-Main.jpg",
+  "thumbnail": "Mini-Mexican-Tortilla-Pizza-Main.webp",
+  "products": [
+    {
+      "slug": "poco_picante_salsa_mix_b187be5",
+      "name": "Poco Picante Salsa Mix",
+      "summary": [
+        "The vibrant flavours of cayenne, chilies, and garlic come together to create a zesty salsa with a medium kick.&nbsp;"
+      ]
+    },
+    {
+      "slug": "pulled_pork_seasoning__pkg_of_3_",
+      "name": "Pulled Pork Seasoning (Pack of 3)",
+      "summary": [
+        "This seasoning is a shortcut to the south when you’re in the mood for some BBQ! Grab a slow cooker and let the pork slowly infuse with notes of deep, sweet ‘n tangy barbecue and a hint of smokiness. So good!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "sheet_pan_423693c",
+      "name": "Sheet Pan",
+      "summary": [
+        "Lightweight all-purpose baking sheet made from a single piece of aluminum, with a one-inch rim.&nbsp;"
+      ]
+    }
+  ]
+}

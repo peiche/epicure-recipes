@@ -1,0 +1,130 @@
+{
+  "name": "Marry Me Chicken",
+  "slug": "marry-me-chicken",
+  "description": "Get ready to tie the knot… with your taste buds! This creamy, Tuscan-style chicken dish was such a hit online, we just had to bring it to your dinner table. Luscious cream sauce, juicy chicken, and a burst of tomato flavour—it’s a match made in heaven. Great for date nights, entertaining, and regular weeknight dinners. There’s plenty of love to go around!",
+  "ingredients": [
+    {
+      "name": "oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "boneless, skinless chicken thighs",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Marry Me Chicken Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "half and half cream (10%)",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "baby spinach",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Heat oil in Sauté Pan over medium-high heat.",
+    "Season chicken with 2 tbsp seasoning.",
+    "Whisk remaining seasoning with cream and water. Set aside.",
+    "Add chicken to pan; brown 2 min per side. Stir in reserved seasoning mixture. Bring to a boil, then reduce heat to medium-low. Cover and simmer 5 min, or until chicken is cooked through, stirring occasionally.",
+    "Add spinach; cover and cook until wilted.",
+    "Serve over pasta, rice, or mashed potatoes, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 340,
+    "fat": 19,
+    "saturatedFat": 6,
+    "transFat": 0.1,
+    "cholesterol": 95,
+    "sodium": 320,
+    "carbohydrate": 10,
+    "fiber": 2,
+    "sugars": 2,
+    "protein": 31
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup veggies and 1 cup rice or pasta.",
+  "image": "Marry-Me-Chicken-on-pack_2160x1860.jpg",
+  "thumbnail": "Marry-Me-Chicken-on-pack_2160x1860.webp",
+  "products": [
+    {
+      "slug": "marry_me_salmon_seasoning__pack_of_3_",
+      "name": "Marry Me Chicken Seasoning (Pack of 3)",
+      "summary": [
+        "While we can’t guarantee a marriage proposal following this meal, we are certain Marry Me Chicken is going to be a big part of your life! This one-pan meal is creamy and decadent, with bursts of tomato flavor and notes of basil in every bite. It’s perfect for special occasions, holiday feasts, or weeknight dinners when you want to feel a little fancy without spending hours in the kitchen—in fact it’s ready in 15 minutes!&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    }
+  ]
+}

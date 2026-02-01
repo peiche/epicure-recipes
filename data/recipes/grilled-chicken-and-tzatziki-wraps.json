@@ -1,0 +1,156 @@
+{
+  "name": "Grilled Chicken and Tzatziki Wraps",
+  "slug": "grilled-chicken-and-tzatziki-wraps",
+  "description": "A Greek restaurant classic made easy at home!",
+  "ingredients": [
+    {
+      "name": "skinless, boneless chicken thighs",
+      "quantity": "12",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Chicken Souvlaki Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large tomato",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large red onion",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "shredded lettuce",
+      "quantity": "2 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Dressing",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Greek Dressing Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>3</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red wine vinegar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whole-wheat pitas or tortillas",
+      "quantity": "8",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dillicious Tzatziki",
+      "quantity": "1 recipe prepared",
+      "additionalInstruction": "or Hummus"
+    },
+    {
+      "name": "2% plain Greek yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Lemon Dilly Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "English cucumber",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "8 servings",
+  "preparation": [
+    "Place tomato, onion and lettuce in a bowl and drizzle with Greek Dressing. Toss to mix. Set aside.",
+    "Season chicken with Souvlaki Seasoning and grill over medium heat for 8–10 minutes, turning often, until cooked through. Remove to a cutting board, then coarsely chop.",
+    "Spread pitas with tzatziki, then fill with chicken and marinated vegetables."
+  ],
+  "tags": [
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 250,
+    "fat": 10,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 65,
+    "sodium": 310,
+    "carbohydrate": 20,
+    "fiber": 1,
+    "sugars": 3,
+    "protein": 19
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Grilled-Chicken-and-Tzatziki-Wraps-Main.jpg",
+  "thumbnail": "Grilled-Chicken-and-Tzatziki-Wraps-Main.webp",
+  "products": [
+    {
+      "slug": "chicken_souvlaki_seasoning__pkg_of_3_",
+      "name": "Chicken Souvlaki Seasoning (Pkg of 3)",
+      "summary": [
+        "A Greek-inspired meal, souvlaki is marinated meat grilled on a skewer, often served with warm pita bread and tzatziki. No grill? No problem. Skip the skewers and put your Sheet Pan to work to make equally tasty Chicken Souvlaki in 20 minutes in the oven.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "greek_dressing_mix_d75eccd",
+      "name": "Greek Dressing Mix",
+      "summary": [
+        "Herbs make salad dressings taste great, but they can be a pain to buy and use while fresh. Enter our Greek Dressing to solve the problem. Packed with only good food ingredients, including garlic, oregano, mint, and zero additives, it’s easy to make your own healthy dressing with this simple blend. Just mix it with olive oil and red wine vinegar and give it a shake. Add crumbled feta or Greek yogurt for a creamier dressing.&nbsp;"
+      ]
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    }
+  ]
+}

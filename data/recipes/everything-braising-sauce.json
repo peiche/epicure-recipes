@@ -1,0 +1,148 @@
+{
+  "name": "Everything Braising Sauce",
+  "slug": "everything-braising-sauce",
+  "description": "This a great “go to” sauce, it is delicious and comforting.",
+  "ingredients": [
+    {
+      "name": "Assam black tea",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "6 cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Minced Garlic",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Toasted Onion",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "packed brown sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "canned diced tomatoes",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "red or white wine",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "chicken, pork, or beef",
+      "quantity": "2 - 2 <sup>1</sup>&frasl;<sub>2</sub> lbs (1 kg)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "1 hr 15 min - 1 hr 45 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Preheat oven to 325° F (160° C).",
+    "Boil water. Add tea and steep for 5 minutes. Strain and set tea aside.",
+    "In a large sauce pan over medium heat, combine olive oil, Minced Garlic, and Toasted Onion.",
+    "Add the tea, sugar, tomatoes, and wine, if using. Simmer and stir until sugar dissolves.",
+    "Add meat and season with Sea Salt and Black Pepper. Coat with braising sauce, then bake, covered, until tender and cooked, 1–1 1&frasl;2 hours. Serve with mashed potatoes or your favourite grain."
+  ],
+  "tags": [
+    {
+      "slug": "pork",
+      "name": "Pork"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "chicken___poultry",
+      "name": "Chicken & Poultry"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 300,
+    "fat": 17,
+    "saturatedFat": 4.5,
+    "transFat": 0,
+    "cholesterol": 75,
+    "sodium": 90,
+    "carbohydrate": 15,
+    "fiber": 1,
+    "sugars": 12,
+    "protein": 19
+  },
+  "tips": [
+    "Halfway through cooking, add a variety of root vegetables, like carrots, parsnips, and rutabaga. They will add to the flavour of the sauce, and the side dish step for a complete meal is done!"
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Everything-Braising-Sauce-Main.jpg",
+  "thumbnail": "Everything-Braising-Sauce-Main.webp",
+  "products": [
+    {
+      "slug": "minced_garlic",
+      "name": "Minced Garlic",
+      "summary": [
+        "Full, bold, garlic flavour. No chopping required.&nbsp;"
+      ]
+    },
+    {
+      "slug": "toasted_onion",
+      "name": "Toasted Onion",
+      "summary": [
+        "Sweet flavour of lightly toasted onion."
+      ]
+    }
+  ]
+}

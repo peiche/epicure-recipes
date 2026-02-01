@@ -1,0 +1,130 @@
+{
+  "name": "Zucchini Mac & Cheese",
+  "slug": "zucchini-mac-cheese",
+  "description": "Make use of that summer zucchini bounty – simply grate some into our already amazing Mac & Cheese. If you’ve got picky eaters, we suggest peeling the zucchini before grating it, then they won’t even know it’s there!",
+  "ingredients": [
+    {
+      "name": "bite-sized pasta",
+      "quantity": "2 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "medium zucchinis",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Mac & Cheese Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "milk",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "13 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In Multipurpose Pot, cook pasta according to package directions. Drain.",
+    "Meanwhile, coarsely grate zucchini. You should have about 3 cups. Add to Round Steamer. Cover and microwave on high for 4 min. Drain any excess water from steamer.",
+    "Add cooked pasta to steamer with zucchini. Stir in seasoning, milk, and butter until evenly coated."
+  ],
+  "tags": [
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "one_dish",
+      "name": "One Dish"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 330,
+    "fat": 11,
+    "saturatedFat": 6,
+    "transFat": 0.3,
+    "cholesterol": 30,
+    "sodium": 380,
+    "carbohydrate": 46,
+    "fiber": 3,
+    "sugars": 3,
+    "protein": 14
+  },
+  "tips": [
+    "Instead of using Round Steamer, cook grated zucchini in Wok with 1 tbsp oil until softened, about 5 min. To cut down on cooking time, wrap grated zucchini in a kitchen towel and squeeze out excess liquid before cooking."
+  ],
+  "perfectlyBalanceYourPlate": "Stir 1 lb (450 g) cooked, shredded chicken or turkey into mac & cheese, and serve with 1 cup chopped veggies.",
+  "image": "zucchini_mac_cheese_1036x583.jpg",
+  "thumbnail": "zucchini_mac_cheese_1036x583.webp",
+  "products": [
+    {
+      "slug": "mac___cheese_seasoning__pkg_of_3_",
+      "name": "Mac & Cheese Seasoning (Pack of 3)",
+      "summary": [
+        "An all-time best-seller, this is the Mac &amp; Cheese you’ve been craving – and that your kids will LOVE to eat! Creamy, cheesy, and super comforting, it’s free of unnecessary additives and packed with flavour thanks to real cheddar cheese. Take it from the stovetop (or microwave) to the table in under 10 minutes and dig in!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "round_steamer",
+      "name": "Round Steamer",
+      "summary": [
+        "A&nbsp;must-have tool&nbsp;for every kitchen!&nbsp;Our&nbsp;game-changing&nbsp;silicone&nbsp;Round Steamer cooks food faster and more evenly in the microwave.&nbsp;Bring&nbsp;a&nbsp;whole, juicy&nbsp;Roast Chicken to the table in&nbsp;20&nbsp;minutes, perfectly cook fluffy grains, baked potatoes, and tender veggies, or&nbsp;meal prep soups and chowders for easy weeknight meals. The possibilities are endless!&nbsp;&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "wok___glass_lid__1708027_",
+      "name": "Wok & Glass Lid",
+      "summary": [
+        "Classic Wok with curvy side &amp; generous surface area for stir-frying.&nbsp;"
+      ]
+    }
+  ]
+}

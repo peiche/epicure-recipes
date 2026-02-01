@@ -1,0 +1,87 @@
+{
+  "name": "Taco Filling",
+  "slug": "taco-filling",
+  "description": "Reduce your sodium intake with Epicure Taco Seasoning: 1 tsp contains only 10 mg of sodium! Store-bought brands can contain as much as 22 times that amount: 240 mg per 1 tsp!",
+  "ingredients": [
+    {
+      "name": "lean ground beef",
+      "quantity": "1 lb (450 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Taco Seasoning ",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Brown beef with seasoning in frying pan over medium-high heat.",
+    "Serve in a bowl alongside other taco toppings."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 170,
+    "fat": 5,
+    "saturatedFat": 1.5,
+    "transFat": 0.5,
+    "cholesterol": 60,
+    "sodium": 105,
+    "carbohydrate": 6,
+    "fiber": 2,
+    "sugars": 1,
+    "protein": 23
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "taco_filling_1036x583.jpg",
+  "thumbnail": "taco_filling_1036x583.webp",
+  "products": [
+    {
+      "slug": "taco_seasoning__1701317_",
+      "name": "Taco Seasoning (Jar)",
+      "summary": [
+        "Classic Tex-Mex flavor with medium heat."
+      ]
+    }
+  ]
+}

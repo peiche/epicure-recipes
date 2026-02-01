@@ -1,0 +1,137 @@
+{
+  "name": "Vegan Pumpkin Spice Loaf",
+  "slug": "vegan-pumpkin-spice-loaf",
+  "description": "Our amazing pumpkin spice loaf can be veganized by simply swapping 2 eggs with a banana and a bit of water. Yes, that means this recipe is gluten-free, nut-free, dairy-free, and vegan!",
+  "ingredients": [
+    {
+      "name": "banana",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pumpkin purée",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vegetable oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Pumpkin Spice Loaf & Muffin Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Spiced Cream Cheese Icing",
+      "quantity": "1 recipe",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "cream cheese",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> pkg (8 oz/250 g)",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "butter",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "softened"
+    },
+    {
+      "name": "Cinnamon",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "icing sugar",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub> cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20 min",
+  "servings": "1 Loaf for 12 servings",
+  "preparation": [
+    "Generously oil Rectangular Steamer using a basting brush.",
+    "In large bowl, mash banana. Whisk in water to thin out.",
+    "Whisk in pumpkin purée and oil until evenly mixed. Stir in mix.",
+    "Scrape batter into steamer; smooth top of batter. Microwave on high for 8 min, uncovered. Rest in steamer for 6 min; invert onto wire rack to cool. Or, bake in preheated 350° F oven, 50–55 min. Cool in steamer 15 min; unmold.",
+    "When completely cool, spread on icing, if desired. Slice and serve."
+  ],
+  "tags": [
+    {
+      "slug": "vegan",
+      "name": "Vegan"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "halloween",
+      "name": "Halloween"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "1 slice",
+    "calories": 150,
+    "fat": 9,
+    "saturatedFat": 0.5,
+    "transFat": 0,
+    "cholesterol": 0,
+    "sodium": 180,
+    "carbohydrate": 19,
+    "fiber": 2,
+    "sugars": 9,
+    "protein": 1
+  },
+  "tips": [
+    "Make the Spiced Cream Cheese Icing vegan, use vegan butter and a dairy-free cream cheese alternative."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "1598564489764-recipeMainImagePath.jpg",
+  "thumbnail": "1598564489764-recipeMainImagePath.webp",
+  "products": []
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Dulce de Leche Bread Pudding",
+  "slug": "dulce-de-leche-bread-pudding",
+  "description": "This quick and satisfying dessert is a great way to use up day-old bread in your pantry!",
+  "ingredients": [
+    {
+      "name": "milk",
+      "quantity": "2 cups",
+      "additionalInstruction": "your choice"
+    },
+    {
+      "name": "unsalted butter",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Dulce de Leche Instant Pudding Mix",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cubed, day-old bread or croutons",
+      "quantity": "4 cups",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "12 servings",
+  "preparation": [
+    "Place milk and butter in Multipurpose Steamer. Cover and microwave on high 3 min, or until butter is melted and mixture is hot.",
+    "Meanwhile, in 4-Cup Prep Bowl, whisk together eggs and pudding mix until well combined.",
+    "When butter mixture is hot, stir in bread cubes until most of the liquid is absorbed. Fold in egg mixture; microwave uncovered 5–6 min, or until set. Add toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "⅓ cup",
+    "calories": 120,
+    "fat": 6,
+    "saturatedFat": 3.5,
+    "transFat": 0.2,
+    "cholesterol": 45,
+    "sodium": 90,
+    "carbohydrate": 14,
+    "fiber": 1,
+    "sugars": 7,
+    "protein": 3
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Dulce de Leche Bread Pudding Lg.jpg",
+  "thumbnail": "Dulce de Leche Bread Pudding Lg.webp",
+  "products": [
+    {
+      "slug": "dulce_de_leche",
+      "name": "Dulce de Leche Instant Pudding Mix (Pack of 2)",
+      "summary": [
+        "Rich, creamy, and dreamy! It makes a pudding in minutes – so you can enjoy it anytime you’re looking for a quick, sweet treat – and is versatile enough to make bread puddings, energy balls, caramelized carrots, and more!&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

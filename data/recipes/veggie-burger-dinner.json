@@ -1,0 +1,138 @@
+{
+  "name": "Veggie Burger Dinner",
+  "slug": "veggie-burger-dinner",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "whole grain flour or gluten-free flour ",
+      "quantity": "<sup>1</sup>&frasl;<sub>3</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "eggs",
+      "quantity": "2",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "3 Onion Dip Mix",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lentils",
+      "quantity": "1-19 oz can",
+      "additionalInstruction": "drained and rinsed"
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "Black Pepper",
+      "quantity": null,
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "ketchup",
+      "quantity": "4 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "tomato slices",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lettuce leaves",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "whole grain or gluten-free buns",
+      "quantity": "4",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "20–22 min",
+  "servings": "4 servings",
+  "preparation": [
+    "In a large bowl, combine all burger patty ingredients; form into 4 patties.",
+    "In a large fry pan, add oil and cook patties until thoroughly heated, approximately 5–6 min on each side.",
+    "While patties are cooking, slice cucumbers and make dip. Set on plates.",
+    "Assemble burgers by starting with base of bun and then adding patty, toppings, and top of bun. Serve each burger with 1 cup of veggies and 2 tbsp of prepared dip. Enjoy!"
+  ],
+  "tags": [
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    },
+    {
+      "slug": "vegetarian",
+      "name": "Vegetarian"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 450,
+    "fat": 10,
+    "saturatedFat": 2,
+    "transFat": 0,
+    "cholesterol": 95,
+    "sodium": 480,
+    "carbohydrate": 78,
+    "fiber": 17,
+    "sugars": 16,
+    "protein": 20
+  },
+  "tips": [
+    "No eggs? No problem. Try a \"flax\" egg: In a prep bowl, mix 1 tbsp ground flaxseed with 3 tbsp hot water; let rest for 1 min, then use mixture in place of egg.",
+    "Make extra patties and freeze them on a baking sheet. Then, place frozen patties in freezer bags."
+  ],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup chopped veggies, 1&frasl;2 cup prepared 3 Onion Dip.",
+  "image": "Veggie-Burger-Dinner_1036x583.jpg",
+  "thumbnail": "Veggie-Burger-Dinner_1036x583.webp",
+  "products": [
+    {
+      "slug": "n3_onion_dip_mix_c845e80",
+      "name": "3 Onion Dip Mix",
+      "summary": [
+        "These onions won’t make you cry—they’re pure happiness in a jar! Save time (and tears) on chopping and use this blend anytime you’re looking for the robust flavour of onions, chives, and scallions. Take it way beyond the dip bowl and use 3 Onion as a sauce or seasoning for eggs, veggies, burgers, tacos, and more!&nbsp;"
+      ]
+    }
+  ]
+}

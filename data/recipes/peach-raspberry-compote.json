@@ -1,0 +1,132 @@
+{
+  "name": "Peach & Raspberry Compote",
+  "slug": "peach-raspberry-compote",
+  "description": "This is a versatile recipe, so use your favorite seasonal fruit combinations.",
+  "ingredients": [
+    {
+      "name": "peaches",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "raspberries",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Summer Berry Sweet Dip Mix",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Apple Pie Spice",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "grated lemon, lime, or orange peel",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "2% plain Greek yogurt",
+      "quantity": "1 cup",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Peel and chop peaches.",
+    "In Multipurpose Steamer, combine peaches, raspberries, sweet dip mix, Apple Pie Spice, and lemon peel. Cover; microwave on high until fruit is tender, 3–5 min.",
+    "Place compote into four serving dishes. Top each with 1&frasl;4 cup Greek yogurt and serve."
+  ],
+  "tags": [
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "easter",
+      "name": "Easter"
+    },
+    {
+      "slug": "mother_s_day",
+      "name": "Mother’s Day"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 120,
+    "fat": 1.5,
+    "saturatedFat": 1,
+    "transFat": 0,
+    "cholesterol": 5,
+    "sodium": 15,
+    "carbohydrate": 23,
+    "fiber": 5,
+    "sugars": 17,
+    "protein": 7
+  },
+  "tips": [
+    "If fresh fruit is out of season, use frozen peaches or raspberries."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Peach-&-Raspberry-Compote_1036x583.jpg",
+  "thumbnail": "Peach-&-Raspberry-Compote_1036x583.webp",
+  "products": [
+    {
+      "slug": "summer_berry_sweet_dip_mix_3b74ec9",
+      "name": "Summer Berry Sweet Dip Mix",
+      "summary": [
+        "A tangy, fruity blend of raspberries, strawberries, hibiscus &amp; a touch of rooibos. Sweet dip &amp; a seasoning!"
+      ]
+    },
+    {
+      "slug": "apple_pie_spice",
+      "name": "Apple Pie Spice",
+      "summary": [
+        "It’s apple pie in a jar: aromatic cinnamon &amp; nutmeg."
+      ]
+    },
+    {
+      "slug": "multipurpose_steamer_bd092c3",
+      "name": "Multipurpose Steamer",
+      "summary": [
+        "Like a casserole dish in design &amp; purpose, this cooking utensil is made of silicone &amp; has a 14-cup capacity."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "name": "4 Minute Salmon and Asparagus",
+  "slug": "4-minute-salmon-and-asparagus",
+  "description": "You’ve got to try our Quick and Easy 4-minute salmon fillet nestled on a bed of asparagus recipe! Our steamer method is super easy and amazingly tasty as it allows the flavours of the salmon and the Pesto blend to infuse and develop wonderfully. Add a dollop of cream cheese before cooking to take it to another level!",
+  "ingredients": [
+    {
+      "name": "bunch asparagus",
+      "quantity": "1",
+      "additionalInstruction": "trimmed"
+    },
+    {
+      "name": "Asian Stir-Fry Seasoning or Lemon Dilly Dip Mix or prepared Pesto Sauce",
+      "quantity": "2 tsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Pesto Sauce Mix",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "water",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "pine nuts or pistachio nuts",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "optional"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "quantity": "1 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "olive oil",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "salmon fillets",
+      "quantity": "2 (4 oz/110 g)",
+      "additionalInstruction": "skin removed"
+    }
+  ],
+  "totalTime": "9 - 10 min",
+  "servings": "2 servings",
+  "preparation": [
+    "Place asparagus in Rectangular Steamer; sprinkle with 1 tsp seasoning. Lay salmon over top; sprinkle with remaining seasoning.",
+    "Cover; microwave on high for 4–5 min."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "steamers",
+      "name": "Steamers"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "microwave",
+      "name": "Microwave"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 220,
+    "fat": 9,
+    "saturatedFat": 1.5,
+    "transFat": 0,
+    "cholesterol": 70,
+    "sodium": 60,
+    "carbohydrate": 6,
+    "fiber": 3,
+    "sugars": 2,
+    "protein": 29
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup steamed rice or couscous. Add a squeeze of fresh lemon.",
+  "image": "steamer_salmon_asparagus_1036x583.jpg",
+  "thumbnail": "steamer_salmon_asparagus_1036x583.webp",
+  "products": [
+    {
+      "slug": "asian_stir_fry_seasoning",
+      "name": "Asian Stir-Fry Seasoning",
+      "summary": [
+        "Your go-to for stir-fries, sautéed vegetables or add as a seasoning to any rice and noodle dish."
+      ]
+    },
+    {
+      "slug": "lemon_dilly_dip_mix_cefe2b4",
+      "name": "Lemon Dilly Dip Mix",
+      "summary": [
+        "Beyond being one of our most-loved kid-friendly dips – they love it for dunking chicken strips, fish bites, and veggies – Lemon Dilly is all about versatility. With loads of dill and a hint of lemon zest, it makes an utterly delicious tzatziki and spread for burgers and sandwiches, and levels up everything from salad dressing and salmon to pasta and vegetables.&nbsp;&nbsp;"
+      ]
+    },
+    {
+      "slug": "rectangular_steamer_efd7225",
+      "name": "Rectangular Steamer",
+      "summary": [
+        "Easy to clean. Easy to serve. Rectangular, silicone steamer is perfect for side dishes &amp; desserts."
+      ]
+    }
+  ]
+}

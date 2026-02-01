@@ -1,0 +1,80 @@
+{
+  "name": "Hot Buttered Bananas",
+  "slug": "hot-buttered-bananas",
+  "description": "A quick and easy dessert – perfect for the fall season.",
+  "ingredients": [
+    {
+      "name": "firm bananas",
+      "quantity": "4",
+      "additionalInstruction": "peeled"
+    },
+    {
+      "name": "Hot Buttered Rum",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "light cream or half-and-half",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "orange juice",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Cut each banana crosswise into 3 pieces. Cut each section in half lengthwise. Set aside.",
+    "Melt Hot Buttered Rum in frying pan over medium-high heat. Add cream and orange juice; stir continuously until sauce comes to a boil.",
+    "Add sliced bananas to pan. Gently stir to coat bananas with sauce. Cook for 2 minutes."
+  ],
+  "tags": [
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "onion_free",
+      "name": "Onion-free"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "garlic_free",
+      "name": "Garlic-free"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 120,
+    "fat": 2.5,
+    "saturatedFat": 1.5,
+    "transFat": 0.1,
+    "cholesterol": 5,
+    "sodium": 15,
+    "carbohydrate": 26,
+    "fiber": 2,
+    "sugars": 17,
+    "protein": 1
+  },
+  "tips": [
+    "Serve bananas over frozen yogurt or ice cream. Add a drizzle of melted Dark Belgian Chocolate, if desired."
+  ],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Hot-Buttered-Bananas_1036x583.jpg",
+  "thumbnail": "Hot-Buttered-Bananas_1036x583.webp",
+  "products": []
+}

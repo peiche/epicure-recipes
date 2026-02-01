@@ -1,0 +1,142 @@
+{
+  "name": "Sizzlin’ Steak Tacos",
+  "slug": "sizzlin-steak-tacos",
+  "description": "Donair Seasoning and orange juice make an unlikely duo but yield the most amazingly tender & flavourful steak. Tucked away in warmed tortillas and piled high with your favourite taco fillings, this meal is best served with a cold bevvy.",
+  "ingredients": [
+    {
+      "name": "steak (such as flank or skirt)",
+      "quantity": "1 <sup>1</sup>&frasl;<sub>2</sub> lbs (675 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "orange juice",
+      "quantity": "<sup>1</sup>&frasl;<sub>4</sub> cup",
+      "additionalInstruction": null
+    },
+    {
+      "name": "oil",
+      "quantity": "2 tbsp",
+      "additionalInstruction": "divided"
+    },
+    {
+      "name": "Donair Seasoning",
+      "quantity": "1 pkg",
+      "additionalInstruction": null
+    },
+    {
+      "name": "avocado",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "large tomato",
+      "quantity": "1",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small red onion",
+      "quantity": "<sup>1</sup>&frasl;<sub>2</sub>",
+      "additionalInstruction": null
+    },
+    {
+      "name": "small tortillas",
+      "quantity": "12",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "15 min",
+  "servings": "6 servings",
+  "preparation": [
+    "Slice steak against the grain into 1&frasl;3\"-thick strips; place in a bowl. Add orange juice, 1 tbsp oil, and seasoning. Toss to coat. Set aside to marinate.",
+    "Dice avocado, tomato, and onion.",
+    "In Sauté Pan, heat remaining 1 tbsp oil. Add steak in a single layer, if possible. Cook in two batches, if required. Cook 1 min, flip, then cook additional 1 min–1 min 30 sec, or until steak is done to your liking.",
+    "Add steak, avocado, tomato, and onion to tortillas and serve with toppings, if desired."
+  ],
+  "tags": [
+    {
+      "slug": "epic_life_lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "slug": "cinco_de_mayo",
+      "name": "Cinco de Mayo"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "canada_day",
+      "name": "Canada Day"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "beef",
+      "name": "Beef"
+    },
+    {
+      "slug": "n4th_of_july",
+      "name": "Independence Day"
+    },
+    {
+      "slug": "epic_life_dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "game_day",
+      "name": "Game Day"
+    },
+    {
+      "slug": "stovetop_978bc23",
+      "name": "Stovetop"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "2 tacos",
+    "calories": 430,
+    "fat": 20,
+    "saturatedFat": 5,
+    "transFat": 0,
+    "cholesterol": 45,
+    "sodium": 600,
+    "carbohydrate": 34,
+    "fiber": 7,
+    "sugars": 3,
+    "protein": 30
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "Serve with 1 cup sliced veggies, your choice.",
+  "image": "may_sizzlin_steak_tacos_1036x583.jpg",
+  "thumbnail": "may_sizzlin_steak_tacos_1036x583.webp",
+  "products": [
+    {
+      "slug": "donair_seasoning__pkg_of_3_",
+      "name": "Donair Seasoning (Pack of 3)",
+      "summary": [
+        "Any way you name it – <em>gyro, shawarma, donair, or doner kebab </em>– our Donair Seasoning is what you’re looking for. You won’t believe how easy it is to make the street food staple at home in minutes with this blend and a few simple ingredients. Just add the seasoning to ground beef, press it into a <a href=\"https://epicure.com/product/rectangular-steamer\">Rectangular Steamer</a> and cook it in the microwave for 10 minutes or the oven for 60. Slice thinly and serve on a pita with fresh veggies and tzatziki – dinner is done!&nbsp;"
+      ]
+    },
+    {
+      "slug": "fry_pan_12_",
+      "name": "Sauté Pan",
+      "summary": [
+        "An all-purpose pan to brown, sauté, and simmer—ideal for one pan meals."
+      ]
+    }
+  ]
+}

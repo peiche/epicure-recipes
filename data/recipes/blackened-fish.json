@@ -1,0 +1,96 @@
+{
+  "name": "Blackened Fish",
+  "slug": "blackened-fish",
+  "description": "Keep your body healthy and strong – this great low-sodium recipe packs a powerful punch of protein with 36 g per serving!",
+  "ingredients": [
+    {
+      "name": "sriracha seasoning",
+      "quantity": "3 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Fish Rub",
+      "quantity": "2 tsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Tuxedo Pepper Blend",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    },
+    {
+      "name": "fish fillets, such as sole, tilapia or other white fish",
+      "quantity": "4 (6 oz/170 g)",
+      "additionalInstruction": null
+    },
+    {
+      "name": "lemon wedges",
+      "quantity": "4",
+      "additionalInstruction": null
+    },
+    {
+      "name": "Sea Salt",
+      "quantity": null,
+      "additionalInstruction": "to taste"
+    }
+  ],
+  "totalTime": "13 min",
+  "servings": "4 servings",
+  "preparation": [
+    "Place sriracha seasoning, Fish Rub and Tuxedo Pepper Blend into a plastic bag. Add one fillet at a time and shake well to fully cover.",
+    "Using a basting brush, brush frying pan with oil and set over medium-high heat. Add fillets and cook for about 6–8 minutes, until a dark crust forms on each side. Reduce heat to medium to prevent burning, if necessary.",
+    "Place on plates, squeeze lemons overtop and sprinkle with Sea Salt."
+  ],
+  "tags": [
+    {
+      "slug": "fish___seafood",
+      "name": "Fish & Seafood"
+    },
+    {
+      "slug": "low_sodium",
+      "name": "Low-sodium"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "high_protein",
+      "name": "High Protein"
+    },
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "dairy_free",
+      "name": "Dairy-free"
+    },
+    {
+      "slug": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "slug": "lunch",
+      "name": "Lunch"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 210,
+    "fat": 4.5,
+    "saturatedFat": 0,
+    "transFat": 0,
+    "cholesterol": 55,
+    "sodium": 115,
+    "carbohydrate": 6,
+    "fiber": 2,
+    "sugars": 1,
+    "protein": 36
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Blackened-Fish-Main.jpg",
+  "thumbnail": "Blackened-Fish-Main.webp",
+  "products": []
+}

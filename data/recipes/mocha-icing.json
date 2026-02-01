@@ -1,0 +1,88 @@
+{
+  "name": "Mocha Icing",
+  "slug": "mocha-icing",
+  "description": "",
+  "ingredients": [
+    {
+      "name": "icing sugar",
+      "quantity": "1 <sup>2</sup>&frasl;<sub>3</sub> cups",
+      "additionalInstruction": null
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": "2 tbsp",
+      "additionalInstruction": null
+    },
+    {
+      "name": "butter",
+      "quantity": "1 cup",
+      "additionalInstruction": "at room temperature"
+    },
+    {
+      "name": "of salt",
+      "quantity": "1 pinch",
+      "additionalInstruction": null
+    },
+    {
+      "name": "hot coffee",
+      "quantity": "3 tbsp",
+      "additionalInstruction": "preferably ethically sourced"
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": "1 tsp",
+      "additionalInstruction": null
+    }
+  ],
+  "totalTime": "5 min",
+  "servings": "1 1/4 cups",
+  "preparation": [
+    "Whisk icing sugar and cocoa powder and cream with butter.",
+    "Slowly beat in hot coffee for approximately 2 minutes, or until glossy.",
+    "Stir in vanilla extract and immediately spread over cooled cake."
+  ],
+  "tags": [
+    {
+      "slug": "sugar_conscious",
+      "name": "Sugar Conscious"
+    },
+    {
+      "slug": "gluten_free_e8446d0",
+      "name": "Gluten-free"
+    },
+    {
+      "slug": "sauces___condiments",
+      "name": "Sauces & Condiments"
+    },
+    {
+      "slug": "no_cook",
+      "name": "No-Cook"
+    },
+    {
+      "slug": "dessert",
+      "name": "Dessert"
+    },
+    {
+      "slug": "epic_life_desserts",
+      "name": "Desserts"
+    }
+  ],
+  "nutritionalInformation": {
+    "servingSize": "",
+    "calories": 100,
+    "fat": 6,
+    "saturatedFat": 3.5,
+    "transFat": 0,
+    "cholesterol": 15,
+    "sodium": 40,
+    "carbohydrate": 11,
+    "fiber": 0,
+    "sugars": 10,
+    "protein": 0
+  },
+  "tips": [],
+  "perfectlyBalanceYourPlate": "",
+  "image": "Mocha-Icing-Main.jpg",
+  "thumbnail": "Mocha-Icing-Main.webp",
+  "products": []
+}
