@@ -1,7 +1,8 @@
 import { AppProps } from "next/app";
 import { GoogleAnalytics } from '@next/third-parties/google';
-import Script from "next/script";
+// import Script from "next/script";
 import { Inter, Playfair_Display } from 'next/font/google';
+import '../styles/print.css';
 
 const inter = Inter({
   subsets: ['latin'],

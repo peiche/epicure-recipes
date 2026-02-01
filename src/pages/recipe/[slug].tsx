@@ -3,12 +3,13 @@ import path from 'path';
 import { Box, Breadcrumbs, Button, Chip, Container, Divider, Grid, IconButton, Link, List, ListItem, ListItemIcon, ListItemText, Paper, Rating, Typography } from '@mui/material';
 import { AccessTime, Restaurant, LocalFireDepartment, Print, CheckCircle, ArrowBack } from '@mui/icons-material';
 import NextLink from 'next/link';
-import Layout from '../../../components/ui/layout';
-import Wrapper from '../../../components/layout/wrapper';
+import Layout from '../../components/ui/layout';
+import Wrapper from '../../components/layout/wrapper';
 import { GetStaticPaths, GetStaticProps, InferGetStaticPropsType } from 'next';
-import Recipe from '../../../interfaces/Recipe';
-import SEO from '../../../components/layout/seo';
+import Recipe from '../../interfaces/Recipe';
+import SEO from '../../components/layout/seo';
 import { useState } from 'react';
+// import styles from './recipe.module.css';
 
 interface RecipePageProps {
     recipe: Recipe;
@@ -23,6 +24,10 @@ export default function RecipePage({ recipe }: RecipePageProps & InferGetStaticP
         );
     };
 
+    const handlePrint = () => {
+        window.print();
+    };
+
     return (
         <Layout>
             <style global jsx>{`
@@ -32,9 +37,10 @@ export default function RecipePage({ recipe }: RecipePageProps & InferGetStaticP
             `}</style>
             <SEO title={recipe.name} />
             <Wrapper>
-                <Box component="main" sx={{ flexGrow: 1 }}>
+                <Box component='main' sx={{ flexGrow: 1 }}>
                     {/* Hero Image */}
                     <Box
+                        className='hide-on-print'
                         sx={{
                             position: 'relative',
                             height: { xs: 300, md: 450 },
@@ -118,7 +124,10 @@ export default function RecipePage({ recipe }: RecipePageProps & InferGetStaticP
 
                                 {/* Actions */}
                                 <Box sx={{ display: 'flex', gap: 1, flexWrap: 'wrap' }}>
-                                    <IconButton sx={{ border: '1px solid', borderColor: 'divider' }}>
+                                    <IconButton
+                                        onClick={handlePrint}
+                                        sx={{ border: '1px solid', borderColor: 'divider' }}
+                                    >
                                         <Print />
                                     </IconButton>
                                 </Box>
@@ -264,7 +273,7 @@ export default function RecipePage({ recipe }: RecipePageProps & InferGetStaticP
                                 </Box>
                             )}
 
-                            <Box sx={{ mt: 4, pt: 4, borderTop: '1px solid', borderColor: 'divider' }}>
+                            <Box className='hide-on-print' sx={{ mt: 4, pt: 4, borderTop: '1px solid', borderColor: 'divider' }}>
                                 {/* Tags */}
                                 {recipe.tags?.length > 0 && (
                                     <Box>

@@ -32,7 +32,14 @@ export default function HomePage({ featuredRecipes, featuredCategories }: { feat
 
 export const getStaticProps: GetStaticProps = async () => {
     const featuredRecipes = getRecipesBySlugs([
-        '1-2-3-wacky-chocolate-cake',
+        'lemon-chicken-orzo',
+        'honey-garlic-meatballs',
+        'easy-peasy-waffles',
+        'beef-stroganoff',
+        'philly-style-cheesesteak',
+        'chicken-souvlaki',
+        'french-onion-dip',
+        'luscious-lemon-curd',
     ]);
 
     return {
