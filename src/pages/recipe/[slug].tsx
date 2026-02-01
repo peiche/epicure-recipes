@@ -269,7 +269,9 @@ export default function RecipePage({ recipe }: RecipePageProps & InferGetStaticP
                             {recipe.perfectlyBalanceYourPlate && (
                                 <Box sx={{ mt: 3 }}>
                                     <Typography variant="h5" sx={{ fontWeight: 600, mb: 2 }}>Perfectly Balance Your Plate</Typography>
-                                    <Typography>{recipe.perfectlyBalanceYourPlate}</Typography>
+                                    <Typography>
+                                        <span dangerouslySetInnerHTML={{ __html: recipe.perfectlyBalanceYourPlate }} />
+                                    </Typography>
                                 </Box>
                             )}
 
