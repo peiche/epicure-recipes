@@ -8,6 +8,8 @@ import Wrapper from '../../components/layout/wrapper';
 import { GetStaticPaths, GetStaticProps, InferGetStaticPropsType } from 'next';
 import Recipe from '../../interfaces/Recipe';
 import SEO from '../../components/layout/seo';
+import config from '../../config';
+import { buildBreadcrumbSchema, buildRecipeSchema, cleanHtml } from '../../lib/seo-utils';
 import { useState } from 'react';
 // import styles from './recipe.module.css';
 
@@ -28,6 +30,17 @@ export default function RecipePage({ recipe }: RecipePageProps & InferGetStaticP
         window.print();
     };
 
+    const recipeSchema = buildRecipeSchema(recipe, config.siteUrl);
+    const breadcrumbSchema = buildBreadcrumbSchema(
+        [
+            { name: 'Home', path: '/' },
+            { name: 'Recipes', path: '/recipes/' },
+            { name: recipe.name, path: `/recipe/${recipe.slug}/` },
+        ],
+        config.siteUrl
+    );
+    const cleanedDescription = cleanHtml(recipe.description) || `${recipe.name} recipe - quick, healthy, and easy to make with Epicure.`;
+
     return (
         <Layout>
             <style global jsx>{`
@@ -35,7 +48,14 @@ export default function RecipePage({ recipe }: RecipePageProps & InferGetStaticP
                     display: none;
                 }
             `}</style>
-            <SEO title={recipe.name} />
+            <SEO
+                title={recipe.name}
+                description={cleanedDescription}
+                canonical={`/recipe/${recipe.slug}/`}
+                ogType="article"
+                ogImage={recipe.image ? `/images/recipes/${recipe.image}` : undefined}
+                jsonLd={[recipeSchema, breadcrumbSchema]}
+            />
             <Wrapper>
                 <Box component='main' sx={{ flexGrow: 1 }}>
                     {/* Hero Image */}

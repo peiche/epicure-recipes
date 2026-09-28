@@ -10,11 +10,20 @@ import { getRecipesBySlugs } from '../lib/recipe';
 import Recipe from '../interfaces/Recipe';
 import CategorySection from '../components/home/categorySection';
 import Tag from '../interfaces/Tag';
+import config from '../config';
+import { buildWebSiteSchema } from '../lib/seo-utils';
 
 export default function HomePage({ featuredRecipes, featuredCategories }: { featuredRecipes: Recipe[], featuredCategories: Tag[] }) {
+    const websiteSchema = buildWebSiteSchema(config.siteUrl);
+
     return (
         <Layout>
-            <SEO title='Home' />
+            <SEO
+                title="Home"
+                description={config.defaultDescription}
+                canonical="/"
+                jsonLd={websiteSchema}
+            />
             <Wrapper>
 
                 <Box component="main" sx={{ flexGrow: 1 }}>

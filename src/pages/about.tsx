@@ -3,11 +3,26 @@ import { Favorite, History, Archive, Email } from '@mui/icons-material';
 import SEO from "../components/layout/seo";
 import Wrapper from "../components/layout/wrapper";
 import Layout from "../components/ui/layout";
+import config from "../config";
+import { buildBreadcrumbSchema } from "../lib/seo-utils";
 
 export default function AboutPage() {
+    const breadcrumbSchema = buildBreadcrumbSchema(
+        [
+            { name: 'Home', path: '/' },
+            { name: 'About', path: '/about/' },
+        ],
+        config.siteUrl
+    );
+
     return (
         <Layout>
-            <SEO title='About' />
+            <SEO
+                title="About"
+                description="Learn about the Epicure Recipes archive project, dedicated to preserving delicious recipes, clean cooking ingredients, and kitchen tips."
+                canonical="/about/"
+                jsonLd={breadcrumbSchema}
+            />
             <Wrapper>
                 <Box component="main" sx={{ flexGrow: 1 }}>
                     {/* Hero Section */}

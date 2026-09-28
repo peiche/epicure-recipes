@@ -16,7 +16,12 @@ function VirtualRefinementList() {
 export default function SearchPage() {
     return (
         <Layout>
-            <SEO title='Search' />
+            <SEO
+                title="Search Recipes"
+                description="Search through hundreds of healthy, quick, and easy Epicure recipes."
+                canonical="/search/"
+                noindex={true}
+            />
             <Wrapper>
                 <Box component="main">
                     <Container maxWidth="xl">
