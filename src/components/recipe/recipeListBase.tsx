@@ -7,6 +7,9 @@ import Wrapper from '../layout/wrapper';
 import RecipeList from './recipeList';
 import Pagination from '../ui/pagination';
 import RecipesPageProps from '../../interfaces/RecipesPageProps';
+import config from '../../config';
+import { buildBreadcrumbSchema, buildItemListSchema, cleanHtml } from '../../lib/seo-utils';
+import { RESULTS_PER_PAGE } from '../../constants/pagination';
 
 interface RecipeListBaseProps extends RecipesPageProps {
     title: string;
@@ -24,9 +27,48 @@ export default function RecipeListBase({
     breadcrumbLabel,
     paginationPrefix,
 }: RecipeListBaseProps) {
+    const isFirstPage = !pagination || pagination.currentPage <= 1;
+    const pageTitle = isFirstPage ? title : `${title} - Page ${pagination.currentPage}`;
+    const canonicalPath = isFirstPage ? `${paginationPrefix}/` : `${paginationPrefix}/${pagination.currentPage}/`;
+    const cleanSubtitle = subtitle.map(cleanHtml).join(' ').trim();
+    const metaDescription = cleanSubtitle || `Browse ${title} on Epicure Recipes. Discover healthy, quick recipes with clean ingredients.`;
+
+    const breadcrumbItems: Array<{ name: string; path: string }> = [
+        { name: 'Home', path: '/' },
+    ];
+
+    if (paginationPrefix === '/recipes') {
+        breadcrumbItems.push({ name: 'Recipes', path: '/recipes/' });
+    } else if (paginationPrefix.startsWith('/tag/')) {
+        breadcrumbItems.push({ name: 'Categories', path: '/categories/' });
+        breadcrumbItems.push({ name: title.replace(/^Recipes for\s*/i, ''), path: `${paginationPrefix}/` });
+    } else if (paginationPrefix.startsWith('/product/')) {
+        breadcrumbItems.push({ name: 'Products', path: '/categories/' });
+        breadcrumbItems.push({ name: title.replace(/^Recipes for\s*/i, ''), path: `${paginationPrefix}/` });
+    } else {
+        breadcrumbItems.push({ name: breadcrumbLabel, path: `${paginationPrefix}/` });
+    }
+
+    const breadcrumbSchema = buildBreadcrumbSchema(breadcrumbItems, config.siteUrl);
+    const startPosition = ((pagination?.currentPage || 1) - 1) * RESULTS_PER_PAGE + 1;
+    const itemListSchema = buildItemListSchema(
+        recipes.map((r) => ({
+            name: r.name,
+            path: `/recipe/${r.slug}/`,
+            image: r.image ? `/images/recipes/${r.image}` : undefined,
+        })),
+        config.siteUrl,
+        startPosition
+    );
+
     return (
         <Layout>
-            <SEO title={title} />
+            <SEO
+                title={pageTitle}
+                description={metaDescription}
+                canonical={canonicalPath}
+                jsonLd={[breadcrumbSchema, itemListSchema]}
+            />
             <Wrapper>
                 <Box component="main" sx={{ flexGrow: 1 }}>
                     {/* Hero Section */}

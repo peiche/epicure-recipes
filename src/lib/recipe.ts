@@ -8,6 +8,14 @@ const recipesDir = path.join(process.cwd(), 'data', 'recipes');
 const tagsDir = path.join(process.cwd(), 'data', 'tags');
 const productsDir = path.join(process.cwd(), 'data', 'products');
 
+// --- IN-MEMORY CACHES FOR FAST STATIC GENERATION ---
+let cachedRecipes: Recipe[] | null = null;
+let cachedRecipeMap: Map<string, Recipe> | null = null;
+const cachedTagMap: Map<string, Tag> = new Map();
+let cachedTagSlugs: string[] | null = null;
+const cachedProductMap: Map<string, Product> = new Map();
+let cachedProductSlugs: string[] | null = null;
+
 // --- INTERNAL HELPERS ---
 
 /**
@@ -22,23 +30,31 @@ const readJsonFile = <T>(filePath: string): T | null => {
 // --- RECIPE FUNCTIONS ---
 
 /**
- * Loads all recipes from disk, sorted alphabetically by slug.
+ * Loads all recipes from disk, sorted alphabetically by slug. Cached in memory.
  */
 export const getAllRecipes = (): Recipe[] => {
+    if (cachedRecipes) return cachedRecipes;
     if (!fs.existsSync(recipesDir)) return [];
 
-    return fs.readdirSync(recipesDir)
+    cachedRecipes = fs.readdirSync(recipesDir)
         .filter(file => file.endsWith('.json'))
         .map(file => readJsonFile<Recipe>(path.join(recipesDir, file))!)
         .sort((a, b) => a.slug.localeCompare(b.slug));
+
+    cachedRecipeMap = new Map(cachedRecipes.map(r => [r.slug, r]));
+    return cachedRecipes;
 };
 
 export const getRecipeBySlug = (slug: string): Recipe | undefined => {
-    return getAllRecipes().find(recipe => recipe.slug === slug);
+    if (!cachedRecipeMap) {
+        getAllRecipes();
+    }
+    return cachedRecipeMap?.get(slug);
 };
 
 export const getRecipesBySlugs = (slugs: string[]): Recipe[] => {
-    return getAllRecipes()
+    const all = getAllRecipes();
+    return all
         .filter(recipe => slugs.includes(recipe.slug))
         .sort((a, b) => slugs.indexOf(a.slug) - slugs.indexOf(b.slug));
 };
@@ -46,18 +62,23 @@ export const getRecipesBySlugs = (slugs: string[]): Recipe[] => {
 // --- TAG FUNCTIONS ---
 
 /**
- * Retrieves tag metadata (name, description, etc.) from data/tags.
+ * Retrieves tag metadata (name, description, etc.) from data/tags with memory caching.
  */
 export const getTagBySlug = (slug: string): Tag | null => {
-    return readJsonFile<Tag>(path.join(tagsDir, `${slug}.json`));
+    if (cachedTagMap.has(slug)) return cachedTagMap.get(slug)!;
+    const tag = readJsonFile<Tag>(path.join(tagsDir, `${slug}.json`));
+    if (tag) cachedTagMap.set(slug, tag);
+    return tag;
 };
 
 /**
- * Returns all available tag slugs from the data/tags directory.
+ * Returns all available tag slugs from the data/tags directory with caching.
  */
 export const getAllTagSlugs = (): string[] => {
+    if (cachedTagSlugs) return cachedTagSlugs;
     if (!fs.existsSync(tagsDir)) return [];
-    return fs.readdirSync(tagsDir).map(file => file.replace(/\.json$/, ''));
+    cachedTagSlugs = fs.readdirSync(tagsDir).map(file => file.replace(/\.json$/, ''));
+    return cachedTagSlugs;
 };
 
 /**
@@ -85,18 +106,23 @@ export const getTags = (): Tag[] => {
 // --- PRODUCT FUNCTIONS ---
 
 /**
- * Retrieves product metadata (name, image, etc.) from data/products.
+ * Retrieves product metadata (name, image, etc.) from data/products with caching.
  */
 export const getProductBySlug = (slug: string): Product | null => {
-    return readJsonFile<Product>(path.join(productsDir, `${slug}.json`));
+    if (cachedProductMap.has(slug)) return cachedProductMap.get(slug)!;
+    const product = readJsonFile<Product>(path.join(productsDir, `${slug}.json`));
+    if (product) cachedProductMap.set(slug, product);
+    return product;
 };
 
 /**
- * Returns all available product slugs from the data/products directory.
+ * Returns all available product slugs from the data/products directory with caching.
  */
 export const getAllProductSlugs = (): string[] => {
+    if (cachedProductSlugs) return cachedProductSlugs;
     if (!fs.existsSync(productsDir)) return [];
-    return fs.readdirSync(productsDir).map(file => file.replace(/\.json$/, ''));
+    cachedProductSlugs = fs.readdirSync(productsDir).map(file => file.replace(/\.json$/, ''));
+    return cachedProductSlugs;
 };
 
 /**
@@ -138,3 +164,4 @@ export const getPopularTags = (limit: number = 6) => {
         .map((slug) => getTagBySlug(slug))
         .filter((tag): tag is Tag => tag !== null);
 };
+

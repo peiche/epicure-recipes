@@ -8,7 +8,7 @@ import SEO from "../components/layout/seo"
 export default function NotFoundPage() {
   return (
     <Layout>
-      <SEO title='Not Found' />
+      <SEO title='Not Found' noindex={true} />
       <Wrapper>
         <Typography component='h1' variant='h4' mb={3}>Page Not Found</Typography>
         <Typography mb={3}>

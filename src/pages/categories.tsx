@@ -5,11 +5,26 @@ import Layout from "../components/ui/layout";
 import { ALL_CATEGORY_GROUPS } from "../lib/recipe-utils";
 import NextLink from "next/link";
 import { getSearchUrlForTags } from "../utils/utils";
+import config from "../config";
+import { buildBreadcrumbSchema } from "../lib/seo-utils";
 
 export default function CategoriesPage() {
+    const breadcrumbSchema = buildBreadcrumbSchema(
+        [
+            { name: 'Home', path: '/' },
+            { name: 'Categories', path: '/categories/' },
+        ],
+        config.siteUrl
+    );
+
     return (
         <Layout>
-            <SEO title='Categories' />
+            <SEO
+                title="Recipe Categories"
+                description="Explore our collection of Epicure recipes organized by cuisine type, meal courses, and cooking style."
+                canonical="/categories/"
+                jsonLd={breadcrumbSchema}
+            />
             <Wrapper>
                 <Box component="main" sx={{ flex: 1, py: { xs: 4, md: 8 }, bgcolor: 'background.default' }}>
                     <Container maxWidth="xl">
